@@ -571,6 +571,7 @@ SECTION_ICONS = {
 
 def render_html(items: list[NewsItem], tldr: str) -> str:
     now_str = NOW.strftime("%A, %B %-d, %Y — %H:%M UTC")
+    now_iso = NOW.strftime("%Y-%m-%dT%H:%M:%SZ")
     updated_min = max(0, int((datetime.now(timezone.utc) - NOW).total_seconds() // 60))
     updated_str = "just now" if updated_min < 2 else f"{updated_min}m ago"
 
@@ -877,7 +878,16 @@ def render_html(items: list[NewsItem], tldr: str) -> str:
   <div class="header-inner">
     <div class="logo">AI Digest<span class="logo-dot">.</span></div>
     <div class="header-meta">
-      <span class="header-date">{escape(now_str)}</span>
+      <span class="header-date" id="header-date" data-utc="{now_iso}">{escape(now_str)}</span>
+      <script>
+        (function() {{
+          var el = document.getElementById('header-date');
+          var d = new Date(el.dataset.utc);
+          if (!isNaN(d)) {{
+            el.textContent = d.toLocaleDateString(undefined, {{weekday:'long',year:'numeric',month:'long',day:'numeric'}}) + ' — ' + d.toLocaleTimeString(undefined, {{hour:'2-digit',minute:'2-digit'}});
+          }}
+        }})();
+      </script>
       <span class="header-updated">Updated {escape(updated_str)}</span>
       <span class="header-count">{total_items} stories</span>
     </div>
@@ -893,7 +903,7 @@ def render_html(items: list[NewsItem], tldr: str) -> str:
 </main>
 
 <footer>
-  <p>Fetches every hour &nbsp;•&nbsp; Powered by <a href="https://github.com/kevin-cantwell/clarionbot" rel="noopener">Clarion</a> &nbsp;•&nbsp; <a href="https://github.com/kevin-cantwell/ai-digest" rel="noopener">Source</a></p>
+  <p>Fetches every hour &nbsp;•&nbsp; <a href="https://github.com/kevin-cantwell/ai-digest" rel="noopener">Source</a></p>
 </footer>
 
 </body>
