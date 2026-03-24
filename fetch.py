@@ -63,8 +63,7 @@ REDDIT_SUBS = [
 ]
 
 RSS_FEEDS = [
-    ("Anthropic Blog", "https://www.anthropic.com/rss.xml"),
-    ("Anthropic News", "https://www.anthropic.com/news/rss.xml"),
+    ("Anthropic", "https://raw.githubusercontent.com/taobojlen/anthropic-rss-feed/main/anthropic_news_rss.xml"),
     ("OpenAI Blog", "https://openai.com/blog/rss.xml"),
     ("Google DeepMind", "https://deepmind.google/blog/rss.xml"),
     ("Ars Technica", "https://feeds.arstechnica.com/arstechnica/technology-lab"),
@@ -199,41 +198,54 @@ def fetch_hn() -> list[NewsItem]:
 
 
 def fetch_reddit() -> list[NewsItem]:
-    """Fetch top posts from AI subreddits (last 24h)."""
+    """Fetch top posts from AI subreddits via RSS (avoids JSON API auth requirements)."""
     items = []
-    headers = {"User-Agent": "ai-digest-bot/1.0"}
+    # Reddit's RSS endpoint works without OAuth; JSON API returns 403 from CI IPs
+    headers = {"User-Agent": "feedreader:ai-digest:v1.0"}
 
     for sub in REDDIT_SUBS:
-        url = f"https://www.reddit.com/r/{sub}/top/.json?t=day&limit=25"
+        url = f"https://www.reddit.com/r/{sub}/top.rss?t=day&limit=25"
         try:
             resp = requests.get(url, headers=headers, timeout=TIMEOUT)
             resp.raise_for_status()
-            data = resp.json()
+            feed = feedparser.parse(resp.content)
         except Exception as exc:
             print(f"  [Reddit] fetch failed for r/{sub}: {exc}", file=sys.stderr)
             continue
 
-        posts = data.get("data", {}).get("children", [])
-        for post in posts:
-            d = post.get("data", {})
-            if d.get("is_self") and not d.get("selftext"):
-                continue  # skip empty self-posts
-            link_url = d.get("url", "")
-            if not link_url:
+        entries_added = 0
+        for entry in feed.entries[:25]:
+            link = entry.get("link", "")
+            title = entry.get("title", "")
+            if not link or not title:
                 continue
-            # For self-posts, use Reddit link
-            if link_url.startswith("/r/") or "reddit.com/r/" in link_url:
-                link_url = f"https://www.reddit.com{d.get('permalink', link_url)}"
+
+            ts = None
+            for time_field in ("published_parsed", "updated_parsed"):
+                t = entry.get(time_field)
+                if t:
+                    try:
+                        ts = int(time.mktime(t))
+                    except Exception:
+                        pass
+                    break
+            if ts is None:
+                ts = int(NOW.timestamp())
+
+            if ts < YESTERDAY_TS:
+                continue
+
             items.append(NewsItem(
-                title=d.get("title", "(no title)"),
-                url=link_url,
+                title=title,
+                url=link,
                 source=f"r/{sub}",
                 source_type="reddit",
-                published_ts=int(d.get("created_utc", NOW.timestamp())),
-                upvotes=d.get("score", 0),
+                published_ts=ts,
             ))
+            entries_added += 1
 
-    print(f"  [Reddit] fetched {len(items)} posts")
+        print(f"  [Reddit] r/{sub}: {entries_added} posts")
+
     return items
 
 
@@ -362,9 +374,6 @@ def heuristic_score(item: NewsItem) -> int:
     if any(re.search(p, title_lower) for p in LISTICLE_PATTERNS):
         score -= 15
 
-    # Reddit low engagement
-    if item.source_type == "reddit" and item.upvotes < 10:
-        score -= 20
 
     # Vague titles
     if any(p in title_lower for p in VAGUE_PHRASES):

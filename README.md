@@ -30,6 +30,3 @@ Set `ANTHROPIC_API_KEY` in your environment to enable Claude-powered scoring and
 
 The repo is configured to serve `index.html` from the `main` branch root via GitHub Pages. The page auto-refreshes every 5 minutes.
 
-## Powered by
-
-[Clarion](https://github.com/kevin-cantwell/clarionbot) — Kevin's persistent AI assistant.
