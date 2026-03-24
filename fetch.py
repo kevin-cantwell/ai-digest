@@ -44,27 +44,42 @@ HN_AI_QUERIES = [
     "llama meta",
     "mistral",
     "machine learning model",
+    "claude code",
+    "agentic workflow",
+    "ai agent framework",
+    "codex openai",
+    "mcp model context protocol",
+    "llm developer tools",
+    "ai coding assistant",
 ]
 
 REDDIT_SUBS = [
     "MachineLearning",
     "LocalLLaMA",
     "artificial",
+    "ClaudeAI",
+    "openai",
+    "ChatGPTCoding",
 ]
 
 RSS_FEEDS = [
     ("Anthropic Blog", "https://www.anthropic.com/rss.xml"),
+    ("Anthropic News", "https://www.anthropic.com/news/rss.xml"),
     ("OpenAI Blog", "https://openai.com/blog/rss.xml"),
     ("Google DeepMind", "https://deepmind.google/blog/rss.xml"),
-    ("The Verge AI", "https://www.theverge.com/ai-artificial-intelligence/rss/index.xml"),
     ("Ars Technica", "https://feeds.arstechnica.com/arstechnica/technology-lab"),
     ("TechCrunch AI", "https://techcrunch.com/category/artificial-intelligence/feed/"),
     ("Import AI", "https://jack-clark.net/feed/"),
+    ("Simon Willison", "https://simonwillison.net/atom/everything/"),
+    ("The Pragmatic Engineer", "https://newsletter.pragmaticengineer.com/feed"),
+    ("Latent Space", "https://www.latent.space/feed"),
+    ("AI Snake Oil", "https://www.aisnakeoil.com/feed"),
 ]
 
 MAJOR_PROVIDER_DOMAINS = {
     "anthropic.com", "openai.com", "deepmind.google", "deepmind.com",
-    "ai.meta.com", "blog.google", "research.google",
+    "ai.meta.com", "blog.google", "research.google", "mistral.ai",
+    "cohere.com", "huggingface.co",
 }
 
 TECHNICAL_TERMS = [
@@ -73,6 +88,16 @@ TECHNICAL_TERMS = [
     "fine tuning", "dataset", "architecture", "weights", "quantization",
     "rlhf", "rag", "context window", "embedding", "tokenizer", "transformer",
     "diffusion", "reinforcement learning", "evaluation",
+    "agentic", "workflow", "orchestration", "sandbox", "mcp", "tool use",
+    "claude code", "codex", "copilot", "developer tool", "devtool",
+]
+
+# Terms that boost score for Kevin's specific interests
+PRIORITY_TERMS = [
+    "claude code", "codex", "agentic", "mcp", "model context protocol",
+    "ai agent", "agent framework", "workflow automation", "safe ai",
+    "reliable ai", "enterprise ai", "docker ai", "sandbox", "guardrails",
+    "eval", "evals", "red team", "alignment", "safety",
 ]
 
 HYPE_PHRASES = [
@@ -313,6 +338,10 @@ def heuristic_score(item: NewsItem) -> int:
     if "arxiv.org" in url_lower or "github.com" in url_lower:
         score += 15
 
+    # Priority topics: dev tools, agentic AI, safety
+    if any(p in title_lower for p in PRIORITY_TERMS):
+        score += 20
+
     # --- Negative signals ---
 
     # All-caps title
@@ -351,6 +380,15 @@ def heuristic_score(item: NewsItem) -> int:
 def assign_section(item: NewsItem) -> str:
     title_lower = item.title.lower()
     url_lower = item.url.lower()
+
+    # Dev tools & agentic AI gets its own section (check first)
+    if any(kw in title_lower for kw in (
+            "claude code", "codex", "agentic", "mcp", "model context protocol",
+            "ai agent", "agent framework", "workflow", "orchestrat",
+            "sandbox", "guardrails", "evals", "eval framework",
+            "developer tool", "devtool", "copilot", "coding assistant",
+            "docker ai", "ai infrastructure", "ai platform")):
+        return "Developer Tools & Agentic AI"
 
     if any(kw in title_lower for kw in ("release", "launch", "announce", "debut",
                                          "available", "ship", "gpt-", "claude ",
@@ -498,6 +536,7 @@ def deduplicate(items: list[NewsItem]) -> list[NewsItem]:
 # ---------------------------------------------------------------------------
 
 SECTION_ORDER = [
+    "Developer Tools & Agentic AI",
     "Major Releases & Announcements",
     "Research & Papers",
     "Tools & Open Source",
@@ -505,6 +544,7 @@ SECTION_ORDER = [
 ]
 
 SECTION_COLORS = {
+    "Developer Tools & Agentic AI":   "#4ade80",
     "Major Releases & Announcements": "#6c8ebf",
     "Research & Papers":              "#82b366",
     "Tools & Open Source":            "#d6a24a",
@@ -512,6 +552,7 @@ SECTION_COLORS = {
 }
 
 SECTION_ICONS = {
+    "Developer Tools & Agentic AI":   "⚡",
     "Major Releases & Announcements": "🚀",
     "Research & Papers":              "📄",
     "Tools & Open Source":            "🔧",
