@@ -1,0 +1,523 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="refresh" content="300">
+  <title>AI Digest — 2026-03-24</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg:          #0f1117;
+      --bg-card:     #161b27;
+      --bg-card-hover: #1c2333;
+      --border:      #2a3040;
+      --border-light:#3a4555;
+      --text:        #e2e8f0;
+      --text-muted:  #8896a8;
+      --text-dim:    #566478;
+      --accent:      #5b8dee;
+      --tldr-bg:     #131a2e;
+      --tldr-border: #2d4270;
+    }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+      font-size: 15px;
+      line-height: 1.6;
+      min-height: 100vh;
+    }
+
+    /* ---- Header ---- */
+    header {
+      border-bottom: 1px solid var(--border);
+      padding: 24px 0 20px;
+      background: linear-gradient(180deg, #0d1220 0%, var(--bg) 100%);
+    }
+    .header-inner {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 0 24px;
+      display: flex;
+      align-items: baseline;
+      gap: 16px;
+      flex-wrap: wrap;
+    }
+    .logo {
+      font-size: 28px;
+      font-weight: 700;
+      letter-spacing: -0.5px;
+      background: linear-gradient(135deg, #5b8dee 0%, #a78bfa 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+    .logo-dot {
+      -webkit-text-fill-color: #5b8dee;
+      color: #5b8dee;
+    }
+    .header-meta {
+      color: var(--text-muted);
+      font-size: 13px;
+      display: flex;
+      gap: 12px;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+    .header-date {
+      font-weight: 500;
+      color: var(--text);
+    }
+    .header-updated {
+      color: var(--text-dim);
+    }
+    .header-count {
+      background: rgba(91,141,238,0.15);
+      color: #5b8dee;
+      padding: 2px 8px;
+      border-radius: 12px;
+      font-size: 12px;
+      font-weight: 600;
+    }
+
+    /* ---- Main layout ---- */
+    main {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 32px 24px 80px;
+    }
+
+    /* ---- TL;DR ---- */
+    .tldr-box {
+      background: var(--tldr-bg);
+      border: 1px solid var(--tldr-border);
+      border-radius: 10px;
+      padding: 20px 24px;
+      margin-bottom: 36px;
+      position: relative;
+    }
+    .tldr-box::before {
+      content: "TL;DR";
+      position: absolute;
+      top: -10px;
+      left: 20px;
+      background: var(--tldr-bg);
+      padding: 0 8px;
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 1.5px;
+      color: var(--accent);
+      border: 1px solid var(--tldr-border);
+      border-radius: 4px;
+    }
+    .tldr-text {
+      color: var(--text);
+      font-size: 15px;
+      line-height: 1.7;
+      font-weight: 400;
+    }
+
+    /* ---- Sections ---- */
+    .digest-section {
+      margin-bottom: 40px;
+    }
+    .section-title {
+      font-size: 16px;
+      font-weight: 600;
+      letter-spacing: 0.3px;
+      margin-bottom: 14px;
+      padding-bottom: 10px;
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    /* ---- Cards ---- */
+    .cards {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+    .card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 14px 16px;
+      transition: background 0.15s ease, border-color 0.15s ease;
+    }
+    .card:hover {
+      background: var(--bg-card-hover);
+      border-color: var(--border-light);
+    }
+    .card-header {
+      margin-bottom: 6px;
+    }
+    .card-title {
+      color: var(--text);
+      text-decoration: none;
+      font-size: 14.5px;
+      font-weight: 500;
+      line-height: 1.45;
+      transition: color 0.15s ease;
+    }
+    .card-title:hover {
+      color: var(--accent);
+    }
+    .item-summary {
+      font-size: 13px;
+      color: var(--text-muted);
+      line-height: 1.5;
+      margin-bottom: 8px;
+    }
+    .card-meta {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      flex-wrap: wrap;
+      margin-top: 8px;
+    }
+    .source {
+      font-size: 12px;
+      font-weight: 500;
+      color: var(--text-dim);
+      background: rgba(255,255,255,0.04);
+      padding: 2px 7px;
+      border-radius: 4px;
+      border: 1px solid var(--border);
+    }
+    .upvotes {
+      font-size: 12px;
+      color: #d6a24a;
+      font-weight: 500;
+    }
+    .age {
+      font-size: 12px;
+      color: var(--text-dim);
+    }
+    .score-bar {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 10px;
+      letter-spacing: 0px;
+      margin-left: auto;
+    }
+    .bar-filled { color: #5b8dee; }
+    .bar-empty  { color: var(--text-dim); }
+    .score-num  { color: var(--text-dim); margin-left: 4px; font-size: 10px; }
+
+    /* ---- Footer ---- */
+    footer {
+      border-top: 1px solid var(--border);
+      padding: 20px 24px;
+      text-align: center;
+      color: var(--text-dim);
+      font-size: 12px;
+    }
+    footer a { color: var(--text-muted); text-decoration: none; }
+    footer a:hover { color: var(--text); }
+
+    /* ---- Responsive ---- */
+    @media (max-width: 600px) {
+      .header-inner { gap: 8px; }
+      .logo { font-size: 22px; }
+      main { padding: 20px 16px 60px; }
+      .card { padding: 12px 14px; }
+      .score-bar { display: none; }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="header-inner">
+    <div class="logo">AI Digest<span class="logo-dot">.</span></div>
+    <div class="header-meta">
+      <span class="header-date">Tuesday, March 24, 2026 — 14:02 UTC</span>
+      <span class="header-updated">Updated just now</span>
+      <span class="header-count">20 stories</span>
+    </div>
+  </div>
+</header>
+
+<main>
+  <div class="tldr-box">
+    <p class="tldr-text">Today&#x27;s AI digest covers 20 stories. Top stories include: [R] Causal self-attention as a probabilistic model over embeddings; KLD measurements of 8 different llama.cpp KV cache quantizations over several 8-12B models; Show HN: Cq – Stack Overflow for AI codi.</p>
+  </div>
+
+  
+    <section class="digest-section">
+      <h2 class="section-title" style="color: #6c8ebf;">🚀 Major Releases &amp; Announcements</h2>
+      <div class="cards">
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://www.reddit.com/r/LocalLLaMA/comments/1s1lmuj/how_political_censorship_actually_works_inside/" target="_blank" rel="noopener noreferrer">How political censorship actually works inside Qwen, DeepSeek, GLM, and Yi:  Ablation and behavioral results across 9 models</a>
+        </div>
+        
+        <div class="card-meta">
+          <span class="source">r/LocalLLaMA</span>
+          <span class="upvotes">▲ 23</span>
+          <span class="age">21h ago</span>
+          <span class="score-bar" title="Quality score: 75/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">75</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://www.reddit.com/r/LocalLLaMA/comments/1s1wgph/run_qwen35_flagship_model_with_397_billion/" target="_blank" rel="noopener noreferrer">Run Qwen3.5 flagship model with 397 billion parameters at 5 – 9 tok/s on a $2,100 desktop! Two $500 GPUs, 32GB RAM, one NVMe drive. Uses Q4_K_M quants</a>
+        </div>
+        
+        <div class="card-meta">
+          <span class="source">r/LocalLLaMA</span>
+          <span class="upvotes">▲ 75</span>
+          <span class="age">15h ago</span>
+          <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
+        </div>
+      </div>
+      </div>
+    </section>
+    <section class="digest-section">
+      <h2 class="section-title" style="color: #82b366;">📄 Research &amp; Papers</h2>
+      <div class="cards">
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://arxiv.org/abs/2602.22271" target="_blank" rel="noopener noreferrer">[R] Causal self-attention as a probabilistic model over embeddings</a>
+        </div>
+        
+        <div class="card-meta">
+          <span class="source">r/MachineLearning</span>
+          <span class="upvotes">▲ 15</span>
+          <span class="age">9h ago</span>
+          <span class="score-bar" title="Quality score: 95/100"><span class="bar-filled">██████████</span><span class="bar-empty"></span> <span class="score-num">95</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://www.reddit.com/r/LocalLLaMA/comments/1s1oaid/jake_benchmark_v1_i_spent_a_week_watching_7_local/" target="_blank" rel="noopener noreferrer">Jake Benchmark v1: I spent a week watching 7 local LLMs try to be AI agents with OpenClaw. Most couldn&#x27;t even find the email tool.</a>
+        </div>
+        
+        <div class="card-meta">
+          <span class="source">r/LocalLLaMA</span>
+          <span class="upvotes">▲ 22</span>
+          <span class="age">20h ago</span>
+          <span class="score-bar" title="Quality score: 80/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">80</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://www.reddit.com/r/MachineLearning/comments/1s20svb/d_decoding_backchannel_info_is_a_pi_being/" target="_blank" rel="noopener noreferrer">[D] Decoding backchannel info: Is a PI being &quot;aggressive in research&quot; a massive red flag? (C1 vs Siemens AI Lab)</a>
+        </div>
+        
+        <div class="card-meta">
+          <span class="source">r/MachineLearning</span>
+          <span class="upvotes">▲ 17</span>
+          <span class="age">12h ago</span>
+          <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://i.redd.it/f30ikh3xsuqg1.png" target="_blank" rel="noopener noreferrer">Awesome-Autoresearch (all the things related to Karpathy&#x27;s Autoresearch)</a>
+        </div>
+        
+        <div class="card-meta">
+          <span class="source">r/LocalLLaMA</span>
+          <span class="upvotes">▲ 47</span>
+          <span class="age">17h ago</span>
+          <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://www.pcguide.com/pro/news-pro/jensen-huang-compares-not-using-ai-to-using-paper-and-pencil-to-design-chips-as-he-explains-nvidias-massive-token-budget/" target="_blank" rel="noopener noreferrer">Jensen Huang compares not using AI to using &quot;paper and pencil&quot; to design chips, as he explains Nvidia&#x27;s massive token budget</a>
+        </div>
+        
+        <div class="card-meta">
+          <span class="source">r/artificial</span>
+          <span class="upvotes">▲ 33</span>
+          <span class="age">23h ago</span>
+          <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
+        </div>
+      </div>
+      </div>
+    </section>
+    <section class="digest-section">
+      <h2 class="section-title" style="color: #d6a24a;">🔧 Tools &amp; Open Source</h2>
+      <div class="cards">
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://arstechnica.com/security/2026/03/self-propagating-malware-poisons-open-source-software-and-wipes-iran-based-machines/" target="_blank" rel="noopener noreferrer">Self-propagating malware poisons open source software and wipes Iran-based machines</a>
+        </div>
+        <p class="item-summary">Development houses: It&#x27;s time to check your networks for infections.</p>
+        <div class="card-meta">
+          <span class="source">Ars Technica</span>
+          
+          <span class="age">24m ago</span>
+          <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
+        </div>
+      </div>
+      </div>
+    </section>
+    <section class="digest-section">
+      <h2 class="section-title" style="color: #9c6fbd;">📰 Industry News</h2>
+      <div class="cards">
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://www.reddit.com/r/LocalLLaMA/comments/1s1pujq/kld_measurements_of_8_different_llamacpp_kv_cache/" target="_blank" rel="noopener noreferrer">KLD measurements of 8 different llama.cpp KV cache quantizations over several 8-12B models</a>
+        </div>
+        
+        <div class="card-meta">
+          <span class="source">r/LocalLLaMA</span>
+          <span class="upvotes">▲ 25</span>
+          <span class="age">19h ago</span>
+          <span class="score-bar" title="Quality score: 90/100"><span class="bar-filled">█████████</span><span class="bar-empty">░</span> <span class="score-num">90</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://blog.mozilla.ai/cq-stack-overflow-for-agents/" target="_blank" rel="noopener noreferrer">Show HN: Cq – Stack Overflow for AI coding agents</a>
+        </div>
+        
+        <div class="card-meta">
+          <span class="source">Hacker News</span>
+          <span class="upvotes">▲ 177</span>
+          <span class="age">21h ago</span>
+          <span class="score-bar" title="Quality score: 85/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">85</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://openai.com/index/creating-with-sora-safely" target="_blank" rel="noopener noreferrer">Creating with Sora Safely</a>
+        </div>
+        <p class="item-summary">To address the novel safety challenges posed by a state-of-the-art video model as well as a new social creation platform, we’ve built Sora 2 and the Sora app with safety at the foundation. Our approac</p>
+        <div class="card-meta">
+          <span class="source">OpenAI Blog</span>
+          
+          <span class="age">1d ago</span>
+          <span class="score-bar" title="Quality score: 85/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">85</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://techcrunch.com/2026/03/24/mirage-raises-75m-to-continue-building-models-for-its-ai-video-editing-app-captions/" target="_blank" rel="noopener noreferrer">Mirage raises $75M to continue building models for its AI video editing app Captions</a>
+        </div>
+        <p class="item-summary">Mirage, the maker of video editing app Captions, has raised $75 million in growth financing from General Catalyst&#x27;s Customer Value Fund (CVF).</p>
+        <div class="card-meta">
+          <span class="source">TechCrunch AI</span>
+          
+          <span class="age">2m ago</span>
+          <span class="score-bar" title="Quality score: 80/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">80</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://i.redd.it/9onmdaugitqg1.png" target="_blank" rel="noopener noreferrer">Which local model we running on the overland Jeep fellas?</a>
+        </div>
+        
+        <div class="card-meta">
+          <span class="source">r/LocalLLaMA</span>
+          <span class="upvotes">▲ 248</span>
+          <span class="age">21h ago</span>
+          <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://medium.com/ai-advances/flashattention-4-python-gpu-kernel-blackwell-2b18f51c8b32?sk=59bca93c369143e5f74fb0f86e57e6d0" target="_blank" rel="noopener noreferrer">FlashAttention-4: 1613 TFLOPs/s, 2.7x faster than Triton, written in Python. What it means for inference.</a>
+        </div>
+        
+        <div class="card-meta">
+          <span class="source">r/LocalLLaMA</span>
+          <span class="upvotes">▲ 200</span>
+          <span class="age">13h ago</span>
+          <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://www.reddit.com/r/LocalLLaMA/comments/1s1p2jo/another_appreciation_post_for_qwen35_27b_model/" target="_blank" rel="noopener noreferrer">Another appreciation post for qwen3.5 27b model</a>
+        </div>
+        
+        <div class="card-meta">
+          <span class="source">r/LocalLLaMA</span>
+          <span class="upvotes">▲ 127</span>
+          <span class="age">19h ago</span>
+          <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://huggingface.co/spaces/OneBitModel/prisme" target="_blank" rel="noopener noreferrer">7MB binary-weight Mamba LLM — zero floating-point at inference, runs in browser</a>
+        </div>
+        
+        <div class="card-meta">
+          <span class="source">r/LocalLLaMA</span>
+          <span class="upvotes">▲ 29</span>
+          <span class="age">23h ago</span>
+          <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://www.reddit.com/r/LocalLLaMA/comments/1s1q5et/i_feel_like_if_they_made_a_local_model_focused/" target="_blank" rel="noopener noreferrer">I feel like if they made a local model focused specifically on RP it would be god tier even if tiny</a>
+        </div>
+        
+        <div class="card-meta">
+          <span class="source">r/LocalLLaMA</span>
+          <span class="upvotes">▲ 24</span>
+          <span class="age">18h ago</span>
+          <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://www.reddit.com/gallery/1s1t9on" target="_blank" rel="noopener noreferrer">Introducing oQ: data-driven mixed-precision quantization for Apple Silicon (mlx-lm compatible)</a>
+        </div>
+        
+        <div class="card-meta">
+          <span class="source">r/LocalLLaMA</span>
+          <span class="upvotes">▲ 24</span>
+          <span class="age">17h ago</span>
+          <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://www.reddit.com/r/LocalLLaMA/comments/1s28z12/swebench_results_for_different_kv_cache/" target="_blank" rel="noopener noreferrer">SWE-bench results for different KV cache quantization levels</a>
+        </div>
+        
+        <div class="card-meta">
+          <span class="source">r/LocalLLaMA</span>
+          <span class="upvotes">▲ 23</span>
+          <span class="age">4h ago</span>
+          <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/" target="_blank" rel="noopener noreferrer">Cursor admits its new coding model was built on top of Moonshot AI’s Kimi</a>
+        </div>
+        <p class="item-summary">Building on top of a Chinese model feels particularly fraught right now.</p>
+        <div class="card-meta">
+          <span class="source">TechCrunch AI</span>
+          
+          <span class="age">1d ago</span>
+          <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
+        </div>
+      </div>
+      </div>
+    </section>
+</main>
+
+<footer>
+  <p>Fetches every hour &nbsp;•&nbsp; Powered by <a href="https://github.com/kevin-cantwell/clarionbot" rel="noopener">Clarion</a> &nbsp;•&nbsp; <a href="https://github.com/kevin-cantwell/ai-digest" rel="noopener">Source</a></p>
+</footer>
+
+</body>
+</html>
