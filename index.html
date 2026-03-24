@@ -240,7 +240,16 @@
   <div class="header-inner">
     <div class="logo">AI Digest<span class="logo-dot">.</span></div>
     <div class="header-meta">
-      <span class="header-date">Tuesday, March 24, 2026 — 20:14 UTC</span>
+      <span class="header-date" id="header-date" data-utc="2026-03-24T21:14:23Z">Tuesday, March 24, 2026 — 21:14 UTC</span>
+      <script>
+        (function() {
+          var el = document.getElementById('header-date');
+          var d = new Date(el.dataset.utc);
+          if (!isNaN(d)) {
+            el.textContent = d.toLocaleDateString(undefined, {weekday:'long',year:'numeric',month:'long',day:'numeric'}) + ' — ' + d.toLocaleTimeString(undefined, {hour:'2-digit',minute:'2-digit'});
+          }
+        })();
+      </script>
       <span class="header-updated">Updated just now</span>
       <span class="header-count">20 stories</span>
     </div>
@@ -249,7 +258,7 @@
 
 <main>
   <div class="tldr-box">
-    <p class="tldr-text">Multiple companies have released desktop AI agents within a two-week window, indicating a convergence toward this as a standardized product category. OpenAI has introduced open-source safety tools and guidelines for developers building AI applications for teenagers and video generation, reflecting growing focus on responsible deployment practices.</p>
+    <p class="tldr-text">Anthropic expanded Claude Code&#x27;s autonomous capabilities with a new auto mode while maintaining safety constraints, and OpenAI released open-source tools to help developers implement teen safety features in AI applications. Multiple companies simultaneously launched desktop AI agents, signaling a shift toward more autonomous, locally-deployed AI tools.</p>
   </div>
 
   
@@ -258,49 +267,73 @@
       <div class="cards">
       <div class="card">
         <div class="card-header">
+          <a class="card-title" href="https://techcrunch.com/2026/03/24/anthropic-hands-claude-code-more-control-but-keeps-it-on-a-leash/" target="_blank" rel="noopener noreferrer">Anthropic hands Claude Code more control, but keeps it on a leash</a>
+        </div>
+        <p class="item-summary">TechCrunch reports on Anthropic expanding Claude Code capabilities with safety controls.</p>
+        <div class="card-meta">
+          <span class="source">TechCrunch AI</span>
+          
+          <span class="age">13m ago</span>
+          <span class="score-bar" title="Quality score: 86/100"><span class="bar-filled">█████████</span><span class="bar-empty">░</span> <span class="score-num">86</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://www.reddit.com/r/ClaudeAI/comments/1s2ok85/claude_code_now_has_auto_mode/" target="_blank" rel="noopener noreferrer">Claude Code now has auto mode</a>
+        </div>
+        <p class="item-summary">Claude Code adds autonomous execution mode capability.</p>
+        <div class="card-meta">
+          <span class="source">r/ClaudeAI</span>
+          
+          <span class="age">1h ago</span>
+          <span class="score-bar" title="Quality score: 80/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">80</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
           <a class="card-title" href="https://www.reddit.com/r/artificial/comments/1s2ddgb/three_companies_shipped_ai_agent_on_your_desktop/" target="_blank" rel="noopener noreferrer">Three companies shipped &quot;AI agent on your desktop&quot; in the same two weeks. That&#x27;s not a coincidence.</a>
         </div>
-        <p class="item-summary">Analysis of convergent industry timing for desktop AI agents across multiple companies, notable market observation.</p>
+        <p class="item-summary">Analysis of concurrent desktop AI agent releases indicating market trend.</p>
         <div class="card-meta">
           <span class="source">r/artificial</span>
           
-          <span class="age">7h ago</span>
-          <span class="score-bar" title="Quality score: 82/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">82</span></span>
+          <span class="age">8h ago</span>
+          <span class="score-bar" title="Quality score: 76/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">76</span></span>
         </div>
       </div>
       <div class="card">
         <div class="card-header">
           <a class="card-title" href="https://www.reddit.com/r/ClaudeAI/comments/1s27dex/i_tracked_exactly_where_claude_code_spends_its/" target="_blank" rel="noopener noreferrer">I tracked exactly where Claude Code spends its tokens, and it’s not where I expected</a>
         </div>
-        <p class="item-summary">Technical analysis of token usage patterns in Claude Code, moderately interesting but speculative.</p>
+        <p class="item-summary">Technical analysis of Claude Code token usage patterns.</p>
         <div class="card-meta">
           <span class="source">r/ClaudeAI</span>
           
-          <span class="age">12h ago</span>
+          <span class="age">13h ago</span>
           <span class="score-bar" title="Quality score: 74/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">74</span></span>
         </div>
       </div>
       <div class="card">
         <div class="card-header">
-          <a class="card-title" href="https://www.reddit.com/r/LocalLLaMA/comments/1s1x17j/i_reverseengineered_claude_code/" target="_blank" rel="noopener noreferrer">I reverse-engineered Claude Code</a>
+          <a class="card-title" href="https://www.reddit.com/r/ClaudeAI/comments/1s286nb/agent_flow_a_beautiful_way_to_visualize_what/" target="_blank" rel="noopener noreferrer">Agent Flow: A beautiful way to visualize what Claude Code does</a>
         </div>
-        <p class="item-summary">Claimed reverse-engineering of Claude Code internals, potentially interesting but unverified claim.</p>
+        <p class="item-summary">A user-created visualization tool for Claude Code agent behavior.</p>
         <div class="card-meta">
-          <span class="source">r/LocalLLaMA</span>
+          <span class="source">r/ClaudeAI</span>
           
-          <span class="age">20h ago</span>
-          <span class="score-bar" title="Quality score: 68/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">68</span></span>
+          <span class="age">12h ago</span>
+          <span class="score-bar" title="Quality score: 70/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">70</span></span>
         </div>
       </div>
       <div class="card">
         <div class="card-header">
           <a class="card-title" href="https://www.reddit.com/r/ClaudeAI/comments/1s2i955/i_opensourced_a_memory_system_for_claude_code/" target="_blank" rel="noopener noreferrer">I open-sourced a memory system for Claude Code - nightly rollups, morning briefings, spatial session canvas</a>
         </div>
-        <p class="item-summary">Open-source memory system for Claude Code, a user project with limited general interest.</p>
+        <p class="item-summary">Open-source memory system tool for Claude Code workflows.</p>
         <div class="card-meta">
           <span class="source">r/ClaudeAI</span>
           
-          <span class="age">4h ago</span>
+          <span class="age">5h ago</span>
           <span class="score-bar" title="Quality score: 68/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">68</span></span>
         </div>
       </div>
@@ -313,12 +346,12 @@
         <div class="card-header">
           <a class="card-title" href="https://www.reddit.com/r/ClaudeAI/comments/1s22f7d/autoresearch_with_claude_on_a_real_codebase_not/" target="_blank" rel="noopener noreferrer">Autoresearch with Claude on a real codebase (not ML training): 60 experiments, 93% failure rate, and why that&#x27;s the point</a>
         </div>
-        <p class="item-summary">Experiment report on AI agent autonomy with high failure rates, provides data-driven insights with caveats.</p>
+        <p class="item-summary">Case study on automated research with Claude showing high failure rates.</p>
         <div class="card-meta">
           <span class="source">r/ClaudeAI</span>
           
-          <span class="age">17h ago</span>
-          <span class="score-bar" title="Quality score: 72/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">72</span></span>
+          <span class="age">18h ago</span>
+          <span class="score-bar" title="Quality score: 66/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">66</span></span>
         </div>
       </div>
       <div class="card">
@@ -329,7 +362,7 @@
         <div class="card-meta">
           <span class="source">r/LocalLLaMA</span>
           
-          <span class="age">21h ago</span>
+          <span class="age">22h ago</span>
           <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
         </div>
       </div>
@@ -346,18 +379,6 @@
         <div class="card-meta">
           <span class="source">r/MachineLearning</span>
           
-          <span class="age">22h ago</span>
-          <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://www.reddit.com/r/LocalLLaMA/comments/1s1sec0/awesomeautoresearch_all_the_things_related_to/" target="_blank" rel="noopener noreferrer">Awesome-Autoresearch (all the things related to Karpathy&#x27;s Autoresearch)</a>
-        </div>
-        
-        <div class="card-meta">
-          <span class="source">r/LocalLLaMA</span>
-          
           <span class="age">23h ago</span>
           <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
         </div>
@@ -371,11 +392,11 @@
         <div class="card-header">
           <a class="card-title" href="https://techcrunch.com/2026/03/24/openai-adds-open-source-tools-to-help-developers-build-for-teen-safety/" target="_blank" rel="noopener noreferrer">OpenAI adds open source tools to help developers build for teen safety</a>
         </div>
-        <p class="item-summary">OpenAI releases open-source safety tools for teen-focused AI development, significant policy initiative.</p>
+        <p class="item-summary">OpenAI releases open-source safety tools for developers building for teenage users.</p>
         <div class="card-meta">
           <span class="source">TechCrunch AI</span>
           
-          <span class="age">1h ago</span>
+          <span class="age">2h ago</span>
           <span class="score-bar" title="Quality score: 82/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">82</span></span>
         </div>
       </div>
@@ -383,12 +404,12 @@
         <div class="card-header">
           <a class="card-title" href="https://github.com/AmElmo/proofshot" target="_blank" rel="noopener noreferrer">Show HN: ProofShot – Give AI coding agents eyes to verify the UI they build</a>
         </div>
-        <p class="item-summary">Show HN project adding visual verification capabilities to AI coding agents, a concrete technical contribution.</p>
+        <p class="item-summary">Tool for giving AI coding agents visual verification of UI output.</p>
         <div class="card-meta">
           <span class="source">Hacker News</span>
-          <span class="upvotes">▲ 90</span>
-          <span class="age">12h ago</span>
-          <span class="score-bar" title="Quality score: 78/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">78</span></span>
+          <span class="upvotes">▲ 99</span>
+          <span class="age">13h ago</span>
+          <span class="score-bar" title="Quality score: 72/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">72</span></span>
         </div>
       </div>
       </div>
@@ -400,72 +421,84 @@
         <div class="card-header">
           <a class="card-title" href="https://techcrunch.com/2026/03/24/mirage-raises-75m-to-continue-building-models-for-its-ai-video-editing-app-captions/" target="_blank" rel="noopener noreferrer">Mirage raises $75M to continue building models for its AI video-editing app Captions</a>
         </div>
-        <p class="item-summary">Mirage secures $75M Series B for AI video editing, major funding announcement for generative video.</p>
+        <p class="item-summary">Mirage secures $75M funding for AI video editing platform with custom model development.</p>
         <div class="card-meta">
           <span class="source">TechCrunch AI</span>
           
-          <span class="age">7h ago</span>
+          <span class="age">8h ago</span>
           <span class="score-bar" title="Quality score: 80/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">80</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://openai.com/index/teen-safety-policies-gpt-oss-safeguard" target="_blank" rel="noopener noreferrer">Helping developers build safer AI experiences for teens</a>
-        </div>
-        <p class="item-summary">OpenAI announces teen safety policies and open-source safeguards, major safety initiative release.</p>
-        <div class="card-meta">
-          <span class="source">OpenAI Blog</span>
-          
-          <span class="age">9h ago</span>
-          <span class="score-bar" title="Quality score: 78/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">78</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://openai.com/index/creating-with-sora-safely" target="_blank" rel="noopener noreferrer">Creating with Sora Safely</a>
-        </div>
-        <p class="item-summary">OpenAI publishes safety guidelines for Sora video generation, official product guidance.</p>
-        <div class="card-meta">
-          <span class="source">OpenAI Blog</span>
-          
-          <span class="age">1d ago</span>
-          <span class="score-bar" title="Quality score: 76/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">76</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://openai.com/index/update-on-the-openai-foundation" target="_blank" rel="noopener noreferrer">Update on the OpenAI Foundation</a>
-        </div>
-        <p class="item-summary">Official update on OpenAI Foundation operations and direction, organizational news.</p>
-        <div class="card-meta">
-          <span class="source">OpenAI Blog</span>
-          
-          <span class="age">11h ago</span>
-          <span class="score-bar" title="Quality score: 72/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">72</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://openai.com/index/powering-product-discovery-in-chatgpt" target="_blank" rel="noopener noreferrer">Powering product discovery in ChatGPT</a>
-        </div>
-        <p class="item-summary">OpenAI describes product discovery features in ChatGPT, product capability announcement.</p>
-        <div class="card-meta">
-          <span class="source">OpenAI Blog</span>
-          
-          <span class="age">11h ago</span>
-          <span class="score-bar" title="Quality score: 72/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">72</span></span>
         </div>
       </div>
       <div class="card">
         <div class="card-header">
           <a class="card-title" href="https://www.reddit.com/r/MachineLearning/comments/1s248e0/r_causal_selfattention_as_a_probabilistic_model/" target="_blank" rel="noopener noreferrer">[R] Causal self-attention as a probabilistic model over embeddings</a>
         </div>
-        <p class="item-summary">Research paper on causal self-attention as probabilistic model, technical contribution with limited impact signals.</p>
+        <p class="item-summary">Research paper on causal self-attention modeling as probabilistic embedding framework.</p>
         <div class="card-meta">
           <span class="source">r/MachineLearning</span>
           
-          <span class="age">15h ago</span>
-          <span class="score-bar" title="Quality score: 68/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">68</span></span>
+          <span class="age">16h ago</span>
+          <span class="score-bar" title="Quality score: 74/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">74</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://www.reddit.com/r/LocalLLaMA/comments/1s2pkfw/new_open_weights_models_gigachat31ultra702b_and/" target="_blank" rel="noopener noreferrer">New open weights models: GigaChat-3.1-Ultra-702B and GigaChat-3.1-Lightning-10B-A1.8B</a>
+        </div>
+        <p class="item-summary">Release of new open-weight models GigaChat-3.1 in multiple sizes.</p>
+        <div class="card-meta">
+          <span class="source">r/LocalLLaMA</span>
+          
+          <span class="age">41m ago</span>
+          <span class="score-bar" title="Quality score: 74/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">74</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://openai.com/index/teen-safety-policies-gpt-oss-safeguard" target="_blank" rel="noopener noreferrer">Helping developers build safer AI experiences for teens</a>
+        </div>
+        <p class="item-summary">OpenAI announces teen safety policies and open-source safeguard tools.</p>
+        <div class="card-meta">
+          <span class="source">OpenAI Blog</span>
+          
+          <span class="age">10h ago</span>
+          <span class="score-bar" title="Quality score: 72/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">72</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://openai.com/index/creating-with-sora-safely" target="_blank" rel="noopener noreferrer">Creating with Sora Safely</a>
+        </div>
+        <p class="item-summary">OpenAI blog post on responsible use guidelines for Sora video generation.</p>
+        <div class="card-meta">
+          <span class="source">OpenAI Blog</span>
+          
+          <span class="age">1d ago</span>
+          <span class="score-bar" title="Quality score: 70/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">70</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://openai.com/index/update-on-the-openai-foundation" target="_blank" rel="noopener noreferrer">Update on the OpenAI Foundation</a>
+        </div>
+        <p class="item-summary">OpenAI foundation organizational update and governance announcement.</p>
+        <div class="card-meta">
+          <span class="source">OpenAI Blog</span>
+          
+          <span class="age">12h ago</span>
+          <span class="score-bar" title="Quality score: 66/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">66</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://www.reddit.com/r/MachineLearning/comments/1s2i648/d_risk_of_using_xgb_models/" target="_blank" rel="noopener noreferrer">[D] Risk of using XGB models</a>
+        </div>
+        
+        <div class="card-meta">
+          <span class="source">r/MachineLearning</span>
+          
+          <span class="age">5h ago</span>
+          <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
         </div>
       </div>
       <div class="card">
@@ -476,7 +509,7 @@
         <div class="card-meta">
           <span class="source">r/LocalLLaMA</span>
           
-          <span class="age">19h ago</span>
+          <span class="age">20h ago</span>
           <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
         </div>
       </div>
@@ -488,31 +521,7 @@
         <div class="card-meta">
           <span class="source">r/LocalLLaMA</span>
           
-          <span class="age">10h ago</span>
-          <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://www.reddit.com/r/LocalLLaMA/comments/1s1t9on/introducing_oq_datadriven_mixedprecision/" target="_blank" rel="noopener noreferrer">Introducing oQ: data-driven mixed-precision quantization for Apple Silicon (mlx-lm compatible)</a>
-        </div>
-        
-        <div class="card-meta">
-          <span class="source">r/LocalLLaMA</span>
-          
-          <span class="age">23h ago</span>
-          <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://www.reddit.com/r/LocalLLaMA/comments/1s2181s/lessons_from_building_a_permanent_companion_agent/" target="_blank" rel="noopener noreferrer">Lessons from building a permanent companion agent on local hardware</a>
-        </div>
-        
-        <div class="card-meta">
-          <span class="source">r/LocalLLaMA</span>
-          
-          <span class="age">18h ago</span>
+          <span class="age">11h ago</span>
           <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
         </div>
       </div>
@@ -521,7 +530,7 @@
 </main>
 
 <footer>
-  <p>Fetches every hour &nbsp;•&nbsp; Powered by <a href="https://github.com/kevin-cantwell/clarionbot" rel="noopener">Clarion</a> &nbsp;•&nbsp; <a href="https://github.com/kevin-cantwell/ai-digest" rel="noopener">Source</a></p>
+  <p>Fetches every hour &nbsp;•&nbsp; <a href="https://github.com/kevin-cantwell/ai-digest" rel="noopener">Source</a></p>
 </footer>
 
 </body>
