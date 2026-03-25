@@ -556,6 +556,24 @@ def _should_check_article_freshness(url: str) -> bool:
         return False
 
 
+def _date_from_url(url: str) -> "datetime | None":
+    """
+    Try to extract a publication date from the URL path without any HTTP request.
+    Matches patterns like /2025/01/, /2025-01-15/, ?date=2025-01-15, etc.
+    """
+    path = urlparse(url).path + "?" + urlparse(url).query
+    m = re.search(r'[/\-_=](\d{4})[/\-_](\d{2})(?:[/\-_](\d{2}))?', path)
+    if m:
+        year, month = int(m.group(1)), int(m.group(2))
+        day = int(m.group(3)) if m.group(3) else 1
+        if 2000 <= year <= 2100 and 1 <= month <= 12 and 1 <= day <= 31:
+            try:
+                return datetime(year, month, day, tzinfo=timezone.utc)
+            except ValueError:
+                pass
+    return None
+
+
 def _get_article_published_date(url: str) -> "datetime | None":
     """Fetch up to 50 KB of a URL and extract its publication date from meta tags."""
     try:
@@ -619,7 +637,7 @@ def filter_stale_articles(items: list[NewsItem]) -> list[NewsItem]:
             url_to_check = ""
 
         if url_to_check and _should_check_article_freshness(url_to_check):
-            pub_date = _get_article_published_date(url_to_check)
+            pub_date = _date_from_url(url_to_check) or _get_article_published_date(url_to_check)
             if pub_date and pub_date < cutoff:
                 print(f"  [stale] dropped ({pub_date.date()}): {item.title[:60]}")
                 dropped += 1
