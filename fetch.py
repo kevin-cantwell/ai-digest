@@ -127,7 +127,7 @@ PRODUCT_NAMES = [
 
 class NewsItem:
     __slots__ = (
-        "title", "url", "source", "source_type", "published_ts",
+        "title", "url", "article_url", "source", "source_type", "published_ts",
         "score", "upvotes", "summary", "section", "url_hash",
     )
 
@@ -135,6 +135,7 @@ class NewsItem:
                  upvotes=0, summary=""):
         self.title = title.strip()
         self.url = url.strip()
+        self.article_url = ""  # external linked article URL, if different from post URL
         self.source = source
         self.source_type = source_type  # "hn" | "reddit" | "rss"
         self.published_ts = published_ts or int(NOW.timestamp())
@@ -235,13 +236,30 @@ def fetch_reddit() -> list[NewsItem]:
             if ts < YESTERDAY_TS:
                 continue
 
-            items.append(NewsItem(
+            item = NewsItem(
                 title=title,
                 url=link,
                 source=f"r/{sub}",
                 source_type="reddit",
                 published_ts=ts,
-            ))
+            )
+
+            # Extract the external article URL from the post content (link posts embed it as [link])
+            content_html = ""
+            for field in ("content", "summary"):
+                val = entry.get(field)
+                if isinstance(val, list) and val:
+                    content_html = val[0].get("value", "")
+                elif isinstance(val, str):
+                    content_html = val
+                if content_html:
+                    break
+            if content_html:
+                m = re.search(r'href="(https?://(?!(?:www\.)?reddit\.com)[^"]+)"[^>]*>\[link\]', content_html)
+                if m:
+                    item.article_url = m.group(1)
+
+            items.append(item)
             entries_added += 1
 
         print(f"  [Reddit] r/{sub}: {entries_added} posts")
@@ -514,6 +532,103 @@ def generate_tldr(items: list[NewsItem]) -> str:
         top = items[:3]
         titles = "; ".join(t.title for t in top)
         return f"Today's AI digest covers {len(items)} stories. Top stories: {titles[:200]}."
+
+
+# ---------------------------------------------------------------------------
+# Article freshness filter
+# ---------------------------------------------------------------------------
+
+# Domains whose URLs are inherently not "articles" with a publication date
+_STALENESS_SKIP_DOMAINS = {
+    "reddit.com", "news.ycombinator.com", "github.com",
+    "twitter.com", "x.com", "youtube.com", "linkedin.com",
+}
+
+
+def _should_check_article_freshness(url: str) -> bool:
+    try:
+        domain = urlparse(url).netloc.lower().lstrip("www.")
+        return bool(domain) and not any(
+            domain == d or domain.endswith("." + d)
+            for d in _STALENESS_SKIP_DOMAINS
+        )
+    except Exception:
+        return False
+
+
+def _get_article_published_date(url: str) -> "datetime | None":
+    """Fetch up to 50 KB of a URL and extract its publication date from meta tags."""
+    try:
+        resp = requests.get(
+            url, timeout=5,
+            headers={"User-Agent": "ai-digest-bot/1.0"},
+            allow_redirects=True,
+            stream=True,
+        )
+        resp.raise_for_status()
+        chunks = []
+        size = 0
+        for chunk in resp.iter_content(8192):
+            chunks.append(chunk)
+            size += len(chunk)
+            if size > 51200:
+                break
+        text = b"".join(chunks).decode("utf-8", errors="ignore")
+    except Exception:
+        return None
+
+    # Try common publication date meta tags (property= and name= variants)
+    patterns = [
+        r'<meta[^>]+property=["\']article:published_time["\'][^>]+content=["\']([\d\-T:+Z]+)',
+        r'<meta[^>]+content=["\']([\d\-T:+Z]+)[^>]+property=["\']article:published_time["\']',
+        r'<meta[^>]+name=["\']pubdate["\'][^>]+content=["\']([\d\-T:+Z]+)',
+        r'<meta[^>]+content=["\']([\d\-T:+Z]+)[^>]+name=["\']pubdate["\']',
+        r'<meta[^>]+name=["\']date["\'][^>]+content=["\']([\d\-T:+Z]+)',
+        r'<meta[^>]+content=["\']([\d\-T:+Z]+)[^>]+name=["\']date["\']',
+        r'<time[^>]+datetime=["\']([\d\-T:+Z]+)',
+    ]
+    for pattern in patterns:
+        m = re.search(pattern, text, re.IGNORECASE)
+        if m:
+            try:
+                dt = datetime.fromisoformat(m.group(1).replace("Z", "+00:00"))
+                if dt.tzinfo is None:
+                    dt = dt.replace(tzinfo=timezone.utc)
+                return dt
+            except Exception:
+                continue
+    return None
+
+
+def filter_stale_articles(items: list[NewsItem]) -> list[NewsItem]:
+    """
+    Drop items whose linked article was published more than 48h ago.
+    For HN items the story URL is the article; for Reddit we use the extracted article_url.
+    If the article date cannot be determined, the item is kept.
+    """
+    cutoff = NOW - timedelta(hours=48)
+    result = []
+    dropped = 0
+
+    for item in items:
+        if item.source_type == "hn":
+            url_to_check = item.url if not item.url.startswith("https://news.ycombinator.com") else ""
+        elif item.source_type == "reddit":
+            url_to_check = item.article_url
+        else:
+            url_to_check = ""
+
+        if url_to_check and _should_check_article_freshness(url_to_check):
+            pub_date = _get_article_published_date(url_to_check)
+            if pub_date and pub_date < cutoff:
+                print(f"  [stale] dropped ({pub_date.date()}): {item.title[:60]}")
+                dropped += 1
+                continue
+
+        result.append(item)
+
+    print(f"  [stale] kept {len(result)}, dropped {dropped} stale article(s)")
+    return result
 
 
 # ---------------------------------------------------------------------------
@@ -959,7 +1074,16 @@ def main():
     all_items = [it for it in all_items if it.score >= 40]
     print(f"After heuristic filter (score>=40): {len(all_items)}")
 
-    # 5. Claude re-scoring (optional)
+    # 5. Drop items linking to stale articles (older than 48h)
+    print("\nChecking article freshness...")
+    try:
+        all_items = filter_stale_articles(all_items)
+    except Exception:
+        print("  [stale] unexpected error:", file=sys.stderr)
+        traceback.print_exc(file=sys.stderr)
+    print(f"After staleness filter: {len(all_items)}")
+
+    # 7. Claude re-scoring (optional)
     if use_claude:
         print("\nClaude re-scoring...")
         try:
@@ -968,20 +1092,20 @@ def main():
             print("  [Claude] unexpected error:", file=sys.stderr)
             traceback.print_exc(file=sys.stderr)
 
-    # 6. Sort and take top 20
+    # 8. Sort and take top 20
     all_items.sort(key=lambda x: x.score, reverse=True)
     all_items = all_items[:20]
 
-    # 7. Assign sections
+    # 9. Assign sections
     for item in all_items:
         item.section = assign_section(item)
 
-    # 8. Generate TL;DR
+    # 10. Generate TL;DR
     print("\nGenerating TL;DR...")
     tldr = generate_tldr(all_items)
     print(f"  TL;DR: {tldr[:80]}...")
 
-    # 9. Render HTML
+    # 11. Render HTML
     html = render_html(all_items, tldr)
 
     output_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "index.html")
