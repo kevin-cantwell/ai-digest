@@ -120,7 +120,7 @@ PRODUCT_NAMES = [
 
 class NewsItem:
     __slots__ = (
-        "title", "url", "article_url", "source", "source_type", "published_ts",
+        "title", "url", "article_url", "post_url", "source", "source_type", "published_ts",
         "score", "upvotes", "num_comments", "summary", "section", "url_hash",
     )
 
@@ -129,6 +129,7 @@ class NewsItem:
         self.title = title.strip()
         self.url = url.strip()
         self.article_url = ""  # external linked article URL, if different from post URL
+        self.post_url = ""     # source thread/post URL (HN thread, Reddit thread)
         self.source = source
         self.source_type = source_type  # "hn" | "reddit" | "rss"
         self.published_ts = published_ts or int(NOW.timestamp())
@@ -178,7 +179,9 @@ def fetch_hn() -> list[NewsItem]:
         return []
 
     for hit in data.get("hits", []):
-        story_url = hit.get("url") or f"https://news.ycombinator.com/item?id={hit.get('objectID','')}"
+        object_id = hit.get("objectID", "")
+        hn_thread_url = f"https://news.ycombinator.com/item?id={object_id}" if object_id else ""
+        story_url = hit.get("url") or hn_thread_url
         if not story_url or story_url in items:
             continue
 
@@ -189,7 +192,7 @@ def fetch_hn() -> list[NewsItem]:
             continue
 
         ts = hit.get("created_at_i") or int(NOW.timestamp())
-        items[story_url] = NewsItem(
+        news_item = NewsItem(
             title=title,
             url=story_url,
             source="Hacker News",
@@ -198,6 +201,10 @@ def fetch_hn() -> list[NewsItem]:
             upvotes=hit.get("points", 0),
             num_comments=hit.get("num_comments", 0),
         )
+        # Store the HN discussion thread URL separately from the linked article
+        if hn_thread_url and story_url != hn_thread_url:
+            news_item.post_url = hn_thread_url
+        items[story_url] = news_item
 
     print(f"  [HN] fetched {len(items)} AI stories")
     return list(items.values())
@@ -248,6 +255,8 @@ def fetch_reddit() -> list[NewsItem]:
                 source_type="reddit",
                 published_ts=ts,
             )
+            # Reddit thread URL is always the post URL
+            item.post_url = link
 
             # Extract the external article URL from the post content (link posts embed it as [link])
             content_html = ""
@@ -777,14 +786,24 @@ def render_html(items: list[NewsItem], tldr: str) -> str:
             elif item.source_type == "reddit" and item.upvotes > 0:
                 upvotes_html = f'<span class="upvotes">▲ {item.upvotes}</span>'
 
+            # Title links to the article; source label links to the source thread/post
+            title_href = escape(item.article_url if item.article_url else item.url)
+            source_href = escape(item.post_url if item.post_url else item.url)
+
+            source_html = (
+                f'<a class="source" href="{source_href}" target="_blank" rel="noopener noreferrer">{escape(item.source)}</a>'
+                if source_href else
+                f'<span class="source">{escape(item.source)}</span>'
+            )
+
             cards += f"""
       <div class="card">
         <div class="card-header">
-          <a class="card-title" href="{escape(item.url)}" target="_blank" rel="noopener noreferrer">{escape(item.title)}</a>
+          <a class="card-title" href="{title_href}" target="_blank" rel="noopener noreferrer">{escape(item.title)}</a>
         </div>
         {summary_html}
         <div class="card-meta">
-          <span class="source">{escape(item.source)}</span>
+          {source_html}
           {upvotes_html}
           <span class="age">{item.age_str()}</span>
           {score_bar(item.score)}
@@ -1001,6 +1020,11 @@ def render_html(items: list[NewsItem], tldr: str) -> str:
       padding: 2px 7px;
       border-radius: 4px;
       border: 1px solid var(--border);
+      text-decoration: none;
+    }}
+    a.source:hover {{
+      color: var(--accent);
+      border-color: var(--accent);
     }}
     .upvotes {{
       font-size: 12px;
