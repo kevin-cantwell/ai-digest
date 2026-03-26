@@ -11,6 +11,7 @@ import re
 import hashlib
 import sys
 import traceback
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone, timedelta
 from urllib.parse import urlparse
 from html import escape
@@ -35,22 +36,13 @@ TIMEOUT = 10  # seconds for all HTTP requests
 NOW = datetime.now(timezone.utc)
 YESTERDAY_TS = int((NOW - timedelta(hours=24)).timestamp())
 
-HN_AI_QUERIES = [
-    "artificial intelligence",
-    "large language model",
-    "claude anthropic",
-    "openai gpt",
-    "gemini google",
-    "llama meta",
-    "mistral",
-    "machine learning model",
-    "claude code",
-    "agentic workflow",
-    "ai agent framework",
-    "codex openai",
-    "mcp model context protocol",
-    "llm developer tools",
-    "ai coding assistant",
+# Keywords for local AI relevance filtering of HN stories
+HN_AI_KEYWORDS = [
+    "ai", "llm", "gpt", "claude", "gemini", "anthropic", "openai", "deepmind",
+    "mistral", "machine learning", "neural", "model", "inference", "fine-tun",
+    "embedding", "transformer", "diffusion", "stable diffusion", "midjourney",
+    "nvidia", "gpu", "hugging face", "langchain", "rag", "vector", "benchmark",
+    "agent", "multimodal",
 ]
 
 REDDIT_SUBS = [
@@ -63,16 +55,17 @@ REDDIT_SUBS = [
 ]
 
 RSS_FEEDS = [
-    ("Anthropic", "https://raw.githubusercontent.com/taobojlen/anthropic-rss-feed/main/anthropic_news_rss.xml"),
+    # Anthropic: taobojlen/anthropic-rss-feed dead Feb 2026; www.anthropic.com/rss.xml and
+    # feeds.feedburner.com/anthropic-blog both 404 as of Mar 2026. Omitted for now.
     ("OpenAI Blog", "https://openai.com/blog/rss.xml"),
     ("Google DeepMind", "https://deepmind.google/blog/rss.xml"),
     ("Ars Technica", "https://feeds.arstechnica.com/arstechnica/technology-lab"),
     ("TechCrunch AI", "https://techcrunch.com/category/artificial-intelligence/feed/"),
-    ("Import AI", "https://jack-clark.net/feed/"),
+    # Import AI removed — weekly cadence, rarely passes 48h filter
     ("Simon Willison", "https://simonwillison.net/atom/everything/"),
-    ("The Pragmatic Engineer", "https://newsletter.pragmaticengineer.com/feed"),
+    # The Pragmatic Engineer removed — not AI-focused
     ("Latent Space", "https://www.latent.space/feed"),
-    ("AI Snake Oil", "https://www.aisnakeoil.com/feed"),
+    # AI Snake Oil removed — monthly cadence
 ]
 
 MAJOR_PROVIDER_DOMAINS = {
@@ -128,11 +121,11 @@ PRODUCT_NAMES = [
 class NewsItem:
     __slots__ = (
         "title", "url", "article_url", "source", "source_type", "published_ts",
-        "score", "upvotes", "summary", "section", "url_hash",
+        "score", "upvotes", "num_comments", "summary", "section", "url_hash",
     )
 
     def __init__(self, title, url, source, source_type, published_ts=None,
-                 upvotes=0, summary=""):
+                 upvotes=0, num_comments=0, summary=""):
         self.title = title.strip()
         self.url = url.strip()
         self.article_url = ""  # external linked article URL, if different from post URL
@@ -140,6 +133,7 @@ class NewsItem:
         self.source_type = source_type  # "hn" | "reddit" | "rss"
         self.published_ts = published_ts or int(NOW.timestamp())
         self.upvotes = upvotes
+        self.num_comments = num_comments
         self.summary = summary
         self.score = 0
         self.section = "Industry News"
@@ -160,41 +154,52 @@ class NewsItem:
 # ---------------------------------------------------------------------------
 
 def fetch_hn() -> list[NewsItem]:
-    """Fetch AI-relevant HN stories from the last 24h with >30 points."""
+    """Fetch AI-relevant HN stories from the last 24h with >=30 points.
+
+    Uses a single broad search_by_date query (no keyword filter) then filters
+    locally by AI-relevant keywords. This catches far more stories than
+    running 15 narrow keyword queries against the Algolia API.
+    """
     items = {}
     headers = {"User-Agent": "ai-digest-bot/1.0"}
 
-    for query in HN_AI_QUERIES:
-        url = (
-            f"https://hn.algolia.com/api/v1/search"
-            f"?query={requests.utils.quote(query)}"
-            f"&tags=story"
-            f"&numericFilters=created_at_i>{YESTERDAY_TS},points>30"
-            f"&hitsPerPage=30"
-        )
-        try:
-            resp = requests.get(url, headers=headers, timeout=TIMEOUT)
-            resp.raise_for_status()
-            data = resp.json()
-        except Exception as exc:
-            print(f"  [HN] fetch failed for query '{query}': {exc}", file=sys.stderr)
+    url = (
+        f"https://hn.algolia.com/api/v1/search_by_date"
+        f"?tags=story"
+        f"&numericFilters=points%3E%3D30,created_at_i%3E{YESTERDAY_TS}"
+        f"&hitsPerPage=100"
+    )
+    try:
+        resp = requests.get(url, headers=headers, timeout=TIMEOUT)
+        resp.raise_for_status()
+        data = resp.json()
+    except Exception as exc:
+        print(f"  [HN] fetch failed: {exc}", file=sys.stderr)
+        return []
+
+    for hit in data.get("hits", []):
+        story_url = hit.get("url") or f"https://news.ycombinator.com/item?id={hit.get('objectID','')}"
+        if not story_url or story_url in items:
             continue
 
-        for hit in data.get("hits", []):
-            story_url = hit.get("url") or f"https://news.ycombinator.com/item?id={hit.get('objectID','')}"
-            if not story_url or story_url in items:
-                continue
-            ts = hit.get("created_at_i") or int(NOW.timestamp())
-            items[story_url] = NewsItem(
-                title=hit.get("title", "(no title)"),
-                url=story_url,
-                source="Hacker News",
-                source_type="hn",
-                published_ts=ts,
-                upvotes=hit.get("points", 0),
-            )
+        title = hit.get("title", "(no title)")
+        # Filter locally: keep only AI-relevant stories
+        combined = (title + " " + story_url).lower()
+        if not any(kw in combined for kw in HN_AI_KEYWORDS):
+            continue
 
-    print(f"  [HN] fetched {len(items)} stories")
+        ts = hit.get("created_at_i") or int(NOW.timestamp())
+        items[story_url] = NewsItem(
+            title=title,
+            url=story_url,
+            source="Hacker News",
+            source_type="hn",
+            published_ts=ts,
+            upvotes=hit.get("points", 0),
+            num_comments=hit.get("num_comments", 0),
+        )
+
+    print(f"  [HN] fetched {len(items)} AI stories")
     return list(items.values())
 
 
@@ -623,12 +628,11 @@ def filter_stale_articles(items: list[NewsItem]) -> list[NewsItem]:
     Drop items whose linked article was published more than 48h ago.
     For HN items the story URL is the article; for Reddit we use the extracted article_url.
     If the article date cannot be determined, the item is kept.
+    HTTP requests are parallelized for speed.
     """
     cutoff = NOW - timedelta(hours=48)
-    result = []
-    dropped = 0
 
-    for item in items:
+    def check_item(item: NewsItem) -> "tuple[NewsItem, datetime | None]":
         if item.source_type == "hn":
             url_to_check = item.url if not item.url.startswith("https://news.ycombinator.com") else ""
         elif item.source_type == "reddit":
@@ -638,11 +642,32 @@ def filter_stale_articles(items: list[NewsItem]) -> list[NewsItem]:
 
         if url_to_check and _should_check_article_freshness(url_to_check):
             pub_date = _date_from_url(url_to_check) or _get_article_published_date(url_to_check)
-            if pub_date and pub_date < cutoff:
-                print(f"  [stale] dropped ({pub_date.date()}): {item.title[:60]}")
-                dropped += 1
-                continue
+            return (item, pub_date)
+        return (item, None)
 
+    results = []
+    with ThreadPoolExecutor(max_workers=10) as executor:
+        futures = {executor.submit(check_item, item): item for item in items}
+        for future in as_completed(futures):
+            try:
+                item, pub_date = future.result()
+                results.append((item, pub_date))
+            except Exception as exc:
+                item = futures[future]
+                print(f"  [stale] error checking {item.title[:40]}: {exc}", file=sys.stderr)
+                results.append((item, None))
+
+    result = []
+    dropped = 0
+    # Restore original ordering
+    item_order = {id(item): i for i, item in enumerate(items)}
+    results.sort(key=lambda t: item_order.get(id(t[0]), 0))
+
+    for item, pub_date in results:
+        if pub_date and pub_date < cutoff:
+            print(f"  [stale] dropped ({pub_date.date()}): {item.title[:60]}")
+            dropped += 1
+            continue
         result.append(item)
 
     print(f"  [stale] kept {len(result)}, dropped {dropped} stale article(s)")
@@ -661,12 +686,24 @@ def deduplicate(items: list[NewsItem]) -> list[NewsItem]:
     for item in items:
         if item.url in seen_urls:
             continue
+
+        # Cross-source dedup: HN stores the article URL in item.url; Reddit stores
+        # the reddit post URL in item.url and the actual article in item.article_url.
+        # Normalize to the article URL so HN and Reddit stories about the same
+        # article are treated as duplicates.
+        article_url = item.article_url if item.article_url else item.url
+        if article_url and article_url in seen_urls:
+            continue
+
         # Fuzzy title dedup: normalize and compare
         norm_title = re.sub(r"[^a-z0-9]", "", item.title.lower())[:60]
         if norm_title in seen_titles:
             # Keep the one with higher score (will be recalculated, so keep first)
             continue
+
         seen_urls.add(item.url)
+        if article_url:
+            seen_urls.add(article_url)
         seen_titles[norm_title] = item
         out.append(item)
 
@@ -705,8 +742,6 @@ SECTION_ICONS = {
 def render_html(items: list[NewsItem], tldr: str) -> str:
     now_str = NOW.strftime("%A, %B %-d, %Y — %H:%M UTC")
     now_iso = NOW.strftime("%Y-%m-%dT%H:%M:%SZ")
-    updated_min = max(0, int((datetime.now(timezone.utc) - NOW).total_seconds() // 60))
-    updated_str = "just now" if updated_min < 2 else f"{updated_min}m ago"
 
     # Group items by section
     sections: dict[str, list[NewsItem]] = {s: [] for s in SECTION_ORDER}
@@ -737,7 +772,8 @@ def render_html(items: list[NewsItem], tldr: str) -> str:
             )
             upvotes_html = ""
             if item.source_type == "hn" and item.upvotes > 0:
-                upvotes_html = f'<span class="upvotes">▲ {item.upvotes}</span>'
+                comments_part = f'  💬 {item.num_comments}' if item.num_comments > 0 else ''
+                upvotes_html = f'<span class="upvotes">▲ {item.upvotes}{escape(comments_part)}</span>'
             elif item.source_type == "reddit" and item.upvotes > 0:
                 upvotes_html = f'<span class="upvotes">▲ {item.upvotes}</span>'
 
@@ -943,6 +979,7 @@ def render_html(items: list[NewsItem], tldr: str) -> str:
     .card-title:hover {{
       color: var(--accent);
     }}
+    a:visited {{ color: #7a8a9a; }}
     .item-summary {{
       font-size: 13px;
       color: var(--text-muted);
@@ -1021,7 +1058,25 @@ def render_html(items: list[NewsItem], tldr: str) -> str:
           }}
         }})();
       </script>
-      <span class="header-updated">Updated {escape(updated_str)}</span>
+      <span class="header-updated" id="header-updated">Updated just now</span>
+      <script>
+        (function() {{
+          var builtAt = new Date("{now_iso}");
+          function updateAge() {{
+            var mins = Math.floor((Date.now() - builtAt.getTime()) / 60000);
+            var el = document.getElementById('header-updated');
+            if (!el) return;
+            if (mins < 2) {{ el.textContent = 'Updated just now'; }}
+            else if (mins < 60) {{ el.textContent = 'Updated ' + mins + ' minutes ago'; }}
+            else {{
+              var hrs = Math.floor(mins / 60);
+              el.textContent = 'Updated ' + hrs + (hrs === 1 ? ' hour ago' : ' hours ago');
+            }}
+          }}
+          updateAge();
+          setInterval(updateAge, 60000);
+        }})();
+      </script>
       <span class="header-count">{total_items} stories</span>
     </div>
   </div>
@@ -1110,13 +1165,39 @@ def main():
             print("  [Claude] unexpected error:", file=sys.stderr)
             traceback.print_exc(file=sys.stderr)
 
-    # 8. Sort and take top 20
+    # 8. Sort and take top 30 (more headroom for the section cap logic)
     all_items.sort(key=lambda x: x.score, reverse=True)
-    all_items = all_items[:20]
+    all_items = all_items[:30]
 
     # 9. Assign sections
     for item in all_items:
         item.section = assign_section(item)
+
+    # 9a. Per-section soft cap: max 6 items per section, up to 20 total.
+    # Demote lowest-scoring items from over-represented sections and use
+    # them to backfill sections with room.
+    SECTION_CAP = 6
+    TOTAL_CAP = 20
+    selected: list[NewsItem] = []
+    runnerups: list[NewsItem] = []
+    section_counts: dict[str, int] = {}
+    for item in all_items:  # already sorted by score descending
+        sec = item.section
+        if section_counts.get(sec, 0) < SECTION_CAP:
+            selected.append(item)
+            section_counts[sec] = section_counts.get(sec, 0) + 1
+        else:
+            runnerups.append(item)
+    # Backfill from runner-ups (already score-sorted) if we haven't hit TOTAL_CAP
+    for item in runnerups:
+        if len(selected) >= TOTAL_CAP:
+            break
+        if section_counts.get(item.section, 0) < SECTION_CAP:
+            selected.append(item)
+            section_counts[item.section] = section_counts.get(item.section, 0) + 1
+    # Final sort by score and enforce overall cap
+    selected.sort(key=lambda x: x.score, reverse=True)
+    all_items = selected[:TOTAL_CAP]
 
     # 10. Generate TL;DR
     print("\nGenerating TL;DR...")

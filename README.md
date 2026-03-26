@@ -6,7 +6,7 @@ An automated AI news digest that fetches, filters, and renders the best AI stori
 
 ## How it works
 
-1. **Fetches** stories from Hacker News, Reddit (r/MachineLearning, r/LocalLLaMA, r/artificial), and RSS feeds from Anthropic, OpenAI, DeepMind, The Verge, Ars Technica, TechCrunch, and Import AI.
+1. **Fetches** stories from Hacker News (broad 24h query, locally filtered for AI relevance), Reddit (r/MachineLearning, r/LocalLLaMA, r/artificial, r/ClaudeAI, r/openai, r/ChatGPTCoding), and RSS feeds from OpenAI, Google DeepMind, Ars Technica, TechCrunch AI, Simon Willison, and Latent Space. (Anthropic's RSS feed is currently unavailable.)
 
 2. **Filters** using a heuristic scorer (0–100) that rewards technical substance and penalizes hype and listicles. Items scoring below 40 are dropped.
 
