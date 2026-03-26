@@ -172,6 +172,7 @@
     .card-title:hover {
       color: var(--accent);
     }
+    a:visited { color: #7a8a9a; }
     .item-summary {
       font-size: 13px;
       color: var(--text-muted);
@@ -240,7 +241,7 @@
   <div class="header-inner">
     <div class="logo">AI Digest<span class="logo-dot">.</span></div>
     <div class="header-meta">
-      <span class="header-date" id="header-date" data-utc="2026-03-26T01:36:36Z">Thursday, March 26, 2026 — 01:36 UTC</span>
+      <span class="header-date" id="header-date" data-utc="2026-03-26T03:01:56Z">Thursday, March 26, 2026 — 03:01 UTC</span>
       <script>
         (function() {
           var el = document.getElementById('header-date');
@@ -250,7 +251,25 @@
           }
         })();
       </script>
-      <span class="header-updated">Updated just now</span>
+      <span class="header-updated" id="header-updated">Updated just now</span>
+      <script>
+        (function() {
+          var builtAt = new Date("2026-03-26T03:01:56Z");
+          function updateAge() {
+            var mins = Math.floor((Date.now() - builtAt.getTime()) / 60000);
+            var el = document.getElementById('header-updated');
+            if (!el) return;
+            if (mins < 2) { el.textContent = 'Updated just now'; }
+            else if (mins < 60) { el.textContent = 'Updated ' + mins + ' minutes ago'; }
+            else {
+              var hrs = Math.floor(mins / 60);
+              el.textContent = 'Updated ' + hrs + (hrs === 1 ? ' hour ago' : ' hours ago');
+            }
+          }
+          updateAge();
+          setInterval(updateAge, 60000);
+        })();
+      </script>
       <span class="header-count">20 stories</span>
     </div>
   </div>
@@ -258,7 +277,7 @@
 
 <main>
   <div class="tldr-box">
-    <p class="tldr-text">OpenAI launched a Model Spec framework, expanded its Safety Bug Bounty program, and released tools to help developers build safer AI for teens, while Anthropic expanded Claude Code&#x27;s capabilities with auto mode and controlled file access. Google DeepMind released Lyria 3 Pro for longer music generation, and Granola raised $125 million at a $1.5 billion valuation to expand beyond meeting notes into enterprise AI applications.</p>
+    <p class="tldr-text">OpenAI and Anthropic released new safety initiatives, including OpenAI&#x27;s Safety Bug Bounty program and guidelines for teen-focused AI applications, while Anthropic expanded Claude Code&#x27;s capabilities with auto mode and increased control options. Several technical developments focused on AI efficiency and security, including TurboQuant&#x27;s compression techniques and new safeguards to prevent Claude Code from accessing real API keys.</p>
   </div>
 
   
@@ -269,36 +288,60 @@
         <div class="card-header">
           <a class="card-title" href="https://techcrunch.com/2026/03/24/anthropic-hands-claude-code-more-control-but-keeps-it-on-a-leash/" target="_blank" rel="noopener noreferrer">Anthropic hands Claude Code more control, but keeps it on a leash</a>
         </div>
-        <p class="item-summary">Anthropic expands Claude Code capabilities with new autonomous execution mode.</p>
+        <p class="item-summary">TechCrunch reports on Anthropic expanding Claude Code capabilities with safety constraints.</p>
         <div class="card-meta">
           <span class="source">TechCrunch AI</span>
           
           <span class="age">1d ago</span>
-          <span class="score-bar" title="Quality score: 86/100"><span class="bar-filled">█████████</span><span class="bar-empty">░</span> <span class="score-num">86</span></span>
+          <span class="score-bar" title="Quality score: 80/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">80</span></span>
         </div>
       </div>
       <div class="card">
         <div class="card-header">
           <a class="card-title" href="https://simonwillison.net/2026/Mar/24/auto-mode-for-claude-code/#atom-everything" target="_blank" rel="noopener noreferrer">Auto mode for Claude Code</a>
         </div>
-        <p class="item-summary">Claude Code receives auto mode feature enabling more autonomous operation.</p>
+        <p class="item-summary">Simon Willison documents the release of auto mode for Claude Code.</p>
         <div class="card-meta">
           <span class="source">Simon Willison</span>
           
           <span class="age">1d ago</span>
-          <span class="score-bar" title="Quality score: 86/100"><span class="bar-filled">█████████</span><span class="bar-empty">░</span> <span class="score-num">86</span></span>
+          <span class="score-bar" title="Quality score: 80/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">80</span></span>
         </div>
       </div>
       <div class="card">
         <div class="card-header">
           <a class="card-title" href="https://www.reddit.com/r/ClaudeAI/comments/1s3n40n/built_an_mcp_server_that_stops_claude_code_from/" target="_blank" rel="noopener noreferrer">built an MCP server that stops claude code from ever seeing your real API keys</a>
         </div>
-        <p class="item-summary">Developer created MCP server to prevent Claude from accessing real API keys.</p>
+        <p class="item-summary">A developer built an MCP server to prevent Claude Code from accessing real API keys.</p>
         <div class="card-meta">
           <span class="source">r/ClaudeAI</span>
           
-          <span class="age">4h ago</span>
+          <span class="age">6h ago</span>
           <span class="score-bar" title="Quality score: 76/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">76</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://lab.puga.com.br/cog/" target="_blank" rel="noopener noreferrer">Show HN: A plain-text cognitive architecture for Claude Code</a>
+        </div>
+        <p class="item-summary">A developer shares a plain-text cognitive architecture tool for Claude Code.</p>
+        <div class="card-meta">
+          <span class="source">Hacker News</span>
+          <span class="upvotes">▲ 34  💬 15</span>
+          <span class="age">3h ago</span>
+          <span class="score-bar" title="Quality score: 70/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">70</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://www.reddit.com/r/ClaudeAI/comments/1s3bcit/your_claude_code_limits_didnt_shrink_i_think_the/" target="_blank" rel="noopener noreferrer">Your Claude Code Limits Didn&#x27;t Shrink — I Think the 1M Context Window Is Eating Them Alive</a>
+        </div>
+        <p class="item-summary">Reddit speculation about Claude Code&#x27;s context window affecting usage limits.</p>
+        <div class="card-meta">
+          <span class="source">r/ClaudeAI</span>
+          
+          <span class="age">13h ago</span>
+          <span class="score-bar" title="Quality score: 64/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">64</span></span>
         </div>
       </div>
       </div>
@@ -308,25 +351,13 @@
       <div class="cards">
       <div class="card">
         <div class="card-header">
-          <a class="card-title" href="https://www.reddit.com/r/artificial/comments/1s2yg3y/opensource_ai_system_on_a_500_gpu_outperforms/" target="_blank" rel="noopener noreferrer">Open-source AI system on a $500 GPU outperforms Claude Sonnet on coding benchmarks</a>
-        </div>
-        <p class="item-summary">Claims open-source system on affordable GPU matches Claude Sonnet coding performance.</p>
-        <div class="card-meta">
-          <span class="source">r/artificial</span>
-          
-          <span class="age">23h ago</span>
-          <span class="score-bar" title="Quality score: 66/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">66</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
           <a class="card-title" href="https://www.reddit.com/r/OpenAI/comments/1s3j4ts/arc_agi_3_released/" target="_blank" rel="noopener noreferrer">Arc AGI - 3 Released</a>
         </div>
         
         <div class="card-meta">
           <span class="source">r/openai</span>
           
-          <span class="age">7h ago</span>
+          <span class="age">8h ago</span>
           <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
         </div>
       </div>
@@ -338,7 +369,7 @@
         <div class="card-meta">
           <span class="source">TechCrunch AI</span>
           
-          <span class="age">8h ago</span>
+          <span class="age">10h ago</span>
           <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
         </div>
       </div>
@@ -349,14 +380,38 @@
       <div class="cards">
       <div class="card">
         <div class="card-header">
-          <a class="card-title" href="https://www.reddit.com/r/MachineLearning/comments/1s366un/r_ternary_neural_networks_as_a_path_to_more/" target="_blank" rel="noopener noreferrer">[R] Ternary neural networks as a path to more efficient AI - is (+1, 0, -1) weight quantization getting serious research attention?</a>
+          <a class="card-title" href="https://swarnimjain.com/grove" target="_blank" rel="noopener noreferrer">Grove: Distributed ML Training over AirDrop</a>
         </div>
-        <p class="item-summary">Discussion on ternary neural network quantization research relevance.</p>
+        
+        <div class="card-meta">
+          <span class="source">Hacker News</span>
+          <span class="upvotes">▲ 32  💬 1</span>
+          <span class="age">4h ago</span>
+          <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://www.reddit.com/r/MachineLearning/comments/1s397tl/p_made_a_dataset_but_dont_know_what_to_do_with_it/" target="_blank" rel="noopener noreferrer">[P] Made a dataset but don&#x27;t know what to do with it</a>
+        </div>
+        
         <div class="card-meta">
           <span class="source">r/MachineLearning</span>
           
-          <span class="age">15h ago</span>
-          <span class="score-bar" title="Quality score: 68/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">68</span></span>
+          <span class="age">14h ago</span>
+          <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://www.reddit.com/r/LocalLLaMA/comments/1s3ffzo/has_anyone_implemented_googles_turboquant_paper/" target="_blank" rel="noopener noreferrer">Has anyone implemented Google&#x27;s TurboQuant paper yet?</a>
+        </div>
+        
+        <div class="card-meta">
+          <span class="source">r/LocalLLaMA</span>
+          
+          <span class="age">10h ago</span>
+          <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
         </div>
       </div>
       </div>
@@ -366,14 +421,26 @@
       <div class="cards">
       <div class="card">
         <div class="card-header">
-          <a class="card-title" href="https://github.com/ivan-magda/swift-claude-code" target="_blank" rel="noopener noreferrer">Building a coding agent in Swift from scratch</a>
+          <a class="card-title" href="https://www.reddit.com/r/MachineLearning/comments/1s3sneb/d_llm_api_aggregators_in_2026_openrouter_vs/" target="_blank" rel="noopener noreferrer">[D] LLM API aggregators in 2026: OpenRouter vs alternatives</a>
         </div>
-        <p class="item-summary">Developer built coding agent in Swift using Claude API.</p>
+        
         <div class="card-meta">
-          <span class="source">Hacker News</span>
-          <span class="upvotes">▲ 74</span>
-          <span class="age">14h ago</span>
-          <span class="score-bar" title="Quality score: 66/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">66</span></span>
+          <span class="source">r/MachineLearning</span>
+          
+          <span class="age">2h ago</span>
+          <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://www.reddit.com/r/MachineLearning/comments/1s3okes/n_litellm_supply_chain_attack_risks_to_al/" target="_blank" rel="noopener noreferrer">[N] LiteLLM supply chain attack risks to Al pipelines and API key exposure</a>
+        </div>
+        
+        <div class="card-meta">
+          <span class="source">r/MachineLearning</span>
+          
+          <span class="age">5h ago</span>
+          <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
         </div>
       </div>
       <div class="card">
@@ -388,6 +455,18 @@
           <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
         </div>
       </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/" target="_blank" rel="noopener noreferrer">With $3.5B in fresh capital, Kleiner Perkins is going all in on AI</a>
+        </div>
+        <p class="item-summary">The fundraise includes $1 billion for investing in early-stage startups and $2.5 billion for late-stage growth businesses.</p>
+        <div class="card-meta">
+          <span class="source">TechCrunch AI</span>
+          
+          <span class="age">1d ago</span>
+          <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
+        </div>
+      </div>
       </div>
     </section>
     <section class="digest-section">
@@ -395,38 +474,38 @@
       <div class="cards">
       <div class="card">
         <div class="card-header">
+          <a class="card-title" href="https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/" target="_blank" rel="noopener noreferrer">TurboQuant: Redefining AI efficiency with extreme compression</a>
+        </div>
+        <p class="item-summary">Google research introduces TurboQuant, a method for extreme AI model compression and efficiency.</p>
+        <div class="card-meta">
+          <span class="source">Hacker News</span>
+          <span class="upvotes">▲ 503  💬 140</span>
+          <span class="age">22h ago</span>
+          <span class="score-bar" title="Quality score: 86/100"><span class="bar-filled">█████████</span><span class="bar-empty">░</span> <span class="score-num">86</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
           <a class="card-title" href="https://openai.com/index/our-approach-to-the-model-spec" target="_blank" rel="noopener noreferrer">Inside our approach to the Model Spec</a>
         </div>
-        <p class="item-summary">OpenAI publishes detailed approach to defining model behavioral specifications.</p>
+        <p class="item-summary">OpenAI publishes their approach to defining and implementing Model Spec standards.</p>
         <div class="card-meta">
           <span class="source">OpenAI Blog</span>
           
-          <span class="age">15h ago</span>
-          <span class="score-bar" title="Quality score: 90/100"><span class="bar-filled">█████████</span><span class="bar-empty">░</span> <span class="score-num">90</span></span>
+          <span class="age">17h ago</span>
+          <span class="score-bar" title="Quality score: 84/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">84</span></span>
         </div>
       </div>
       <div class="card">
         <div class="card-header">
           <a class="card-title" href="https://openai.com/index/safety-bug-bounty" target="_blank" rel="noopener noreferrer">Introducing the OpenAI Safety Bug Bounty program</a>
         </div>
-        <p class="item-summary">OpenAI launches formal safety bug bounty program.</p>
+        <p class="item-summary">OpenAI launches a formal safety bug bounty program.</p>
         <div class="card-meta">
           <span class="source">OpenAI Blog</span>
           
           <span class="age">1d ago</span>
-          <span class="score-bar" title="Quality score: 86/100"><span class="bar-filled">█████████</span><span class="bar-empty">░</span> <span class="score-num">86</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://openai.com/index/teen-safety-policies-gpt-oss-safeguard" target="_blank" rel="noopener noreferrer">Helping developers build safer AI experiences for teens</a>
-        </div>
-        <p class="item-summary">OpenAI announces safety policies and guidelines for teen-facing AI applications.</p>
-        <div class="card-meta">
-          <span class="source">OpenAI Blog</span>
-          
-          <span class="age">1d ago</span>
-          <span class="score-bar" title="Quality score: 78/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">78</span></span>
+          <span class="score-bar" title="Quality score: 80/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">80</span></span>
         </div>
       </div>
       <div class="card">
@@ -437,27 +516,15 @@
         <div class="card-meta">
           <span class="source">Google DeepMind</span>
           
-          <span class="age">9h ago</span>
+          <span class="age">11h ago</span>
           <span class="score-bar" title="Quality score: 78/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">78</span></span>
         </div>
       </div>
       <div class="card">
         <div class="card-header">
-          <a class="card-title" href="https://techcrunch.com/2026/03/25/granola-raises-125m-hits-1-5b-valuation-as-it-expands-from-meeting-notetaker-to-enterprise-ai-app/" target="_blank" rel="noopener noreferrer">Granola raises $125M, hits $1.5B valuation as it expands from meeting notetaker to enterprise AI app</a>
+          <a class="card-title" href="https://openai.com/index/teen-safety-policies-gpt-oss-safeguard" target="_blank" rel="noopener noreferrer">Helping developers build safer AI experiences for teens</a>
         </div>
-        <p class="item-summary">Granola raises $125M Series C at $1.5B valuation expanding beyond meeting notes.</p>
-        <div class="card-meta">
-          <span class="source">TechCrunch AI</span>
-          
-          <span class="age">10h ago</span>
-          <span class="score-bar" title="Quality score: 76/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">76</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://openai.com/index/update-on-the-openai-foundation" target="_blank" rel="noopener noreferrer">Update on the OpenAI Foundation</a>
-        </div>
-        <p class="item-summary">OpenAI updates status of its nonprofit foundation.</p>
+        <p class="item-summary">OpenAI announces teen safety policies and safeguards for GPT.</p>
         <div class="card-meta">
           <span class="source">OpenAI Blog</span>
           
@@ -467,62 +534,14 @@
       </div>
       <div class="card">
         <div class="card-header">
-          <a class="card-title" href="https://openai.com/index/powering-product-discovery-in-chatgpt" target="_blank" rel="noopener noreferrer">Powering product discovery in ChatGPT</a>
+          <a class="card-title" href="https://www.rnz.co.nz/news/national/590645/health-nz-staff-told-to-stop-using-chatgpt-to-write-clinical-notes" target="_blank" rel="noopener noreferrer">Health NZ staff told to stop using ChatGPT to write clinical notes</a>
         </div>
-        <p class="item-summary">OpenAI describes product discovery integration within ChatGPT.</p>
+        <p class="item-summary">New Zealand Health Service directs staff to stop using ChatGPT for clinical documentation.</p>
         <div class="card-meta">
-          <span class="source">OpenAI Blog</span>
-          
-          <span class="age">1d ago</span>
-          <span class="score-bar" title="Quality score: 72/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">72</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://www.reddit.com/r/artificial/comments/1s35v12/sota_models_at_2k_tps/" target="_blank" rel="noopener noreferrer">SOTA models at 2K tps</a>
-        </div>
-        
-        <div class="card-meta">
-          <span class="source">r/artificial</span>
-          
-          <span class="age">16h ago</span>
-          <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://www.reddit.com/r/ClaudeAI/comments/1s3m6vs/your_agent_is_wasting_tokens_youre_paying_for_it/" target="_blank" rel="noopener noreferrer">Your Agent is wasting tokens &amp; you’re paying for it (I was too)</a>
-        </div>
-        
-        <div class="card-meta">
-          <span class="source">r/ClaudeAI</span>
-          
-          <span class="age">5h ago</span>
-          <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://www.reddit.com/r/ClaudeAI/comments/1s3pr9w/what_do_you_do_while_the_agent_is_running_a_task/" target="_blank" rel="noopener noreferrer">What do you do while the agent is running a task?</a>
-        </div>
-        
-        <div class="card-meta">
-          <span class="source">r/ClaudeAI</span>
-          
-          <span class="age">2h ago</span>
-          <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://www.reddit.com/r/OpenAI/comments/1s3hhtz/google_just_dropped_turboquant_6x_less_memory_8x/" target="_blank" rel="noopener noreferrer">Google just dropped TurboQuant – 6x less memory, 8x faster inference, zero accuracy loss. Could this be the biggest efficiency boost for LLMs yet?</a>
-        </div>
-        
-        <div class="card-meta">
-          <span class="source">r/openai</span>
-          
-          <span class="age">8h ago</span>
-          <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
+          <span class="source">Hacker News</span>
+          <span class="upvotes">▲ 106  💬 37</span>
+          <span class="age">6h ago</span>
+          <span class="score-bar" title="Quality score: 70/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">70</span></span>
         </div>
       </div>
       </div>
