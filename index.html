@@ -246,7 +246,7 @@
   <div class="header-inner">
     <div class="logo">AI Digest<span class="logo-dot">.</span></div>
     <div class="header-meta">
-      <span class="header-date" id="header-date" data-utc="2026-03-27T13:31:52Z">Friday, March 27, 2026 — 13:31 UTC</span>
+      <span class="header-date" id="header-date" data-utc="2026-03-27T14:23:23Z">Friday, March 27, 2026 — 14:23 UTC</span>
       <script>
         (function() {
           var el = document.getElementById('header-date');
@@ -259,7 +259,7 @@
       <span class="header-updated" id="header-updated">Updated just now</span>
       <script>
         (function() {
-          var builtAt = new Date("2026-03-27T13:31:52Z");
+          var builtAt = new Date("2026-03-27T14:23:23Z");
           function updateAge() {
             var mins = Math.floor((Date.now() - builtAt.getTime()) / 60000);
             var el = document.getElementById('header-updated');
@@ -275,14 +275,14 @@
           setInterval(updateAge, 60000);
         })();
       </script>
-      <span class="header-count">19 stories</span>
+      <span class="header-count">20 stories</span>
     </div>
   </div>
 </header>
 
 <main>
   <div class="tldr-box">
-    <p class="tldr-text">A federal judge blocked the Pentagon&#x27;s attempt to label Anthropic with a supply chain risk designation, while multiple companies including Mistral, Cohere, and Google released new open-source and commercial AI models for speech generation and audio processing. Additionally, Anthropic reduced Claude Code&#x27;s usage limits to 5 hours, and researchers published advances in LLM quantization techniques achieving significant memory savings.</p>
+    <p class="tldr-text">Google DeepMind released Gemini 3.1 Flash with improved audio capabilities and launched Lyria 3 Pro for extended music generation, while Anthropic is reportedly testing an upgraded model called Claude Mythos and reduced Claude Code&#x27;s usage limits to 5 hours. Additionally, open-source developments include Chroma&#x27;s Context-1 search agent, Mistral&#x27;s speech generation model, Cohere&#x27;s transcription-focused voice model, and TurboQuant&#x27;s 4-bit quantization technique achieving 3.2× memory savings for LLMs.</p>
   </div>
 
   
@@ -291,14 +291,62 @@
       <div class="cards">
       <div class="card">
         <div class="card-header">
+          <a class="card-title" href="https://huggingface.co/chromadb/context-1" target="_blank" rel="noopener noreferrer">chromadb/context-1: 20B parameter agentic search model</a>
+        </div>
+        <p class="item-summary">Chroma releases a 20B parameter agentic search model with potential practical applications.</p>
+        <div class="card-meta">
+          <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1s506gc/chromadbcontext1_20b_parameter_agentic_search/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
+          
+          <span class="age">4h ago</span>
+          <span class="score-bar" title="Quality score: 76/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">76</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
           <a class="card-title" href="https://twitter.com/trq212/status/2037254607001559305" target="_blank" rel="noopener noreferrer">Claude Code adjusting down 5hr limits</a>
         </div>
-        <p class="item-summary">Official product change to Claude Code time limits represents genuine product news worth noting.</p>
+        <p class="item-summary">Claude Code usage limits reportedly adjusted downward, potentially significant for users.</p>
         <div class="card-meta">
           <a class="source" href="https://news.ycombinator.com/item?id=47535027" target="_blank" rel="noopener noreferrer">Hacker News</a>
-          <span class="upvotes">▲ 34  💬 15</span>
-          <span class="age">17h ago</span>
+          <span class="upvotes">▲ 35  💬 15</span>
+          <span class="age">18h ago</span>
           <span class="score-bar" title="Quality score: 74/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">74</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://www.reddit.com/r/LocalLLaMA/comments/1s4immu/adambench_a_benchmark_for_local_llms_for_agentic/" target="_blank" rel="noopener noreferrer">AdamBench - a benchmark for local LLMs for agentic coding (on RTX5080 16Gb + 64Gb RAM)</a>
+        </div>
+        <p class="item-summary">User-created benchmark for local LLMs on specific hardware with limited third-party validation.</p>
+        <div class="card-meta">
+          <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1s4immu/adambench_a_benchmark_for_local_llms_for_agentic/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
+          
+          <span class="age">18h ago</span>
+          <span class="score-bar" title="Quality score: 70/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">70</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="http://www.octopodas.com" target="_blank" rel="noopener noreferrer">Built an MCP server that turns Claude Code into a full agent operating system with persistent memory, loop detection, and audit trails</a>
+        </div>
+        <p class="item-summary">Individual project extending Claude Code capabilities; interesting but niche use case.</p>
+        <div class="card-meta">
+          <a class="source" href="https://www.reddit.com/r/ClaudeAI/comments/1s4gz18/built_an_mcp_server_that_turns_claude_code_into_a/" target="_blank" rel="noopener noreferrer">r/ClaudeAI</a>
+          
+          <span class="age">19h ago</span>
+          <span class="score-bar" title="Quality score: 70/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">70</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://www.reddit.com/r/ClaudeAI/comments/1s4q60a/built_an_mcp_server_with_claude_code_that_gives/" target="_blank" rel="noopener noreferrer">Built an MCP server with Claude Code that gives Claude access to 4M+ real US court opinions</a>
+        </div>
+        <p class="item-summary">Individual MCP server project integrating court data with Claude; noteworthy application but limited broader impact.</p>
+        <div class="card-meta">
+          <a class="source" href="https://www.reddit.com/r/ClaudeAI/comments/1s4q60a/built_an_mcp_server_with_claude_code_that_gives/" target="_blank" rel="noopener noreferrer">r/ClaudeAI</a>
+          
+          <span class="age">13h ago</span>
+          <span class="score-bar" title="Quality score: 70/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">70</span></span>
         </div>
       </div>
       <div class="card">
@@ -309,20 +357,8 @@
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/OpenAI/comments/1s4e7cg/gpt_54_thinking_guardrails_off_the_rails/" target="_blank" rel="noopener noreferrer">r/openai</a>
           
-          <span class="age">19h ago</span>
+          <span class="age">20h ago</span>
           <span class="score-bar" title="Quality score: 70/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">70</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://www.reddit.com/r/OpenAI/comments/1s517l2/codex_v01170_now_supports_plugins_heres_a_simple/" target="_blank" rel="noopener noreferrer">Codex v0.117.0 now supports plugins. Here’s a simple visual explainer.</a>
-        </div>
-        <p class="item-summary">Claims about Codex version supporting plugins require verification against official sources.</p>
-        <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/OpenAI/comments/1s517l2/codex_v01170_now_supports_plugins_heres_a_simple/" target="_blank" rel="noopener noreferrer">r/openai</a>
-          
-          <span class="age">2h ago</span>
-          <span class="score-bar" title="Quality score: 68/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">68</span></span>
         </div>
       </div>
       </div>
@@ -332,21 +368,9 @@
       <div class="cards">
       <div class="card">
         <div class="card-header">
-          <a class="card-title" href="https://techcrunch.com/2026/03/26/mistral-releases-a-new-open-source-model-for-speech-generation/" target="_blank" rel="noopener noreferrer">Mistral releases a new open source model for speech generation</a>
-        </div>
-        <p class="item-summary">Mistral releases new open-source speech generation model, a significant product development.</p>
-        <div class="card-meta">
-          <a class="source" href="https://techcrunch.com/2026/03/26/mistral-releases-a-new-open-source-model-for-speech-generation/" target="_blank" rel="noopener noreferrer">TechCrunch AI</a>
-          
-          <span class="age">1d ago</span>
-          <span class="score-bar" title="Quality score: 84/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">84</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
           <a class="card-title" href="https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/" target="_blank" rel="noopener noreferrer">Gemini 3.1 Flash Live: Making audio AI more natural and reliable</a>
         </div>
-        <p class="item-summary">Official Google DeepMind announcement of Gemini 3.1 Flash Live with audio improvements is significant product news.</p>
+        <p class="item-summary">Google releases Gemini 3.1 Flash Live for audio AI with improved naturalness and reliability.</p>
         <div class="card-meta">
           <a class="source" href="https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/" target="_blank" rel="noopener noreferrer">Google DeepMind</a>
           
@@ -356,24 +380,48 @@
       </div>
       <div class="card">
         <div class="card-header">
+          <a class="card-title" href="https://fortune.com/2026/03/26/anthropic-says-testing-mythos-powerful-new-ai-model-after-data-leak-reveals-its-existence-step-change-in-capabilities/" target="_blank" rel="noopener noreferrer">A leak reveals that Anthropic is testing a more capable AI model &quot;Claude Mythos&quot;</a>
+        </div>
+        <p class="item-summary">Reports reveal Anthropic testing more capable Claude Mythos model, major news if authenticated.</p>
+        <div class="card-meta">
+          <a class="source" href="https://news.ycombinator.com/item?id=47538795" target="_blank" rel="noopener noreferrer">Hacker News</a>
+          <span class="upvotes">▲ 30  💬 16</span>
+          <span class="age">11h ago</span>
+          <span class="score-bar" title="Quality score: 78/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">78</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://techcrunch.com/2026/03/26/mistral-releases-a-new-open-source-model-for-speech-generation/" target="_blank" rel="noopener noreferrer">Mistral releases a new open source model for speech generation</a>
+        </div>
+        <p class="item-summary">Mistral releases new open-source speech generation model, significant for open-source community.</p>
+        <div class="card-meta">
+          <a class="source" href="https://techcrunch.com/2026/03/26/mistral-releases-a-new-open-source-model-for-speech-generation/" target="_blank" rel="noopener noreferrer">TechCrunch AI</a>
+          
+          <span class="age">1d ago</span>
+          <span class="score-bar" title="Quality score: 78/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">78</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
           <a class="card-title" href="https://techcrunch.com/2026/03/26/cohere-launches-an-open-source-voice-model-specifically-for-transcription/" target="_blank" rel="noopener noreferrer">Cohere launches an open source voice model specifically for transcription</a>
         </div>
-        <p class="item-summary">Cohere launches open-source transcription voice model, a significant product release.</p>
+        <p class="item-summary">Cohere launches open-source voice model optimized for transcription, significant contribution.</p>
         <div class="card-meta">
           <a class="source" href="https://techcrunch.com/2026/03/26/cohere-launches-an-open-source-voice-model-specifically-for-transcription/" target="_blank" rel="noopener noreferrer">TechCrunch AI</a>
           
           <span class="age">1d ago</span>
-          <span class="score-bar" title="Quality score: 80/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">80</span></span>
+          <span class="score-bar" title="Quality score: 74/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">74</span></span>
         </div>
       </div>
       <div class="card">
         <div class="card-header">
           <a class="card-title" href="https://github.com/itigges22/ATLAS" target="_blank" rel="noopener noreferrer">$500 GPU outperforms Claude Sonnet on coding benchmarks</a>
         </div>
-        <p class="item-summary">Claims about a $500 GPU outperforming Claude Sonnet on coding benchmarks lack sufficient detail and credibility verification.</p>
+        <p class="item-summary">Claims about a $500 GPU outperforming Claude Sonnet lack sufficient context and verifiable benchmarking details.</p>
         <div class="card-meta">
           <a class="source" href="https://news.ycombinator.com/item?id=47533297" target="_blank" rel="noopener noreferrer">Hacker News</a>
-          <span class="upvotes">▲ 357  💬 204</span>
+          <span class="upvotes">▲ 382  💬 217</span>
           <span class="age">20h ago</span>
           <span class="score-bar" title="Quality score: 70/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">70</span></span>
         </div>
@@ -387,23 +435,23 @@
         <div class="card-header">
           <a class="card-title" href="https://www.trychroma.com/research/context-1" target="_blank" rel="noopener noreferrer">Chroma Context-1: Training a Self-Editing Search Agent</a>
         </div>
-        <p class="item-summary">Chroma research on self-editing search agents represents substantive technical research contribution.</p>
+        <p class="item-summary">Official Chroma research paper on self-editing search agents represents substantive technical work.</p>
         <div class="card-meta">
           <a class="source" href="https://news.ycombinator.com/item?id=47534564" target="_blank" rel="noopener noreferrer">Hacker News</a>
-          <span class="upvotes">▲ 58  💬 7</span>
+          <span class="upvotes">▲ 59  💬 8</span>
           <span class="age">18h ago</span>
-          <span class="score-bar" title="Quality score: 78/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">78</span></span>
+          <span class="score-bar" title="Quality score: 84/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">84</span></span>
         </div>
       </div>
       <div class="card">
         <div class="card-header">
           <a class="card-title" href="https://www.reddit.com/r/LocalLLaMA/comments/1s4p922/consolidated_my_homelab_from_3_models_down_to_one/" target="_blank" rel="noopener noreferrer">Consolidated my homelab from 3 models down to one 122B MoE — benchmarked everything, here&#x27;s what I found</a>
         </div>
-        <p class="item-summary">Homelab consolidation benchmarking provides useful practical comparison but limited broader significance.</p>
+        <p class="item-summary">Detailed personal benchmark consolidating multiple models into one 122B MoE; useful empirical data.</p>
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1s4p922/consolidated_my_homelab_from_3_models_down_to_one/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
           
-          <span class="age">12h ago</span>
+          <span class="age">13h ago</span>
           <span class="score-bar" title="Quality score: 68/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">68</span></span>
         </div>
       </div>
@@ -411,48 +459,12 @@
         <div class="card-header">
           <a class="card-title" href="https://i.redd.it/cvoyc71rujrg1.png" target="_blank" rel="noopener noreferrer">I benchmarked 31 STT models on medical audio — VibeVoice 9B is the new open-source leader at 8.34% WER, but it&#x27;s big and slow</a>
         </div>
-        <p class="item-summary">Comprehensive benchmarking of speech-to-text models on medical audio is technically solid but limited in scope.</p>
+        <p class="item-summary">Comprehensive benchmark of 31 speech-to-text models on medical audio with identified leader.</p>
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1s4z18o/i_benchmarked_31_stt_models_on_medical_audio/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
           
-          <span class="age">4h ago</span>
+          <span class="age">5h ago</span>
           <span class="score-bar" title="Quality score: 68/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">68</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://www.reddit.com/r/MachineLearning/comments/1s4hxgu/d_1m_tokenssecond_serving_qwen_35_27b_on_b200/" target="_blank" rel="noopener noreferrer">[D] - 1M tokens/second serving Qwen 3.5 27B on B200 GPUs, benchmark results and findings</a>
-        </div>
-        
-        <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/MachineLearning/comments/1s4hxgu/d_1m_tokenssecond_serving_qwen_35_27b_on_b200/" target="_blank" rel="noopener noreferrer">r/MachineLearning</a>
-          
-          <span class="age">17h ago</span>
-          <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://www.reddit.com/r/MachineLearning/comments/1s4o5vu/r_interested_in_recent_research_into_recall_vs/" target="_blank" rel="noopener noreferrer">[R] Interested in recent research into recall vs recognition in LLMs</a>
-        </div>
-        
-        <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/MachineLearning/comments/1s4o5vu/r_interested_in_recent_research_into_recall_vs/" target="_blank" rel="noopener noreferrer">r/MachineLearning</a>
-          
-          <span class="age">13h ago</span>
-          <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://www.reddit.com/r/LocalLLaMA/comments/1s4bggo/benchmarked_qwen35_35b_moe_27b_dense_122b_moe/" target="_blank" rel="noopener noreferrer">Benchmarked Qwen3.5 (35B MoE, 27B Dense, 122B MoE) across Apple Silicon and AMD GPUs — ROCm vs Vulkan results were surprising, and context size matters</a>
-        </div>
-        
-        <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1s4bggo/benchmarked_qwen35_35b_moe_27b_dense_122b_moe/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
-          
-          <span class="age">21h ago</span>
-          <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
         </div>
       </div>
       </div>
@@ -462,59 +474,23 @@
       <div class="cards">
       <div class="card">
         <div class="card-header">
-          <a class="card-title" href="https://www.cnn.com/2026/03/26/business/anthropic-pentagon-injunction-supply-chain-risk" target="_blank" rel="noopener noreferrer">Judge blocks Pentagon effort to &#x27;punish&#x27; Anthropic with supply chain risk label</a>
+          <a class="card-title" href="https://www.reddit.com/r/LocalLLaMA/comments/1s51b5h/turboquant_for_weights_nearoptimal_4bit_llm/" target="_blank" rel="noopener noreferrer">TurboQuant for weights: near‑optimal 4‑bit LLM quantization with lossless 8‑bit residual – 3.2× memory savings</a>
         </div>
-        <p class="item-summary">Court blocks Pentagon effort to apply supply chain risk label to Anthropic, significant regulatory/legal development.</p>
+        <p class="item-summary">TurboQuant presents novel quantization technique achieving 3.2x memory savings, meaningful technical contribution.</p>
         <div class="card-meta">
-          <a class="source" href="https://news.ycombinator.com/item?id=47537228" target="_blank" rel="noopener noreferrer">Hacker News</a>
-          <span class="upvotes">▲ 403  💬 207</span>
-          <span class="age">13h ago</span>
-          <span class="score-bar" title="Quality score: 82/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">82</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://storage.courtlistener.com/recap/gov.uscourts.cand.465515/gov.uscourts.cand.465515.134.0.pdf" target="_blank" rel="noopener noreferrer">Order Granting Preliminary Injunction – Anthropic vs. U.S. Department of War [pdf]</a>
-        </div>
-        <p class="item-summary">Judicial order granting preliminary injunction in Anthropic vs. Department of Defense lawsuit is major legal news.</p>
-        <div class="card-meta">
-          <a class="source" href="https://news.ycombinator.com/item?id=47537051" target="_blank" rel="noopener noreferrer">Hacker News</a>
-          <span class="upvotes">▲ 157  💬 30</span>
-          <span class="age">14h ago</span>
-          <span class="score-bar" title="Quality score: 82/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">82</span></span>
+          <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1s51b5h/turboquant_for_weights_nearoptimal_4bit_llm/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
+          
+          <span class="age">3h ago</span>
+          <span class="score-bar" title="Quality score: 74/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">74</span></span>
         </div>
       </div>
       <div class="card">
         <div class="card-header">
           <a class="card-title" href="https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/" target="_blank" rel="noopener noreferrer">Lyria 3 Pro: Create longer tracks in more</a>
         </div>
-        <p class="item-summary">Google announces Lyria 3 Pro music generation with extended track creation capability.</p>
+        <p class="item-summary">Google releases Lyria 3 Pro for extended music generation with improved capabilities.</p>
         <div class="card-meta">
           <a class="source" href="https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/" target="_blank" rel="noopener noreferrer">Google DeepMind</a>
-          
-          <span class="age">1d ago</span>
-          <span class="score-bar" title="Quality score: 78/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">78</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://www.reddit.com/r/LocalLLaMA/comments/1s51b5h/turboquant_for_weights_nearoptimal_4bit_llm/" target="_blank" rel="noopener noreferrer">TurboQuant for weights: near‑optimal 4‑bit LLM quantization with lossless 8‑bit residual – 3.2× memory savings</a>
-        </div>
-        <p class="item-summary">TurboQuant quantization technique achieving significant memory savings represents substantive technical advancement.</p>
-        <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1s51b5h/turboquant_for_weights_nearoptimal_4bit_llm/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
-          
-          <span class="age">2h ago</span>
-          <span class="score-bar" title="Quality score: 74/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">74</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://deepmind.google/blog/protecting-people-from-harmful-manipulation/" target="_blank" rel="noopener noreferrer">Protecting people from harmful manipulation</a>
-        </div>
-        <p class="item-summary">Google DeepMind research on protecting against harmful manipulation addresses important AI safety concern.</p>
-        <div class="card-meta">
-          <a class="source" href="https://deepmind.google/blog/protecting-people-from-harmful-manipulation/" target="_blank" rel="noopener noreferrer">Google DeepMind</a>
           
           <span class="age">1d ago</span>
           <span class="score-bar" title="Quality score: 72/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">72</span></span>
@@ -522,12 +498,48 @@
       </div>
       <div class="card">
         <div class="card-header">
-          <a class="card-title" href="https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai" target="_blank" rel="noopener noreferrer">New York City hospitals drop Palantir as controversial AI firm expands in UK</a>
+          <a class="card-title" href="https://code.claude.com/docs/en/web-scheduled-tasks" target="_blank" rel="noopener noreferrer">Schedule tasks on the web</a>
         </div>
         
         <div class="card-meta">
-          <a class="source" href="https://news.ycombinator.com/item?id=47535371" target="_blank" rel="noopener noreferrer">Hacker News</a>
-          <span class="upvotes">▲ 294  💬 141</span>
+          <a class="source" href="https://news.ycombinator.com/item?id=47539188" target="_blank" rel="noopener noreferrer">Hacker News</a>
+          <span class="upvotes">▲ 212  💬 167</span>
+          <span class="age">9h ago</span>
+          <span class="score-bar" title="Quality score: 70/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">70</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://www.cnn.com/2026/03/26/business/anthropic-pentagon-injunction-supply-chain-risk" target="_blank" rel="noopener noreferrer">Judge blocks Pentagon effort to &#x27;punish&#x27; Anthropic with supply chain risk label</a>
+        </div>
+        
+        <div class="card-meta">
+          <a class="source" href="https://news.ycombinator.com/item?id=47537228" target="_blank" rel="noopener noreferrer">Hacker News</a>
+          <span class="upvotes">▲ 407  💬 214</span>
+          <span class="age">14h ago</span>
+          <span class="score-bar" title="Quality score: 70/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">70</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://storage.courtlistener.com/recap/gov.uscourts.cand.465515/gov.uscourts.cand.465515.134.0.pdf" target="_blank" rel="noopener noreferrer">Order Granting Preliminary Injunction – Anthropic vs. U.S. Department of War [pdf]</a>
+        </div>
+        
+        <div class="card-meta">
+          <a class="source" href="https://news.ycombinator.com/item?id=47537051" target="_blank" rel="noopener noreferrer">Hacker News</a>
+          <span class="upvotes">▲ 158  💬 34</span>
+          <span class="age">15h ago</span>
+          <span class="score-bar" title="Quality score: 70/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">70</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://trust.anthropic.com" target="_blank" rel="noopener noreferrer">Anthropic Subprocessor Changes</a>
+        </div>
+        
+        <div class="card-meta">
+          <a class="source" href="https://news.ycombinator.com/item?id=47536110" target="_blank" rel="noopener noreferrer">Hacker News</a>
+          <span class="upvotes">▲ 98  💬 44</span>
           <span class="age">16h ago</span>
           <span class="score-bar" title="Quality score: 70/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">70</span></span>
         </div>
