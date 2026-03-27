@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="refresh" content="300">
-  <title>AI Digest — 2026-03-26</title>
+  <title>AI Digest — 2026-03-27</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
@@ -194,6 +194,11 @@
       padding: 2px 7px;
       border-radius: 4px;
       border: 1px solid var(--border);
+      text-decoration: none;
+    }
+    a.source:hover {
+      color: var(--accent);
+      border-color: var(--accent);
     }
     .upvotes {
       font-size: 12px;
@@ -241,7 +246,7 @@
   <div class="header-inner">
     <div class="logo">AI Digest<span class="logo-dot">.</span></div>
     <div class="header-meta">
-      <span class="header-date" id="header-date" data-utc="2026-03-26T23:09:00Z">Thursday, March 26, 2026 — 23:09 UTC</span>
+      <span class="header-date" id="header-date" data-utc="2026-03-27T00:30:00Z">Friday, March 27, 2026 — 00:30 UTC</span>
       <script>
         (function() {
           var el = document.getElementById('header-date');
@@ -254,7 +259,7 @@
       <span class="header-updated" id="header-updated">Updated just now</span>
       <script>
         (function() {
-          var builtAt = new Date("2026-03-26T23:09:00Z");
+          var builtAt = new Date("2026-03-27T00:30:00Z");
           function updateAge() {
             var mins = Math.floor((Date.now() - builtAt.getTime()) / 60000);
             var el = document.getElementById('header-updated');
@@ -277,7 +282,9 @@
 
 <main>
   <div class="tldr-box">
-    <p class="tldr-text">Google DeepMind released Gemini 3.1 Flash Live for more natural audio AI interactions and Lyria 3 Pro for extended music generation, while Mistral AI introduced Voxtral, an open-weights text-to-speech model claiming superior performance to ElevenLabs Flash v2.5 with faster latency and multi-language support. OpenAI launched a safety bug bounty program and published documentation on its Model Spec approach to AI alignment, while Cohere released an open-source voice transcription model and Anthropic enabled offline Claude Code execution on local devices.</p>
+    <p class="tldr-text"># Summary
+
+Mistral AI released Voxtral, an open-weights text-to-speech model with 3 billion parameters that reportedly outperformed ElevenLabs Flash v2.5 in human preference tests while running on minimal hardware and achieving 90-millisecond latency across nine languages. Meanwhile, Google and Cohere also advanced open-source speech AI capabilities, with Google launching Gemini 3.1 Flash Live for natural audio interactions and Cohere releasing a specialized transcription voice model.</p>
   </div>
 
   
@@ -286,61 +293,25 @@
       <div class="cards">
       <div class="card">
         <div class="card-header">
-          <a class="card-title" href="https://simonwillison.net/2026/Mar/24/auto-mode-for-claude-code/#atom-everything" target="_blank" rel="noopener noreferrer">Auto mode for Claude Code</a>
-        </div>
-        <p class="item-summary">Coverage of new auto mode feature for Claude Code by respected tech writer.</p>
-        <div class="card-meta">
-          <span class="source">Simon Willison</span>
-          
-          <span class="age">1d ago</span>
-          <span class="score-bar" title="Quality score: 80/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">80</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
           <a class="card-title" href="https://www.reddit.com/r/ClaudeAI/comments/1s43b8w/running_claude_code_fully_offline_on_a_macbook_no/" target="_blank" rel="noopener noreferrer">Running Claude Code fully offline on a MacBook — no API key, no cloud, 17s per task</a>
         </div>
-        <p class="item-summary">Developer claims to run Claude-like capabilities offline on MacBook with 17s task execution.</p>
+        <p class="item-summary">User claims to run Claude Code offline on MacBook with reported 17s task time.</p>
         <div class="card-meta">
-          <span class="source">r/ClaudeAI</span>
+          <a class="source" href="https://www.reddit.com/r/ClaudeAI/comments/1s43b8w/running_claude_code_fully_offline_on_a_macbook_no/" target="_blank" rel="noopener noreferrer">r/ClaudeAI</a>
           
-          <span class="age">13h ago</span>
-          <span class="score-bar" title="Quality score: 76/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">76</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://lab.puga.com.br/cog/" target="_blank" rel="noopener noreferrer">Show HN: A plain-text cognitive architecture for Claude Code</a>
-        </div>
-        <p class="item-summary">A developer created a plain-text cognitive architecture tool for Claude Code.</p>
-        <div class="card-meta">
-          <span class="source">Hacker News</span>
-          <span class="upvotes">▲ 139  💬 46</span>
-          <span class="age">23h ago</span>
+          <span class="age">14h ago</span>
           <span class="score-bar" title="Quality score: 70/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">70</span></span>
         </div>
       </div>
       <div class="card">
         <div class="card-header">
-          <a class="card-title" href="https://www.reddit.com/r/ClaudeAI/comments/1s3wt3n/rag_is_a_trap_for_claude_code_i_built_a_dagbased/" target="_blank" rel="noopener noreferrer">RAG is a trap for Claude Code. I built a DAG-based context compiler that cut my Opus token usage by 12x.</a>
+          <a class="card-title" href="http://www.octopodas.com" target="_blank" rel="noopener noreferrer">Built an MCP server that turns Claude Code into a full agent operating system with persistent memory, loop detection, and audit trails</a>
         </div>
-        <p class="item-summary">Individual reports using DAG-based context compiler to reduce token usage.</p>
+        <p class="item-summary">User built MCP server extending Claude Code with agent features like persistent memory.</p>
         <div class="card-meta">
-          <span class="source">r/ClaudeAI</span>
+          <a class="source" href="https://www.reddit.com/r/ClaudeAI/comments/1s4gz18/built_an_mcp_server_that_turns_claude_code_into_a/" target="_blank" rel="noopener noreferrer">r/ClaudeAI</a>
           
-          <span class="age">19h ago</span>
-          <span class="score-bar" title="Quality score: 70/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">70</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://www.reddit.com/r/ClaudeAI/comments/1s4gz18/built_an_mcp_server_that_turns_claude_code_into_a/" target="_blank" rel="noopener noreferrer">Built an MCP server that turns Claude Code into a full agent operating system with persistent memory, loop detection, and audit trails</a>
-        </div>
-        <p class="item-summary">Developer built an MCP server adding agent OS features to Claude Code.</p>
-        <div class="card-meta">
-          <span class="source">r/ClaudeAI</span>
-          
-          <span class="age">3h ago</span>
+          <span class="age">5h ago</span>
           <span class="score-bar" title="Quality score: 70/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">70</span></span>
         </div>
       </div>
@@ -350,10 +321,22 @@
         </div>
         
         <div class="card-meta">
-          <span class="source">r/openai</span>
+          <a class="source" href="https://www.reddit.com/r/OpenAI/comments/1s4e7cg/gpt_54_thinking_guardrails_off_the_rails/" target="_blank" rel="noopener noreferrer">r/openai</a>
           
-          <span class="age">5h ago</span>
+          <span class="age">6h ago</span>
           <span class="score-bar" title="Quality score: 70/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">70</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://www.reddit.com/r/ClaudeAI/comments/1s3wt3n/rag_is_a_trap_for_claude_code_i_built_a_dagbased/" target="_blank" rel="noopener noreferrer">RAG is a trap for Claude Code. I built a DAG-based context compiler that cut my Opus token usage by 12x.</a>
+        </div>
+        <p class="item-summary">User reports building a DAG-based context compiler reducing token usage significantly.</p>
+        <div class="card-meta">
+          <a class="source" href="https://www.reddit.com/r/ClaudeAI/comments/1s3wt3n/rag_is_a_trap_for_claude_code_i_built_a_dagbased/" target="_blank" rel="noopener noreferrer">r/ClaudeAI</a>
+          
+          <span class="age">20h ago</span>
+          <span class="score-bar" title="Quality score: 64/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">64</span></span>
         </div>
       </div>
       </div>
@@ -363,35 +346,11 @@
       <div class="cards">
       <div class="card">
         <div class="card-header">
-          <a class="card-title" href="https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/" target="_blank" rel="noopener noreferrer">Gemini 3.1 Flash Live: Making audio AI more natural and reliable</a>
-        </div>
-        <p class="item-summary">Google announced Gemini 3.1 Flash Live with improved real-time audio capabilities.</p>
-        <div class="card-meta">
-          <span class="source">Google DeepMind</span>
-          
-          <span class="age">7h ago</span>
-          <span class="score-bar" title="Quality score: 88/100"><span class="bar-filled">█████████</span><span class="bar-empty">░</span> <span class="score-num">88</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
           <a class="card-title" href="https://www.reddit.com/r/LocalLLaMA/comments/1s46ylj/mistral_ai_to_release_voxtral_tts_a/" target="_blank" rel="noopener noreferrer">Mistral AI to release Voxtral TTS, a 3-billion-parameter text-to-speech model with open weights that the company says outperformed ElevenLabs Flash v2.5 in human preference tests. The model runs on about 3 GB of RAM, achieves 90-millisecond time-to-first-audio, supports nine languages.</a>
         </div>
-        <p class="item-summary">Mistral AI announced Voxtral, an open-weights TTS model outperforming commercial alternatives.</p>
+        <p class="item-summary">Mistral AI announces Voxtral TTS, 3B parameter open-weight model with reported performance gains over ElevenLabs.</p>
         <div class="card-meta">
-          <span class="source">r/LocalLLaMA</span>
-          
-          <span class="age">10h ago</span>
-          <span class="score-bar" title="Quality score: 84/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">84</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://techcrunch.com/2026/03/26/mistral-releases-a-new-open-source-model-for-speech-generation/" target="_blank" rel="noopener noreferrer">Mistral releases a new open source model for speech generation</a>
-        </div>
-        <p class="item-summary">Mistral released an open-source speech generation model.</p>
-        <div class="card-meta">
-          <span class="source">TechCrunch AI</span>
+          <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1s46ylj/mistral_ai_to_release_voxtral_tts_a/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
           
           <span class="age">11h ago</span>
           <span class="score-bar" title="Quality score: 84/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">84</span></span>
@@ -399,26 +358,50 @@
       </div>
       <div class="card">
         <div class="card-header">
-          <a class="card-title" href="https://techcrunch.com/2026/03/26/cohere-launches-an-open-source-voice-model-specifically-for-transcription/" target="_blank" rel="noopener noreferrer">Cohere launches an open source voice model specifically for transcription</a>
+          <a class="card-title" href="https://techcrunch.com/2026/03/26/mistral-releases-a-new-open-source-model-for-speech-generation/" target="_blank" rel="noopener noreferrer">Mistral releases a new open source model for speech generation</a>
         </div>
-        <p class="item-summary">Cohere released an open-source speech-to-text model optimized for transcription.</p>
+        <p class="item-summary">Mistral releases open source speech generation model.</p>
         <div class="card-meta">
-          <span class="source">TechCrunch AI</span>
+          <a class="source" href="https://techcrunch.com/2026/03/26/mistral-releases-a-new-open-source-model-for-speech-generation/" target="_blank" rel="noopener noreferrer">TechCrunch AI</a>
+          
+          <span class="age">13h ago</span>
+          <span class="score-bar" title="Quality score: 84/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">84</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/" target="_blank" rel="noopener noreferrer">Gemini 3.1 Flash Live: Making audio AI more natural and reliable</a>
+        </div>
+        <p class="item-summary">Google announces Gemini 3.1 Flash Live with improvements to audio AI naturalness.</p>
+        <div class="card-meta">
+          <a class="source" href="https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/" target="_blank" rel="noopener noreferrer">Google DeepMind</a>
           
           <span class="age">9h ago</span>
+          <span class="score-bar" title="Quality score: 82/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">82</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://techcrunch.com/2026/03/26/cohere-launches-an-open-source-voice-model-specifically-for-transcription/" target="_blank" rel="noopener noreferrer">Cohere launches an open source voice model specifically for transcription</a>
+        </div>
+        <p class="item-summary">Cohere launches open source voice model specifically designed for transcription.</p>
+        <div class="card-meta">
+          <a class="source" href="https://techcrunch.com/2026/03/26/cohere-launches-an-open-source-voice-model-specifically-for-transcription/" target="_blank" rel="noopener noreferrer">TechCrunch AI</a>
+          
+          <span class="age">11h ago</span>
           <span class="score-bar" title="Quality score: 80/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">80</span></span>
         </div>
       </div>
       <div class="card">
         <div class="card-header">
-          <a class="card-title" href="https://www.techpowerup.com/347703/intel-announces-arc-pro-b70-and-arc-pro-b65-gpus-maxes-out-xe2-battlemage-architecture" target="_blank" rel="noopener noreferrer">Intel Announces Arc Pro B70 and Arc Pro B65 GPUs</a>
+          <a class="card-title" href="https://github.com/itigges22/ATLAS" target="_blank" rel="noopener noreferrer">$500 GPU outperforms Claude Sonnet on coding benchmarks</a>
         </div>
-        
+        <p class="item-summary">Research project claims $500 GPU outperforms Claude Sonnet on coding benchmarks.</p>
         <div class="card-meta">
-          <span class="source">Hacker News</span>
-          <span class="upvotes">▲ 135  💬 84</span>
-          <span class="age">8h ago</span>
-          <span class="score-bar" title="Quality score: 70/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">70</span></span>
+          <a class="source" href="https://news.ycombinator.com/item?id=47533297" target="_blank" rel="noopener noreferrer">Hacker News</a>
+          <span class="upvotes">▲ 32  💬 7</span>
+          <span class="age">6h ago</span>
+          <span class="score-bar" title="Quality score: 78/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">78</span></span>
         </div>
       </div>
       <div class="card">
@@ -427,9 +410,9 @@
         </div>
         
         <div class="card-meta">
-          <span class="source">r/MachineLearning</span>
+          <a class="source" href="https://www.reddit.com/r/MachineLearning/comments/1s40a34/r_arc_round_3_released_technical_report/" target="_blank" rel="noopener noreferrer">r/MachineLearning</a>
           
-          <span class="age">16h ago</span>
+          <span class="age">17h ago</span>
           <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
         </div>
       </div>
@@ -444,9 +427,9 @@
         </div>
         
         <div class="card-meta">
-          <span class="source">r/MachineLearning</span>
+          <a class="source" href="https://www.reddit.com/r/MachineLearning/comments/1s4hxgu/d_1m_tokenssecond_serving_qwen_35_27b_on_b200/" target="_blank" rel="noopener noreferrer">r/MachineLearning</a>
           
-          <span class="age">3h ago</span>
+          <span class="age">4h ago</span>
           <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
         </div>
       </div>
@@ -456,9 +439,33 @@
         </div>
         
         <div class="card-meta">
-          <span class="source">r/MachineLearning</span>
+          <a class="source" href="https://www.reddit.com/r/MachineLearning/comments/1s43b2e/d_probabilistic_neuron_activation_in_predictive/" target="_blank" rel="noopener noreferrer">r/MachineLearning</a>
           
-          <span class="age">13h ago</span>
+          <span class="age">14h ago</span>
+          <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://www.reddit.com/r/LocalLLaMA/comments/1s4bggo/benchmarked_qwen35_35b_moe_27b_dense_122b_moe/" target="_blank" rel="noopener noreferrer">Benchmarked Qwen3.5 (35B MoE, 27B Dense, 122B MoE) across Apple Silicon and AMD GPUs — ROCm vs Vulkan results were surprising, and context size matters</a>
+        </div>
+        
+        <div class="card-meta">
+          <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1s4bggo/benchmarked_qwen35_35b_moe_27b_dense_122b_moe/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
+          
+          <span class="age">8h ago</span>
+          <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://www.reddit.com/r/LocalLLaMA/comments/1s4j8pb/i_created_an_llm_benchmark_and_i_still_cant/" target="_blank" rel="noopener noreferrer">I created an LLM benchmark and I still can&#x27;t believe how good Qwen3.5-122b performed</a>
+        </div>
+        
+        <div class="card-meta">
+          <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1s4j8pb/i_created_an_llm_benchmark_and_i_still_cant/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
+          
+          <span class="age">3h ago</span>
           <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
         </div>
       </div>
@@ -469,47 +476,35 @@
       <div class="cards">
       <div class="card">
         <div class="card-header">
-          <a class="card-title" href="https://openai.com/index/safety-bug-bounty" target="_blank" rel="noopener noreferrer">Introducing the OpenAI Safety Bug Bounty program</a>
-        </div>
-        <p class="item-summary">OpenAI announced an official safety bug bounty program.</p>
-        <div class="card-meta">
-          <span class="source">OpenAI Blog</span>
-          
-          <span class="age">1d ago</span>
-          <span class="score-bar" title="Quality score: 86/100"><span class="bar-filled">█████████</span><span class="bar-empty">░</span> <span class="score-num">86</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
           <a class="card-title" href="https://openai.com/index/our-approach-to-the-model-spec" target="_blank" rel="noopener noreferrer">Inside our approach to the Model Spec</a>
         </div>
-        <p class="item-summary">OpenAI published technical documentation on their Model Spec approach.</p>
+        <p class="item-summary">OpenAI publishes detailed approach to their Model Spec framework.</p>
         <div class="card-meta">
-          <span class="source">OpenAI Blog</span>
+          <a class="source" href="https://openai.com/index/our-approach-to-the-model-spec" target="_blank" rel="noopener noreferrer">OpenAI Blog</a>
           
           <span class="age">1d ago</span>
-          <span class="score-bar" title="Quality score: 84/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">84</span></span>
+          <span class="score-bar" title="Quality score: 90/100"><span class="bar-filled">█████████</span><span class="bar-empty">░</span> <span class="score-num">90</span></span>
         </div>
       </div>
       <div class="card">
         <div class="card-header">
-          <a class="card-title" href="https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/" target="_blank" rel="noopener noreferrer">Lyria 3 Pro: Create longer tracks in more</a>
+          <a class="card-title" href="https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai" target="_blank" rel="noopener noreferrer">New York City hospitals drop Palantir as controversial AI firm expands in UK</a>
         </div>
-        <p class="item-summary">Google announced Lyria 3 Pro with extended music generation capabilities.</p>
+        <p class="item-summary">News report that NYC hospitals discontinued Palantir AI contracts amid controversy.</p>
         <div class="card-meta">
-          <span class="source">Google DeepMind</span>
-          
-          <span class="age">1d ago</span>
-          <span class="score-bar" title="Quality score: 78/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">78</span></span>
+          <a class="source" href="https://news.ycombinator.com/item?id=47535371" target="_blank" rel="noopener noreferrer">Hacker News</a>
+          <span class="upvotes">▲ 263  💬 113</span>
+          <span class="age">3h ago</span>
+          <span class="score-bar" title="Quality score: 76/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">76</span></span>
         </div>
       </div>
       <div class="card">
         <div class="card-header">
           <a class="card-title" href="https://deepmind.google/blog/protecting-people-from-harmful-manipulation/" target="_blank" rel="noopener noreferrer">Protecting people from harmful manipulation</a>
         </div>
-        <p class="item-summary">Google DeepMind published research on protecting people from AI-enabled manipulation.</p>
+        <p class="item-summary">Google DeepMind publishes research on detecting and protecting against AI-driven manipulation.</p>
         <div class="card-meta">
-          <span class="source">Google DeepMind</span>
+          <a class="source" href="https://deepmind.google/blog/protecting-people-from-harmful-manipulation/" target="_blank" rel="noopener noreferrer">Google DeepMind</a>
           
           <span class="age">1d ago</span>
           <span class="score-bar" title="Quality score: 72/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">72</span></span>
@@ -517,25 +512,37 @@
       </div>
       <div class="card">
         <div class="card-header">
-          <a class="card-title" href="https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai" target="_blank" rel="noopener noreferrer">New York City hospitals drop Palantir as controversial AI firm expands in UK</a>
+          <a class="card-title" href="https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/" target="_blank" rel="noopener noreferrer">Lyria 3 Pro: Create longer tracks in more</a>
         </div>
-        <p class="item-summary">Major NYC hospitals discontinued use of Palantir AI as controversy surrounding the company grows.</p>
+        <p class="item-summary">Google announces Lyria 3 Pro music generation model with extended track capabilities.</p>
         <div class="card-meta">
-          <span class="source">Hacker News</span>
-          <span class="upvotes">▲ 184  💬 66</span>
-          <span class="age">2h ago</span>
+          <a class="source" href="https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/" target="_blank" rel="noopener noreferrer">Google DeepMind</a>
+          
+          <span class="age">1d ago</span>
+          <span class="score-bar" title="Quality score: 72/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">72</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion" target="_blank" rel="noopener noreferrer">AI users whose lives were wrecked by delusion</a>
+        </div>
+        
+        <div class="card-meta">
+          <a class="source" href="https://news.ycombinator.com/item?id=47530264" target="_blank" rel="noopener noreferrer">Hacker News</a>
+          <span class="upvotes">▲ 181  💬 235</span>
+          <span class="age">10h ago</span>
           <span class="score-bar" title="Quality score: 70/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">70</span></span>
         </div>
       </div>
       <div class="card">
         <div class="card-header">
-          <a class="card-title" href="https://futuresearch.ai/blog/litellm-attack-transcript/" target="_blank" rel="noopener noreferrer">My minute-by-minute response to the LiteLLM malware attack</a>
+          <a class="card-title" href="https://www.reddit.com/r/MachineLearning/comments/1s4i6h5/d_why_evaluating_only_final_outputs_is_misleading/" target="_blank" rel="noopener noreferrer">[D] Why evaluating only final outputs is misleading for local LLM agents</a>
         </div>
-        
+        <p class="item-summary">Discussion on r/MachineLearning about limitations of output-only evaluation for LLM agents.</p>
         <div class="card-meta">
-          <span class="source">Hacker News</span>
-          <span class="upvotes">▲ 260  💬 118</span>
-          <span class="age">7h ago</span>
+          <a class="source" href="https://www.reddit.com/r/MachineLearning/comments/1s4i6h5/d_why_evaluating_only_final_outputs_is_misleading/" target="_blank" rel="noopener noreferrer">r/MachineLearning</a>
+          
+          <span class="age">4h ago</span>
           <span class="score-bar" title="Quality score: 70/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">70</span></span>
         </div>
       </div>
