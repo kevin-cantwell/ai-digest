@@ -246,7 +246,7 @@
   <div class="header-inner">
     <div class="logo">AI Digest<span class="logo-dot">.</span></div>
     <div class="header-meta">
-      <span class="header-date" id="header-date" data-utc="2026-03-30T13:34:36Z">Monday, March 30, 2026 — 13:34 UTC</span>
+      <span class="header-date" id="header-date" data-utc="2026-03-30T14:34:41Z">Monday, March 30, 2026 — 14:34 UTC</span>
       <script>
         (function() {
           var el = document.getElementById('header-date');
@@ -259,7 +259,7 @@
       <span class="header-updated" id="header-updated">Updated just now</span>
       <script>
         (function() {
-          var builtAt = new Date("2026-03-30T13:34:36Z");
+          var builtAt = new Date("2026-03-30T14:34:41Z");
           function updateAge() {
             var mins = Math.floor((Date.now() - builtAt.getTime()) / 60000);
             var el = document.getElementById('header-updated');
@@ -282,9 +282,7 @@
 
 <main>
   <div class="tldr-box">
-    <p class="tldr-text"># Summary
-
-Claude Code users have discovered significant caching bugs that can unexpectedly increase API costs by 10-20x, and the tool automatically runs Git reset commands every 10 minutes that may unintentionally modify project repositories. A Tennessee woman was wrongly arrested based on faulty AI facial recognition results, highlighting ongoing accuracy and bias issues in law enforcement&#x27;s use of the technology.</p>
+    <p class="tldr-text">Anthropic&#x27;s Claude Code tool has revealed significant technical issues, including caching bugs that can unexpectedly increase API costs 10-20x and a problematic Git reset function that executes every 10 minutes, prompting users to seek workarounds. Meanwhile, the broader AI ecosystem is seeing incremental improvements in model efficiency, including a 2x decode speedup for AMD processors, new OpenAI hook capabilities, and prompt optimization techniques that reduce token usage substantially.</p>
   </div>
 
   
@@ -295,59 +293,47 @@ Claude Code users have discovered significant caching bugs that can unexpectedly
         <div class="card-header">
           <a class="card-title" href="https://www.reddit.com/r/ClaudeAI/comments/1s7mkn3/psa_claude_code_has_two_cache_bugs_that_can/" target="_blank" rel="noopener noreferrer">PSA: Claude Code has two cache bugs that can silently 10-20x your API costs — here&#x27;s the root cause and workarounds</a>
         </div>
-        <p class="item-summary">PSA documenting two caching bugs in Claude Code that can multiply API costs by 10-20x with technical analysis.</p>
+        <p class="item-summary">User reports identifying two caching bugs in Claude Code that significantly increase API costs.</p>
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/ClaudeAI/comments/1s7mkn3/psa_claude_code_has_two_cache_bugs_that_can/" target="_blank" rel="noopener noreferrer">r/ClaudeAI</a>
           
-          <span class="age">3h ago</span>
-          <span class="score-bar" title="Quality score: 88/100"><span class="bar-filled">█████████</span><span class="bar-empty">░</span> <span class="score-num">88</span></span>
+          <span class="age">4h ago</span>
+          <span class="score-bar" title="Quality score: 82/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">82</span></span>
         </div>
       </div>
       <div class="card">
         <div class="card-header">
           <a class="card-title" href="https://github.com/anthropics/claude-code/issues/40710" target="_blank" rel="noopener noreferrer">Claude Code runs Git reset –hard origin/main against project repo every 10 mins</a>
         </div>
-        <p class="item-summary">Bug report indicating Claude Code executes destructive Git commands automatically at regular intervals.</p>
+        <p class="item-summary">GitHub issue reporting Claude Code executing destructive Git commands automatically on project repositories.</p>
         <div class="card-meta">
           <a class="source" href="https://news.ycombinator.com/item?id=47567969" target="_blank" rel="noopener noreferrer">Hacker News</a>
-          <span class="upvotes">▲ 250  💬 184</span>
-          <span class="age">15h ago</span>
-          <span class="score-bar" title="Quality score: 82/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">82</span></span>
+          <span class="upvotes">▲ 250  💬 185</span>
+          <span class="age">16h ago</span>
+          <span class="score-bar" title="Quality score: 76/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">76</span></span>
         </div>
       </div>
       <div class="card">
         <div class="card-header">
           <a class="card-title" href="https://i.redd.it/f19rgsrgwzrg1.png" target="_blank" rel="noopener noreferrer">Codex CLI now supports 5 hooks after v0.117.0 — PreToolUse and PostToolUse just dropped</a>
         </div>
-        <p class="item-summary">Product update announcing new hook support in Codex CLI v0.117.0.</p>
+        <p class="item-summary">Technical release note about new hooks added to Codex CLI in a recent version update.</p>
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/OpenAI/comments/1s6wq47/codex_cli_now_supports_5_hooks_after_v01170/" target="_blank" rel="noopener noreferrer">r/openai</a>
           
-          <span class="age">22h ago</span>
-          <span class="score-bar" title="Quality score: 80/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">80</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://www.reddit.com/r/ClaudeAI/comments/1s7imnr/i_built_a_zerosetup_cost_tracker_for_claude_code/" target="_blank" rel="noopener noreferrer">I built a zero-setup cost tracker for Claude Code because I was tired of burning through limits blindly (open source)</a>
-        </div>
-        <p class="item-summary">User-built cost tracking tool for Claude Code addressing a practical user pain point.</p>
-        <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/ClaudeAI/comments/1s7imnr/i_built_a_zerosetup_cost_tracker_for_claude_code/" target="_blank" rel="noopener noreferrer">r/ClaudeAI</a>
-          
-          <span class="age">7h ago</span>
-          <span class="score-bar" title="Quality score: 70/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">70</span></span>
+          <span class="age">23h ago</span>
+          <span class="score-bar" title="Quality score: 74/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">74</span></span>
         </div>
       </div>
       <div class="card">
         <div class="card-header">
           <a class="card-title" href="https://rivetedinc.com/blog/agentic-ai-weather-shipping-decisions" target="_blank" rel="noopener noreferrer">How We Used Agentic AI to Put Weather-Based Shipping Decisions on Autopilot</a>
         </div>
-        <p class="item-summary">Business case study on using agentic AI for shipping logistics.</p>
+        <p class="item-summary">Case study on using agentic AI for weather-based shipping automation.</p>
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/OpenAI/comments/1s7jlk4/how_we_used_agentic_ai_to_put_weatherbased/" target="_blank" rel="noopener noreferrer">r/openai</a>
           
-          <span class="age">6h ago</span>
+          <span class="age">7h ago</span>
           <span class="score-bar" title="Quality score: 70/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">70</span></span>
         </div>
       </div>
@@ -358,13 +344,25 @@ Claude Code users have discovered significant caching bugs that can unexpectedly
       <div class="cards">
       <div class="card">
         <div class="card-header">
+          <a class="card-title" href="https://www.reddit.com/r/ClaudeAI/comments/1s7qu07/i_built_a_universal_claudemd_that_cuts_claude/" target="_blank" rel="noopener noreferrer">I built a universal CLAUDE.md that cuts Claude output tokens by 63% - validated with benchmarks, fully open source</a>
+        </div>
+        <p class="item-summary">User claims to have optimized Claude output tokens by 63% through a technique called CLAUDE.md.</p>
+        <div class="card-meta">
+          <a class="source" href="https://www.reddit.com/r/ClaudeAI/comments/1s7qu07/i_built_a_universal_claudemd_that_cuts_claude/" target="_blank" rel="noopener noreferrer">r/ClaudeAI</a>
+          
+          <span class="age">56m ago</span>
+          <span class="score-bar" title="Quality score: 66/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">66</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
           <a class="card-title" href="https://open.substack.com/pub/structuredlanguage/p/the-ceo-who-builds-ai-warfare-systems?utm_source=share&amp;amp;utm_medium=android&amp;amp;r=6sdhpn" target="_blank" rel="noopener noreferrer">The CEO Who Builds AI Warfare Systems Just Confirmed What I Released For Free</a>
         </div>
         
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/artificial/comments/1s6y7du/the_ceo_who_builds_ai_warfare_systems_just/" target="_blank" rel="noopener noreferrer">r/artificial</a>
           
-          <span class="age">22h ago</span>
+          <span class="age">23h ago</span>
           <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
         </div>
       </div>
@@ -377,23 +375,35 @@ Claude Code users have discovered significant caching bugs that can unexpectedly
         <div class="card-header">
           <a class="card-title" href="https://www.reddit.com/r/MachineLearning/comments/1s73jb1/d_data_curation_and_targeted_replacement_as_a/" target="_blank" rel="noopener noreferrer">[D] Data curation and targeted replacement as a pre-training alignment and controllability method</a>
         </div>
-        <p class="item-summary">Research discussion on data curation methods for model alignment and controllability.</p>
+        <p class="item-summary">Academic discussion on data curation and targeted replacement as machine learning alignment methods.</p>
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/MachineLearning/comments/1s73jb1/d_data_curation_and_targeted_replacement_as_a/" target="_blank" rel="noopener noreferrer">r/MachineLearning</a>
           
-          <span class="age">18h ago</span>
-          <span class="score-bar" title="Quality score: 76/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">76</span></span>
+          <span class="age">19h ago</span>
+          <span class="score-bar" title="Quality score: 82/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">82</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://arxiv.org/abs/2603.26524" target="_blank" rel="noopener noreferrer">Mathematical methods and human thought in the age of AI</a>
+        </div>
+        <p class="item-summary">Academic paper exploring mathematical methods and human cognition in the context of AI.</p>
+        <div class="card-meta">
+          <a class="source" href="https://news.ycombinator.com/item?id=47572771" target="_blank" rel="noopener noreferrer">Hacker News</a>
+          <span class="upvotes">▲ 86  💬 18</span>
+          <span class="age">3h ago</span>
+          <span class="score-bar" title="Quality score: 72/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">72</span></span>
         </div>
       </div>
       <div class="card">
         <div class="card-header">
           <a class="card-title" href="https://www.reddit.com/r/MachineLearning/comments/1s73gma/p_i_built_an_autonomous_ml_agent_that_runs/" target="_blank" rel="noopener noreferrer">[P] I built an autonomous ML agent that runs experiments on tabular data indefinitely - inspired by Karpathy&#x27;s AutoResearch</a>
         </div>
-        <p class="item-summary">User-built autonomous ML agent project for tabular data experimentation.</p>
+        <p class="item-summary">Individual built an autonomous ML agent for running experiments on tabular data inspired by Karpathy.</p>
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/MachineLearning/comments/1s73gma/p_i_built_an_autonomous_ml_agent_that_runs/" target="_blank" rel="noopener noreferrer">r/MachineLearning</a>
           
-          <span class="age">18h ago</span>
+          <span class="age">19h ago</span>
           <span class="score-bar" title="Quality score: 68/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">68</span></span>
         </div>
       </div>
@@ -401,24 +411,12 @@ Claude Code users have discovered significant caching bugs that can unexpectedly
         <div class="card-header">
           <a class="card-title" href="https://www.reddit.com/r/LocalLLaMA/comments/1s7mryr/built_a_surgical_weight_editor_for_local_gguf/" target="_blank" rel="noopener noreferrer">Built a surgical weight editor for local GGUF models, edit individual weights directly, no GPU, no training loop (open source)</a>
         </div>
-        <p class="item-summary">Open-source tool enabling direct weight editing of GGUF models without training.</p>
+        <p class="item-summary">Open-source tool enabling direct weight editing on local GGUF models without GPU or training.</p>
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1s7mryr/built_a_surgical_weight_editor_for_local_gguf/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
           
-          <span class="age">3h ago</span>
+          <span class="age">4h ago</span>
           <span class="score-bar" title="Quality score: 68/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">68</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://arxiv.org/abs/2603.26524" target="_blank" rel="noopener noreferrer">Mathematical methods and human thought in the age of AI</a>
-        </div>
-        <p class="item-summary">Arxiv paper on mathematical methods and human cognition in the AI era.</p>
-        <div class="card-meta">
-          <a class="source" href="https://news.ycombinator.com/item?id=47572771" target="_blank" rel="noopener noreferrer">Hacker News</a>
-          <span class="upvotes">▲ 57  💬 4</span>
-          <span class="age">2h ago</span>
-          <span class="score-bar" title="Quality score: 66/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">66</span></span>
         </div>
       </div>
       <div class="card">
@@ -429,19 +427,19 @@ Claude Code users have discovered significant caching bugs that can unexpectedly
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/MachineLearning/comments/1s7m7rn/d_thoughts_on_the_controversy_about_googles_new/" target="_blank" rel="noopener noreferrer">r/MachineLearning</a>
           
-          <span class="age">3h ago</span>
+          <span class="age">4h ago</span>
           <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
         </div>
       </div>
       <div class="card">
         <div class="card-header">
-          <a class="card-title" href="https://www.reddit.com/r/LocalLLaMA/comments/1s7g8ov/autoresearch_on_qwen35397b_36_experiments_to/" target="_blank" rel="noopener noreferrer">Autoresearch on Qwen3.5-397B, 36 experiments to reach 20.34 tok/s on M5 Max, honest results</a>
+          <a class="card-title" href="https://www.reddit.com/r/MachineLearning/comments/1s7r3ln/p_using_youtube_as_a_data_source_lessons_from/" target="_blank" rel="noopener noreferrer">[P] Using YouTube as a data source (lessons from building a coffee domain dataset)</a>
         </div>
         
         <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1s7g8ov/autoresearch_on_qwen35397b_36_experiments_to/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
+          <a class="source" href="https://www.reddit.com/r/MachineLearning/comments/1s7r3ln/p_using_youtube_as_a_data_source_lessons_from/" target="_blank" rel="noopener noreferrer">r/MachineLearning</a>
           
-          <span class="age">9h ago</span>
+          <span class="age">46m ago</span>
           <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
         </div>
       </div>
@@ -458,7 +456,7 @@ Claude Code users have discovered significant caching bugs that can unexpectedly
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/MachineLearning/comments/1s6wswn/d_why_does_it_seem_like_open_source_materials_on/" target="_blank" rel="noopener noreferrer">r/MachineLearning</a>
           
-          <span class="age">22h ago</span>
+          <span class="age">23h ago</span>
           <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
         </div>
       </div>
@@ -470,7 +468,7 @@ Claude Code users have discovered significant caching bugs that can unexpectedly
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1s74rc7/i_trained_a_language_model_from_scratch_for_a/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
           
-          <span class="age">17h ago</span>
+          <span class="age">18h ago</span>
           <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
         </div>
       </div>
@@ -481,25 +479,13 @@ Claude Code users have discovered significant caching bugs that can unexpectedly
       <div class="cards">
       <div class="card">
         <div class="card-header">
-          <a class="card-title" href="https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition" target="_blank" rel="noopener noreferrer">Police used AI facial recognition to wrongly arrest TN woman for crimes in ND</a>
-        </div>
-        <p class="item-summary">Significant news about wrongful AI facial recognition arrest raising algorithmic bias concerns.</p>
-        <div class="card-meta">
-          <a class="source" href="https://news.ycombinator.com/item?id=47563384" target="_blank" rel="noopener noreferrer">Hacker News</a>
-          <span class="upvotes">▲ 412  💬 177</span>
-          <span class="age">23h ago</span>
-          <span class="score-bar" title="Quality score: 76/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">76</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
           <a class="card-title" href="https://www.reddit.com/r/LocalLLaMA/comments/1s7jfh2/kernelanvil_2x_decode_speedup_on_amd_by/" target="_blank" rel="noopener noreferrer">kernel-anvil: 2x decode speedup on AMD by auto-tuning llama.cpp kernels per model shape</a>
         </div>
-        <p class="item-summary">Performance optimization tool achieving 2x decode speedup on AMD hardware for llama.cpp.</p>
+        <p class="item-summary">Technical optimization tool achieving 2x decode speedup on AMD hardware through kernel auto-tuning.</p>
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1s7jfh2/kernelanvil_2x_decode_speedup_on_amd_by/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
           
-          <span class="age">6h ago</span>
+          <span class="age">7h ago</span>
           <span class="score-bar" title="Quality score: 72/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">72</span></span>
         </div>
       </div>
@@ -511,7 +497,7 @@ Claude Code users have discovered significant caching bugs that can unexpectedly
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/MachineLearning/comments/1s6ylp1/p_i_tested_metas_brainresponse_model_on_posts_it/" target="_blank" rel="noopener noreferrer">r/MachineLearning</a>
           
-          <span class="age">21h ago</span>
+          <span class="age">22h ago</span>
           <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
         </div>
       </div>
@@ -523,7 +509,7 @@ Claude Code users have discovered significant caching bugs that can unexpectedly
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1s76bjg/what_will_googles_turboquant_actually_change_for/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
           
-          <span class="age">16h ago</span>
+          <span class="age">17h ago</span>
           <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
         </div>
       </div>
@@ -535,7 +521,7 @@ Claude Code users have discovered significant caching bugs that can unexpectedly
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1s7p0u9/running_qwen3527b_locally_as_the_primary_model_in/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
           
-          <span class="age">1h ago</span>
+          <span class="age">2h ago</span>
           <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
         </div>
       </div>
@@ -547,7 +533,19 @@ Claude Code users have discovered significant caching bugs that can unexpectedly
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1s7b5mb/the_lowend_theory_battle_of_250_inference/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
           
-          <span class="age">13h ago</span>
+          <span class="age">14h ago</span>
+          <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://www.reddit.com/r/artificial/comments/1s76o5b/what_actually_prevents_execution_in_agent_systems/" target="_blank" rel="noopener noreferrer">What actually prevents execution in agent systems?</a>
+        </div>
+        
+        <div class="card-meta">
+          <a class="source" href="https://www.reddit.com/r/artificial/comments/1s76o5b/what_actually_prevents_execution_in_agent_systems/" target="_blank" rel="noopener noreferrer">r/artificial</a>
+          
+          <span class="age">17h ago</span>
           <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
         </div>
       </div>
