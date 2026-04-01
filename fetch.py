@@ -481,7 +481,13 @@ def claude_rescore(items: list[NewsItem]) -> list[NewsItem]:
         "10 = significant technical development, major product release, or important research\n"
         "7-9 = notable news, real substance\n"
         "4-6 = mildly interesting but not essential\n"
-        "1-3 = hype, slop, opinion piece, self-promotion, or low-value content\n\n"
+        "1-3 = hype, slop, opinion piece, self-promotion, or low-value content\n"
+        "0 = must not appear in the digest (see below)\n\n"
+        "Score 0 for any item that:\n"
+        "- Contains NSFW, sexual, or explicit content\n"
+        "- Is a personal anecdote or embarrassing story (e.g. 'my son did X', 'I got banned for')\n"
+        "- Is not substantively about AI technology (merely mentions an AI product incidentally)\n"
+        "- Is political news, geopolitics, or general world events with no real AI angle\n\n"
         "Return ONLY a JSON array (no markdown, no explanation) of objects with this shape:\n"
         '[{"index": 0, "score": 8, "summary": "One sentence describing the news."}]\n\n'
         "Items to rate:\n"
@@ -507,9 +513,13 @@ def claude_rescore(items: list[NewsItem]) -> list[NewsItem]:
     for i, item in enumerate(candidates):
         if i in idx_map:
             r = idx_map[i]
+            claude_score = int(r["score"])
+            # Score 0 = Claude flagged this as inappropriate/off-topic — drop it entirely
+            if claude_score == 0:
+                item.score = -1
+                continue
             # Blend heuristic (40%) and Claude (60%), both on 0-100 scale
-            claude_score = int(r["score"]) * 10
-            item.score = int(item.score * 0.4 + claude_score * 0.6)
+            item.score = int(item.score * 0.4 + claude_score * 10 * 0.6)
             if r.get("summary"):
                 item.summary = r["summary"].strip()
 
@@ -1318,7 +1328,11 @@ def main():
             print("  [Claude] unexpected error:", file=sys.stderr)
             traceback.print_exc(file=sys.stderr)
 
-    # 8. Sort and take top 30 (more headroom for the section cap logic)
+    # 8. Drop items flagged by Claude (score == -1), then sort and take top 30
+    flagged = [it for it in all_items if it.score == -1]
+    if flagged:
+        print(f"  [Claude] dropped {len(flagged)} flagged item(s): {[it.title[:50] for it in flagged]}")
+    all_items = [it for it in all_items if it.score >= 0]
     all_items.sort(key=lambda x: x.score, reverse=True)
     all_items = all_items[:30]
 
