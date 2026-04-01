@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Apr 2026 17:21:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 18:20:19 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>OpenAI: “Our superapp will bring together ChatGPT, Codex, browsing, and broader agentic capabilities”</title>
@@ -13,7 +13,7 @@
       <guid isPermaLink="true">https://i.redd.it/8vx8jo9k9jsg1.jpeg</guid>
       <pubDate>Wed, 01 Apr 2026 07:42:23 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 88/100<br/><b>Source:</b> r/openai<br/><br/>OpenAI announces superapp consolidating ChatGPT, Codex, and agentic capabilities.<br/><br/><a href="https://kevin-cantwell.github.io/ai-digest/">View full digest →</a>]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/openai<br/><br/>OpenAI announces plans for a superapp integrating multiple capabilities including agents.<br/><br/><a href="https://kevin-cantwell.github.io/ai-digest/">View full digest →</a>]]></description>
     </item>
     <item>
       <title>Claude Wrote a Full FreeBSD Remote Kernel RCE with Root Shell (CVE-2026-4747)</title>
@@ -21,23 +21,31 @@
       <guid isPermaLink="true">https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md</guid>
       <pubDate>Wed, 01 Apr 2026 05:21:48 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 86/100<br/><b>Source:</b> Hacker News<br/><br/>Claude AI used to identify and exploit FreeBSD kernel vulnerability with RCE.<br/><br/><a href="https://kevin-cantwell.github.io/ai-digest/">View full digest →</a>]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 80/100<br/><b>Source:</b> Hacker News<br/><br/>Technical case study of Claude successfully identifying and creating a remote kernel exploit.<br/><br/><a href="https://kevin-cantwell.github.io/ai-digest/">View full digest →</a>]]></description>
     </item>
     <item>
-      <title>Liquid AI releases LFM2.5-350M -&gt; Agentic loops at 350M parameters</title>
-      <link>https://i.redd.it/q6muz2r11fsg1.jpeg</link>
-      <guid isPermaLink="true">https://i.redd.it/q6muz2r11fsg1.jpeg</guid>
-      <pubDate>Tue, 31 Mar 2026 17:29:15 +0000</pubDate>
+      <title>[AINews] The Claude Code Source Leak</title>
+      <link>https://www.latent.space/p/ainews-the-claude-code-source-leak</link>
+      <guid isPermaLink="true">https://www.latent.space/p/ainews-the-claude-code-source-leak</guid>
+      <pubDate>Wed, 01 Apr 2026 06:24:21 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Liquid AI releases LFM2.5-350M model with agentic capabilities at reduced parameters.<br/><br/><a href="https://kevin-cantwell.github.io/ai-digest/">View full digest →</a>]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 80/100<br/><b>Source:</b> Latent Space<br/><br/>Professional analysis of Claude Code source leak implications and technical details.<br/><br/><a href="https://kevin-cantwell.github.io/ai-digest/">View full digest →</a>]]></description>
     </item>
     <item>
-      <title>How do we actually guarantee sandbox isolation when local LLMs have tool access?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1s9apij/how_do_we_actually_guarantee_sandbox_isolation/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1s9apij/how_do_we_actually_guarantee_sandbox_isolation/</guid>
-      <pubDate>Wed, 01 Apr 2026 04:42:15 +0000</pubDate>
+      <title>Show HN: Real-time dashboard for Claude Code agent teams</title>
+      <link>https://github.com/simple10/agents-observe</link>
+      <guid isPermaLink="true">https://github.com/simple10/agents-observe</guid>
+      <pubDate>Wed, 01 Apr 2026 16:24:28 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Technical discussion on security challenges of sandbox isolation for local LLM tool access.<br/><br/><a href="https://kevin-cantwell.github.io/ai-digest/">View full digest →</a>]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>A real-time dashboard tool for monitoring Claude Code agent teams.<br/><br/><a href="https://kevin-cantwell.github.io/ai-digest/">View full digest →</a>]]></description>
+    </item>
+    <item>
+      <title>Paper Finds That Leading AI Chatbots Like ChatGPT and Claude Remain Incredibly Sycophantic, Resulting in Twisted Effects on Users</title>
+      <link>https://www.reddit.com/r/artificial/comments/1s93wyl/paper_finds_that_leading_ai_chatbots_like_chatgpt/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1s93wyl/paper_finds_that_leading_ai_chatbots_like_chatgpt/</guid>
+      <pubDate>Tue, 31 Mar 2026 23:35:41 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 75/100<br/><b>Source:</b> r/artificial<br/><br/><a href="https://kevin-cantwell.github.io/ai-digest/">View full digest →</a>]]></description>
     </item>
     <item>
       <title>Anthropic is training Claude to recognize when its own tools are trying to manipulate it</title>
@@ -77,31 +85,15 @@
       <guid isPermaLink="true">https://getbaton.dev/</guid>
       <pubDate>Wed, 01 Apr 2026 12:11:30 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 74/100<br/><b>Source:</b> Hacker News<br/><br/>Desktop application released for AI agent development.<br/><br/><a href="https://kevin-cantwell.github.io/ai-digest/">View full digest →</a>]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 74/100<br/><b>Source:</b> Hacker News<br/><br/>A new desktop application for developing with AI agents.<br/><br/><a href="https://kevin-cantwell.github.io/ai-digest/">View full digest →</a>]]></description>
     </item>
     <item>
-      <title>[AINews] The Claude Code Source Leak</title>
-      <link>https://www.latent.space/p/ainews-the-claude-code-source-leak</link>
-      <guid isPermaLink="true">https://www.latent.space/p/ainews-the-claude-code-source-leak</guid>
-      <pubDate>Wed, 01 Apr 2026 06:24:21 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 74/100<br/><b>Source:</b> Latent Space<br/><br/>Coverage of alleged Claude Code source code leak by Latent Space newsletter.<br/><br/><a href="https://kevin-cantwell.github.io/ai-digest/">View full digest →</a>]]></description>
-    </item>
-    <item>
-      <title>llama : rotate activations for better quantization by ggerganov · Pull Request #21038 · ggml-org/llama.cpp</title>
-      <link>https://github.com/ggml-org/llama.cpp/pull/21038</link>
-      <guid isPermaLink="true">https://github.com/ggml-org/llama.cpp/pull/21038</guid>
-      <pubDate>Wed, 01 Apr 2026 14:01:52 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 72/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>llama.cpp pull request implementing activation rotation optimization for quantization.<br/><br/><a href="https://kevin-cantwell.github.io/ai-digest/">View full digest →</a>]]></description>
-    </item>
-    <item>
-      <title>Paper Finds That Leading AI Chatbots Like ChatGPT and Claude Remain Incredibly Sycophantic, Resulting in Twisted Effects on Users</title>
-      <link>https://www.reddit.com/r/artificial/comments/1s93wyl/paper_finds_that_leading_ai_chatbots_like_chatgpt/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1s93wyl/paper_finds_that_leading_ai_chatbots_like_chatgpt/</guid>
-      <pubDate>Tue, 31 Mar 2026 23:35:41 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 72/100<br/><b>Source:</b> r/artificial<br/><br/>Research paper documenting sycophantic behavior in ChatGPT and Claude.<br/><br/><a href="https://kevin-cantwell.github.io/ai-digest/">View full digest →</a>]]></description>
+      <title>The OpenAI Graveyard: All the Deals and Products That Haven&apos;t Happened</title>
+      <link>https://www.forbes.com/sites/phoebeliu/2026/03/31/openai-graveyard-deals-and-products-havent-happened-openai/</link>
+      <guid isPermaLink="true">https://www.forbes.com/sites/phoebeliu/2026/03/31/openai-graveyard-deals-and-products-havent-happened-openai/</guid>
+      <pubDate>Wed, 01 Apr 2026 15:55:30 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/><a href="https://kevin-cantwell.github.io/ai-digest/">View full digest →</a>]]></description>
     </item>
     <item>
       <title>OpenAI demand sinks on secondary market as Anthropic runs hot</title>
@@ -110,6 +102,14 @@
       <pubDate>Wed, 01 Apr 2026 14:26:16 +0000</pubDate>
       <category>Industry News</category>
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/><a href="https://kevin-cantwell.github.io/ai-digest/">View full digest →</a>]]></description>
+    </item>
+    <item>
+      <title>Claude Code Unpacked : A visual guide</title>
+      <link>https://ccunpacked.dev/</link>
+      <guid isPermaLink="true">https://ccunpacked.dev/</guid>
+      <pubDate>Wed, 01 Apr 2026 05:15:37 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>A visual guide explaining Claude Code functionality.<br/><br/><a href="https://kevin-cantwell.github.io/ai-digest/">View full digest →</a>]]></description>
     </item>
     <item>
       <title>OpenAI closes funding round at an $852B valuation</title>
@@ -128,20 +128,20 @@
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/MachineLearning<br/><br/><a href="https://kevin-cantwell.github.io/ai-digest/">View full digest →</a>]]></description>
     </item>
     <item>
-      <title>Orbit - Composable building blocks for Computer Use AI Agents.</title>
-      <link>https://github.com/aadya940/orbit</link>
-      <guid isPermaLink="true">https://github.com/aadya940/orbit</guid>
-      <pubDate>Tue, 31 Mar 2026 23:29:25 +0000</pubDate>
+      <title>How do we actually guarantee sandbox isolation when local LLMs have tool access?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1s9apij/how_do_we_actually_guarantee_sandbox_isolation/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1s9apij/how_do_we_actually_guarantee_sandbox_isolation/</guid>
+      <pubDate>Wed, 01 Apr 2026 04:42:15 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/openai<br/><br/>Orbit framework release for building composable computer use AI agent components.<br/><br/><a href="https://kevin-cantwell.github.io/ai-digest/">View full digest →</a>]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Technical discussion on sandboxing approaches for local LLM tool access.<br/><br/><a href="https://kevin-cantwell.github.io/ai-digest/">View full digest →</a>]]></description>
     </item>
     <item>
-      <title>StepFun 3.5 Flash is #1 cost-effective model for OpenClaw tasks (300 battles)</title>
-      <link>https://app.uniclaw.ai/arena?tab=costEffectiveness&amp;via=hn</link>
-      <guid isPermaLink="true">https://app.uniclaw.ai/arena?tab=costEffectiveness&amp;via=hn</guid>
-      <pubDate>Wed, 01 Apr 2026 16:17:35 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> Hacker News<br/><br/><a href="https://kevin-cantwell.github.io/ai-digest/">View full digest →</a>]]></description>
+      <title>llama : rotate activations for better quantization by ggerganov · Pull Request #21038 · ggml-org/llama.cpp</title>
+      <link>https://github.com/ggml-org/llama.cpp/pull/21038</link>
+      <guid isPermaLink="true">https://github.com/ggml-org/llama.cpp/pull/21038</guid>
+      <pubDate>Wed, 01 Apr 2026 14:01:52 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Technical optimization adding activation rotation for improved quantization in llama.cpp.<br/><br/><a href="https://kevin-cantwell.github.io/ai-digest/">View full digest →</a>]]></description>
     </item>
     <item>
       <title>[P] I built a simple gpu-aware single-node job scheduler for researchers / students</title>
@@ -152,18 +152,18 @@
       <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/><a href="https://kevin-cantwell.github.io/ai-digest/">View full digest →</a>]]></description>
     </item>
     <item>
-      <title>Which LLM is the best for writing a scientific paper?</title>
-      <link>https://www.reddit.com/r/artificial/comments/1s9k2rx/which_llm_is_the_best_for_writing_a_scientific/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1s9k2rx/which_llm_is_the_best_for_writing_a_scientific/</guid>
-      <pubDate>Wed, 01 Apr 2026 13:08:33 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/artificial<br/><br/><a href="https://kevin-cantwell.github.io/ai-digest/">View full digest →</a>]]></description>
-    </item>
-    <item>
       <title>The missing layer between current AI and AGI may be intent architecture</title>
       <link>https://www.reddit.com/r/artificial/comments/1s98x0b/the_missing_layer_between_current_ai_and_agi_may/</link>
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1s98x0b/the_missing_layer_between_current_ai_and_agi_may/</guid>
       <pubDate>Wed, 01 Apr 2026 03:14:19 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/artificial<br/><br/><a href="https://kevin-cantwell.github.io/ai-digest/">View full digest →</a>]]></description>
+    </item>
+    <item>
+      <title>Which LLM is the best for writing a scientific paper?</title>
+      <link>https://www.reddit.com/r/artificial/comments/1s9k2rx/which_llm_is_the_best_for_writing_a_scientific/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1s9k2rx/which_llm_is_the_best_for_writing_a_scientific/</guid>
+      <pubDate>Wed, 01 Apr 2026 13:08:33 +0000</pubDate>
       <category>Research &amp; Papers</category>
       <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/artificial<br/><br/><a href="https://kevin-cantwell.github.io/ai-digest/">View full digest →</a>]]></description>
     </item>
