@@ -108,6 +108,19 @@ VAGUE_PHRASES = [
     "how ai is transforming", "ai revolution", "ai in", "ai and the future",
 ]
 
+# Titles matching any of these patterns are dropped before scoring.
+# Use conservative patterns that won't catch legitimate AI news.
+BLOCKLIST_PATTERNS = [
+    r"\bpleasur(ed|ing|es)\s+himself\b",
+    r"\bpleasur(ed|ing|es)\s+herself\b",
+    r"\bmasturbat",
+    r"\bnaked\b",
+    r"\bnude\b",
+    r"\bporn\b",
+    r"\bsex(ual|ually)?\s+(content|act|video|image)\b",
+    r"\bmy\s+(son|daughter|wife|husband|kid)\s+.{0,30}\b(banned|fired|arrested|caught)\b",
+]
+
 PRODUCT_NAMES = [
     "claude", "gpt-4", "gpt-5", "gpt4", "gpt5", "gemini", "llama",
     "mistral", "grok", "copilot", "sora", "dall-e", "dalle", "stable diffusion",
@@ -1301,6 +1314,15 @@ def main():
     # 2. Deduplicate
     all_items = deduplicate(all_items)
     print(f"After dedup: {len(all_items)}")
+
+    # 2b. Blocklist — drop titles matching explicit/NSFW/inappropriate patterns
+    before_blocklist = len(all_items)
+    all_items = [
+        it for it in all_items
+        if not any(re.search(p, it.title, re.IGNORECASE) for p in BLOCKLIST_PATTERNS)
+    ]
+    if len(all_items) < before_blocklist:
+        print(f"  [blocklist] dropped {before_blocklist - len(all_items)} item(s)")
 
     # 3. Heuristic scoring
     for item in all_items:
