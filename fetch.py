@@ -186,9 +186,12 @@ def fetch_hn() -> list[NewsItem]:
             continue
 
         title = hit.get("title", "(no title)")
-        # Filter locally: keep only AI-relevant stories
-        combined = (title + " " + story_url).lower()
-        if not any(kw in combined for kw in HN_AI_KEYWORDS):
+        # Filter locally: keep only AI-relevant stories.
+        # Match against title only (URLs contain too many false "ai" substrings like
+        # "air", "tail", "daily"). Use whole-word matching to avoid "ai" matching
+        # "Tailscale", "air", "Spain", etc.
+        title_lower = title.lower()
+        if not any(re.search(r'\b' + re.escape(kw) + r'\b', title_lower) for kw in HN_AI_KEYWORDS):
             continue
 
         ts = hit.get("created_at_i") or int(NOW.timestamp())
