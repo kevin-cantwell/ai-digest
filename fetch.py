@@ -720,6 +720,132 @@ def deduplicate(items: list[NewsItem]) -> list[NewsItem]:
 
 
 # ---------------------------------------------------------------------------
+# RSS feed generation
+# ---------------------------------------------------------------------------
+
+FEED_URL = "https://kevin-cantwell.github.io/ai-digest/feed.xml"
+DIGEST_URL = "https://kevin-cantwell.github.io/ai-digest/"
+
+
+def _rfc822(ts: int) -> str:
+    """Convert a Unix timestamp to RFC 822 date format for RSS."""
+    dt = datetime.fromtimestamp(ts, tz=timezone.utc)
+    return dt.strftime("%a, %d %b %Y %H:%M:%S +0000")
+
+
+def generate_feed(items: list[NewsItem]) -> None:
+    """
+    Generate feed.xml from the scored+filtered items list.
+
+    Deduplicates by canonical article URL (GUID), merging sources if the same
+    article appears from multiple origins (e.g. HN + Reddit). Items are sorted
+    by score descending.
+    """
+    # --- Deduplicate by canonical article URL ---
+    merged: dict[str, dict] = {}  # canonical_url -> merged record
+
+    for item in items:
+        # Canonical URL: article_url if available, otherwise item.url
+        canonical = item.article_url if item.article_url else item.url
+        canonical = canonical.strip()
+        if not canonical:
+            continue
+
+        if canonical not in merged:
+            merged[canonical] = {
+                "title": item.title,
+                "canonical_url": canonical,
+                "score": item.score,
+                "published_ts": item.published_ts,
+                "summary": item.summary,
+                "section": item.section,
+                "sources": [item.source],
+            }
+        else:
+            rec = merged[canonical]
+            # Keep highest score; merge source names
+            if item.score > rec["score"]:
+                rec["score"] = item.score
+                rec["title"] = item.title
+            if item.source not in rec["sources"]:
+                rec["sources"].append(item.source)
+            # Use earliest timestamp
+            if item.published_ts < rec["published_ts"]:
+                rec["published_ts"] = item.published_ts
+            # Prefer non-empty summary
+            if not rec["summary"] and item.summary:
+                rec["summary"] = item.summary
+
+    # Sort by score descending
+    records = sorted(merged.values(), key=lambda r: r["score"], reverse=True)
+
+    def xml_escape(s: str) -> str:
+        return (
+            s.replace("&", "&amp;")
+             .replace("<", "&lt;")
+             .replace(">", "&gt;")
+             .replace('"', "&quot;")
+             .replace("'", "&apos;")
+        )
+
+    def make_description(rec: dict) -> str:
+        sources_str = ", ".join(rec["sources"])
+        score = rec["score"]
+        section = rec["section"]
+        summary = rec.get("summary", "")
+
+        lines = []
+        lines.append(f"<b>Category:</b> {xml_escape(section)}")
+        lines.append(f"<b>Score:</b> {score}/100")
+        lines.append(f"<b>Source:</b> {xml_escape(sources_str)}")
+        if summary:
+            lines.append(f"<br/>{xml_escape(summary)}")
+        lines.append(
+            f'<br/><a href="{DIGEST_URL}">View full digest →</a>'
+        )
+        return "<![CDATA[" + "<br/>".join(lines) + "]]>"
+
+    now_rfc822 = _rfc822(int(NOW.timestamp()))
+
+    items_xml = ""
+    for rec in records:
+        canonical_url = rec["canonical_url"]
+        title = xml_escape(rec["title"])
+        pub_date = _rfc822(rec["published_ts"])
+        section = xml_escape(rec["section"])
+        description = make_description(rec)
+
+        items_xml += f"""
+    <item>
+      <title>{title}</title>
+      <link>{xml_escape(canonical_url)}</link>
+      <guid isPermaLink="true">{xml_escape(canonical_url)}</guid>
+      <pubDate>{pub_date}</pubDate>
+      <category>{section}</category>
+      <description>{description}</description>
+    </item>"""
+
+    feed_xml = f"""<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI Digest</title>
+    <link>{DIGEST_URL}</link>
+    <description>Curated AI news, updated hourly</description>
+    <language>en-us</language>
+    <lastBuildDate>{now_rfc822}</lastBuildDate>
+    <atom:link href="{FEED_URL}" rel="self" type="application/rss+xml"/>{items_xml}
+  </channel>
+</rss>
+"""
+
+    output_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "feed.xml")
+    with open(output_path, "w", encoding="utf-8") as f:
+        f.write(feed_xml)
+
+    print(f"Wrote {len(feed_xml):,} bytes to {output_path} ({len(records)} items)")
+
+
+# ---------------------------------------------------------------------------
 # HTML generation
 # ---------------------------------------------------------------------------
 
@@ -1236,6 +1362,14 @@ def main():
         f.write(html)
 
     print(f"\nWrote {len(html):,} bytes to {output_path}")
+
+    # 12. Generate RSS feed
+    print("\nGenerating RSS feed...")
+    try:
+        generate_feed(all_items)
+    except Exception:
+        print("  [feed] unexpected error:", file=sys.stderr)
+        traceback.print_exc(file=sys.stderr)
     print(f"Final stories: {len(all_items)}")
     for item in all_items:
         print(f"  [{item.score:3d}] [{item.section[:20]:<20}] {item.title[:70]}")
