@@ -826,9 +826,8 @@ def generate_feed(items: list[NewsItem]) -> None:
         lines.append(f"<b>Source:</b> {xml_escape(sources_str)}")
         if summary:
             lines.append(f"<br/>{xml_escape(summary)}")
-        lines.append(
-            f'<br/><a href="{DIGEST_URL}">View full digest →</a>'
-        )
+        # Include bare URL so Slack auto-links it (Slack strips <a> tags from RSS descriptions)
+        lines.append(f'<br/>View full digest → {DIGEST_URL}')
         return "<![CDATA[" + "<br/>".join(lines) + "]]>"
 
     now_rfc822 = _rfc822(int(NOW.timestamp()))
