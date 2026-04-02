@@ -5,23 +5,15 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Apr 2026 00:27:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 01:36:24 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>OpenAI: “Our superapp will bring together ChatGPT, Codex, browsing, and broader agentic capabilities”</title>
-      <link>https://i.redd.it/8vx8jo9k9jsg1.jpeg</link>
-      <guid isPermaLink="true">https://i.redd.it/8vx8jo9k9jsg1.jpeg</guid>
-      <pubDate>Wed, 01 Apr 2026 07:42:23 +0000</pubDate>
+      <title>[AINews] The Claude Code Source Leak</title>
+      <link>https://www.latent.space/p/ainews-the-claude-code-source-leak</link>
+      <guid isPermaLink="true">https://www.latent.space/p/ainews-the-claude-code-source-leak</guid>
+      <pubDate>Wed, 01 Apr 2026 06:24:21 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 88/100<br/><b>Source:</b> r/openai<br/><br/>OpenAI announces plans for superapp integrating ChatGPT, code tools, browsing, and agentic capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Claude wrote a full FreeBSD remote kernel RCE with root shell</title>
-      <link>https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md</link>
-      <guid isPermaLink="true">https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md</guid>
-      <pubDate>Wed, 01 Apr 2026 05:21:48 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 86/100<br/><b>Source:</b> Hacker News<br/><br/>Claude successfully generated functional remote code execution exploit for FreeBSD kernel vulnerability.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 86/100<br/><b>Source:</b> Latent Space<br/><br/>Technical analysis of Claude Code source code leak from Latent Space.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>[D] We reimplemented Claude Code entirely in Python — open source, works with local models</title>
@@ -32,20 +24,20 @@
       <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Open-source Python reimplementation of Claude Code that works with local models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>[AINews] The Claude Code Source Leak</title>
-      <link>https://www.latent.space/p/ainews-the-claude-code-source-leak</link>
-      <guid isPermaLink="true">https://www.latent.space/p/ainews-the-claude-code-source-leak</guid>
-      <pubDate>Wed, 01 Apr 2026 06:24:21 +0000</pubDate>
+      <title>OpenAI: “Our superapp will bring together ChatGPT, Codex, browsing, and broader agentic capabilities”</title>
+      <link>https://i.redd.it/8vx8jo9k9jsg1.jpeg</link>
+      <guid isPermaLink="true">https://i.redd.it/8vx8jo9k9jsg1.jpeg</guid>
+      <pubDate>Wed, 01 Apr 2026 07:42:23 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 80/100<br/><b>Source:</b> Latent Space<br/><br/>Latent Space newsletter analysis of Claude Code source code leak and implications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/openai<br/><br/>OpenAI announces plans for a superapp integrating ChatGPT, Codex, browsing, and agentic capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Gradient Labs gives every bank customer an AI account manager</title>
-      <link>https://openai.com/index/gradient-labs</link>
-      <guid isPermaLink="true">https://openai.com/index/gradient-labs</guid>
-      <pubDate>Wed, 01 Apr 2026 02:00:00 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Gradient Labs deploys AI account managers for bank customers via OpenAI partnership.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Claude wrote a full FreeBSD remote kernel RCE with root shell</title>
+      <link>https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md</link>
+      <guid isPermaLink="true">https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md</guid>
+      <pubDate>Wed, 01 Apr 2026 05:21:48 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 80/100<br/><b>Source:</b> Hacker News<br/><br/>Claude AI generated a full remote kernel exploit with root shell access for FreeBSD.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Show HN: Real-time dashboard for Claude Code agent teams</title>
@@ -56,12 +48,20 @@
       <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Open-source dashboard tool for monitoring Claude Code agent teams in real-time.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>New Qwen3.5-9b (full and GGUF quantized) fine-tuned for agentic harness (OpenClaw, AgentScope) derived from Copaw-9B (Qwen&apos;s official agentic harness) + Opus 4.6 Reasoning - Appreciate your quick tests (use recommended generation parameters)</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1s9u1eg/new_qwen359b_full_and_gguf_quantized_finetuned/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1s9u1eg/new_qwen359b_full_and_gguf_quantized_finetuned/</guid>
-      <pubDate>Wed, 01 Apr 2026 19:04:07 +0000</pubDate>
+      <title>The Claude Code leak accidentally published the first complete blueprint for production AI agents. Here&apos;s what it tells us about where this is all going.</title>
+      <link>https://www.reddit.com/r/artificial/comments/1s9jprb/the_claude_code_leak_accidentally_published_the/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1s9jprb/the_claude_code_leak_accidentally_published_the/</guid>
+      <pubDate>Wed, 01 Apr 2026 12:54:08 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Fine-tuned Qwen3.5-9b model optimized for agentic frameworks released.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/artificial<br/><br/>Analysis of alleged Claude Code source leak and implications for agentic AI development.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>I tested Anthropic&apos;s official MCP servers with a quality gate. Filesystem scored 81/100 - 72% of parameters have no descriptions.</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1s9ug1j/i_tested_anthropics_official_mcp_servers_with_a/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1s9ug1j/i_tested_anthropics_official_mcp_servers_with_a/</guid>
+      <pubDate>Wed, 01 Apr 2026 19:18:31 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Quality audit of Anthropic&apos;s official MCP servers finds documentation gaps.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Accelerating the next phase of AI</title>
@@ -72,20 +72,20 @@
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 75/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Show HN: Baton – A desktop app for developing with AI agents</title>
-      <link>https://getbaton.dev/</link>
-      <guid isPermaLink="true">https://getbaton.dev/</guid>
-      <pubDate>Wed, 01 Apr 2026 12:11:30 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 74/100<br/><b>Source:</b> Hacker News<br/><br/>Desktop application tool for developing with AI agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
       <title>Anthropic is training Claude to recognize when its own tools are trying to manipulate it</title>
       <link>https://www.reddit.com/r/artificial/comments/1s9hfhp/anthropic_is_training_claude_to_recognize_when/</link>
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1s9hfhp/anthropic_is_training_claude_to_recognize_when/</guid>
       <pubDate>Wed, 01 Apr 2026 11:08:05 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 72/100<br/><b>Source:</b> r/artificial<br/><br/>Anthropic develops training methods to help Claude detect manipulation attempts from its own tools.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 72/100<br/><b>Source:</b> r/artificial<br/><br/>Anthropic develops training method for Claude to detect manipulation attempts by its own tools.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Gradient Labs gives every bank customer an AI account manager</title>
+      <link>https://openai.com/index/gradient-labs</link>
+      <guid isPermaLink="true">https://openai.com/index/gradient-labs</guid>
+      <pubDate>Wed, 01 Apr 2026 02:00:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Gradient Labs deploys AI account managers for bank customers via OpenAI partnership.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>StepFun 3.5 Flash is #1 cost-effective model for OpenClaw tasks (300 battles)</title>
@@ -93,7 +93,7 @@
       <guid isPermaLink="true">https://app.uniclaw.ai/arena?tab=costEffectiveness&amp;via=hn</guid>
       <pubDate>Wed, 01 Apr 2026 16:17:35 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>StepFun 3.5 Flash model ranks as most cost-effective for agentic tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>StepFun 3.5 Flash ranks as most cost-effective model for OpenClaw benchmark tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>OpenAI demand sinks on secondary market as Anthropic runs hot</title>
@@ -117,7 +117,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1s9vzry/apex_moe_quantized_models_boost_with_33_faster/</guid>
       <pubDate>Wed, 01 Apr 2026 20:13:55 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>APEX MoE quantized models achieve 33% faster inference with TurboQuant optimization.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>APEX MoE quantized models achieve 33% faster inference improvements.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>llama : rotate activations for better quantization by ggerganov · Pull Request #21038 · ggml-org/llama.cpp</title>
@@ -125,7 +125,7 @@
       <guid isPermaLink="true">https://github.com/ggml-org/llama.cpp/pull/21038</guid>
       <pubDate>Wed, 01 Apr 2026 14:01:52 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>llama.cpp pull request introduces activation rotation technique for improved quantization.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Technical optimization for Llama quantization through activation rotation in llama.cpp.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>[P] I built a simple gpu-aware single-node job scheduler for researchers / students</title>
@@ -158,14 +158,6 @@
       <pubDate>Wed, 01 Apr 2026 03:14:19 +0000</pubDate>
       <category>Research &amp; Papers</category>
       <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>1hr 20m deep research for a 1-word output</title>
-      <link>https://i.redd.it/co5zuqrlxnsg1.jpeg</link>
-      <guid isPermaLink="true">https://i.redd.it/co5zuqrlxnsg1.jpeg</guid>
-      <pubDate>Wed, 01 Apr 2026 23:24:30 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
