@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Apr 2026 22:10:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 23:11:48 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>I got tired of watching Claude Code spawn 10 agents and having absolutely no idea what they&apos;re doing, so I built this</title>
@@ -48,6 +48,14 @@
       <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 95/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
+      <title>TIL Anthropic&apos;s rate limit pool for OAuth tokens is gated by... the system prompt saying &quot;You are Claude Code&quot;</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1sboykj/til_anthropics_rate_limit_pool_for_oauth_tokens/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1sboykj/til_anthropics_rate_limit_pool_for_oauth_tokens/</guid>
+      <pubDate>Fri, 03 Apr 2026 20:32:34 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 95/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
       <title>Claude Code channels with the Telegram plugin impersonation</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1sbfh1w/claude_code_channels_with_the_telegram_plugin/</link>
       <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1sbfh1w/claude_code_channels_with_the_telegram_plugin/</guid>
@@ -69,15 +77,7 @@
       <guid isPermaLink="true">https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/</guid>
       <pubDate>Thu, 02 Apr 2026 16:00:49 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 90/100<br/><b>Source:</b> Google DeepMind<br/><br/>Google DeepMind releases Gemma 4, claiming superior capability-to-parameter efficiency in open models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>What happens when you let AI agents run a sitcom 24/7 with zero human involvement</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sbk7me/what_happens_when_you_let_ai_agents_run_a_sitcom/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sbk7me/what_happens_when_you_let_ai_agents_run_a_sitcom/</guid>
-      <pubDate>Fri, 03 Apr 2026 17:36:46 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 85/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 90/100<br/><b>Source:</b> Google DeepMind<br/><br/>Google DeepMind releases Gemma 4, claiming state-of-the-art performance for open-source models in its size category.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>How we monitor internal coding agents for misalignment</title>
@@ -88,12 +88,20 @@
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 85/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
+      <title>Open-sourcing a decentralized AI training network with constitutional governance and economic alignment mechanisms</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1sbrfps/opensourcing_a_decentralized_ai_training_network/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/OpenAI/comments/1sbrfps/opensourcing_a_decentralized_ai_training_network/</guid>
+      <pubDate>Fri, 03 Apr 2026 22:09:34 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 85/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
       <title>[AINews] Gemma 4: The best small Multimodal Open Models, dramatically better than Gemma 3 in every way</title>
       <link>https://www.latent.space/p/ainews-gemma-4-the-best-small-multimodal</link>
       <guid isPermaLink="true">https://www.latent.space/p/ainews-gemma-4-the-best-small-multimodal</guid>
       <pubDate>Fri, 03 Apr 2026 07:02:48 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 80/100<br/><b>Source:</b> Latent Space<br/><br/>Gemma 4 multimodal models released with significant improvements over Gemma 3 across benchmarks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 80/100<br/><b>Source:</b> Latent Space<br/><br/>Latent Space covers Gemma 4 multimodal models as significant improvement over Gemma 3.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>llama.cpp Gemma4 Tokenizer Fix Was Merged Into Main Branch</title>
@@ -120,20 +128,12 @@
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 75/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Anthropic found Claude has 171 internal &quot;emotion vectors&quot; that change its behavior. I built a toolkit around the research.</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1sbnxmz/anthropic_found_claude_has_171_internal_emotion/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1sbnxmz/anthropic_found_claude_has_171_internal_emotion/</guid>
-      <pubDate>Fri, 03 Apr 2026 19:54:12 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 75/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
       <title>Moonlake: Causal World Models should be Multimodal, Interactive, and Efficient — with Chris Manning and Fan-yun Sun</title>
       <link>https://www.latent.space/p/moonlake</link>
       <guid isPermaLink="true">https://www.latent.space/p/moonlake</guid>
       <pubDate>Thu, 02 Apr 2026 17:55:29 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> Latent Space<br/><br/>Research discussion on causal world models that are multimodal, interactive, and efficient.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> Latent Space<br/><br/>Latent Space interviews researchers on Moonlake, a causal world model approach for multimodal AI.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>[D] Physicist-turned-ML-engineer looking to get into ML research. What&apos;s worth working on and where can I contribute most?</title>
