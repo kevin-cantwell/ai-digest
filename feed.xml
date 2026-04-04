@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Apr 2026 19:13:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 20:08:36 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Claude Code Found a Linux Vulnerability Hidden for 23 Years</title>
@@ -13,7 +13,7 @@
       <guid isPermaLink="true">https://mtlynch.io/claude-code-found-linux-vulnerability/</guid>
       <pubDate>Fri, 03 Apr 2026 23:46:51 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 94/100<br/><b>Source:</b> Hacker News<br/><br/>Claude Code discovered a Linux kernel vulnerability that remained hidden for 23 years.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 94/100<br/><b>Source:</b> Hacker News<br/><br/>Claude Code discovered a Linux kernel vulnerability that had remained hidden for 23 years.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Emotion concepts and their function in a large language model</title>
@@ -21,23 +21,7 @@
       <guid isPermaLink="true">https://www.anthropic.com/research/emotion-concepts-function</guid>
       <pubDate>Sat, 04 Apr 2026 06:30:25 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic research on how emotion concepts function within large language models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Agent frameworks waste ~350,000+ tokens per session resending static files. 95% reduction benchmarked.</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sbthh0/agent_frameworks_waste_350000_tokens_per_session/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sbthh0/agent_frameworks_waste_350000_tokens_per_session/</guid>
-      <pubDate>Fri, 03 Apr 2026 23:36:25 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/artificial<br/><br/>Analysis showing agent frameworks waste significant tokens resending static files with potential 95% reduction.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage</title>
-      <link>https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/</guid>
-      <pubDate>Sat, 04 Apr 2026 16:32:22 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 80/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic announcement requiring additional payment for OpenClaw usage by Claude Code subscribers.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic publishes research on how emotion concepts function within large language models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>[AINews] Gemma 4: The best small Multimodal Open Models, dramatically better than Gemma 3 in every way</title>
@@ -45,7 +29,23 @@
       <guid isPermaLink="true">https://www.latent.space/p/ainews-gemma-4-the-best-small-multimodal</guid>
       <pubDate>Fri, 03 Apr 2026 07:02:48 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 80/100<br/><b>Source:</b> Latent Space<br/><br/>Google releases Gemma 4 multimodal models with significant improvements over Gemma 3.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 86/100<br/><b>Source:</b> Latent Space<br/><br/>Google releases Gemma 4 multimodal open models with significant performance improvements over Gemma 3.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Agent frameworks waste ~350,000+ tokens per session resending static files. 95% reduction benchmarked.</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sbthh0/agent_frameworks_waste_350000_tokens_per_session/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sbthh0/agent_frameworks_waste_350000_tokens_per_session/</guid>
+      <pubDate>Fri, 03 Apr 2026 23:36:25 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/artificial<br/><br/>Analysis reveals agent frameworks waste significant tokens by resending static files, with proposed 95% reduction optimization.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage</title>
+      <link>https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/</guid>
+      <pubDate>Sat, 04 Apr 2026 16:32:22 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 80/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic announces additional pricing tier for OpenClaw usage within Claude Code subscriptions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Show HN: TurboQuant-WASM – Google&apos;s vector quantization in the browser</title>
@@ -53,39 +53,7 @@
       <guid isPermaLink="true">https://github.com/teamchong/turboquant-wasm</guid>
       <pubDate>Sat, 04 Apr 2026 14:53:16 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 78/100<br/><b>Source:</b> Hacker News<br/><br/>Google&apos;s vector quantization technology ported to WebAssembly for browser use.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Highlights from my conversation about agentic engineering on Lenny&apos;s Podcast</title>
-      <link>https://simonwillison.net/2026/Apr/2/lennys-podcast/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/2/lennys-podcast/#atom-everything</guid>
-      <pubDate>Thu, 02 Apr 2026 20:40:47 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Simon Willison<br/><br/>Podcast discussion highlights about agentic engineering practices.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Claude Code reads your .env files without asking. I tested it.</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1sc93zw/claude_code_reads_your_env_files_without_asking_i/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1sc93zw/claude_code_reads_your_env_files_without_asking_i/</guid>
-      <pubDate>Sat, 04 Apr 2026 13:21:13 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Security concern report that Claude Code reads environment files without explicit user consent.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Components of a Coding Agent</title>
-      <link>https://magazine.sebastianraschka.com/p/components-of-a-coding-agent</link>
-      <guid isPermaLink="true">https://magazine.sebastianraschka.com/p/components-of-a-coding-agent</guid>
-      <pubDate>Sat, 04 Apr 2026 13:16:33 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> Hacker News<br/><br/>Technical analysis of architectural components required in coding agent systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>12k AI-generated blog posts added in a single commit</title>
-      <link>https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849</link>
-      <guid isPermaLink="true">https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849</guid>
-      <pubDate>Sat, 04 Apr 2026 16:45:31 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Repository committed 12,000 AI-generated blog posts in single change.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 78/100<br/><b>Source:</b> Hacker News<br/><br/>Google releases TurboQuant vector quantization technology ported to WebAssembly.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw</title>
@@ -93,15 +61,47 @@
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=47633396</guid>
       <pubDate>Fri, 03 Apr 2026 22:55:24 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>User report about Anthropic policy change restricting Claude Code subscriptions from using OpenClaw.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic changes policy restricting Claude Code subscriptions from using OpenClaw integration.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>We absolutely need Qwen3.6-397B-A17B to be open source</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sccpbj/we_absolutely_need_qwen36397ba17b_to_be_open/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sccpbj/we_absolutely_need_qwen36397ba17b_to_be_open/</guid>
-      <pubDate>Sat, 04 Apr 2026 15:50:40 +0000</pubDate>
+      <title>I reverse-engineered why Claude Code burns through your usage so fast. 7 bugs that stack on top of each other — and the worst one activates when Extra Usage kicks in</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1sbqalg/i_reverseengineered_why_claude_code_burns_through/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1sbqalg/i_reverseengineered_why_claude_code_burns_through/</guid>
+      <pubDate>Fri, 03 Apr 2026 21:23:50 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Technical analysis identifies multiple bugs in Claude Code affecting token consumption patterns.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Claude Code reads your .env files without asking. I tested it.</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1sc93zw/claude_code_reads_your_env_files_without_asking_i/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1sc93zw/claude_code_reads_your_env_files_without_asking_i/</guid>
+      <pubDate>Sat, 04 Apr 2026 13:21:13 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Security concern reported that Claude Code reads .env files without explicit user permission.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Components of a Coding Agent</title>
+      <link>https://magazine.sebastianraschka.com/p/components-of-a-coding-agent</link>
+      <guid isPermaLink="true">https://magazine.sebastianraschka.com/p/components-of-a-coding-agent</guid>
+      <pubDate>Sat, 04 Apr 2026 13:16:33 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> Hacker News<br/><br/>Technical deep-dive analyzing architectural components required for building coding agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>12k AI-generated blog posts added in a single commit</title>
+      <link>https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849</link>
+      <guid isPermaLink="true">https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849</guid>
+      <pubDate>Sat, 04 Apr 2026 16:45:31 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Open source project bulk-added 12,000 AI-generated blog posts in single commit.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Gemma 4 31B beats several frontier models on the FoodTruck Bench</title>
+      <link>https://i.redd.it/dzatb00148tg1.png</link>
+      <guid isPermaLink="true">https://i.redd.it/dzatb00148tg1.png</guid>
+      <pubDate>Sat, 04 Apr 2026 19:22:55 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Gemma 4 31B model demonstrates competitive performance against larger frontier models on benchmark.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Gemma 4 vs Qwen 3.5 Benchmark Comparison</title>
@@ -136,6 +136,14 @@
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
+      <title>Per-user and per-tenant budget limits for OpenAI API calls — beyond project-level spend caps</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1schfyh/peruser_and_pertenant_budget_limits_for_openai/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/OpenAI/comments/1schfyh/peruser_and_pertenant_budget_limits_for_openai/</guid>
+      <pubDate>Sat, 04 Apr 2026 18:54:57 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
       <title>Where can I view my current rate limit for Deep Research in the ChatGPT?</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1scgdp5/where_can_i_view_my_current_rate_limit_for_deep/</link>
       <guid isPermaLink="true">https://www.reddit.com/r/OpenAI/comments/1scgdp5/where_can_i_view_my_current_rate_limit_for_deep/</guid>
@@ -158,14 +166,6 @@
       <pubDate>Fri, 03 Apr 2026 23:57:04 +0000</pubDate>
       <category>Industry News</category>
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> Simon Willison<br/><br/>A fun thing about recording a podcast with a professional like Lenny Rachitsky is that his team know how to slice the resulting video up into TikTok-sized short form vertical videos. Here&apos;s one he sha<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Open-sourcing a decentralized AI training network with constitutional governance and economic alignment mechanisms</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1sbrfps/opensourcing_a_decentralized_ai_training_network/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/OpenAI/comments/1sbrfps/opensourcing_a_decentralized_ai_training_network/</guid>
-      <pubDate>Fri, 03 Apr 2026 22:09:34 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 64/100<br/><b>Source:</b> r/openai<br/><br/>Open-source decentralized AI training network with governance mechanisms.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
