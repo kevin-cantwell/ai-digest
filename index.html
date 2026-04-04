@@ -246,7 +246,7 @@
   <div class="header-inner">
     <div class="logo">AI Digest<span class="logo-dot">.</span></div>
     <div class="header-meta">
-      <span class="header-date" id="header-date" data-utc="2026-04-04T10:11:47Z">Saturday, April 4, 2026 — 10:11 UTC</span>
+      <span class="header-date" id="header-date" data-utc="2026-04-04T11:09:44Z">Saturday, April 4, 2026 — 11:09 UTC</span>
       <script>
         (function() {
           var el = document.getElementById('header-date');
@@ -259,7 +259,7 @@
       <span class="header-updated" id="header-updated">Updated just now</span>
       <script>
         (function() {
-          var builtAt = new Date("2026-04-04T10:11:47Z");
+          var builtAt = new Date("2026-04-04T11:09:44Z");
           function updateAge() {
             var mins = Math.floor((Date.now() - builtAt.getTime()) / 60000);
             var el = document.getElementById('header-updated');
@@ -282,7 +282,7 @@
 
 <main>
   <div class="tldr-box">
-    <p class="tldr-text">Claude discovered a Linux vulnerability that had remained undetected for 23 years, while Google DeepMind released Gemma 4, positioning it as the most capable open-source model of its size. Microsoft introduced runtime security tools for AI agents, and research revealed that agent frameworks inefficiently consume tokens by repeatedly resending static files, with a 95% reduction achievable through optimization.</p>
+    <p class="tldr-text">Google DeepMind released Gemma 4, an open-source multimodal model with significantly improved capabilities over its predecessor, while Anthropic&#x27;s Claude Code was found to contain a 23-year-old Linux vulnerability and exhibits inefficient token usage due to multiple stacking bugs. Microsoft introduced new open-source runtime security tools for AI agents, and Netflix released VOID, a video processing model, as organizations continue building infrastructure and addressing performance issues in production AI systems.</p>
   </div>
 
   
@@ -293,11 +293,11 @@
         <div class="card-header">
           <a class="card-title" href="https://mtlynch.io/claude-code-found-linux-vulnerability/" target="_blank" rel="noopener noreferrer">Claude Code Found a Linux Vulnerability Hidden for 23 Years</a>
         </div>
-        <p class="item-summary">Claude Code discovered a Linux kernel vulnerability that had remained hidden for 23 years.</p>
+        <p class="item-summary">Claude Code identified a Linux kernel vulnerability that remained hidden for 23 years.</p>
         <div class="card-meta">
           <a class="source" href="https://news.ycombinator.com/item?id=47633855" target="_blank" rel="noopener noreferrer">Hacker News</a>
-          <span class="upvotes">▲ 51  💬 21</span>
-          <span class="age">10h ago</span>
+          <span class="upvotes">▲ 61  💬 35</span>
+          <span class="age">11h ago</span>
           <span class="score-bar" title="Quality score: 94/100"><span class="bar-filled">█████████</span><span class="bar-empty">░</span> <span class="score-num">94</span></span>
         </div>
       </div>
@@ -305,23 +305,35 @@
         <div class="card-header">
           <a class="card-title" href="https://www.reddit.com/r/artificial/comments/1sbthh0/agent_frameworks_waste_350000_tokens_per_session/" target="_blank" rel="noopener noreferrer">Agent frameworks waste ~350,000+ tokens per session resending static files. 95% reduction benchmarked.</a>
         </div>
-        <p class="item-summary">Analysis showing agent frameworks waste significant tokens and demonstrating 95% reduction optimization.</p>
+        <p class="item-summary">Analysis shows agent frameworks waste excessive tokens resending static files, with demonstrated 95% reduction optimization.</p>
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/artificial/comments/1sbthh0/agent_frameworks_waste_350000_tokens_per_session/" target="_blank" rel="noopener noreferrer">r/artificial</a>
           
-          <span class="age">10h ago</span>
+          <span class="age">11h ago</span>
           <span class="score-bar" title="Quality score: 82/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">82</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://i.redd.it/g47wf3rm6zsg1.png" target="_blank" rel="noopener noreferrer">I patched the open-source Claude Code reimplementation to actually work with Ollama and local models</a>
+        </div>
+        <p class="item-summary">Developer patches open-source Claude Code reimplementation for compatibility with Ollama and local models.</p>
+        <div class="card-meta">
+          <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1sbdark/i_patched_the_opensource_claude_code/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
+          
+          <span class="age">21h ago</span>
+          <span class="score-bar" title="Quality score: 76/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">76</span></span>
         </div>
       </div>
       <div class="card">
         <div class="card-header">
           <a class="card-title" href="https://www.phoronix.com/news/Microsoft-AI-Agent-Governance" target="_blank" rel="noopener noreferrer">Microsoft&#x27;s newest open-source project: Runtime security for AI agents</a>
         </div>
-        <p class="item-summary">Microsoft releases open-source runtime security framework for AI agents.</p>
+        <p class="item-summary">Microsoft open-sources runtime security framework for AI agents.</p>
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/artificial/comments/1sbatl3/microsofts_newest_opensource_project_runtime/" target="_blank" rel="noopener noreferrer">r/artificial</a>
           
-          <span class="age">22h ago</span>
+          <span class="age">23h ago</span>
           <span class="score-bar" title="Quality score: 76/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">76</span></span>
         </div>
       </div>
@@ -329,11 +341,11 @@
         <div class="card-header">
           <a class="card-title" href="https://www.reddit.com/r/ClaudeAI/comments/1sbqalg/i_reverseengineered_why_claude_code_burns_through/" target="_blank" rel="noopener noreferrer">I reverse-engineered why Claude Code burns through your usage so fast. 7 bugs that stack on top of each other — and the worst one activates when Extra Usage kicks in</a>
         </div>
-        <p class="item-summary">Technical analysis of Claude Code performance issues and identified bugs affecting token usage.</p>
+        <p class="item-summary">User reports discovering seven bugs causing high token consumption in Claude Code.</p>
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/ClaudeAI/comments/1sbqalg/i_reverseengineered_why_claude_code_burns_through/" target="_blank" rel="noopener noreferrer">r/ClaudeAI</a>
           
-          <span class="age">12h ago</span>
+          <span class="age">13h ago</span>
           <span class="score-bar" title="Quality score: 74/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">74</span></span>
         </div>
       </div>
@@ -341,23 +353,11 @@
         <div class="card-header">
           <a class="card-title" href="https://news.ycombinator.com/item?id=47633396" target="_blank" rel="noopener noreferrer">Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw</a>
         </div>
-        <p class="item-summary">Anthropic policy change restricting Claude Code subscriptions from using OpenClaw.</p>
+        <p class="item-summary">Anthropic restricts Claude Code subscriptions from using OpenClaw tool.</p>
         <div class="card-meta">
           <a class="source" href="https://news.ycombinator.com/item?id=47633396" target="_blank" rel="noopener noreferrer">Hacker News</a>
-          <span class="upvotes">▲ 692  💬 566</span>
-          <span class="age">11h ago</span>
-          <span class="score-bar" title="Quality score: 70/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">70</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://i.redd.it/g47wf3rm6zsg1.png" target="_blank" rel="noopener noreferrer">I patched the open-source Claude Code reimplementation to actually work with Ollama and local models</a>
-        </div>
-        <p class="item-summary">Developer patched open-source Claude Code implementation for compatibility with local Ollama models.</p>
-        <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1sbdark/i_patched_the_opensource_claude_code/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
-          
-          <span class="age">20h ago</span>
+          <span class="upvotes">▲ 745  💬 588</span>
+          <span class="age">12h ago</span>
           <span class="score-bar" title="Quality score: 70/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">70</span></span>
         </div>
       </div>
@@ -374,7 +374,7 @@
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/OpenAI/comments/1sbv3l3/new_model_from_openai_spotted_on_lmarena/" target="_blank" rel="noopener noreferrer">r/openai</a>
           
-          <span class="age">9h ago</span>
+          <span class="age">10h ago</span>
           <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
         </div>
       </div>
@@ -391,7 +391,7 @@
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1sbdihw/gemma_4_31b_at_256k_full_context_on_a_single_rtx/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
           
-          <span class="age">20h ago</span>
+          <span class="age">21h ago</span>
           <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
         </div>
       </div>
@@ -403,7 +403,7 @@
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1sbec70/qwen35_vs_gemma_4_benchmarks_vs_real_world_use/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
           
-          <span class="age">20h ago</span>
+          <span class="age">21h ago</span>
           <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
         </div>
       </div>
@@ -415,7 +415,7 @@
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1sbp8ny/gemma_4_vs_qwen_35_benchmark_comparison/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
           
-          <span class="age">13h ago</span>
+          <span class="age">14h ago</span>
           <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
         </div>
       </div>
@@ -427,7 +427,7 @@
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1sbdr75/gemma_4_architecture_comparison/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
           
-          <span class="age">20h ago</span>
+          <span class="age">21h ago</span>
           <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
         </div>
       </div>
@@ -439,7 +439,7 @@
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/artificial/comments/1sbc40j/structural_analysis_of_recursive_architecture/" target="_blank" rel="noopener noreferrer">r/artificial</a>
           
-          <span class="age">21h ago</span>
+          <span class="age">22h ago</span>
           <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
         </div>
       </div>
@@ -451,7 +451,7 @@
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/ClaudeAI/comments/1sbg584/wanted_to_share_some_calmness_considerations/" target="_blank" rel="noopener noreferrer">r/ClaudeAI</a>
           
-          <span class="age">19h ago</span>
+          <span class="age">20h ago</span>
           <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
         </div>
       </div>
@@ -468,7 +468,7 @@
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/artificial/comments/1sbk3lr/after_building_automation_for_barbers_therapists/" target="_blank" rel="noopener noreferrer">r/artificial</a>
           
-          <span class="age">16h ago</span>
+          <span class="age">17h ago</span>
           <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
         </div>
       </div>
@@ -481,7 +481,7 @@
         <div class="card-header">
           <a class="card-title" href="https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/" target="_blank" rel="noopener noreferrer">Gemma 4: Byte for byte, the most capable open models</a>
         </div>
-        <p class="item-summary">Google DeepMind announces Gemma 4, new generation of open-source language models.</p>
+        <p class="item-summary">Google DeepMind announces Gemma 4, claiming state-of-the-art open model efficiency and capability.</p>
         <div class="card-meta">
           <a class="source" href="https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/" target="_blank" rel="noopener noreferrer">Google DeepMind</a>
           
@@ -493,11 +493,11 @@
         <div class="card-header">
           <a class="card-title" href="https://www.anthropic.com/research/emotion-concepts-function" target="_blank" rel="noopener noreferrer">Emotion concepts and their function in a large language model</a>
         </div>
-        <p class="item-summary">Anthropic research on how emotion concepts function within large language models.</p>
+        <p class="item-summary">Anthropic publishes research on how emotion concepts function within large language models.</p>
         <div class="card-meta">
           <a class="source" href="https://news.ycombinator.com/item?id=47636435" target="_blank" rel="noopener noreferrer">Hacker News</a>
-          <span class="upvotes">▲ 55  💬 43</span>
-          <span class="age">3h ago</span>
+          <span class="upvotes">▲ 60  💬 46</span>
+          <span class="age">4h ago</span>
           <span class="score-bar" title="Quality score: 88/100"><span class="bar-filled">█████████</span><span class="bar-empty">░</span> <span class="score-num">88</span></span>
         </div>
       </div>
@@ -505,7 +505,7 @@
         <div class="card-header">
           <a class="card-title" href="https://www.latent.space/p/ainews-gemma-4-the-best-small-multimodal" target="_blank" rel="noopener noreferrer">[AINews] Gemma 4: The best small Multimodal Open Models, dramatically better than Gemma 3 in every way</a>
         </div>
-        <p class="item-summary">Latent Space coverage of Gemma 4 multimodal models showing significant improvements over Gemma 3.</p>
+        <p class="item-summary">Latent Space analysis of Gemma 4 multimodal models and improvements over Gemma 3.</p>
         <div class="card-meta">
           <a class="source" href="https://www.latent.space/p/ainews-gemma-4-the-best-small-multimodal" target="_blank" rel="noopener noreferrer">Latent Space</a>
           
@@ -515,9 +515,21 @@
       </div>
       <div class="card">
         <div class="card-header">
+          <a class="card-title" href="https://i.redd.it/bgt3czvcwysg1.jpeg" target="_blank" rel="noopener noreferrer">Netflix just dropped their first public model on Hugging Face: VOID: Video Object and Interaction Deletion</a>
+        </div>
+        <p class="item-summary">Netflix releases VOID model on Hugging Face for video object deletion.</p>
+        <div class="card-meta">
+          <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1sbc5ij/netflix_just_dropped_their_first_public_model_on/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
+          
+          <span class="age">22h ago</span>
+          <span class="score-bar" title="Quality score: 74/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">74</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
           <a class="card-title" href="https://www.latent.space/p/moonlake" target="_blank" rel="noopener noreferrer">Moonlake: Causal World Models should be Multimodal, Interactive, and Efficient — with Chris Manning and Fan-yun Sun</a>
         </div>
-        <p class="item-summary">Research discussion on Moonlake causal world models with focus on multimodal and efficient approaches.</p>
+        <p class="item-summary">Research discussion on multimodal causal world models for AI efficiency.</p>
         <div class="card-meta">
           <a class="source" href="https://www.latent.space/p/moonlake" target="_blank" rel="noopener noreferrer">Latent Space</a>
           
@@ -527,25 +539,13 @@
       </div>
       <div class="card">
         <div class="card-header">
-          <a class="card-title" href="https://i.redd.it/bgt3czvcwysg1.jpeg" target="_blank" rel="noopener noreferrer">Netflix just dropped their first public model on Hugging Face: VOID: Video Object and Interaction Deletion</a>
-        </div>
-        <p class="item-summary">Netflix open-sources VOID, a video object and interaction deletion model on Hugging Face.</p>
-        <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1sbc5ij/netflix_just_dropped_their_first_public_model_on/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
-          
-          <span class="age">21h ago</span>
-          <span class="score-bar" title="Quality score: 68/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">68</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://www.reddit.com/r/LocalLLaMA/comments/1sbe40t/my_biggest_issue_with_the_gemma4_models_is_the/" target="_blank" rel="noopener noreferrer">My biggest Issue with the Gemma-4 Models is the Massive KV Cache!!</a>
+          <a class="card-title" href="https://www.reddit.com/r/LocalLLaMA/comments/1sbl0pa/smaller_models_are_getting_scary_good/" target="_blank" rel="noopener noreferrer">Smaller models are getting scary good.</a>
         </div>
         
         <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1sbe40t/my_biggest_issue_with_the_gemma4_models_is_the/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
+          <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1sbl0pa/smaller_models_are_getting_scary_good/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
           
-          <span class="age">20h ago</span>
+          <span class="age">17h ago</span>
           <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
         </div>
       </div>
