@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Apr 2026 15:11:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 16:10:38 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage</title>
@@ -13,23 +13,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/</guid>
       <pubDate>Sat, 04 Apr 2026 16:32:22 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 80/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic announces additional pricing for Claude Code subscribers using OpenClaw.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>I built an open-source tool that lets Claude Code and Claude Desktop control Unreal Engine — 60+ operations, zero editor clicks</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1scvnt8/i_built_an_opensource_tool_that_lets_claude_code/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1scvnt8/i_built_an_opensource_tool_that_lets_claude_code/</guid>
-      <pubDate>Sun, 05 Apr 2026 05:47:58 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Open-source tool enabling Claude to control Unreal Engine with 60+ operations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>12k AI-generated blog posts added in a single commit</title>
-      <link>https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849</link>
-      <guid isPermaLink="true">https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849</guid>
-      <pubDate>Sat, 04 Apr 2026 16:45:31 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Repository commits 12,000 AI-generated blog posts in single commit, raising quality concerns.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 80/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic announces additional pricing for OpenClaw usage under Claude Code subscriptions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Comparing Qwen3.5 vs Gemma4 for Local Agentic Coding</title>
@@ -37,7 +21,7 @@
       <guid isPermaLink="true">https://aayushgarg.dev/posts/2026-04-05-qwen35-vs-gemma4/</guid>
       <pubDate>Sun, 05 Apr 2026 10:34:32 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Reddit discussion comparing two open-source models for local agentic coding tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>User comparison of two open-source models for local agentic coding tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>We built an orchestrator that manages multiple Claude Code agents on separate VMs</title>
@@ -45,7 +29,7 @@
       <guid isPermaLink="true">https://v.redd.it/n2z8hgxptatg1</guid>
       <pubDate>Sun, 05 Apr 2026 04:24:39 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Technical project orchestrating multiple Claude Code agents across VMs.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Multi-agent orchestration system for Claude Code across distributed VMs.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Gemma 4 31B vs Gemma 4 26B-A4B vs Qwen 3.5 27B — 30-question blind eval with Claude Opus 4.6 as judge</title>
@@ -53,15 +37,47 @@
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1scwos6/gemma_4_31b_vs_gemma_4_26ba4b_vs_qwen_35_27b/</guid>
       <pubDate>Sun, 05 Apr 2026 06:48:04 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Blind evaluation comparing three open-source models on 30-question benchmark.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Blind evaluation comparing recent open-source models using Claude Opus as judge.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>We absolutely need Qwen3.6-397B-A17B to be open source</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sccpbj/we_absolutely_need_qwen36397ba17b_to_be_open/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sccpbj/we_absolutely_need_qwen36397ba17b_to_be_open/</guid>
-      <pubDate>Sat, 04 Apr 2026 15:50:40 +0000</pubDate>
+      <title>Per-Layer Embeddings: A simple explanation of the magic behind the small Gemma 4 models</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sd5utm/perlayer_embeddings_a_simple_explanation_of_the/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sd5utm/perlayer_embeddings_a_simple_explanation_of_the/</guid>
+      <pubDate>Sun, 05 Apr 2026 15:02:25 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Technical explanation of per-layer embeddings innovation enabling efficient Gemma 4 models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>I built an open-source tool that lets Claude Code and Claude Desktop control Unreal Engine — 60+ operations, zero editor clicks</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1scvnt8/i_built_an_opensource_tool_that_lets_claude_code/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1scvnt8/i_built_an_opensource_tool_that_lets_claude_code/</guid>
+      <pubDate>Sun, 05 Apr 2026 05:47:58 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Open-source integration tool enabling Claude to control Unreal Engine with 60+ operations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>A Claude Code skill that makes Claude talk like a caveman, cutting token use</title>
+      <link>https://github.com/JuliusBrussee/caveman</link>
+      <guid isPermaLink="true">https://github.com/JuliusBrussee/caveman</guid>
+      <pubDate>Sun, 05 Apr 2026 08:56:18 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>A prompt engineering technique for Claude that reduces token usage by stylistic constraint.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>12k AI-generated blog posts added in a single commit</title>
+      <link>https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849</link>
+      <guid isPermaLink="true">https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849</guid>
+      <pubDate>Sat, 04 Apr 2026 16:45:31 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Repository added 12k AI-generated blog posts in single commit, raising quality concerns.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>I built &amp; publicly host a handful of MCP servers - free to use, no API keys/auth needed</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1sceak4/i_built_publicly_host_a_handful_of_mcp_servers/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1sceak4/i_built_publicly_host_a_handful_of_mcp_servers/</guid>
+      <pubDate>Sat, 04 Apr 2026 16:52:56 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Developer announces publicly hosted MCP servers for Claude integration.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Are ocr engines like tesseract still valid or do people just use image recognition models now.</title>
@@ -120,14 +136,6 @@
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Context window limit change?</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1scmmsy/context_window_limit_change/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/OpenAI/comments/1scmmsy/context_window_limit_change/</guid>
-      <pubDate>Sat, 04 Apr 2026 22:25:36 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
       <title>Per-user and per-tenant budget limits for OpenAI API calls — beyond project-level spend caps</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1schfyh/peruser_and_pertenant_budget_limits_for_openai/</link>
       <guid isPermaLink="true">https://www.reddit.com/r/OpenAI/comments/1schfyh/peruser_and_pertenant_budget_limits_for_openai/</guid>
@@ -158,14 +166,6 @@
       <pubDate>Sun, 05 Apr 2026 00:32:11 +0000</pubDate>
       <category>Research &amp; Papers</category>
       <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> Simon Willison<br/><br/>Release: research-llm-apis 2026-04-04 I&apos;m working on a major change to my LLM Python library and CLI tool. LLM provides an abstraction layer over hundreds of different LLMs from dozens of different ve<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Vulnerability Research Is Cooked</title>
-      <link>https://simonwillison.net/2026/Apr/3/vulnerability-research-is-cooked/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/3/vulnerability-research-is-cooked/#atom-everything</guid>
-      <pubDate>Fri, 03 Apr 2026 23:59:08 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> Simon Willison<br/><br/>Vulnerability Research Is Cooked Thomas Ptacek&apos;s take on the sudden and enormous impact the latest frontier models are having on the field of vulnerability research. Within the next few months, coding<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
