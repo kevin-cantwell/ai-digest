@@ -5,8 +5,16 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Apr 2026 07:27:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 08:14:15 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage</title>
+      <link>https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/</guid>
+      <pubDate>Sat, 04 Apr 2026 16:32:22 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 86/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic announces additional paid subscription tier for OpenClaw usage by Claude Code subscribers.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
     <item>
       <title>Show HN: TurboQuant-WASM – Google&apos;s vector quantization in the browser</title>
       <link>https://github.com/teamchong/turboquant-wasm</link>
@@ -16,20 +24,12 @@
       <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>TurboQuant-WASM brings Google&apos;s vector quantization technology to browser environments for efficient model inference.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage</title>
-      <link>https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/</guid>
-      <pubDate>Sat, 04 Apr 2026 16:32:22 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 80/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic announces pricing policy for Claude Code subscribers using third-party tools.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
       <title>Components of a Coding Agent</title>
       <link>https://magazine.sebastianraschka.com/p/components-of-a-coding-agent</link>
       <guid isPermaLink="true">https://magazine.sebastianraschka.com/p/components-of-a-coding-agent</guid>
       <pubDate>Sat, 04 Apr 2026 13:16:33 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Technical article analyzing architectural components of coding agent systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Sebastian Raschka article examining the technical components and architecture of coding agent systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Claude Code reads your .env files without asking. I tested it.</title>
@@ -37,7 +37,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1sc93zw/claude_code_reads_your_env_files_without_asking_i/</guid>
       <pubDate>Sat, 04 Apr 2026 13:21:13 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Security report claiming Claude Code reads .env files without explicit permission.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>User report claiming Claude Code reads .env files without explicit permission, raising potential security concerns.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>12k AI-generated blog posts added in a single commit</title>
@@ -45,7 +45,15 @@
       <guid isPermaLink="true">https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849</guid>
       <pubDate>Sat, 04 Apr 2026 16:45:31 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Repository commits 12,000 AI-generated blog posts in single update, raising quality concerns.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Repository bulk-adds 12k AI-generated blog posts in single commit, raising questions about content quality and authenticity.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Gemma 4 31B beats several frontier models on the FoodTruck Bench</title>
+      <link>https://i.redd.it/dzatb00148tg1.png</link>
+      <guid isPermaLink="true">https://i.redd.it/dzatb00148tg1.png</guid>
+      <pubDate>Sat, 04 Apr 2026 19:22:55 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Gemma 4 31B model outperforms several frontier models on the FoodTruck benchmark.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Local Claude Code with Qwen3.5 27B</title>
@@ -53,7 +61,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1scrnzm/local_claude_code_with_qwen35_27b/</guid>
       <pubDate>Sun, 05 Apr 2026 02:19:54 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Report on running Claude Code locally with Qwen 3.5 27B model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Brief report on running Claude Code-like functionality with Qwen 27B locally, lacking depth or verification.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Context window limit change?</title>
@@ -117,7 +125,15 @@
       <guid isPermaLink="true">https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f</guid>
       <pubDate>Sat, 04 Apr 2026 16:57:45 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>Andrej Karpathy shares conceptual framework for LLM knowledge documentation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>Andrej Karpathy publishes an example &apos;idea file&apos; format for LLM documentation and knowledge management.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Show HN: sllm – Split a GPU node with other developers, unlimited tokens</title>
+      <link>https://sllm.cloud</link>
+      <guid isPermaLink="true">https://sllm.cloud</guid>
+      <pubDate>Sat, 04 Apr 2026 15:18:58 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>Service announcement for GPU node sharing platform enabling distributed LLM inference.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>[P] MCGrad: fix calibration of your ML model in subgroups</title>
@@ -125,15 +141,15 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1scjzer/p_mcgrad_fix_calibration_of_your_ml_model_in/</guid>
       <pubDate>Sat, 04 Apr 2026 20:36:01 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Technical project for improving ML model calibration across subgroups.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Project for improving ML model calibration across demographic subgroups.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Gemma 4 31B beats several frontier models on the FoodTruck Bench</title>
-      <link>https://i.redd.it/dzatb00148tg1.png</link>
-      <guid isPermaLink="true">https://i.redd.it/dzatb00148tg1.png</guid>
-      <pubDate>Sat, 04 Apr 2026 19:22:55 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Benchmark report showing Google Gemma 4 31B outperforming larger models on FoodTruck benchmark.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>[P] Cadenza: Connect Wandb logs to agents easily for autonomous research.</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1scm9do/p_cadenza_connect_wandb_logs_to_agents_easily_for/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1scm9do/p_cadenza_connect_wandb_logs_to_agents_easily_for/</guid>
+      <pubDate>Sat, 04 Apr 2026 22:09:24 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Project announcement for connecting Weights &amp; Biases logs to autonomous research agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Extended NYT Connections Benchmark scores: MiniMax-M2.7 34.4, Gemma 4 31B 30.1, Arcee Trinity Large Thinking 29.5</title>
@@ -141,29 +157,13 @@
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1scl7pl/extended_nyt_connections_benchmark_scores/</guid>
       <pubDate>Sat, 04 Apr 2026 21:25:29 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Benchmark comparison scores across multiple local models on NYT Connections task.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>AI that copied musical artist files copyright claim against artist [updated]</title>
-      <link>https://twitter.com/VladTheInflator/status/2039577001531768906</link>
-      <guid isPermaLink="true">https://twitter.com/VladTheInflator/status/2039577001531768906</guid>
-      <pubDate>Sun, 05 Apr 2026 03:55:10 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Benchmark comparison results showing MiniMax-M2.7 leading on NYT Connections task against competitor models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>I am seeing Claude everywhere</title>
       <link>https://www.reddit.com/r/artificial/comments/1scaqpe/i_am_seeing_claude_everywhere/</link>
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1scaqpe/i_am_seeing_claude_everywhere/</guid>
       <pubDate>Sat, 04 Apr 2026 14:31:53 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Kept hitting ChatGPT and Claude limits during real work. This is the free setup I ended up using</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sckc3j/kept_hitting_chatgpt_and_claude_limits_during/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sckc3j/kept_hitting_chatgpt_and_claude_limits_during/</guid>
-      <pubDate>Sat, 04 Apr 2026 20:50:01 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
