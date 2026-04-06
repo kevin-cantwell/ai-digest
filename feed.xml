@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Apr 2026 13:32:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 14:22:49 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage</title>
@@ -13,7 +13,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/</guid>
       <pubDate>Sat, 04 Apr 2026 16:32:22 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 86/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic announcement regarding pricing changes for Claude Code subscribers accessing OpenClaw.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 86/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic announces additional payment structure for Claude Code subscribers using OpenClaw functionality.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Abliterating Qwen3.5-397B on a Mac Studio revealed that MoE models encode refusal differently than dense models — safety refusals route through expert selection and survive weight-baking</title>
@@ -21,15 +21,15 @@
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sdkb68/abliterating_qwen35397b_on_a_mac_studio_revealed/</guid>
       <pubDate>Mon, 06 Apr 2026 00:50:25 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Research finding on how mixture-of-experts models encode safety mechanisms differently than dense models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Research on Qwen 3.5-397B MoE architecture reveals safety refusals operate through expert routing mechanisms.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>I benchmarked &quot;Plan with Opus, Execute with Codex&quot; — here&apos;s the actual cost data</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1sdk2sj/i_benchmarked_plan_with_opus_execute_with_codex/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1sdk2sj/i_benchmarked_plan_with_opus_execute_with_codex/</guid>
-      <pubDate>Mon, 06 Apr 2026 00:39:29 +0000</pubDate>
+      <title>Claude Code can now submit your app to App Store Connect and help you pass review</title>
+      <link>https://i.redd.it/oqv5hgfcyhtg1.png</link>
+      <guid isPermaLink="true">https://i.redd.it/oqv5hgfcyhtg1.png</guid>
+      <pubDate>Mon, 06 Apr 2026 04:22:25 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Empirical cost benchmark comparing multi-model workflows with Claude Opus and Codex.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Claude Code gains capability to submit applications directly to App Store Connect and assist with review compliance.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Qwen-3.6-Plus is the first model to break 1T tokens processed in a day</title>
@@ -37,7 +37,7 @@
       <guid isPermaLink="true">https://twitter.com/openrouter/status/2040239467865489874</guid>
       <pubDate>Sun, 05 Apr 2026 21:18:25 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> Hacker News<br/><br/>Qwen-3.6-Plus achieves first-time milestone of processing over 1 trillion tokens in a single day.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> Hacker News<br/><br/>Qwen-3.6-Plus becomes first model to process over 1 trillion tokens daily.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud</title>
@@ -45,7 +45,7 @@
       <guid isPermaLink="true">https://github.com/kessler/gemma-gem</guid>
       <pubDate>Mon, 06 Apr 2026 00:14:37 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Project embeds Google&apos;s Gemma model directly in browsers without requiring API keys or cloud services.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Browser-based embedding of Google&apos;s Gemma model that runs locally without API keys or cloud dependency.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B</title>
@@ -53,7 +53,7 @@
       <guid isPermaLink="true">https://github.com/fikrikarim/parlor</guid>
       <pubDate>Sun, 05 Apr 2026 17:53:19 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Open-source project enabling real-time audio/video processing with Gemma on consumer hardware.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Real-time multimodal AI system (audio/video input, voice output) demonstrated running on Apple M3 Pro hardware.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Qwen 3.5 Tool Calling Fixes for Agentic Use: What&apos;s Broken, What&apos;s Fixed, What You (may) Still Need</title>
@@ -61,15 +61,15 @@
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sdhvc5/qwen_35_tool_calling_fixes_for_agentic_use_whats/</guid>
       <pubDate>Sun, 05 Apr 2026 23:01:34 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Technical analysis of tool-calling improvements in Qwen 3.5 for agent-based applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Analysis of fixes and improvements in Qwen 3.5&apos;s tool-calling capabilities for agentic applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Per-Layer Embeddings: A simple explanation of the magic behind the small Gemma 4 models</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sd5utm/perlayer_embeddings_a_simple_explanation_of_the/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sd5utm/perlayer_embeddings_a_simple_explanation_of_the/</guid>
-      <pubDate>Sun, 05 Apr 2026 15:02:25 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Technical explanation of per-layer embeddings architecture in compact Gemma 4 models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>I benchmarked &quot;Plan with Opus, Execute with Codex&quot; — here&apos;s the actual cost data</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1sdk2sj/i_benchmarked_plan_with_opus_execute_with_codex/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1sdk2sj/i_benchmarked_plan_with_opus_execute_with_codex/</guid>
+      <pubDate>Mon, 06 Apr 2026 00:39:29 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Benchmark analysis comparing cost data for a multi-model approach combining Claude Opus and Codex.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use</title>
@@ -77,7 +77,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/</guid>
       <pubDate>Sun, 05 Apr 2026 18:51:37 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 72/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Legal/contractual news that Microsoft labels Copilot as entertainment-only in terms of service.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 72/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Microsoft&apos;s terms of service classify Copilot as entertainment-only, raising questions about liability and proper use cases.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Show HN: I built a tiny LLM to demystify how language models work</title>
@@ -85,7 +85,7 @@
       <guid isPermaLink="true">https://github.com/arman-bd/guppylm</guid>
       <pubDate>Mon, 06 Apr 2026 00:20:12 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Developer shares a small educational LLM project on GitHub to help explain language model mechanics.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Developer created a small language model implementation for educational purposes to demonstrate how LLMs work.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Running Gemma 4 locally with LM Studio&apos;s new headless CLI and Claude Code</title>
@@ -93,39 +93,15 @@
       <guid isPermaLink="true">https://ai.georgeliu.com/p/running-google-gemma-4-locally-with</guid>
       <pubDate>Sun, 05 Apr 2026 17:13:51 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Tutorial on running Gemma locally using LM Studio&apos;s CLI tool and Claude Code integration.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Tutorial on running Gemma 4 locally using LM Studio&apos;s CLI tool integrated with Claude Code.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>You can now give an AI agent its own email, phone number, wallet, computer, and voice. This is what the stack looks like</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sdiugx/you_can_now_give_an_ai_agent_its_own_email_phone/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sdiugx/you_can_now_give_an_ai_agent_its_own_email_phone/</guid>
-      <pubDate>Sun, 05 Apr 2026 23:43:43 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/artificial<br/><br/>Overview of infrastructure stack for autonomous AI agents with email, phone, and wallet access.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>[P] Dante-2B: I&apos;m training a 2.1B bilingual fully open Italian/English LLM from scratch on 2×H200. Phase 1 done — here&apos;s what I&apos;ve built.</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1sdh08w/p_dante2b_im_training_a_21b_bilingual_fully_open/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1sdh08w/p_dante2b_im_training_a_21b_bilingual_fully_open/</guid>
-      <pubDate>Sun, 05 Apr 2026 22:24:36 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Open-source bilingual Italian/English language model training from scratch on H200 hardware.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Industrial policy for the Intelligence Age</title>
-      <link>https://openai.com/index/industrial-policy-for-the-intelligence-age</link>
-      <guid isPermaLink="true">https://openai.com/index/industrial-policy-for-the-intelligence-age</guid>
-      <pubDate>Mon, 06 Apr 2026 02:30:00 +0000</pubDate>
+      <title>Per-Layer Embeddings: A simple explanation of the magic behind the small Gemma 4 models</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sd5utm/perlayer_embeddings_a_simple_explanation_of_the/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sd5utm/perlayer_embeddings_a_simple_explanation_of_the/</guid>
+      <pubDate>Sun, 05 Apr 2026 15:02:25 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI policy position paper on industrial and governance frameworks for AI development.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>[D] Is research in semantic segmentation saturated?</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1sd8kqx/d_is_research_in_semantic_segmentation_saturated/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1sd8kqx/d_is_research_in_semantic_segmentation_saturated/</guid>
-      <pubDate>Sun, 05 Apr 2026 16:50:19 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Technical explanation of per-layer embeddings architecture used in smaller Gemma 4 models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>[P] Fused MoE Dispatch in Pure Triton: Beating CUDA-Optimized Megablocks at Inference Batch Sizes</title>
@@ -152,20 +128,44 @@
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>[D] The memory chip market lost tens of billions over a paper this community would have understood in 10 minutes</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1sdb7ne/d_the_memory_chip_market_lost_tens_of_billions/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1sdb7ne/d_the_memory_chip_market_lost_tens_of_billions/</guid>
-      <pubDate>Sun, 05 Apr 2026 18:32:27 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
       <title>benchmarks of gemma4 and multiple others on Raspberry Pi5</title>
       <link>https://i.redd.it/n6is1n7d6ftg1.jpeg</link>
       <guid isPermaLink="true">https://i.redd.it/n6is1n7d6ftg1.jpeg</guid>
       <pubDate>Sun, 05 Apr 2026 19:17:48 +0000</pubDate>
       <category>Research &amp; Papers</category>
       <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Gemma 4 Uncensored (autoresearch results)</title>
+      <link>https://huggingface.co/collections/TrevorJS/gemma-4-uncensored</link>
+      <guid isPermaLink="true">https://huggingface.co/collections/TrevorJS/gemma-4-uncensored</guid>
+      <pubDate>Sun, 05 Apr 2026 16:40:47 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Dante-2B: I&apos;m training a 2.1B bilingual fully open Italian/English LLM from scratch on 2×H200. Phase 1 done — here&apos;s what I&apos;ve built.</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sdfwmu/dante2b_im_training_a_21b_bilingual_fully_open/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sdfwmu/dante2b_im_training_a_21b_bilingual_fully_open/</guid>
+      <pubDate>Sun, 05 Apr 2026 21:38:50 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>TurboQuant on Apple Silicon: real benchmarks on Mac Mini M4 16GB and M3 Max 48GB</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sdkav6/turboquant_on_apple_silicon_real_benchmarks_on/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sdkav6/turboquant_on_apple_silicon_real_benchmarks_on/</guid>
+      <pubDate>Mon, 06 Apr 2026 00:50:01 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>After the release of gemma 4</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sdg8n3/after_the_release_of_gemma_4/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sdg8n3/after_the_release_of_gemma_4/</guid>
+      <pubDate>Sun, 05 Apr 2026 21:52:33 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
