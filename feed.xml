@@ -5,15 +5,15 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Apr 2026 00:31:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 01:36:48 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Anthropic expands partnership w Google and Broadcom for multiple GW of compute</title>
+      <title>Anthropic expands partnership with Google and Broadcom for next-gen compute</title>
       <link>https://www.anthropic.com/news/google-broadcom-partnership-compute</link>
       <guid isPermaLink="true">https://www.anthropic.com/news/google-broadcom-partnership-compute</guid>
       <pubDate>Mon, 06 Apr 2026 21:52:08 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic partners with Google and Broadcom to secure multiple gigawatts of compute capacity.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 86/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic announces expanded partnership with Google and Broadcom for AI compute infrastructure.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Announcing the OpenAI Safety Fellowship</title>
@@ -21,23 +21,7 @@
       <guid isPermaLink="true">https://openai.com/index/introducing-openai-safety-fellowship</guid>
       <pubDate>Mon, 06 Apr 2026 10:00:00 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 86/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces new safety-focused fellowship program for AI researchers.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Show HN: Hippo, biologically inspired memory for AI agents</title>
-      <link>https://github.com/kitfunso/hippo-memory</link>
-      <guid isPermaLink="true">https://github.com/kitfunso/hippo-memory</guid>
-      <pubDate>Mon, 06 Apr 2026 21:49:34 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>New open-source project introduces biologically-inspired memory architecture for AI agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Abliterating Qwen3.5-397B on a Mac Studio revealed that MoE models encode refusal differently than dense models — safety refusals route through expert selection and survive weight-baking</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sdkb68/abliterating_qwen35397b_on_a_mac_studio_revealed/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sdkb68/abliterating_qwen35397b_on_a_mac_studio_revealed/</guid>
-      <pubDate>Mon, 06 Apr 2026 00:50:25 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Research reveals Mixture-of-Experts models implement safety refusals through expert routing rather than weight encoding.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 86/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces new Safety Fellowship program.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Meta to open source versions of its next AI models</title>
@@ -45,23 +29,7 @@
       <guid isPermaLink="true">https://www.axios.com/2026/04/06/meta-open-source-ai-models</guid>
       <pubDate>Mon, 06 Apr 2026 17:53:29 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Meta announces commitment to open-source releases of next-generation AI models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>ggml: add Q1_0 1-bit quantization support (CPU) - 1-bit Bonsai models</title>
-      <link>https://github.com/ggml-org/llama.cpp/pull/21273</link>
-      <guid isPermaLink="true">https://github.com/ggml-org/llama.cpp/pull/21273</guid>
-      <pubDate>Mon, 06 Apr 2026 19:28:24 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>GGML project adds 1-bit quantization support enabling extreme compression for lightweight models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>I benchmarked &quot;Plan with Opus, Execute with Codex&quot; — here&apos;s the actual cost data</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1sdk2sj/i_benchmarked_plan_with_opus_execute_with_codex/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1sdk2sj/i_benchmarked_plan_with_opus_execute_with_codex/</guid>
-      <pubDate>Mon, 06 Apr 2026 00:39:29 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Benchmarking analysis comparing cost-performance of multi-model chaining strategy with Opus and Codex.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Meta announces plans to open-source versions of upcoming AI models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Claude Code can now submit your app to App Store Connect and help you pass review</title>
@@ -69,31 +37,15 @@
       <guid isPermaLink="true">https://i.redd.it/oqv5hgfcyhtg1.png</guid>
       <pubDate>Mon, 06 Apr 2026 04:22:25 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Claude Code gains capability to automate App Store Connect submission and review process.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Claude Code gains new capability to submit apps to App Store Connect and manage review process.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>After months with Claude Code, the biggest time sink isn&apos;t bugs — it&apos;s silent fake success</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1sdmohb/after_months_with_claude_code_the_biggest_time/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1sdmohb/after_months_with_claude_code_the_biggest_time/</guid>
-      <pubDate>Mon, 06 Apr 2026 02:38:02 +0000</pubDate>
+      <title>Show HN: Hippo, biologically inspired memory for AI agents</title>
+      <link>https://github.com/kitfunso/hippo-memory</link>
+      <guid isPermaLink="true">https://github.com/kitfunso/hippo-memory</guid>
+      <pubDate>Mon, 06 Apr 2026 21:49:34 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>User analysis of silent failure modes in Claude Code where generated code appears successful but isn&apos;t.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Issue: Claude Code is unusable for complex engineering tasks with Feb updates</title>
-      <link>https://github.com/anthropics/claude-code/issues/42796</link>
-      <guid isPermaLink="true">https://github.com/anthropics/claude-code/issues/42796</guid>
-      <pubDate>Mon, 06 Apr 2026 13:50:35 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>User reports degraded performance of Claude Code for complex engineering tasks following February updates.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Built a Hybrid NAS tool for RNN architectures (HyNAS-R) – Looking for feedback for my final year evaluation [R]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1sebmo8/built_a_hybrid_nas_tool_for_rnn_architectures/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1sebmo8/built_a_hybrid_nas_tool_for_rnn_architectures/</guid>
-      <pubDate>Mon, 06 Apr 2026 21:07:09 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Student presents HyNAS-R, a hybrid neural architecture search tool for RNN models, seeking feedback.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Open-source project introducing biologically-inspired memory mechanisms for AI agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>vibecop is now an mcp server. we also scanned 5 popular mcp servers and the results are rough</title>
@@ -101,7 +53,55 @@
       <guid isPermaLink="true">https://www.reddit.com/r/OpenAI/comments/1se7saa/vibecop_is_now_an_mcp_server_we_also_scanned_5/</guid>
       <pubDate>Mon, 06 Apr 2026 18:52:04 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/openai<br/><br/>Security scanning of popular MCP servers reveals vulnerabilities and integration of vibecop as MCP server.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/openai<br/><br/>Security analysis of MCP servers identifying vulnerabilities in popular implementations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>ggml: add Q1_0 1-bit quantization support (CPU) - 1-bit Bonsai models</title>
+      <link>https://github.com/ggml-org/llama.cpp/pull/21273</link>
+      <guid isPermaLink="true">https://github.com/ggml-org/llama.cpp/pull/21273</guid>
+      <pubDate>Mon, 06 Apr 2026 19:28:24 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Technical development: 1-bit quantization support added to ggml for model compression.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>After months with Claude Code, the biggest time sink isn&apos;t bugs — it&apos;s silent fake success</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1sdmohb/after_months_with_claude_code_the_biggest_time/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1sdmohb/after_months_with_claude_code_the_biggest_time/</guid>
+      <pubDate>Mon, 06 Apr 2026 02:38:02 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>User analysis of Claude Code&apos;s tendency to produce non-functional code that appears correct.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Claude Code v2.1.92 introduces Ultraplan — draft plans in the cloud, review in your browser, execute anywhere</title>
+      <link>https://i.redd.it/23vt13mh5ltg1.png</link>
+      <guid isPermaLink="true">https://i.redd.it/23vt13mh5ltg1.png</guid>
+      <pubDate>Mon, 06 Apr 2026 15:09:45 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>New Claude Code version introduces Ultraplan feature for cloud-based planning and execution.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Industrial policy for the Intelligence Age</title>
+      <link>https://openai.com/index/industrial-policy-for-the-intelligence-age</link>
+      <guid isPermaLink="true">https://openai.com/index/industrial-policy-for-the-intelligence-age</guid>
+      <pubDate>Mon, 06 Apr 2026 02:30:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI publishes policy position on industrial strategy for AI development and regulation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Issue: Claude Code is unusable for complex engineering tasks with Feb updates</title>
+      <link>https://github.com/anthropics/claude-code/issues/42796</link>
+      <guid isPermaLink="true">https://github.com/anthropics/claude-code/issues/42796</guid>
+      <pubDate>Mon, 06 Apr 2026 13:50:35 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>User report of Claude Code performance issues with recent updates.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Built a Hybrid NAS tool for RNN architectures (HyNAS-R) – Looking for feedback for my final year evaluation [R]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1sebmo8/built_a_hybrid_nas_tool_for_rnn_architectures/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1sebmo8/built_a_hybrid_nas_tool_for_rnn_architectures/</guid>
+      <pubDate>Mon, 06 Apr 2026 21:07:09 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Student project sharing hybrid NAS tool for RNN architectures seeking feedback.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>I benchmarked 37 LLMs on MacBook Air M5 32GB — full results + open-source tool to benchmark your own Mac</title>
@@ -112,12 +112,28 @@
       <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>TurboQuant on Apple Silicon: real benchmarks on Mac Mini M4 16GB and M3 Max 48GB</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sdkav6/turboquant_on_apple_silicon_real_benchmarks_on/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sdkav6/turboquant_on_apple_silicon_real_benchmarks_on/</guid>
-      <pubDate>Mon, 06 Apr 2026 00:50:01 +0000</pubDate>
+      <title>Got Gemma 4 running locally on CUDA, both float and GGUF quantized, with benchmarks</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sebwz2/got_gemma_4_running_locally_on_cuda_both_float/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sebwz2/got_gemma_4_running_locally_on_cuda_both_float/</guid>
+      <pubDate>Mon, 06 Apr 2026 21:18:02 +0000</pubDate>
       <category>Research &amp; Papers</category>
       <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>94.42% on BANKING77 Official Test Split — New Strong 2nd Place with Lightweight Embedding + Rerank (no 7B LLM)</title>
+      <link>https://www.reddit.com/r/artificial/comments/1seevgd/9442_on_banking77_official_test_split_new_strong/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1seevgd/9442_on_banking77_official_test_split_new_strong/</guid>
+      <pubDate>Mon, 06 Apr 2026 23:13:52 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>mining hardware doing AI training - is the output actually useful</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sdvygv/mining_hardware_doing_ai_training_is_the_output/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sdvygv/mining_hardware_doing_ai_training_is_the_output/</guid>
+      <pubDate>Mon, 06 Apr 2026 11:16:42 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Astounding OpenAI Training Costs vs. Anthropic</title>
@@ -136,36 +152,20 @@
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
+      <title>Best bank account for agents?</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1sdzw5r/best_bank_account_for_agents/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1sdzw5r/best_bank_account_for_agents/</guid>
+      <pubDate>Mon, 06 Apr 2026 14:08:12 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
       <title>If you&apos;re building a product that involves AI video, do you actually know which type of &quot;live AI video&quot; model you need to integrate?</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1sdm7n1/if_youre_building_a_product_that_involves_ai/</link>
       <guid isPermaLink="true">https://www.reddit.com/r/OpenAI/comments/1sdm7n1/if_youre_building_a_product_that_involves_ai/</guid>
       <pubDate>Mon, 06 Apr 2026 02:16:31 +0000</pubDate>
       <category>Industry News</category>
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>The new image model is better than Nano Banana 2 in many scenarios - but no announcement or talk?</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1sebfy8/the_new_image_model_is_better_than_nano_banana_2/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/OpenAI/comments/1sebfy8/the_new_image_model_is_better_than_nano_banana_2/</guid>
-      <pubDate>Mon, 06 Apr 2026 21:00:38 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>What is OpenAI&apos;s model codenamed: Goldeneye?</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1seba5d/what_is_openais_model_codenamed_goldeneye/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/OpenAI/comments/1seba5d/what_is_openais_model_codenamed_goldeneye/</guid>
-      <pubDate>Mon, 06 Apr 2026 20:54:45 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Startup Battlefield 200 applications open: a chance for VC access, TechCrunch coverage, and $100K</title>
-      <link>https://techcrunch.com/2026/04/06/startup-battlefield-200-applications-open-get-vc-access-techcrunch-coverage-and-100k/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/04/06/startup-battlefield-200-applications-open-get-vc-access-techcrunch-coverage-and-100k/</guid>
-      <pubDate>Mon, 06 Apr 2026 14:30:00 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Nominate your startup, or one you know that deserves the spotlight, and finish the process by applying. Selected 200 have a chance at VC access, TechCrunch coverage, and $100K for Startup Battlefield <br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
