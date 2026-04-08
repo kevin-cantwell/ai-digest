@@ -5,31 +5,23 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Apr 2026 14:37:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 15:32:25 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>System Card: Claude Mythos Preview [pdf]</title>
-      <link>https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf</link>
-      <guid isPermaLink="true">https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf</guid>
-      <pubDate>Tue, 07 Apr 2026 18:18:36 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 94/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic releases official system card documenting Claude Mythos Preview&apos;s capabilities and limitations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Project Glasswing: Securing critical software for the AI era</title>
-      <link>https://www.anthropic.com/glasswing</link>
-      <guid isPermaLink="true">https://www.anthropic.com/glasswing</guid>
-      <pubDate>Tue, 07 Apr 2026 18:09:34 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 92/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic announces Project Glasswing initiative to secure critical software for the AI era.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
     <item>
       <title>MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU</title>
       <link>https://arxiv.org/abs/2604.05091</link>
       <guid isPermaLink="true">https://arxiv.org/abs/2604.05091</guid>
       <pubDate>Wed, 08 Apr 2026 12:19:00 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 90/100<br/><b>Source:</b> Hacker News<br/><br/>Research paper presenting MegaTrain method for full-precision training of 100B+ parameter LLMs on single GPU.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 94/100<br/><b>Source:</b> Hacker News<br/><br/>MegaTrain enables full precision training of 100B+ parameter LLMs on a single GPU, a significant technical advancement in model training efficiency.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>System Card: Claude Mythos Preview [pdf]</title>
+      <link>https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf</link>
+      <guid isPermaLink="true">https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf</guid>
+      <pubDate>Tue, 07 Apr 2026 18:18:36 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic releases system card for Claude Mythos Preview, detailing safety and capability assessments of an advanced model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Assessing Claude Mythos Preview&apos;s cybersecurity capabilities</title>
@@ -37,7 +29,15 @@
       <guid isPermaLink="true">https://red.anthropic.com/2026/mythos-preview/</guid>
       <pubDate>Tue, 07 Apr 2026 18:11:31 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic publishes assessment of Claude Mythos Preview&apos;s cybersecurity capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>Security evaluation of Claude Mythos Preview&apos;s cybersecurity capabilities by Anthropic researchers.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Project Glasswing: Securing critical software for the AI era</title>
+      <link>https://www.anthropic.com/glasswing</link>
+      <guid isPermaLink="true">https://www.anthropic.com/glasswing</guid>
+      <pubDate>Tue, 07 Apr 2026 18:09:34 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 86/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic announces Project Glasswing, an initiative to secure critical software for the AI era.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>MegaTrain: Full Precision Training of 100B+ Parameter Large Language Models on a Single GPU</title>
@@ -45,7 +45,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sfsogm/megatrain_full_precision_training_of_100b/</guid>
       <pubDate>Wed, 08 Apr 2026 13:20:59 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 86/100<br/><b>Source:</b> r/artificial<br/><br/>Discussion of MegaTrain research on efficient LLM training on single GPU.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/artificial<br/><br/>Reddit discussion of MegaTrain research on efficient LLM training at scale.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>[AINews] Anthropic @ $30B ARR, Project GlassWing and Claude Mythos Preview — first model too dangerous to release since GPT-2</title>
@@ -53,7 +53,7 @@
       <guid isPermaLink="true">https://www.latent.space/p/ainews-anthropic-30b-arr-project</guid>
       <pubDate>Wed, 08 Apr 2026 00:26:53 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 84/100<br/><b>Source:</b> Latent Space<br/><br/>Latent Space newsletter covering Anthropic&apos;s $30B ARR valuation, Project Glasswing, and Claude Mythos Preview release.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 78/100<br/><b>Source:</b> Latent Space<br/><br/>Newsletter covering Anthropic&apos;s $30B valuation, Project Glasswing, and Claude Mythos Preview release.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Show HN: Gemma 4 Multimodal Fine-Tuner for Apple Silicon</title>
@@ -61,23 +61,15 @@
       <guid isPermaLink="true">https://github.com/mattmireles/gemma-tuner-multimodal</guid>
       <pubDate>Tue, 07 Apr 2026 19:37:05 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>A GitHub project implementing multimodal fine-tuning for Gemma 4 on Apple Silicon hardware.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>GitHub project for fine-tuning Gemma 4 multimodal models on Apple Silicon hardware.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Show HN: Output.ai - OSS framework we extracted from 500+ production AI agents</title>
-      <link>https://output.ai/</link>
-      <guid isPermaLink="true">https://output.ai/</guid>
-      <pubDate>Tue, 07 Apr 2026 14:40:18 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Open source framework for AI agents extracted from 500+ production deployments.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>This OpenClaw paper shows why agent safety is an execution problem, not just a model problem</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sfawu7/this_openclaw_paper_shows_why_agent_safety_is_an/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sfawu7/this_openclaw_paper_shows_why_agent_safety_is_an/</guid>
-      <pubDate>Tue, 07 Apr 2026 22:31:12 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/artificial<br/><br/>Discussion of OpenClaw research paper on agent safety as execution problem rather than model problem.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>OpenAI releases a new safety blueprint to address the rise in child sexual exploitation</title>
+      <link>https://techcrunch.com/2026/04/08/openai-releases-a-new-safety-blueprint-to-address-the-rise-in-child-sexual-exploitation/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/04/08/openai-releases-a-new-safety-blueprint-to-address-the-rise-in-child-sexual-exploitation/</guid>
+      <pubDate>Wed, 08 Apr 2026 15:23:44 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 76/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI releases safety blueprint addressing child sexual exploitation concerns.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Anthropic&apos;s Project Glasswing - restricting Claude Mythos to security researchers - sounds necessary to me</title>
@@ -85,7 +77,15 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Apr/7/project-glasswing/#atom-everything</guid>
       <pubDate>Tue, 07 Apr 2026 20:52:54 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 72/100<br/><b>Source:</b> Simon Willison<br/><br/>Analysis of Anthropic&apos;s Project Glasswing restricting Claude Mythos access to security researchers.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 72/100<br/><b>Source:</b> Simon Willison<br/><br/>Analysis of Anthropic&apos;s Project Glasswing restricting Claude Mythos access to authorized researchers.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Taste in the age of AI and LLMs</title>
+      <link>https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/</link>
+      <guid isPermaLink="true">https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/</guid>
+      <pubDate>Tue, 07 Apr 2026 15:54:16 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>&quot;Authoritarian Parents In Rationalist Clothes&quot;: a piece I wrote in December about alignment</title>
@@ -104,6 +104,14 @@
       <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
+      <title>This OpenClaw paper shows why agent safety is an execution problem, not just a model problem</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sfawu7/this_openclaw_paper_shows_why_agent_safety_is_an/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sfawu7/this_openclaw_paper_shows_why_agent_safety_is_an/</guid>
+      <pubDate>Tue, 07 Apr 2026 22:31:12 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/artificial<br/><br/>Discussion of OpenClaw research on agent safety as an execution problem.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
       <title>Introducing the Child Safety Blueprint</title>
       <link>https://openai.com/index/introducing-child-safety-blueprint/</link>
       <guid isPermaLink="true">https://openai.com/index/introducing-child-safety-blueprint/</guid>
@@ -112,12 +120,20 @@
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Auto-creation of agent SKILLs from observing your screen via Gemma 4 for any agent to execute and self-improve</title>
-      <link>https://v.redd.it/hgpvlzsf6stg1</link>
-      <guid isPermaLink="true">https://v.redd.it/hgpvlzsf6stg1</guid>
-      <pubDate>Tue, 07 Apr 2026 14:50:28 +0000</pubDate>
+      <title>Fix: Dual Intel Arc GPUs using all system RAM during inference - found the cause and a working fix (llama.cpp SYCL)</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sfe80l/fix_dual_intel_arc_gpus_using_all_system_ram/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sfe80l/fix_dual_intel_arc_gpus_using_all_system_ram/</guid>
+      <pubDate>Wed, 08 Apr 2026 00:51:40 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Technical fix for Intel Arc GPU memory issue in llama.cpp SYCL implementation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Show HN: We fingerprinted 178 AI models&apos; writing styles and similarity clusters</title>
+      <link>https://rival.tips/research/model-similarity</link>
+      <guid isPermaLink="true">https://rival.tips/research/model-similarity</guid>
+      <pubDate>Wed, 08 Apr 2026 14:06:03 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Serving 1B+ tokens/day locally in my research lab</title>
@@ -136,22 +152,6 @@
       <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Why is HuggingFace &amp; HuggingChat completely free? What’s the business model here?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sf6fdc/why_is_huggingface_huggingchat_completely_free/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sf6fdc/why_is_huggingface_huggingchat_completely_free/</guid>
-      <pubDate>Tue, 07 Apr 2026 19:40:39 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>M5 Max 128GB, 17 models, 23 prompts: Qwen 3.5 122B is still a local king</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sfr6u4/m5_max_128gb_17_models_23_prompts_qwen_35_122b_is/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sfr6u4/m5_max_128gb_17_models_23_prompts_qwen_35_122b_is/</guid>
-      <pubDate>Wed, 08 Apr 2026 12:18:39 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
       <title>Wait is attn rotate already enabled by default since this release tell it support SWA attention?</title>
       <link>https://i.redd.it/f62jc62yuvtg1.png</link>
       <guid isPermaLink="true">https://i.redd.it/f62jc62yuvtg1.png</guid>
@@ -160,12 +160,12 @@
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Every Anthropic press release</title>
-      <link>https://i.redd.it/k93v6e0z3vtg1.jpeg</link>
-      <guid isPermaLink="true">https://i.redd.it/k93v6e0z3vtg1.jpeg</guid>
-      <pubDate>Wed, 08 Apr 2026 00:37:26 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>90%+ fewer tokens per session by reading a pre-compiled wiki instead of exploring files cold. Built from Karpathy&apos;s workflow.</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1sfdztg/90_fewer_tokens_per_session_by_reading_a/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1sfdztg/90_fewer_tokens_per_session_by_reading_a/</guid>
+      <pubDate>Wed, 08 Apr 2026 00:41:41 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
