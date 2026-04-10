@@ -246,7 +246,7 @@
   <div class="header-inner">
     <div class="logo">AI Digest<span class="logo-dot">.</span></div>
     <div class="header-meta">
-      <span class="header-date" id="header-date" data-utc="2026-04-10T21:13:08Z">Friday, April 10, 2026 — 21:13 UTC</span>
+      <span class="header-date" id="header-date" data-utc="2026-04-10T22:13:02Z">Friday, April 10, 2026 — 22:13 UTC</span>
       <script>
         (function() {
           var el = document.getElementById('header-date');
@@ -259,7 +259,7 @@
       <span class="header-updated" id="header-updated">Updated just now</span>
       <script>
         (function() {
-          var builtAt = new Date("2026-04-10T21:13:08Z");
+          var builtAt = new Date("2026-04-10T22:13:02Z");
           function updateAge() {
             var mins = Math.floor((Date.now() - builtAt.getTime()) / 60000);
             var el = document.getElementById('header-updated');
@@ -275,16 +275,14 @@
           setInterval(updateAge, 60000);
         })();
       </script>
-      <span class="header-count">20 stories</span>
+      <span class="header-count">17 stories</span>
     </div>
   </div>
 </header>
 
 <main>
   <div class="tldr-box">
-    <p class="tldr-text"># AI News Summary
-
-Researchers demonstrated a significant security vulnerability by infecting an AI agent with a &quot;thought virus&quot; that propagated to an entire network of other AI agents using subliminal messaging to evade defenses. Meanwhile, multiple developments improved AI efficiency and capabilities: the National University of Singapore introduced DMax for faster parallel decoding in language models, GLM 5.1 matched Claude Opus performance at one-third the cost, and a fine-tuned 9B model achieved 89% autonomous completion of data analyst workflows.</p>
+    <p class="tldr-text">A researcher demonstrated that fine-tuning Qwen 3.5-9B with LoRA significantly improved its agentic capabilities, enabling it to complete 89% of data analyst workflows autonomously compared to 0% for the base model, while Claude Code gained new persistent memory features and autonomous monitoring capabilities that eliminate polling loops. The US banking regulator summoned bank executives to address cybersecurity risks associated with Anthropic&#x27;s latest AI model, and researchers at the National University of Singapore introduced DMax, a new diffusion language model paradigm enabling faster parallel decoding.</p>
   </div>
 
   
@@ -293,50 +291,74 @@ Researchers demonstrated a significant security vulnerability by infecting an AI
       <div class="cards">
       <div class="card">
         <div class="card-header">
-          <a class="card-title" href="https://i.redd.it/oqlv844i0bug1.png" target="_blank" rel="noopener noreferrer">Researchers infected an AI agent with a &quot;thought virus&quot;. Then, the AI used subliminal messaging (to slip past defenses) and infect an entire network of AI agents.</a>
-        </div>
-        <p class="item-summary">Research on adversarial prompt propagation between AI agents using subliminal messaging techniques to evade defenses.</p>
-        <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/OpenAI/comments/1she6x3/researchers_infected_an_ai_agent_with_a_thought/" target="_blank" rel="noopener noreferrer">r/openai</a>
-          
-          <span class="age">15h ago</span>
-          <span class="score-bar" title="Quality score: 82/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">82</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://www.reddit.com/r/LocalLLaMA/comments/1shus54/glm_51_crushes_every_other_model_except_opus_in/" target="_blank" rel="noopener noreferrer">GLM 5.1 crushes every other model except Opus in agentic benchmark at about 1/3 of the Opus cost</a>
-        </div>
-        <p class="item-summary">GLM 5.1 model reportedly achieves strong performance on agentic benchmarks at lower cost than Claude Opus.</p>
-        <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1shus54/glm_51_crushes_every_other_model_except_opus_in/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
-          
-          <span class="age">2h ago</span>
-          <span class="score-bar" title="Quality score: 76/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">76</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
           <a class="card-title" href="https://www.reddit.com/r/LocalLLaMA/comments/1shlk5v/model_release_i_trained_a_9b_model_to_be_agentic/" target="_blank" rel="noopener noreferrer">[Model Release] I trained a 9B model to be agentic Data Analyst (Qwen3.5-9B + LoRA). Base model failed 100%, this LoRA completes 89% of workflows without human intervention.</a>
         </div>
-        <p class="item-summary">User trained a 9B parameter model with LoRA fine-tuning to perform data analysis workflows with 89% autonomy, up from 0% on the base model.</p>
+        
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1shlk5v/model_release_i_trained_a_9b_model_to_be_agentic/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
           
-          <span class="age">8h ago</span>
-          <span class="score-bar" title="Quality score: 70/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">70</span></span>
+          <span class="age">9h ago</span>
+          <span class="score-bar" title="Quality score: 100/100"><span class="bar-filled">██████████</span><span class="bar-empty"></span> <span class="score-num">100</span></span>
         </div>
       </div>
       <div class="card">
         <div class="card-header">
-          <a class="card-title" href="https://www.reddit.com/r/ClaudeAI/comments/1shlcf0/hooks_that_force_claude_code_to_use_lsp_instead/" target="_blank" rel="noopener noreferrer">Hooks that force Claude Code to use LSP instead of Grep for code navigation. Saves ~80% tokens</a>
+          <a class="card-title" href="https://www.reddit.com/r/ClaudeAI/comments/1sh48b4/combined_karpathys_llm_wiki_with_milla_jovovichs/" target="_blank" rel="noopener noreferrer">Combined Karpathy&#x27;s LLM Wiki with Milla Jovovich`s MemPalace MCP. Claude Code now remembers everything across sessions</a>
         </div>
-        <p class="item-summary">Technical optimization using LSP instead of grep for code navigation in Claude Code, achieving 80% token savings.</p>
+        
         <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/ClaudeAI/comments/1shlcf0/hooks_that_force_claude_code_to_use_lsp_instead/" target="_blank" rel="noopener noreferrer">r/ClaudeAI</a>
+          <a class="source" href="https://www.reddit.com/r/ClaudeAI/comments/1sh48b4/combined_karpathys_llm_wiki_with_milla_jovovichs/" target="_blank" rel="noopener noreferrer">r/ClaudeAI</a>
+          
+          <span class="age">23h ago</span>
+          <span class="score-bar" title="Quality score: 100/100"><span class="bar-filled">██████████</span><span class="bar-empty"></span> <span class="score-num">100</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://i.redd.it/v5zkvnvr9aug1.png" target="_blank" rel="noopener noreferrer">Claude Code&#x27;s new Monitor tool lets the agent create background scripts that wake it up when needed — no more polling loops</a>
+        </div>
+        
+        <div class="card-meta">
+          <a class="source" href="https://www.reddit.com/r/ClaudeAI/comments/1shbg19/claude_codes_new_monitor_tool_lets_the_agent/" target="_blank" rel="noopener noreferrer">r/ClaudeAI</a>
+          
+          <span class="age">18h ago</span>
+          <span class="score-bar" title="Quality score: 100/100"><span class="bar-filled">██████████</span><span class="bar-empty"></span> <span class="score-num">100</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://www.reddit.com/r/OpenAI/comments/1shn5fd/maestro_v161_codex_now_has_a_full_22agent/" target="_blank" rel="noopener noreferrer">Maestro v1.6.1 — Codex now has a full 22-agent orchestration platform as a native plugin</a>
+        </div>
+        
+        <div class="card-meta">
+          <a class="source" href="https://www.reddit.com/r/OpenAI/comments/1shn5fd/maestro_v161_codex_now_has_a_full_22agent/" target="_blank" rel="noopener noreferrer">r/openai</a>
           
           <span class="age">8h ago</span>
-          <span class="score-bar" title="Quality score: 68/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">68</span></span>
+          <span class="score-bar" title="Quality score: 100/100"><span class="bar-filled">██████████</span><span class="bar-empty"></span> <span class="score-num">100</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://v.redd.it/38x5vjvqw8ug1" target="_blank" rel="noopener noreferrer">I let Claude Code autonomously test my iOS app. It found real bugs in 8 minutes</a>
+        </div>
+        
+        <div class="card-meta">
+          <a class="source" href="https://www.reddit.com/r/ClaudeAI/comments/1sh5aae/i_let_claude_code_autonomously_test_my_ios_app_it/" target="_blank" rel="noopener noreferrer">r/ClaudeAI</a>
+          
+          <span class="age">23h ago</span>
+          <span class="score-bar" title="Quality score: 95/100"><span class="bar-filled">██████████</span><span class="bar-empty"></span> <span class="score-num">95</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://i.redd.it/f3auk3srhaug1.gif" target="_blank" rel="noopener noreferrer">Built a Claude Code D&amp;D skill so my family and I could play couch co-op DnD with Claude as our DM</a>
+        </div>
+        
+        <div class="card-meta">
+          <a class="source" href="https://www.reddit.com/r/ClaudeAI/comments/1shcq97/built_a_claude_code_dd_skill_so_my_family_and_i/" target="_blank" rel="noopener noreferrer">r/ClaudeAI</a>
+          
+          <span class="age">17h ago</span>
+          <span class="score-bar" title="Quality score: 95/100"><span class="bar-filled">██████████</span><span class="bar-empty"></span> <span class="score-num">95</span></span>
         </div>
       </div>
       </div>
@@ -346,38 +368,26 @@ Researchers demonstrated a significant security vulnerability by infecting an AI
       <div class="cards">
       <div class="card">
         <div class="card-header">
-          <a class="card-title" href="https://blog.google/innovation-and-ai/products/gemini-app/3d-models-charts/" target="_blank" rel="noopener noreferrer">The Gemini app can now generate interactive simulations and models.</a>
-        </div>
-        <p class="item-summary">Google Gemini app gains capability to generate interactive simulations and models.</p>
-        <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/artificial/comments/1shmxyq/the_gemini_app_can_now_generate_interactive/" target="_blank" rel="noopener noreferrer">r/artificial</a>
-          
-          <span class="age">7h ago</span>
-          <span class="score-bar" title="Quality score: 66/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">66</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://twill.ai" target="_blank" rel="noopener noreferrer">Launch HN: Twill.ai (YC S25) – Delegate to cloud agents, get back PRs</a>
+          <a class="card-title" href="https://www.reddit.com/r/ClaudeAI/comments/1she8ux/anthropic_just_shipped_74_product_releases_in_52/" target="_blank" rel="noopener noreferrer">Anthropic just shipped 74 product releases in 52 days and silently turned Claude into something that isn&#x27;t a chatbot anymore</a>
         </div>
         
         <div class="card-meta">
-          <a class="source" href="https://news.ycombinator.com/item?id=47720418" target="_blank" rel="noopener noreferrer">Hacker News</a>
-          <span class="upvotes">▲ 30  💬 25</span>
-          <span class="age">4h ago</span>
-          <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
+          <a class="source" href="https://www.reddit.com/r/ClaudeAI/comments/1she8ux/anthropic_just_shipped_74_product_releases_in_52/" target="_blank" rel="noopener noreferrer">r/ClaudeAI</a>
+          
+          <span class="age">16h ago</span>
+          <span class="score-bar" title="Quality score: 75/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">75</span></span>
         </div>
       </div>
       <div class="card">
         <div class="card-header">
-          <a class="card-title" href="https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/" target="_blank" rel="noopener noreferrer">Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?</a>
+          <a class="card-title" href="https://www.reddit.com/r/ClaudeAI/comments/1shj7o6/claude_is_outputting_gibberish_apologizes_for_it/" target="_blank" rel="noopener noreferrer">Claude is outputting gibberish, apologizes for it, then does it again.... Anyone Else talking Transformer?</a>
         </div>
-        <p class="item-summary">Anthropic said this week that it limited the release of its newest model, dubbed Mythos, because it is too capable of finding security exploits in software relied upon by users around the world. Are r</p>
+        
         <div class="card-meta">
-          <a class="source" href="https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/" target="_blank" rel="noopener noreferrer">TechCrunch AI</a>
+          <a class="source" href="https://www.reddit.com/r/ClaudeAI/comments/1shj7o6/claude_is_outputting_gibberish_apologizes_for_it/" target="_blank" rel="noopener noreferrer">r/ClaudeAI</a>
           
-          <span class="age">1d ago</span>
-          <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
+          <span class="age">11h ago</span>
+          <span class="score-bar" title="Quality score: 75/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">75</span></span>
         </div>
       </div>
       </div>
@@ -387,91 +397,38 @@ Researchers demonstrated a significant security vulnerability by infecting an AI
       <div class="cards">
       <div class="card">
         <div class="card-header">
-          <a class="card-title" href="https://www.reddit.com/r/MachineLearning/comments/1shibc9/what_imagevideo_training_data_is_hardest_to_find/" target="_blank" rel="noopener noreferrer">What image/video training data is hardest to find right now? [R]</a>
+          <a class="card-title" href="https://www.reddit.com/r/OpenAI/comments/1shd2oa/upgrade_to_the_new_5x_pro_plan_and_my_projects/" target="_blank" rel="noopener noreferrer">Upgrade to the new 5x Pro Plan and my projects, Google connectors, research and legacy models all disappeared</a>
         </div>
         
         <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/MachineLearning/comments/1shibc9/what_imagevideo_training_data_is_hardest_to_find/" target="_blank" rel="noopener noreferrer">r/MachineLearning</a>
+          <a class="source" href="https://www.reddit.com/r/OpenAI/comments/1shd2oa/upgrade_to_the_new_5x_pro_plan_and_my_projects/" target="_blank" rel="noopener noreferrer">r/openai</a>
           
-          <span class="age">11h ago</span>
-          <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
+          <span class="age">17h ago</span>
+          <span class="score-bar" title="Quality score: 80/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">80</span></span>
         </div>
       </div>
       <div class="card">
         <div class="card-header">
-          <a class="card-title" href="https://www.reddit.com/r/LocalLLaMA/comments/1shezi8/i_no_longer_need_a_cloud_llm_to_do_quick_web/" target="_blank" rel="noopener noreferrer">I no longer need a cloud LLM to do quick web research</a>
+          <a class="card-title" href="https://openai.com/academy/search-and-deep-research" target="_blank" rel="noopener noreferrer">Research with ChatGPT</a>
         </div>
-        
+        <p class="item-summary">Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights.</p>
         <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1shezi8/i_no_longer_need_a_cloud_llm_to_do_quick_web/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
+          <a class="source" href="https://openai.com/academy/search-and-deep-research" target="_blank" rel="noopener noreferrer">OpenAI Blog</a>
           
-          <span class="age">14h ago</span>
-          <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
+          <span class="age">22h ago</span>
+          <span class="score-bar" title="Quality score: 75/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">75</span></span>
         </div>
       </div>
       <div class="card">
         <div class="card-header">
-          <a class="card-title" href="https://v.redd.it/cauf00cpq9ug1" target="_blank" rel="noopener noreferrer">AI identity emergence is controllable, not automatic. R²=1.00 across 15 runs. Complete replication protocol. Challenges interpretability research.</a>
+          <a class="card-title" href="https://openai.com/academy/research" target="_blank" rel="noopener noreferrer">ChatGPT for research</a>
         </div>
-        
+        <p class="item-summary">Learn how to use ChatGPT for research to gather sources, analyze information, and create structured, citation-backed insights.</p>
         <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/artificial/comments/1sh924e/ai_identity_emergence_is_controllable_not/" target="_blank" rel="noopener noreferrer">r/artificial</a>
+          <a class="source" href="https://openai.com/academy/research" target="_blank" rel="noopener noreferrer">OpenAI Blog</a>
           
-          <span class="age">19h ago</span>
-          <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://www.reddit.com/r/artificial/comments/1sha6in/new_framework_for_reading_ai_internal_states/" target="_blank" rel="noopener noreferrer">New framework for reading AI internal states — implications for alignment monitoring (open-access paper)</a>
-        </div>
-        
-        <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/artificial/comments/1sha6in/new_framework_for_reading_ai_internal_states/" target="_blank" rel="noopener noreferrer">r/artificial</a>
-          
-          <span class="age">18h ago</span>
-          <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://i.redd.it/lw6vqvdi6eug1.png" target="_blank" rel="noopener noreferrer">OpenAI researcher says his Anthropic roommate lost his mind over Mythos</a>
-        </div>
-        
-        <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/ClaudeAI/comments/1shs4ej/openai_researcher_says_his_anthropic_roommate/" target="_blank" rel="noopener noreferrer">r/ClaudeAI</a>
-          
-          <span class="age">4h ago</span>
-          <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
-        </div>
-      </div>
-      </div>
-    </section>
-    <section class="digest-section">
-      <h2 class="section-title" style="color: #d6a24a;">🔧 Tools &amp; Open Source</h2>
-      <div class="cards">
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst" target="_blank" rel="noopener noreferrer">AI assistance when contributing to the Linux kernel</a>
-        </div>
-        <p class="item-summary">Linux kernel documentation officially addressing AI assistance in contributions, indicating institutional recognition.</p>
-        <div class="card-meta">
-          <a class="source" href="https://news.ycombinator.com/item?id=47721953" target="_blank" rel="noopener noreferrer">Hacker News</a>
-          <span class="upvotes">▲ 76  💬 62</span>
-          <span class="age">2h ago</span>
-          <span class="score-bar" title="Quality score: 72/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">72</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://github.com/grainulation/grainulator" target="_blank" rel="noopener noreferrer">The tool that won&#x27;t let AI say anything it can&#x27;t cite</a>
-        </div>
-        
-        <div class="card-meta">
-          <a class="source" href="https://news.ycombinator.com/item?id=47714239" target="_blank" rel="noopener noreferrer">Hacker News</a>
-          <span class="upvotes">▲ 35  💬 14</span>
-          <span class="age">15h ago</span>
-          <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
+          <span class="age">22h ago</span>
+          <span class="score-bar" title="Quality score: 75/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">75</span></span>
         </div>
       </div>
       </div>
@@ -481,74 +438,74 @@ Researchers demonstrated a significant security vulnerability by infecting an AI
       <div class="cards">
       <div class="card">
         <div class="card-header">
+          <a class="card-title" href="https://www.theguardian.com/technology/2026/apr/10/us-summoned-bank-bosses-to-discuss-cyber-risks-posed-by-anthropic-latest-ai-model" target="_blank" rel="noopener noreferrer">US summons bank bosses over cyber risks from Anthropic&#x27;s latest AI model</a>
+        </div>
+        
+        <div class="card-meta">
+          <a class="source" href="https://news.ycombinator.com/item?id=47718114" target="_blank" rel="noopener noreferrer">Hacker News</a>
+          <span class="upvotes">▲ 102  💬 87</span>
+          <span class="age">8h ago</span>
+          <span class="score-bar" title="Quality score: 85/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">85</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
           <a class="card-title" href="https://v.redd.it/buzbtk1hdeug1" target="_blank" rel="noopener noreferrer">National University of Singapore Presents &quot;DMax&quot;: A New Paradigm For Diffusion Language Models (dLLMs) Enabling Aggressive Parallel Decoding.</a>
         </div>
-        <p class="item-summary">National University of Singapore research on DMax, a new paradigm for diffusion language models enabling parallel decoding.</p>
+        <p class="item-summary">National University of Singapore presents DMax, a new paradigm for diffusion language models enabling aggressive parallel decoding.</p>
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1sht2yo/national_university_of_singapore_presents_dmax_a/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
           
-          <span class="age">3h ago</span>
+          <span class="age">4h ago</span>
           <span class="score-bar" title="Quality score: 80/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">80</span></span>
         </div>
       </div>
       <div class="card">
         <div class="card-header">
-          <a class="card-title" href="https://openai.com/academy/sales" target="_blank" rel="noopener noreferrer">ChatGPT for sales teams</a>
+          <a class="card-title" href="https://blog.ngxson.com/using-ocr-models-with-llama-cpp" target="_blank" rel="noopener noreferrer">Using OCR models with llama.cpp</a>
         </div>
-        <p class="item-summary">Learn how sales teams use ChatGPT to research accounts, personalize outreach, manage deals, and improve pipeline and conversion.</p>
+        
         <div class="card-meta">
-          <a class="source" href="https://openai.com/academy/sales" target="_blank" rel="noopener noreferrer">OpenAI Blog</a>
+          <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1shqwgi/using_ocr_models_with_llamacpp/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
           
-          <span class="age">21h ago</span>
+          <span class="age">6h ago</span>
           <span class="score-bar" title="Quality score: 75/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">75</span></span>
         </div>
       </div>
       <div class="card">
         <div class="card-header">
-          <a class="card-title" href="https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/" target="_blank" rel="noopener noreferrer">OpenAI backs Illinois bill that would limit when AI labs can be held liable</a>
+          <a class="card-title" href="https://huggingface.co/blog/ggml-org/using-ocr-models-with-llama-cpp" target="_blank" rel="noopener noreferrer">Using OCR models with llama.cpp (by ngxson)</a>
         </div>
         
         <div class="card-meta">
-          <a class="source" href="https://news.ycombinator.com/item?id=47717587" target="_blank" rel="noopener noreferrer">Hacker News</a>
-          <span class="upvotes">▲ 408  💬 302</span>
-          <span class="age">8h ago</span>
-          <span class="score-bar" title="Quality score: 70/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">70</span></span>
+          <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1shqf5a/using_ocr_models_with_llamacpp_by_ngxson/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
+          
+          <span class="age">6h ago</span>
+          <span class="score-bar" title="Quality score: 75/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">75</span></span>
         </div>
       </div>
       <div class="card">
         <div class="card-header">
-          <a class="card-title" href="https://i.redd.it/ienycmczudug1.png" target="_blank" rel="noopener noreferrer">GLM 5.1 tops the code arena rankings for open models</a>
+          <a class="card-title" href="https://openai.com/academy/working-with-files" target="_blank" rel="noopener noreferrer">Working with files in ChatGPT</a>
         </div>
-        
+        <p class="item-summary">Learn how to upload and work with files in ChatGPT to analyze data, summarize documents, and generate content from PDFs, spreadsheets, and more.</p>
         <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1shq4ty/glm_51_tops_the_code_arena_rankings_for_open/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
+          <a class="source" href="https://openai.com/academy/working-with-files" target="_blank" rel="noopener noreferrer">OpenAI Blog</a>
           
-          <span class="age">5h ago</span>
-          <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
+          <span class="age">22h ago</span>
+          <span class="score-bar" title="Quality score: 75/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">75</span></span>
         </div>
       </div>
       <div class="card">
         <div class="card-header">
-          <a class="card-title" href="https://www.reddit.com/r/LocalLLaMA/comments/1shap5n/running_a_nonprofit_that_needs_to_ocr_64_million/" target="_blank" rel="noopener noreferrer">Running a non-profit that needs to OCR 64 million pages. Where can I apply for free or subsidized compute to run a local model?</a>
+          <a class="card-title" href="https://openai.com/academy/data-analysis" target="_blank" rel="noopener noreferrer">Analyzing data with ChatGPT</a>
         </div>
-        
+        <p class="item-summary">Learn how to analyze data with ChatGPT by exploring datasets, generating insights, creating visualizations, and turning findings into actionable decisions.</p>
         <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1shap5n/running_a_nonprofit_that_needs_to_ocr_64_million/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
+          <a class="source" href="https://openai.com/academy/data-analysis" target="_blank" rel="noopener noreferrer">OpenAI Blog</a>
           
-          <span class="age">18h ago</span>
-          <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://v.redd.it/cknm31xvcbug1" target="_blank" rel="noopener noreferrer">[Oldie-But-A-Goodie] META Presents &quot;TRIBE v2&quot;: A Next-Gen Model That Acts As A Digital Twin Of Human Neural Activity</a>
-        </div>
-        
-        <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1shfeaz/oldiebutagoodie_meta_presents_tribe_v2_a_nextgen/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
-          
-          <span class="age">13h ago</span>
-          <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
+          <span class="age">22h ago</span>
+          <span class="score-bar" title="Quality score: 75/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">75</span></span>
         </div>
       </div>
       </div>
