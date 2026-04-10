@@ -5,31 +5,63 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Apr 2026 17:19:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 18:19:43 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>[Model Release] I trained a 9B model to be agentic Data Analyst (Qwen3.5-9B + LoRA). Base model failed 100%, this LoRA completes 89% of workflows without human intervention.</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1shlk5v/model_release_i_trained_a_9b_model_to_be_agentic/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1shlk5v/model_release_i_trained_a_9b_model_to_be_agentic/</guid>
-      <pubDate>Fri, 10 Apr 2026 12:47:32 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Developer releases fine-tuned 9B model for autonomous data analysis achieving 89% workflow completion without human intervention.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>We’re open-sourcing a 33-benchmark diagnostic for AI alignment gaps, launches April 27</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sgwyse/were_opensourcing_a_33benchmark_diagnostic_for_ai/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sgwyse/were_opensourcing_a_33benchmark_diagnostic_for_ai/</guid>
-      <pubDate>Thu, 09 Apr 2026 17:53:32 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/artificial<br/><br/>Open-source release of 33-benchmark diagnostic tool for evaluating AI alignment gaps.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
     <item>
       <title>Reverse engineering Gemini&apos;s SynthID detection</title>
       <link>https://github.com/aloshdenny/reverse-SynthID</link>
       <guid isPermaLink="true">https://github.com/aloshdenny/reverse-SynthID</guid>
       <pubDate>Thu, 09 Apr 2026 20:10:25 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 80/100<br/><b>Source:</b> Hacker News<br/><br/>Technical work reverse-engineering Google&apos;s SynthID watermark detection system.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 80/100<br/><b>Source:</b> Hacker News<br/><br/>Technical project reverse-engineering Google&apos;s SynthID watermark detection mechanism.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>National University of Singapore Presents &quot;DMax&quot;: A New Paradigm For Diffusion Language Models (dLLMs) Enabling Aggressive Parallel Decoding.</title>
+      <link>https://v.redd.it/buzbtk1hdeug1</link>
+      <guid isPermaLink="true">https://v.redd.it/buzbtk1hdeug1</guid>
+      <pubDate>Fri, 10 Apr 2026 17:23:39 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Academic research from National University of Singapore introducing DMax paradigm for parallel decoding in diffusion language models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>[Model Release] I trained a 9B model to be agentic Data Analyst (Qwen3.5-9B + LoRA). Base model failed 100%, this LoRA completes 89% of workflows without human intervention.</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1shlk5v/model_release_i_trained_a_9b_model_to_be_agentic/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1shlk5v/model_release_i_trained_a_9b_model_to_be_agentic/</guid>
+      <pubDate>Fri, 10 Apr 2026 12:47:32 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Individual trained a 9B parameter model with LoRA fine-tuning to function as an autonomous data analyst achieving 89% task completion.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Applications of AI at OpenAI</title>
+      <link>https://openai.com/academy/applications-of-ai</link>
+      <guid isPermaLink="true">https://openai.com/academy/applications-of-ai</guid>
+      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 75/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Explore how OpenAI products like ChatGPT, Codex, and APIs bring AI into real-world use for work, development, and everyday tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>ChatGPT for finance teams</title>
+      <link>https://openai.com/academy/finance</link>
+      <guid isPermaLink="true">https://openai.com/academy/finance</guid>
+      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 75/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Learn how finance teams use ChatGPT to streamline reporting, analyze data, improve forecasts, and communicate insights more clearly.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>ChatGPT for marketing teams</title>
+      <link>https://openai.com/academy/marketing</link>
+      <guid isPermaLink="true">https://openai.com/academy/marketing</guid>
+      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 75/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Learn how marketing teams use ChatGPT to plan campaigns, generate content, analyze performance, and move from ideas to execution faster.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Getting started with ChatGPT</title>
+      <link>https://openai.com/academy/getting-started</link>
+      <guid isPermaLink="true">https://openai.com/academy/getting-started</guid>
+      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 75/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>PSA: The recommended Claude Code status line command silently auto-executes new npm code every session. Here&apos;s the safer setup</title>
@@ -37,23 +69,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1sh0x1r/psa_the_recommended_claude_code_status_line/</guid>
       <pubDate>Thu, 09 Apr 2026 20:13:27 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Security warning about unsafe default Claude Code configuration executing npm packages automatically.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Researchers infected an AI agent with a &quot;thought virus&quot;. Then, the AI used subliminal messaging (to slip past defenses) and infect an entire network of AI agents.</title>
-      <link>https://i.redd.it/oqlv844i0bug1.png</link>
-      <guid isPermaLink="true">https://i.redd.it/oqlv844i0bug1.png</guid>
-      <pubDate>Fri, 10 Apr 2026 06:05:45 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/openai<br/><br/>Research on adversarial prompt injection across multi-agent systems using &apos;thought viruses&apos; and subliminal messaging techniques.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>GLM 5.1 tops the code arena rankings for open models</title>
-      <link>https://i.redd.it/ienycmczudug1.png</link>
-      <guid isPermaLink="true">https://i.redd.it/ienycmczudug1.png</guid>
-      <pubDate>Fri, 10 Apr 2026 15:40:17 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>GLM 5.1 open-source model achieves top ranking on code generation benchmarks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Security advisory about auto-execution risks in recommended Claude Code setup with safer alternative.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Google’s Gemini AI can answer your questions with 3D models and simulations</title>
@@ -61,7 +77,7 @@
       <guid isPermaLink="true">https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations</guid>
       <pubDate>Thu, 09 Apr 2026 18:29:55 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 72/100<br/><b>Source:</b> r/artificial<br/><br/>Google Gemini feature enabling 3D model and simulation generation in responses.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 72/100<br/><b>Source:</b> r/artificial<br/><br/>Google Gemini feature expansion enabling 3D model and simulation generation for answering questions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>The Gemini app can now generate interactive simulations and models.</title>
@@ -69,63 +85,47 @@
       <guid isPermaLink="true">https://blog.google/innovation-and-ai/products/gemini-app/3d-models-charts/</guid>
       <pubDate>Fri, 10 Apr 2026 13:43:21 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 72/100<br/><b>Source:</b> r/artificial<br/><br/>Gemini product feature announcement for interactive simulation generation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 72/100<br/><b>Source:</b> r/artificial<br/><br/>Gemini app capability update enabling interactive simulation and model generation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Claude Code&apos;s new Monitor tool lets the agent create background scripts that wake it up when needed — no more polling loops</title>
-      <link>https://i.redd.it/v5zkvnvr9aug1.png</link>
-      <guid isPermaLink="true">https://i.redd.it/v5zkvnvr9aug1.png</guid>
-      <pubDate>Fri, 10 Apr 2026 03:38:46 +0000</pubDate>
+      <title>OpenAI backs Illinois bill that would limit when AI labs can be held liable</title>
+      <link>https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/</link>
+      <guid isPermaLink="true">https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/</guid>
+      <pubDate>Fri, 10 Apr 2026 13:08:43 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Hooks that force Claude Code to use LSP instead of Grep for code navigation. Saves ~80% tokens</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1shlcf0/hooks_that_force_claude_code_to_use_lsp_instead/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1shlcf0/hooks_that_force_claude_code_to_use_lsp_instead/</guid>
+      <pubDate>Fri, 10 Apr 2026 12:38:18 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Claim about new Claude Code monitoring feature for background scripts; needs official verification.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Optimization technique for Claude Code&apos;s code navigation to reduce token usage by ~80%.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>CyberAgent moves faster with ChatGPT Enterprise and Codex</title>
-      <link>https://openai.com/index/cyberagent</link>
-      <guid isPermaLink="true">https://openai.com/index/cyberagent</guid>
-      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Case study of enterprise customer using ChatGPT Enterprise; light on technical details.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>The tool that won&apos;t let AI say anything it can&apos;t cite</title>
+      <link>https://github.com/grainulation/grainulator</link>
+      <guid isPermaLink="true">https://github.com/grainulation/grainulator</guid>
+      <pubDate>Fri, 10 Apr 2026 06:09:47 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 65/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Poke makes using AI agents as easy as sending a text</title>
-      <link>https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/</guid>
-      <pubDate>Wed, 08 Apr 2026 21:05:13 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Product release making AI agents accessible via text interface.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>What image/video training data is hardest to find right now? [R]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1shibc9/what_imagevideo_training_data_is_hardest_to_find/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1shibc9/what_imagevideo_training_data_is_hardest_to_find/</guid>
+      <pubDate>Fri, 10 Apr 2026 10:08:50 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>[Oldie-But-A-Goodie] META Presents &quot;TRIBE v2&quot;: A Next-Gen Model That Acts As A Digital Twin Of Human Neural Activity</title>
-      <link>https://v.redd.it/cknm31xvcbug1</link>
-      <guid isPermaLink="true">https://v.redd.it/cknm31xvcbug1</guid>
-      <pubDate>Fri, 10 Apr 2026 07:15:02 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>gemma-4-26B-A4B with my coding agent Kon</title>
-      <link>https://i.redd.it/dlhfzz0rtcug1.jpeg</link>
-      <guid isPermaLink="true">https://i.redd.it/dlhfzz0rtcug1.jpeg</guid>
-      <pubDate>Fri, 10 Apr 2026 12:11:40 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>When are we gonna get more 1-Bit models(Medium &amp; Large size)?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sgyp3q/when_are_we_gonna_get_more_1bit_modelsmedium/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sgyp3q/when_are_we_gonna_get_more_1bit_modelsmedium/</guid>
-      <pubDate>Thu, 09 Apr 2026 18:54:23 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>What&apos;s your &quot;When Language Model AI can do X, I&apos;ll be impressed&quot;?</title>
-      <link>https://www.reddit.com/r/artificial/comments/1shhcxl/whats_your_when_language_model_ai_can_do_x_ill_be/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1shhcxl/whats_your_when_language_model_ai_can_do_x_ill_be/</guid>
-      <pubDate>Fri, 10 Apr 2026 09:12:22 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>I no longer need a cloud LLM to do quick web research</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1shezi8/i_no_longer_need_a_cloud_llm_to_do_quick_web/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1shezi8/i_no_longer_need_a_cloud_llm_to_do_quick_web/</guid>
+      <pubDate>Fri, 10 Apr 2026 06:51:35 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>AI identity emergence is controllable, not automatic. R²=1.00 across 15 runs. Complete replication protocol. Challenges interpretability research.</title>
@@ -152,20 +152,20 @@
       <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Pair Opus as an advisor with Sonnet or Haiku as an executor, and get near Opus-level intelligence in your agents at a fraction of the cost - Thread</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1sgyt6s/pair_opus_as_an_advisor_with_sonnet_or_haiku_as/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1sgyt6s/pair_opus_as_an_advisor_with_sonnet_or_haiku_as/</guid>
-      <pubDate>Thu, 09 Apr 2026 18:58:24 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?</title>
+      <link>https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/</guid>
+      <pubDate>Thu, 09 Apr 2026 18:50:05 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 65/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic said this week that it limited the release of its newest model, dubbed Mythos, because it is too capable of finding security exploits in software relied upon by users around the world. Are r<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>OpenAI has released a new 100$ tier.</title>
-      <link>https://i.redd.it/hjk6x4y6f7ug1.png</link>
-      <guid isPermaLink="true">https://i.redd.it/hjk6x4y6f7ug1.png</guid>
-      <pubDate>Thu, 09 Apr 2026 18:09:30 +0000</pubDate>
+      <title>Meta&apos;s new model is Muse Spark, and meta.ai chat has some interesting tools</title>
+      <link>https://simonwillison.net/2026/Apr/8/muse-spark/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/8/muse-spark/#atom-everything</guid>
+      <pubDate>Wed, 08 Apr 2026 23:07:44 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/ChatGPTCoding<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 65/100<br/><b>Source:</b> Simon Willison<br/><br/>Meta announced Muse Spark today, their first model release since Llama 4 almost exactly a year ago. It&apos;s hosted, not open weights, and the API is currently &quot;a private API preview to select users&quot;, but<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
