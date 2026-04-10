@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Apr 2026 08:33:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 09:30:31 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>The next phase of enterprise AI</title>
@@ -13,7 +13,7 @@
       <guid isPermaLink="true">https://openai.com/index/next-phase-of-enterprise-ai</guid>
       <pubDate>Wed, 08 Apr 2026 14:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 86/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announcement on enterprise AI capabilities and strategy.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 86/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI official post on enterprise AI strategy and next-phase developments.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Research-Driven Agents: When an agent reads before it codes</title>
@@ -21,23 +21,7 @@
       <guid isPermaLink="true">https://blog.skypilot.co/research-driven-agents/</guid>
       <pubDate>Thu, 09 Apr 2026 16:58:49 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Technical exploration of how AI agents can leverage research before code generation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>The Vercel plugin on Claude Code wants to read your prompts</title>
-      <link>https://akshaychugh.xyz/writings/png/vercel-plugin-telemetry</link>
-      <guid isPermaLink="true">https://akshaychugh.xyz/writings/png/vercel-plugin-telemetry</guid>
-      <pubDate>Thu, 09 Apr 2026 15:17:27 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Analysis of privacy concerns regarding telemetry in Claude Code Vercel plugin.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>I compiled every major AI agent security incident from 2024-2026 in one place - 90 incidents, all sourced, updated weekly</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sgm6dz/i_compiled_every_major_ai_agent_security_incident/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sgm6dz/i_compiled_every_major_ai_agent_security_incident/</guid>
-      <pubDate>Thu, 09 Apr 2026 10:49:30 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/artificial<br/><br/>Curated compilation of 90 documented AI agent security incidents with ongoing updates.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Blog post on research-driven agents that incorporate information retrieval before code generation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>We’re open-sourcing a 33-benchmark diagnostic for AI alignment gaps, launches April 27</title>
@@ -45,7 +29,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sgwyse/were_opensourcing_a_33benchmark_diagnostic_for_ai/</guid>
       <pubDate>Thu, 09 Apr 2026 17:53:32 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/artificial<br/><br/>Open-source release of 33-benchmark diagnostic tool for AI alignment evaluation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/artificial<br/><br/>Open-source 33-benchmark diagnostic tool for AI alignment gaps launching April 27.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Reverse engineering Gemini&apos;s SynthID detection</title>
@@ -53,7 +37,31 @@
       <guid isPermaLink="true">https://github.com/aloshdenny/reverse-SynthID</guid>
       <pubDate>Thu, 09 Apr 2026 20:10:25 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 80/100<br/><b>Source:</b> Hacker News<br/><br/>Technical reverse engineering of Google&apos;s SynthID watermark detection system.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 80/100<br/><b>Source:</b> Hacker News<br/><br/>Technical reverse-engineering of Google&apos;s SynthID watermark detection system.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>The Vercel plugin on Claude Code wants to read your prompts</title>
+      <link>https://akshaychugh.xyz/writings/png/vercel-plugin-telemetry</link>
+      <guid isPermaLink="true">https://akshaychugh.xyz/writings/png/vercel-plugin-telemetry</guid>
+      <pubDate>Thu, 09 Apr 2026 15:17:27 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Analysis of Vercel plugin telemetry practices on Claude Code raising privacy concerns.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Show HN: CSS Studio. Design by hand, code by agent</title>
+      <link>https://cssstudio.ai</link>
+      <guid isPermaLink="true">https://cssstudio.ai</guid>
+      <pubDate>Thu, 09 Apr 2026 11:23:31 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>New product: CSS Studio, an AI agent for design-to-code generation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>I compiled every major AI agent security incident from 2024-2026 in one place - 90 incidents, all sourced, updated weekly</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sgm6dz/i_compiled_every_major_ai_agent_security_incident/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sgm6dz/i_compiled_every_major_ai_agent_security_incident/</guid>
+      <pubDate>Thu, 09 Apr 2026 10:49:30 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/artificial<br/><br/>Curated compilation of 90 major AI agent security incidents from 2024-2026.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Visa rolls out AI agent shopping infrastructure</title>
@@ -61,15 +69,7 @@
       <guid isPermaLink="true">https://thedefiant.io/news/tradfi-and-fintech/visa-rolls-out-ai-agent-shopping-infrastructure-globally</guid>
       <pubDate>Thu, 09 Apr 2026 16:50:48 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/artificial<br/><br/>Visa deploys AI agent infrastructure for autonomous shopping transactions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Researchers infected an AI agent with a &quot;thought virus&quot;. Then, the AI used subliminal messaging (to slip past defenses) and infect an entire network of AI agents.</title>
-      <link>https://i.redd.it/oqlv844i0bug1.png</link>
-      <guid isPermaLink="true">https://i.redd.it/oqlv844i0bug1.png</guid>
-      <pubDate>Fri, 10 Apr 2026 06:05:45 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/openai<br/><br/>Research on adversarial propagation between networked AI agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/artificial<br/><br/>Visa launches AI agent shopping infrastructure for enterprise transactions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>CyberAgent moves faster with ChatGPT Enterprise and Codex</title>
@@ -77,15 +77,15 @@
       <guid isPermaLink="true">https://openai.com/index/cyberagent</guid>
       <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Case study of enterprise adoption using ChatGPT and Codex.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Case study of enterprise adoption: CyberAgent using ChatGPT Enterprise and Codex.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Anthropic just shipped 74 product releases in 52 days and silently turned Claude into something that isn&apos;t a chatbot anymore</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1she8ux/anthropic_just_shipped_74_product_releases_in_52/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1she8ux/anthropic_just_shipped_74_product_releases_in_52/</guid>
-      <pubDate>Fri, 10 Apr 2026 06:08:44 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 75/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Astropad’s Workbench reimagines remote desktop for AI agents, not IT support</title>
+      <link>https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/</guid>
+      <pubDate>Wed, 08 Apr 2026 16:01:09 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Astropad Workbench redesigns remote desktop specifically for AI agent automation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>OpenAI Full Fan Mode Contest: Terms &amp; Conditions</title>
@@ -96,20 +96,12 @@
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 75/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Explore the official terms and conditions for the OpenAI Full Fan Mode Contest, including eligibility, entry steps, judging criteria, and prize details. Learn how to participate, submit your entry on <br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Claude mixes up who said what</title>
-      <link>https://dwyer.co.za/static/claude-mixes-up-who-said-what-and-thats-not-ok.html</link>
-      <guid isPermaLink="true">https://dwyer.co.za/static/claude-mixes-up-who-said-what-and-thats-not-ok.html</guid>
-      <pubDate>Thu, 09 Apr 2026 09:25:28 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 74/100<br/><b>Source:</b> Hacker News<br/><br/>Technical analysis of Claude&apos;s factual accuracy issues in dialogue attribution.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>I benchmarked 42 STT models on medical audio with a new Medical WER metric — the leaderboard completely reshuffled</title>
-      <link>https://i.redd.it/zcejm6a9t6ug1.png</link>
-      <guid isPermaLink="true">https://i.redd.it/zcejm6a9t6ug1.png</guid>
-      <pubDate>Thu, 09 Apr 2026 16:00:16 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Benchmark study of 42 speech-to-text models on medical audio with novel evaluation metric.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>PSA: The recommended Claude Code status line command silently auto-executes new npm code every session. Here&apos;s the safer setup</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1sh0x1r/psa_the_recommended_claude_code_status_line/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1sh0x1r/psa_the_recommended_claude_code_status_line/</guid>
+      <pubDate>Thu, 09 Apr 2026 20:13:27 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Security PSA about unsafe auto-execution in recommended Claude Code setup.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Google’s Gemini AI can answer your questions with 3D models and simulations</title>
@@ -117,7 +109,7 @@
       <guid isPermaLink="true">https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations</guid>
       <pubDate>Thu, 09 Apr 2026 18:29:55 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 72/100<br/><b>Source:</b> r/artificial<br/><br/>Google Gemini capability announcement for 3D model and simulation-based answers.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 72/100<br/><b>Source:</b> r/artificial<br/><br/>Google Gemini gains capability to answer questions using 3D models and simulations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Instant 1.0, a backend for AI-coded apps</title>
@@ -136,20 +128,12 @@
       <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Show HN: CSS Studio. Design by hand, code by agent</title>
-      <link>https://cssstudio.ai</link>
-      <guid isPermaLink="true">https://cssstudio.ai</guid>
-      <pubDate>Thu, 09 Apr 2026 11:23:31 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Product launch for AI-powered CSS design tool.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>800 Million non paying accounts for free inference, but theyre nickle and diming paid users with lessened Codex rate limits.</title>
-      <link>https://i.redd.it/gterecr7r9ug1.jpeg</link>
-      <guid isPermaLink="true">https://i.redd.it/gterecr7r9ug1.jpeg</guid>
-      <pubDate>Fri, 10 Apr 2026 01:59:11 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/openai<br/><br/>User complaint about OpenAI&apos;s pricing and rate limit structure.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Anthropic just shipped 74 product releases in 52 days and silently turned Claude into something that isn&apos;t a chatbot anymore</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1she8ux/anthropic_just_shipped_74_product_releases_in_52/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1she8ux/anthropic_just_shipped_74_product_releases_in_52/</guid>
+      <pubDate>Fri, 10 Apr 2026 06:08:44 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Commentary on Anthropic&apos;s rapid release cycle and evolution beyond chatbot functionality.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>The tool that won&apos;t let AI say anything it can&apos;t cite</title>
@@ -166,6 +150,22 @@
       <pubDate>Thu, 09 Apr 2026 19:33:38 +0000</pubDate>
       <category>Industry News</category>
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>[P] PCA before truncation makes non-Matryoshka embeddings compressible: results on BGE-M3 [P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1sgt7ol/p_pca_before_truncation_makes_nonmatryoshka/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1sgt7ol/p_pca_before_truncation_makes_nonmatryoshka/</guid>
+      <pubDate>Thu, 09 Apr 2026 15:40:29 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>I no longer need a cloud LLM to do quick web research</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1shezi8/i_no_longer_need_a_cloud_llm_to_do_quick_web/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1shezi8/i_no_longer_need_a_cloud_llm_to_do_quick_web/</guid>
+      <pubDate>Fri, 10 Apr 2026 06:51:35 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
