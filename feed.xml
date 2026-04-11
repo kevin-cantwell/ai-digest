@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Apr 2026 18:11:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 19:16:25 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Anthropic launches Claude Managed Agents — composable APIs for shipping production AI agents 10x faster. Notion, Rakuten, Asana, and Sentry already in production.</title>
@@ -21,31 +21,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1shzvsp/anthropic_just_released_claude_managed_agents_the/</guid>
       <pubDate>Fri, 10 Apr 2026 21:31:25 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 84/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Commentary on Anthropic&apos;s Claude Managed Agents release and market implications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>AI assistance when contributing to the Linux kernel</title>
-      <link>https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst</link>
-      <guid isPermaLink="true">https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst</guid>
-      <pubDate>Fri, 10 Apr 2026 18:35:21 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Linux kernel documentation adds guidance on using AI assistance for kernel contributions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>GLM 5.1 crushes every other model except Opus in agentic benchmark at about 1/3 of the Opus cost</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1shus54/glm_51_crushes_every_other_model_except_opus_in/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1shus54/glm_51_crushes_every_other_model_except_opus_in/</guid>
-      <pubDate>Fri, 10 Apr 2026 18:23:15 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>GLM 5.1 model demonstrates competitive performance on agentic benchmarks at lower cost than Claude Opus.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>I ported Anthropic&apos;s official skill-creator from Claude Code to OpenCode — now you can create and evaluate AI agent skills with any model</title>
-      <link>https://v.redd.it/vx93jhuxmfug1</link>
-      <guid isPermaLink="true">https://v.redd.it/vx93jhuxmfug1</guid>
-      <pubDate>Fri, 10 Apr 2026 21:39:59 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Developer ported Anthropic&apos;s skill-creator tool to work with other LLM models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 84/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Commentary on Anthropic&apos;s Claude Managed Agents release and implications for AI agent market.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Cloudflare just turned Browser Rendering into a lot more powerful MCP infrastructure</title>
@@ -53,7 +29,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sieggh/cloudflare_just_turned_browser_rendering_into_a/</guid>
       <pubDate>Sat, 11 Apr 2026 09:29:46 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/artificial<br/><br/>Cloudflare expands Browser Rendering capabilities with Model Context Protocol infrastructure.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/artificial<br/><br/>Cloudflare expands Browser Rendering capabilities for MCP infrastructure.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>persistent memory system for AI agents — single SQLite file, no external server, no API keys. free and opensource - BrainCTL</title>
@@ -61,23 +37,15 @@
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1si05zo/persistent_memory_system_for_ai_agents_single/</guid>
       <pubDate>Fri, 10 Apr 2026 21:42:39 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/artificial<br/><br/>Open-source persistent memory system for AI agents released as SQLite-based alternative.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/artificial<br/><br/>Open-source SQLite-based persistent memory system for AI agents released.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Creating images with ChatGPT</title>
-      <link>https://openai.com/academy/image-generation</link>
-      <guid isPermaLink="true">https://openai.com/academy/image-generation</guid>
-      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 75/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Learn how to create and refine images with ChatGPT using clear prompts, iterate on designs, and generate high-quality visuals in minutes.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Sanity check on Milla Jovovich&apos;s MemPalace: Mixed metrics, bypassed judges, and that 96.6% LongMemEval score</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1si5lc4/sanity_check_on_milla_jovovichs_mempalace_mixed/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1si5lc4/sanity_check_on_milla_jovovichs_mempalace_mixed/</guid>
-      <pubDate>Sat, 11 Apr 2026 01:35:50 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>I ported Anthropic&apos;s official skill-creator from Claude Code to OpenCode — now you can create and evaluate AI agent skills with any model</title>
+      <link>https://v.redd.it/vx93jhuxmfug1</link>
+      <guid isPermaLink="true">https://v.redd.it/vx93jhuxmfug1</guid>
+      <pubDate>Fri, 10 Apr 2026 21:39:59 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Community member ports Anthropic&apos;s skill-creator tool to work with other models beyond Claude.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Curated 550+ free LLM tools for builders (APIs, local models, RAG, agents, IDEs)</title>
@@ -85,7 +53,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sigg35/curated_550_free_llm_tools_for_builders_apis/</guid>
       <pubDate>Sat, 11 Apr 2026 11:22:38 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Curated collection of 550+ free LLM tools and frameworks published.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Curated resource list of 550+ free LLM tools and frameworks for developers.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Here are 50+ slash commands in Claude Code that most of you might not know exist</title>
@@ -93,15 +61,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1shz99l/here_are_50_slash_commands_in_claude_code_that/</guid>
       <pubDate>Fri, 10 Apr 2026 21:07:09 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Documentation of Claude Code slash commands features.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>It looks like there are no plans for smaller GLM models</title>
-      <link>https://i.redd.it/iyxj7523ojug1.png</link>
-      <guid isPermaLink="true">https://i.redd.it/iyxj7523ojug1.png</guid>
-      <pubDate>Sat, 11 Apr 2026 11:13:33 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>User documents lesser-known slash commands available in Claude Code.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Gemma 4 vs Qwen3.5: benchmarking quantized local LLMs on Go coding</title>
@@ -144,12 +104,36 @@
       <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
+      <title>[New Model] - GyroScope: rotates images correctly</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sikgua/new_model_gyroscope_rotates_images_correctly/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sikgua/new_model_gyroscope_rotates_images_correctly/</guid>
+      <pubDate>Sat, 11 Apr 2026 14:24:52 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Fed Chair Jerome Powell, Treasury&apos;s Bessent and top bank CEOs met over Anthropic&apos;s Mythos model</title>
+      <link>https://www.cbsnews.com/news/mythos-anthropic-ai-cybersecurity-risks-powell-bessent/</link>
+      <guid isPermaLink="true">https://www.cbsnews.com/news/mythos-anthropic-ai-cybersecurity-risks-powell-bessent/</guid>
+      <pubDate>Fri, 10 Apr 2026 20:16:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
       <title>arXiv cs.CY endorsement request for adaptive scheduling paper</title>
       <link>https://www.reddit.com/r/artificial/comments/1simhzr/arxiv_cscy_endorsement_request_for_adaptive/</link>
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1simhzr/arxiv_cscy_endorsement_request_for_adaptive/</guid>
       <pubDate>Sat, 11 Apr 2026 15:45:04 +0000</pubDate>
       <category>Research &amp; Papers</category>
       <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Presenting: (dyn) AEP (Agent Element Protocol) - World&apos;s first zero-hallucination frontend AI build protocol for coding agents</title>
+      <link>https://www.reddit.com/r/artificial/comments/1si4936/presenting_dyn_aep_agent_element_protocol_worlds/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1si4936/presenting_dyn_aep_agent_element_protocol_worlds/</guid>
+      <pubDate>Sat, 11 Apr 2026 00:34:52 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>I released a small movie guessing game to the public. Within hours, bots were scanning for WordPress admin panels, SSH keys, and cloud metadata endpoints.</title>
@@ -166,6 +150,22 @@
       <pubDate>Sat, 11 Apr 2026 07:05:32 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>ChatGPT voice mode is a weaker model</title>
+      <link>https://simonwillison.net/2026/Apr/10/voice-mode-is-weaker/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/10/voice-mode-is-weaker/#atom-everything</guid>
+      <pubDate>Fri, 10 Apr 2026 15:56:02 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> Simon Willison<br/><br/>I think it&apos;s non-obvious to many people that the OpenAI voice mode runs on a much older, much weaker model - it feels like the AI that you can talk to should be the smartest AI but it really isn&apos;t. If<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Claude code x n8n</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sik4by/claude_code_x_n8n/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sik4by/claude_code_x_n8n/</guid>
+      <pubDate>Sat, 11 Apr 2026 14:10:47 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/artificial<br/><br/>Brief mention of Claude Code integration with n8n automation platform.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
