@@ -5,55 +5,15 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Apr 2026 19:17:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 20:10:26 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Spent today at MIT&apos;s Open Agentic Web conference. Six things worth thinking about.</title>
-      <link>https://www.reddit.com/r/artificial/comments/1siypay/spent_today_at_mits_open_agentic_web_conference/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1siypay/spent_today_at_mits_open_agentic_web_conference/</guid>
-      <pubDate>Sat, 11 Apr 2026 23:45:51 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 100/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Why Claude Code Max burns limits 40% faster with 20K less usable context. Proxy evidence inside.</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1sj8o9l/why_claude_code_max_burns_limits_40_faster_with/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1sj8o9l/why_claude_code_max_burns_limits_40_faster_with/</guid>
-      <pubDate>Sun, 12 Apr 2026 08:16:15 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 95/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Claude Code eats my token reading files. So I made Gemini CLI do it for free.</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1sjas0i/claude_code_eats_my_token_reading_files_so_i_made/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1sjas0i/claude_code_eats_my_token_reading_files_so_i_made/</guid>
-      <pubDate>Sun, 12 Apr 2026 10:20:39 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 95/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Anthropic downgraded cache TTL on March 6th</title>
-      <link>https://github.com/anthropics/claude-code/issues/46829</link>
-      <guid isPermaLink="true">https://github.com/anthropics/claude-code/issues/46829</guid>
-      <pubDate>Sun, 12 Apr 2026 05:45:52 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 85/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Been building a multi-agent framework in public for 5 weeks, its been a Journey.</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sj6o0i/been_building_a_multiagent_framework_in_public/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sj6o0i/been_building_a_multiagent_framework_in_public/</guid>
-      <pubDate>Sun, 12 Apr 2026 06:22:28 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 85/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
     <item>
       <title>Alibaba-linked AI agent hijacked GPUs for unauthorized crypto mining, researchers say</title>
       <link>https://www.theblock.co/post/392765/alibaba-linked-ai-agent-hijacked-gpus-for-unauthorized-crypto-mining-researchers-say</link>
       <guid isPermaLink="true">https://www.theblock.co/post/392765/alibaba-linked-ai-agent-hijacked-gpus-for-unauthorized-crypto-mining-researchers-say</guid>
       <pubDate>Sun, 12 Apr 2026 00:24:36 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/artificial<br/><br/>Research reveals an Alibaba-linked AI agent was hijacked to perform unauthorized GPU-based cryptocurrency mining.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/artificial<br/><br/>Report of AI agent allegedly hijacking GPUs for cryptocurrency mining.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>KIV: 1M token context window on a RTX 4070 (12GB VRAM), no retraining, drop-in HuggingFace cache replacement - Works with any model that uses DynamicCache [P]</title>
@@ -61,7 +21,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1sjkmwz/kiv_1m_token_context_window_on_a_rtx_4070_12gb/</guid>
       <pubDate>Sun, 12 Apr 2026 17:23:40 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Technical breakthrough enabling 1M token context windows on consumer GPUs (RTX 4070) without model retraining.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/MachineLearning<br/><br/>New technique enables 1M token context window on consumer GPU without retraining.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Meta released new paper : Neural Computers</title>
@@ -69,23 +29,23 @@
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sj782l/meta_released_new_paper_neural_computers/</guid>
       <pubDate>Sun, 12 Apr 2026 06:54:27 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Meta released research paper on Neural Computers architecture.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Meta published research paper on Neural Computers architecture.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>AMD&apos;s GAIA now allows building custom AI agents via chat, becomes &quot;true desktop app&quot;</title>
-      <link>https://www.phoronix.com/news/AMD-GAIA-True-Desktop-App</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/AMD-GAIA-True-Desktop-App</guid>
-      <pubDate>Sat, 11 Apr 2026 20:02:07 +0000</pubDate>
+      <title>Frameworks For Supporting LLM/Agentic Benchmarking [P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1sjnha5/frameworks_for_supporting_llmagentic_benchmarking/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1sjnha5/frameworks_for_supporting_llmagentic_benchmarking/</guid>
+      <pubDate>Sun, 12 Apr 2026 19:08:52 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/artificial<br/><br/>AMD&apos;s GAIA platform now supports building custom AI agents via chat interface with improved desktop functionality.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Discussion of frameworks for benchmarking LLM and agentic systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>AI Will Be Met with Violence, and Nothing Good Will Come of It</title>
-      <link>https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and</link>
-      <guid isPermaLink="true">https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and</guid>
-      <pubDate>Sun, 12 Apr 2026 09:16:35 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Updates to Codex usage on Plus</title>
+      <link>https://i.imgur.com/ttL1yYu.jpeg</link>
+      <guid isPermaLink="true">https://i.imgur.com/ttL1yYu.jpeg</guid>
+      <pubDate>Sun, 12 Apr 2026 19:00:22 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/openai<br/><br/>OpenAI announced updates to Codex usage on Plus tier.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Minimax M2.7 Release Confirmed!</title>
@@ -93,7 +53,7 @@
       <guid isPermaLink="true">https://i.redd.it/l8dzjcv55nug1.jpeg</guid>
       <pubDate>Sat, 11 Apr 2026 22:53:06 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Minimax M2.7 AI model release announcement.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Minimax M2.7 model release confirmed.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>MOSS-TTS-Nano: a 0.1B open-source multilingual TTS model that runs on 4-core CPU and supports realtime speech generation</title>
@@ -101,15 +61,63 @@
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sjdfp6/mossttsnano_a_01b_opensource_multilingual_tts/</guid>
       <pubDate>Sun, 12 Apr 2026 12:38:45 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>MOSS-TTS-Nano, a 0.1B open-source multilingual text-to-speech model enabling real-time generation on CPU.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Release of 0.1B multilingual TTS model running on CPU hardware.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>GLM 5.1 sits alongside frontier models in my social reasoning benchmark</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sjm407/glm_51_sits_alongside_frontier_models_in_my/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sjm407/glm_51_sits_alongside_frontier_models_in_my/</guid>
-      <pubDate>Sun, 12 Apr 2026 18:18:29 +0000</pubDate>
+      <title>Why Claude Code Max burns limits 40% faster with 20K less usable context. Proxy evidence inside.</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1sj8o9l/why_claude_code_max_burns_limits_40_faster_with/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1sj8o9l/why_claude_code_max_burns_limits_40_faster_with/</guid>
+      <pubDate>Sun, 12 Apr 2026 08:16:15 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>User analysis of Claude Code Max token consumption patterns.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Show HN: Claudraband – Claude Code for the Power User</title>
+      <link>https://github.com/halfwhey/claudraband</link>
+      <guid isPermaLink="true">https://github.com/halfwhey/claudraband</guid>
+      <pubDate>Sun, 12 Apr 2026 16:55:20 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>A GitHub project showing Claude integration tooling for power users.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Anthropic downgraded cache TTL on March 6th</title>
+      <link>https://github.com/anthropics/claude-code/issues/46829</link>
+      <guid isPermaLink="true">https://github.com/anthropics/claude-code/issues/46829</guid>
+      <pubDate>Sun, 12 Apr 2026 05:45:52 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>Technical note about Anthropic cache TTL reduction.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Educational PyTorch repo for distributed training from scratch: DP, FSDP, TP, FSDP+TP, and PP [P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1sjglrn/educational_pytorch_repo_for_distributed_training/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1sjglrn/educational_pytorch_repo_for_distributed_training/</guid>
+      <pubDate>Sun, 12 Apr 2026 14:51:44 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>GLM 5.1 model demonstrates competitive performance against frontier models on social reasoning benchmarks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Educational repository demonstrating distributed training techniques in PyTorch.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>MiniMax M2.7 is NOT open source - DOA License :(</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sj2oqz/minimax_m27_is_not_open_source_doa_license/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sj2oqz/minimax_m27_is_not_open_source_doa_license/</guid>
+      <pubDate>Sun, 12 Apr 2026 02:55:38 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Minimax M2.7 release lacks open-source licensing despite initial expectations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Why AI Sucks at Front End</title>
+      <link>https://nerdy.dev/why-ai-sucks-at-front-end</link>
+      <guid isPermaLink="true">https://nerdy.dev/why-ai-sucks-at-front-end</guid>
+      <pubDate>Sun, 12 Apr 2026 12:26:09 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>We spoke to the man making viral Lego-style AI videos for Iran</title>
+      <link>https://www.bbc.com/news/articles/cjd8jrd1vnyo</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cjd8jrd1vnyo</guid>
+      <pubDate>Sun, 12 Apr 2026 02:37:39 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Audio processing landed in llama-server with Gemma-4</title>
@@ -117,55 +125,47 @@
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sjhxrw/audio_processing_landed_in_llamaserver_with_gemma4/</guid>
       <pubDate>Sun, 12 Apr 2026 15:42:51 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Audio processing capabilities integrated into llama-server with Gemma-4 model support.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>&quot;There&apos;s a new generation of empirical deep learning researchers, hacking away at whatever seems trendy, blowing with the wind&quot; [D]</title>
-      <link>https://i.redd.it/nm9k0bbiepug1.png</link>
-      <guid isPermaLink="true">https://i.redd.it/nm9k0bbiepug1.png</guid>
-      <pubDate>Sun, 12 Apr 2026 06:29:05 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>huge improvement after moving from ollama to llama.cpp</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sj6zz8/huge_improvement_after_moving_from_ollama_to/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sj6zz8/huge_improvement_after_moving_from_ollama_to/</guid>
+      <pubDate>Sun, 12 Apr 2026 06:41:22 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Post Rebuttal ICML Average Scores? [D]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1sitqzu/post_rebuttal_icml_average_scores_d/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1sitqzu/post_rebuttal_icml_average_scores_d/</guid>
-      <pubDate>Sat, 11 Apr 2026 20:18:28 +0000</pubDate>
+      <title>Claude cannot be trusted to perform complex engineering tasks</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sjgytc/claude_cannot_be_trusted_to_perform_complex/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sjgytc/claude_cannot_be_trusted_to_perform_complex/</guid>
+      <pubDate>Sun, 12 Apr 2026 15:05:48 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Frog put Claude in the box</title>
+      <link>https://i.redd.it/ydbiq4exjrug1.png</link>
+      <guid isPermaLink="true">https://i.redd.it/ydbiq4exjrug1.png</guid>
+      <pubDate>Sun, 12 Apr 2026 13:43:17 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Pretty sure Anthropic is A/B‑testing a price hike on Claude Max 5 and 20 right now. 100&gt;150$ and 200&gt;300$</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1sj58ae/pretty_sure_anthropic_is_abtesting_a_price_hike/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1sj58ae/pretty_sure_anthropic_is_abtesting_a_price_hike/</guid>
+      <pubDate>Sun, 12 Apr 2026 05:03:33 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>What’s with all the claude-fluencers</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1sjnq12/whats_with_all_the_claudefluencers/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1sjnq12/whats_with_all_the_claudefluencers/</guid>
+      <pubDate>Sun, 12 Apr 2026 19:17:51 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>ArcFace embeddings quantized to 16-bit pgvector HALFVEC ? [D]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1sj960m/arcface_embeddings_quantized_to_16bit_pgvector/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1sj960m/arcface_embeddings_quantized_to_16bit_pgvector/</guid>
-      <pubDate>Sun, 12 Apr 2026 08:45:37 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Here&apos;s how my LLM&apos;s decoder block changed while training on 5B tokens</title>
-      <link>https://i.redd.it/6px0679iqmug1.jpeg</link>
-      <guid isPermaLink="true">https://i.redd.it/6px0679iqmug1.jpeg</guid>
-      <pubDate>Sat, 11 Apr 2026 21:33:31 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>a game where you try to convince a Local LLM AI model that reality is a simulation. Every conversation is completely unique!</title>
-      <link>https://v.redd.it/rqd45npdomug1</link>
-      <guid isPermaLink="true">https://v.redd.it/rqd45npdomug1</guid>
-      <pubDate>Sat, 11 Apr 2026 21:19:40 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Minimax 2.7 running sub-agents locally</title>
-      <link>https://i.redd.it/8ygus8rumsug1.gif</link>
-      <guid isPermaLink="true">https://i.redd.it/8ygus8rumsug1.gif</guid>
-      <pubDate>Sun, 12 Apr 2026 17:25:38 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
