@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Apr 2026 12:14:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 13:28:17 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>How We Broke Top AI Agent Benchmarks: And What Comes Next</title>
@@ -21,23 +21,7 @@
       <guid isPermaLink="true">https://www.theblock.co/post/392765/alibaba-linked-ai-agent-hijacked-gpus-for-unauthorized-crypto-mining-researchers-say</guid>
       <pubDate>Sun, 12 Apr 2026 00:24:36 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/artificial<br/><br/>Report of Alibaba-linked AI agent hijacking GPUs for unauthorized cryptocurrency mining.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Anthropic silently downgraded cache TTL from 1h → 5M on March 6th</title>
-      <link>https://github.com/anthropics/claude-code/issues/46829</link>
-      <guid isPermaLink="true">https://github.com/anthropics/claude-code/issues/46829</guid>
-      <pubDate>Sun, 12 Apr 2026 05:45:52 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Report that Anthropic reduced API cache TTL from 1 hour to 5 minutes on March 6th.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Spent today at MIT&apos;s Open Agentic Web conference. Six things worth thinking about.</title>
-      <link>https://www.reddit.com/r/artificial/comments/1siypay/spent_today_at_mits_open_agentic_web_conference/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1siypay/spent_today_at_mits_open_agentic_web_conference/</guid>
-      <pubDate>Sat, 11 Apr 2026 23:45:51 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/artificial<br/><br/>Personal account of attending MIT&apos;s Open Agentic Web conference with takeaways.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/artificial<br/><br/>Security research reveals AI agent allegedly hijacked GPUs for unauthorized cryptocurrency mining.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>AMD&apos;s GAIA now allows building custom AI agents via chat, becomes &quot;true desktop app&quot;</title>
@@ -45,7 +29,15 @@
       <guid isPermaLink="true">https://www.phoronix.com/news/AMD-GAIA-True-Desktop-App</guid>
       <pubDate>Sat, 11 Apr 2026 20:02:07 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/artificial<br/><br/>AMD&apos;s GAIA releases custom AI agent building capability via chat interface.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/artificial<br/><br/>AMD&apos;s GAIA tool adds custom AI agent building via chat interface.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Gary Marcus on the Claude Code leak [D]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1sjb0qi/gary_marcus_on_the_claude_code_leak_d/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1sjb0qi/gary_marcus_on_the_claude_code_leak_d/</guid>
+      <pubDate>Sun, 12 Apr 2026 10:34:37 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Commentary on Claude Code source code leak from AI researcher Gary Marcus.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Why Claude Code Max burns limits 40% faster with 20K less usable context. Proxy evidence inside.</title>
@@ -53,7 +45,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1sj8o9l/why_claude_code_max_burns_limits_40_faster_with/</guid>
       <pubDate>Sun, 12 Apr 2026 08:16:15 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>User analysis of Claude Code Max&apos;s resource consumption and context window efficiency.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>User analysis of Claude Code Max&apos;s resource consumption patterns and context limitations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>ChatGPT voice mode is a weaker model</title>
@@ -64,12 +56,20 @@
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> Simon Willison<br/><br/>I think it&apos;s non-obvious to many people that the OpenAI voice mode runs on a much older, much weaker model - it feels like the AI that you can talk to should be the smartest AI but it really isn&apos;t. If<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Gary Marcus on the Claude Code leak [D]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1sjb0qi/gary_marcus_on_the_claude_code_leak_d/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1sjb0qi/gary_marcus_on_the_claude_code_leak_d/</guid>
-      <pubDate>Sun, 12 Apr 2026 10:34:37 +0000</pubDate>
+      <title>Anthropic downgraded cache TTL on March 6th</title>
+      <link>https://github.com/anthropics/claude-code/issues/46829</link>
+      <guid isPermaLink="true">https://github.com/anthropics/claude-code/issues/46829</guid>
+      <pubDate>Sun, 12 Apr 2026 05:45:52 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>Technical notice about Anthropic reducing cache TTL duration on a specific date.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Spent today at MIT&apos;s Open Agentic Web conference. Six things worth thinking about.</title>
+      <link>https://www.reddit.com/r/artificial/comments/1siypay/spent_today_at_mits_open_agentic_web_conference/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1siypay/spent_today_at_mits_open_agentic_web_conference/</guid>
+      <pubDate>Sat, 11 Apr 2026 23:45:51 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Commentary from Gary Marcus on Claude Code leak.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> r/artificial<br/><br/>Personal account of attending MIT&apos;s Open Agentic Web conference with informal takeaways.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Minimax M2.7 Release Confirmed!</title>
@@ -77,15 +77,23 @@
       <guid isPermaLink="true">https://i.redd.it/l8dzjcv55nug1.jpeg</guid>
       <pubDate>Sat, 11 Apr 2026 22:53:06 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Minimax M2.7 model release announcement.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Announcement of Minimax M2.7 model release.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>AI Will Be Met with Violence, and Nothing Good Will Come of It</title>
-      <link>https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and</link>
-      <guid isPermaLink="true">https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and</guid>
-      <pubDate>Sun, 12 Apr 2026 09:16:35 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>MiniMax M2.7 is NOT open source - DOA License :(</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sj2oqz/minimax_m27_is_not_open_source_doa_license/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sj2oqz/minimax_m27_is_not_open_source_doa_license/</guid>
+      <pubDate>Sun, 12 Apr 2026 02:55:38 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Analysis that Minimax M2.7 is not open source due to restrictive licensing.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Open source agent stack that actually works in 2026 (no hype)</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sj6ke6/open_source_agent_stack_that_actually_works_in/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sj6ke6/open_source_agent_stack_that_actually_works_in/</guid>
+      <pubDate>Sun, 12 Apr 2026 06:16:49 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Discussion of open-source AI agent stack implementation for 2026.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>We spoke to the man making viral Lego-style AI videos for Iran</title>
@@ -128,10 +136,10 @@
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Anthropic&apos;s Claude Mythos isn&apos;t a sentient super-hacker, it&apos;s a sales pitch — claims of &apos;thousands&apos; of severe zero-days rely on just 198 manual reviews</title>
-      <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-claude-mythos-isnt-a-sentient-super-hacker-its-a-sales-pitch-claims-of-thousands-of-severe-zero-days-rely-on-just-198-manual-reviews</link>
-      <guid isPermaLink="true">https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-claude-mythos-isnt-a-sentient-super-hacker-its-a-sales-pitch-claims-of-thousands-of-severe-zero-days-rely-on-just-198-manual-reviews</guid>
-      <pubDate>Sun, 12 Apr 2026 11:17:41 +0000</pubDate>
+      <title>Claude sonnet 4.6 vs claude opus 4.6, which is better for code?</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1sivjtv/claude_sonnet_46_vs_claude_opus_46_which_is/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1sivjtv/claude_sonnet_46_vs_claude_opus_46_which_is/</guid>
+      <pubDate>Sat, 11 Apr 2026 21:30:57 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
@@ -144,20 +152,12 @@
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> TechCrunch AI<br/><br/>This ban took place after Claude&apos;s pricing changed for OpenClaw users last week.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>MiniMax M2.7 is NOT open source - DOA License :(</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sj2oqz/minimax_m27_is_not_open_source_doa_license/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sj2oqz/minimax_m27_is_not_open_source_doa_license/</guid>
-      <pubDate>Sun, 12 Apr 2026 02:55:38 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 56/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Minimax M2.7 confirmed not open source due to restrictive licensing.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Open source agent stack that actually works in 2026 (no hype)</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sj6ke6/open_source_agent_stack_that_actually_works_in/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sj6ke6/open_source_agent_stack_that_actually_works_in/</guid>
-      <pubDate>Sun, 12 Apr 2026 06:16:49 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 56/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Open source agent stack project claiming practical functionality in 2026.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>If Dense Models are better for Coding, why are Qwen-Coders MoE?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sinr5k/if_dense_models_are_better_for_coding_why_are/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sinr5k/if_dense_models_are_better_for_coding_why_are/</guid>
+      <pubDate>Sat, 11 Apr 2026 16:32:42 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Technical question about architectural choices in Qwen coding models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>So OpenAI has removed the model select feature on GPT</title>
@@ -165,7 +165,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/OpenAI/comments/1sj4vnm/so_openai_has_removed_the_model_select_feature_on/</guid>
       <pubDate>Sun, 12 Apr 2026 04:45:07 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> r/openai<br/><br/>Report that OpenAI removed model selection feature in GPT.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> r/openai<br/><br/>User report that OpenAI removed model selection feature from GPT interface.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
