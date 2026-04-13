@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Apr 2026 16:29:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 17:26:03 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Show HN: I built a social media management tool in 3 weeks with Claude and Codex</title>
@@ -24,20 +24,20 @@
       <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 100/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Show HN: Claudraband – Claude Code for the Power User</title>
-      <link>https://github.com/halfwhey/claudraband</link>
-      <guid isPermaLink="true">https://github.com/halfwhey/claudraband</guid>
-      <pubDate>Sun, 12 Apr 2026 16:55:20 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 100/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
       <title>Frameworks For Supporting LLM/Agentic Benchmarking [P]</title>
       <link>https://www.reddit.com/r/MachineLearning/comments/1sjnha5/frameworks_for_supporting_llmagentic_benchmarking/</link>
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1sjnha5/frameworks_for_supporting_llmagentic_benchmarking/</guid>
       <pubDate>Sun, 12 Apr 2026 19:08:52 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
       <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 100/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Comparing Qwen3.5 27B vs Gemma 4 31B for agentic stuff</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1skf43s/comparing_qwen35_27b_vs_gemma_4_31b_for_agentic/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1skf43s/comparing_qwen35_27b_vs_gemma_4_31b_for_agentic/</guid>
+      <pubDate>Mon, 13 Apr 2026 15:59:22 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 100/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>When claude code fails, I ask it to write a short paragraph on the issue. Most of the times it finds correct solutions before finishing the writing.</title>
@@ -54,14 +54,6 @@
       <pubDate>Mon, 13 Apr 2026 06:00:00 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
       <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 100/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>KIV: 1M token context window on a RTX 4070 (12GB VRAM), no retraining, drop-in HuggingFace cache replacement - Works with any model that uses DynamicCache [P]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1sjkmwz/kiv_1m_token_context_window_on_a_rtx_4070_12gb/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1sjkmwz/kiv_1m_token_context_window_on_a_rtx_4070_12gb/</guid>
-      <pubDate>Sun, 12 Apr 2026 17:23:40 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>GLM 5.1 sits alongside frontier models in my social reasoning benchmark</title>
@@ -136,6 +128,14 @@
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
+      <title>Claude.ai down</title>
+      <link>https://status.claude.com/incidents/6jd2m42f8mld</link>
+      <guid isPermaLink="true">https://status.claude.com/incidents/6jd2m42f8mld</guid>
+      <pubDate>Mon, 13 Apr 2026 15:41:08 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
       <title>[ICML 2026] Scores for Position papers post discussion? [D]</title>
       <link>https://www.reddit.com/r/MachineLearning/comments/1sk37s3/icml_2026_scores_for_position_papers_post/</link>
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1sk37s3/icml_2026_scores_for_position_papers_post/</guid>
@@ -152,20 +152,20 @@
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Trained a Qwen2.5-0.5B-Instruct bf16 model on Reddit post summarization task with GRPO [P]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1ska7g2/trained_a_qwen2505binstruct_bf16_model_on_reddit/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1ska7g2/trained_a_qwen2505binstruct_bf16_model_on_reddit/</guid>
-      <pubDate>Mon, 13 Apr 2026 13:03:15 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
       <title>Ryan Lee from MiniMax posts article on the license stating it&apos;s mostly for API providers that did a poor job serving M2.1/M2.5 and may update the license for regular users!</title>
       <link>https://i.redd.it/l7xvpse6iyug1.jpeg</link>
       <guid isPermaLink="true">https://i.redd.it/l7xvpse6iyug1.jpeg</guid>
       <pubDate>Mon, 13 Apr 2026 13:08:01 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
       <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Local Minimax M2.7, GTA benchmark</title>
+      <link>https://i.redd.it/xkcnl4z9rxug1.gif</link>
+      <guid isPermaLink="true">https://i.redd.it/xkcnl4z9rxug1.gif</guid>
+      <pubDate>Mon, 13 Apr 2026 10:38:11 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
