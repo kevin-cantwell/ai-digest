@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Apr 2026 12:26:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 13:35:19 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Show HN: I built a social media management tool in 3 weeks with Claude and Codex</title>
@@ -40,20 +40,20 @@
       <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 100/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
+      <title>Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI</title>
+      <link>https://openai.com/index/cloudflare-openai-agent-cloud</link>
+      <guid isPermaLink="true">https://openai.com/index/cloudflare-openai-agent-cloud</guid>
+      <pubDate>Mon, 13 Apr 2026 06:00:00 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 100/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
       <title>Considering ditching Claude/Codex completely</title>
       <link>https://www.reddit.com/r/LocalLLaMA/comments/1sjeweu/considering_ditching_claudecodex_completely/</link>
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sjeweu/considering_ditching_claudecodex_completely/</guid>
       <pubDate>Sun, 12 Apr 2026 13:42:31 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
       <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 95/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>The creator of Claude Code notes on the current Caching Issue</title>
-      <link>https://i.redd.it/0mpxmhez2xug1.png</link>
-      <guid isPermaLink="true">https://i.redd.it/0mpxmhez2xug1.png</guid>
-      <pubDate>Mon, 13 Apr 2026 08:35:52 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 95/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Bouncer: Block &quot;crypto&quot;, &quot;rage politics&quot;, and more from your X feed using AI</title>
@@ -128,14 +128,6 @@
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Tell HN: OpenAI silently removed Study Mode from ChatGPT</title>
-      <link>https://news.ycombinator.com/item?id=47739305</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47739305</guid>
-      <pubDate>Sun, 12 Apr 2026 13:20:58 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
       <title>When the Mirror Turns: How AI alignment reshapes the voice inside your head</title>
       <link>https://medium.com/p/6efa88a2f1f3</link>
       <guid isPermaLink="true">https://medium.com/p/6efa88a2f1f3</guid>
@@ -160,12 +152,20 @@
       <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Gemma 4 - lazy model or am I crazy? (bit of a rant)</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sjyzmi/gemma_4_lazy_model_or_am_i_crazy_bit_of_a_rant/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sjyzmi/gemma_4_lazy_model_or_am_i_crazy_bit_of_a_rant/</guid>
-      <pubDate>Mon, 13 Apr 2026 03:11:09 +0000</pubDate>
+      <title>Trained a Qwen2.5-0.5B-Instruct bf16 model on Reddit post summarization task with GRPO [P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1ska7g2/trained_a_qwen2505binstruct_bf16_model_on_reddit/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1ska7g2/trained_a_qwen2505binstruct_bf16_model_on_reddit/</guid>
+      <pubDate>Mon, 13 Apr 2026 13:03:15 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Training an AI to play Resident Evil Requiem using Behavior Cloning + HG-DAgge [P]</title>
+      <link>https://youtu.be/b3tCWlyWyg8?si=BFX3e41jsBsA7_Dd</link>
+      <guid isPermaLink="true">https://youtu.be/b3tCWlyWyg8?si=BFX3e41jsBsA7_Dd</guid>
+      <pubDate>Sun, 12 Apr 2026 14:32:47 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
