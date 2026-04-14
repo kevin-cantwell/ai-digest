@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Apr 2026 08:36:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 09:35:06 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>GAIA – Open-source framework for building AI agents that run on local hardware</title>
@@ -22,14 +22,6 @@
       <pubDate>Mon, 13 Apr 2026 18:08:14 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 100/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Show HN: I built a social media management tool in 3 weeks with Claude and Codex</title>
-      <link>https://github.com/brightbeanxyz/brightbean-studio</link>
-      <guid isPermaLink="true">https://github.com/brightbeanxyz/brightbean-studio</guid>
-      <pubDate>Mon, 13 Apr 2026 09:26:56 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 100/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>MiniMax released MMX-CLI: one CLI for text, image, video, speech, music, vision, and web search — no MCP server needed. Works natively in Claude Code, Cursor, OpenClaw.</title>
@@ -62,6 +54,14 @@
       <pubDate>Mon, 13 Apr 2026 16:10:15 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
       <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 95/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>TUI to see where Claude Code tokens actually go</title>
+      <link>https://i.redd.it/c9a6wzpte1vg1.jpeg</link>
+      <guid isPermaLink="true">https://i.redd.it/c9a6wzpte1vg1.jpeg</guid>
+      <pubDate>Mon, 13 Apr 2026 22:53:04 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 95/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Trained a 125M LM from scratch instead of fine-tuning GPT-2 — releasing weights + SFT framework for others to build on</title>
@@ -152,20 +152,20 @@
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
+      <title>No agent maintained moral reasoning consistency across scenarios. Findings from a structured study with 11 agents on classic ethical dilemmas [R]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1sl2qc2/no_agent_maintained_moral_reasoning_consistency/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1sl2qc2/no_agent_maintained_moral_reasoning_consistency/</guid>
+      <pubDate>Tue, 14 Apr 2026 08:34:13 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
       <title>Ryan Lee from MiniMax posts article on the license stating it&apos;s mostly for API providers that did a poor job serving M2.1/M2.5 and may update the license for regular users!</title>
       <link>https://i.redd.it/l7xvpse6iyug1.jpeg</link>
       <guid isPermaLink="true">https://i.redd.it/l7xvpse6iyug1.jpeg</guid>
       <pubDate>Mon, 13 Apr 2026 13:08:01 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
       <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Local Minimax M2.7, GTA benchmark</title>
-      <link>https://i.redd.it/xkcnl4z9rxug1.gif</link>
-      <guid isPermaLink="true">https://i.redd.it/xkcnl4z9rxug1.gif</guid>
-      <pubDate>Mon, 13 Apr 2026 10:38:11 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
