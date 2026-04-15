@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Apr 2026 09:34:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 10:30:22 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>ClawBench: Can AI Agents Complete Everyday Online Tasks? 153 tasks, 144 live websites, best model at 33.3% [R]</title>
@@ -13,15 +13,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1slf7pg/clawbench_can_ai_agents_complete_everyday_online/</guid>
       <pubDate>Tue, 14 Apr 2026 17:21:13 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 88/100<br/><b>Source:</b> r/MachineLearning<br/><br/>ClawBench benchmark evaluates AI agent performance on 153 real-world web tasks across 144 live websites.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Refusal in open-weights models looks like a sparse gate -&gt; amplifier circuit, and generalizes across 12 models from 6 labs (2B-72B)</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sllajh/refusal_in_openweights_models_looks_like_a_sparse/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sllajh/refusal_in_openweights_models_looks_like_a_sparse/</guid>
-      <pubDate>Tue, 14 Apr 2026 20:55:57 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 86/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Research reveals refusal mechanisms in open-source LLMs operate via sparse gating circuits generalizable across models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 88/100<br/><b>Source:</b> r/MachineLearning<br/><br/>ClawBench research evaluates AI agent performance on 153 real-world web tasks with 33.3% success rate.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Claude Code Routines</title>
@@ -29,7 +21,7 @@
       <guid isPermaLink="true">https://code.claude.com/docs/en/routines</guid>
       <pubDate>Tue, 14 Apr 2026 16:54:33 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Claude Code Routines feature documentation released, enabling automated workflows in Claude&apos;s coding interface.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Claude Code Routines feature documentation released, enabling reusable automation workflows.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Now in research preview: routines in Claude Code</title>
@@ -37,7 +29,15 @@
       <guid isPermaLink="true">https://i.redd.it/nzfq6fuvh6vg1.png</guid>
       <pubDate>Tue, 14 Apr 2026 16:45:38 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Routines feature enters research preview in Claude Code for automating repetitive tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Routines feature enters research preview in Claude Code for workflow automation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Turn your best AI prompts into one-click tools in Chrome</title>
+      <link>https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/</link>
+      <guid isPermaLink="true">https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/</guid>
+      <pubDate>Tue, 14 Apr 2026 17:09:43 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 80/100<br/><b>Source:</b> Hacker News<br/><br/>Google Chrome launches Skills feature to convert AI prompts into one-click browser tools.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>New method allows to convert auto-regressive models into diffusion models with a &gt;2x speedup, fully compatible with existing inference stack</title>
@@ -45,15 +45,15 @@
       <guid isPermaLink="true">https://introspective-diffusion.github.io/</guid>
       <pubDate>Tue, 14 Apr 2026 12:23:16 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Researchers demonstrate method to convert auto-regressive models to diffusion models with 2x speedup.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Research method converts autoregressive models to diffusion models with 2x speedup improvement.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Claude Launched routines in Claude Code.</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sleur7/claude_launched_routines_in_claude_code/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sleur7/claude_launched_routines_in_claude_code/</guid>
-      <pubDate>Tue, 14 Apr 2026 17:08:49 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/artificial<br/><br/>Claude launches Routines feature in Claude Code for workflow automation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Refusal in open-weights models looks like a sparse gate -&gt; amplifier circuit, and generalizes across 12 models from 6 labs (2B-72B)</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sllajh/refusal_in_openweights_models_looks_like_a_sparse/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sllajh/refusal_in_openweights_models_looks_like_a_sparse/</guid>
+      <pubDate>Tue, 14 Apr 2026 20:55:57 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Mechanistic study reveals refusal behavior in open-weights models uses sparse gate circuits, generalizing across 12 models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Claude Code on desktop, redesigned for parallel agentic work.</title>
@@ -61,7 +61,15 @@
       <guid isPermaLink="true">https://v.redd.it/j9kaqnone7vg1</guid>
       <pubDate>Tue, 14 Apr 2026 19:10:50 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Desktop version of Claude Code with parallel execution capabilities announced.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Desktop version of Claude Code redesigned for parallel agentic task execution.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge</title>
+      <link>https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/</guid>
+      <pubDate>Mon, 13 Apr 2026 15:22:29 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Vercel CEO indicates IPO readiness with AI agents driving platform revenue growth.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Notion’s Token Town: 5 Rebuilds, 100+ Tools, MCP vs CLIs and the Software Factory Future — Simon Last &amp; Sarah Sachs of Notion</title>
@@ -69,13 +77,13 @@
       <guid isPermaLink="true">https://www.latent.space/p/notion</guid>
       <pubDate>Wed, 15 Apr 2026 00:31:14 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Latent Space<br/><br/>Notion discusses AI integration architecture including MCP protocols and tooling ecosystem.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Latent Space<br/><br/>Notion discusses architectural patterns for AI tool integration and software factory approaches.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>I built a Claude Dungeon Master skill that runs persistent D&amp;D 5e campaigns — here&apos;s how the architecture works</title>
-      <link>https://i.redd.it/l1izndkhk8vg1.gif</link>
-      <guid isPermaLink="true">https://i.redd.it/l1izndkhk8vg1.gif</guid>
-      <pubDate>Tue, 14 Apr 2026 22:57:56 +0000</pubDate>
+      <title>Claude Status Update : Degraded service on usage and analytics admin API endpoints on 2026-04-14T13:20:20.000Z</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1sl8nmc/claude_status_update_degraded_service_on_usage/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1sl8nmc/claude_status_update_degraded_service_on_usage/</guid>
+      <pubDate>Tue, 14 Apr 2026 13:25:06 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 75/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
@@ -88,12 +96,12 @@
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 75/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI expands its Trusted Access for Cyber program, introducing GPT-5.4-Cyber to vetted defenders and strengthening safeguards as AI cybersecurity capabilities advance.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Turn your best AI prompts into one-click tools in Chrome</title>
-      <link>https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/</link>
-      <guid isPermaLink="true">https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/</guid>
-      <pubDate>Tue, 14 Apr 2026 17:09:43 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 74/100<br/><b>Source:</b> Hacker News<br/><br/>Google Chrome adds Skills feature to create one-click tools from AI prompts.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>The Information: Anthropic Preps Opus 4.7 Model, could be released as soon as this week</title>
+      <link>https://www.theinformation.com/briefings/exclusive-anthropic-preps-opus-4-7-model-ai-design-tool</link>
+      <guid isPermaLink="true">https://www.theinformation.com/briefings/exclusive-anthropic-preps-opus-4-7-model-ai-design-tool</guid>
+      <pubDate>Tue, 14 Apr 2026 18:43:21 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Reports indicate Anthropic preparing Claude Opus 4.7 release pending.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>OpenAI&apos;s $852B valuation faces investor scrutiny amid strategy shift, FT reports</title>
@@ -102,6 +110,14 @@
       <pubDate>Wed, 15 Apr 2026 01:36:22 +0000</pubDate>
       <category>Industry News</category>
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>OpenAI expands its cyber defense program with GPT-5.4-Cyber for vetted researchers</title>
+      <link>https://www.helpnetsecurity.com/2026/04/15/openai-gpt-5-4-cyber/</link>
+      <guid isPermaLink="true">https://www.helpnetsecurity.com/2026/04/15/openai-gpt-5-4-cyber/</guid>
+      <pubDate>Wed, 15 Apr 2026 07:56:56 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> r/artificial<br/><br/>OpenAI expands cybersecurity research program with specialized model access.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Show HN: Kelet – Root Cause Analysis agent for your LLM apps</title>
