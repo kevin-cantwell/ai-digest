@@ -5,31 +5,15 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Apr 2026 18:27:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 19:32:57 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Gemini Robotics-ER 1.6</title>
-      <link>https://deepmind.google/blog/gemini-robotics-er-1-6/</link>
-      <guid isPermaLink="true">https://deepmind.google/blog/gemini-robotics-er-1-6/</guid>
-      <pubDate>Wed, 15 Apr 2026 14:02:31 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 90/100<br/><b>Source:</b> Hacker News<br/><br/>Google DeepMind announces Gemini Robotics-ER 1.6, an advancement in robotics foundation models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
     <item>
       <title>The next evolution of the Agents SDK</title>
       <link>https://openai.com/index/the-next-evolution-of-the-agents-sdk</link>
       <guid isPermaLink="true">https://openai.com/index/the-next-evolution-of-the-agents-sdk</guid>
       <pubDate>Wed, 15 Apr 2026 10:00:00 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 84/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI releases next evolution of Agents SDK with new capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>MCP as Observability Interface: Connecting AI Agents to Kernel Tracepoints</title>
-      <link>https://ingero.io/mcp-observability-interface-ai-agents-kernel-tracepoints/</link>
-      <guid isPermaLink="true">https://ingero.io/mcp-observability-interface-ai-agents-kernel-tracepoints/</guid>
-      <pubDate>Wed, 15 Apr 2026 13:22:10 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Technical exploration of using Model Context Protocol as an observability interface for AI agents with kernel-level tracing.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 90/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces the next evolution of their Agents SDK with new capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Gemini 3.1 Flash TTS: the next generation of expressive AI speech</title>
@@ -37,23 +21,23 @@
       <guid isPermaLink="true">https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/</guid>
       <pubDate>Wed, 15 Apr 2026 16:03:19 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 82/100<br/><b>Source:</b> Google DeepMind<br/><br/>Google DeepMind announces Gemini 3.1 Flash TTS for expressive AI-generated speech.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 88/100<br/><b>Source:</b> Google DeepMind<br/><br/>Google DeepMind releases Gemini 3.1 Flash TTS, advancing expressive AI speech generation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Refusal in open-weights models looks like a sparse gate -&gt; amplifier circuit, and generalizes across 12 models from 6 labs (2B-72B)</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sllajh/refusal_in_openweights_models_looks_like_a_sparse/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sllajh/refusal_in_openweights_models_looks_like_a_sparse/</guid>
-      <pubDate>Tue, 14 Apr 2026 20:55:57 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Research finding that refusal mechanisms in open-weight models operate via sparse gate-amplifier circuits across multiple model families.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Gemini Robotics-ER 1.6</title>
+      <link>https://deepmind.google/blog/gemini-robotics-er-1-6/</link>
+      <guid isPermaLink="true">https://deepmind.google/blog/gemini-robotics-er-1-6/</guid>
+      <pubDate>Wed, 15 Apr 2026 14:02:31 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 84/100<br/><b>Source:</b> Hacker News<br/><br/>Google DeepMind announces Gemini Robotics-ER 1.6, an advancement in robotics AI.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Claude Code on desktop, redesigned for parallel agentic work.</title>
-      <link>https://v.redd.it/j9kaqnone7vg1</link>
-      <guid isPermaLink="true">https://v.redd.it/j9kaqnone7vg1</guid>
-      <pubDate>Tue, 14 Apr 2026 19:10:50 +0000</pubDate>
+      <title>MCP as Observability Interface: Connecting AI Agents to Kernel Tracepoints</title>
+      <link>https://ingero.io/mcp-observability-interface-ai-agents-kernel-tracepoints/</link>
+      <guid isPermaLink="true">https://ingero.io/mcp-observability-interface-ai-agents-kernel-tracepoints/</guid>
+      <pubDate>Wed, 15 Apr 2026 13:22:10 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Product announcement of Claude Code desktop version redesigned for parallel agentic work.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Technical exploration of using MCP (Model Context Protocol) as an observability interface for AI agents integrated with kernel tracepoints.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Notion’s Token Town: 5 Rebuilds, 100+ Tools, MCP vs CLIs and the Software Factory Future — Simon Last &amp; Sarah Sachs of Notion</title>
@@ -61,7 +45,23 @@
       <guid isPermaLink="true">https://www.latent.space/p/notion</guid>
       <pubDate>Wed, 15 Apr 2026 00:31:14 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Latent Space<br/><br/>In-depth discussion of Notion&apos;s AI tooling strategy, MCP adoption, and software factory architecture.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Latent Space<br/><br/>Latent Space podcast discussion with Notion about Token Town, MCP, and the software factory future.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Refusal in open-weights models looks like a sparse gate -&gt; amplifier circuit, and generalizes across 12 models from 6 labs (2B-72B)</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sllajh/refusal_in_openweights_models_looks_like_a_sparse/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sllajh/refusal_in_openweights_models_looks_like_a_sparse/</guid>
+      <pubDate>Tue, 14 Apr 2026 20:55:57 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Research finding that refusal mechanisms in open-weight models operate via sparse gate-amplifier circuits, generalizing across models from multiple labs.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Trusted access for the next era of cyber defense</title>
+      <link>https://openai.com/index/scaling-trusted-access-for-cyber-defense</link>
+      <guid isPermaLink="true">https://openai.com/index/scaling-trusted-access-for-cyber-defense</guid>
+      <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI blog post on scaling trusted access mechanisms for cybersecurity applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>[P] Built GPT-2, Llama 3, and DeepSeek from scratch in PyTorch - open source code + book</title>
@@ -69,7 +69,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sm82ze/p_built_gpt2_llama_3_and_deepseek_from_scratch_in/</guid>
       <pubDate>Wed, 15 Apr 2026 14:42:55 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 72/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Open-source educational project implementing GPT-2, Llama 3, and DeepSeek architectures from scratch in PyTorch.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 72/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Open-source educational project implementing GPT-2, Llama 3, and DeepSeek from scratch in PyTorch with accompanying book.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Elevated errors on Claude.ai, API, Claude Code</title>
@@ -80,36 +80,12 @@
       <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Status report of elevated errors affecting Claude.ai, API, and Claude Code services.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>AI ruling prompts warnings from US lawyers: Your chats could be used against you</title>
-      <link>https://www.reuters.com/legal/government/ai-ruling-prompts-warnings-us-lawyers-your-chats-could-be-used-against-you-2026-04-15/</link>
-      <guid isPermaLink="true">https://www.reuters.com/legal/government/ai-ruling-prompts-warnings-us-lawyers-your-chats-could-be-used-against-you-2026-04-15/</guid>
-      <pubDate>Wed, 15 Apr 2026 12:51:13 +0000</pubDate>
+      <title>Hosting Live session for sub 10ms retrieval by Moss (YC backed) [N]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1sme4yy/hosting_live_session_for_sub_10ms_retrieval_by/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1sme4yy/hosting_live_session_for_sub_10ms_retrieval_by/</guid>
+      <pubDate>Wed, 15 Apr 2026 18:14:20 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Claude may require identity verification in some cases</title>
-      <link>https://support.claude.com/en/articles/14328960-identity-verification-on-claude</link>
-      <guid isPermaLink="true">https://support.claude.com/en/articles/14328960-identity-verification-on-claude</guid>
-      <pubDate>Wed, 15 Apr 2026 07:05:13 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>OpenAI&apos;s $852B valuation faces investor scrutiny amid strategy shift, FT reports</title>
-      <link>https://www.reuters.com/legal/transactional/openai-investors-question-852-billion-valuation-strategy-shifts-ft-reports-2026-04-14/</link>
-      <guid isPermaLink="true">https://www.reuters.com/legal/transactional/openai-investors-question-852-billion-valuation-strategy-shifts-ft-reports-2026-04-14/</guid>
-      <pubDate>Wed, 15 Apr 2026 01:36:22 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>I built Synapse AI: An open-source, DAG-based orchestrator for AI agents.</title>
-      <link>https://v.redd.it/mmnd7fu3u9vg1</link>
-      <guid isPermaLink="true">https://v.redd.it/mmnd7fu3u9vg1</guid>
-      <pubDate>Wed, 15 Apr 2026 03:13:29 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/artificial<br/><br/>Open-source project announcement for Synapse AI, a DAG-based orchestrator for AI agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Value Realignment is here.</title>
@@ -120,12 +96,28 @@
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Trusted access for the next era of cyber defense</title>
-      <link>https://openai.com/index/scaling-trusted-access-for-cyber-defense</link>
-      <guid isPermaLink="true">https://openai.com/index/scaling-trusted-access-for-cyber-defense</guid>
-      <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces trusted access expansion for cyber defense research partnerships.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Claude Status Update : Elevated errors on Claude.ai, API, Claude Code on 2026-04-15T14:53:02.000Z</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1sm8f5y/claude_status_update_elevated_errors_on_claudeai/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1sm8f5y/claude_status_update_elevated_errors_on_claudeai/</guid>
+      <pubDate>Wed, 15 Apr 2026 14:55:06 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Reddit discussion of Claude service outage on a specific date.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>India’s vibe-coding startup Emergent enters OpenClaw-like AI agent space</title>
+      <link>https://techcrunch.com/2026/04/15/indias-vibe-coding-startup-emergent-enters-openclaw-like-ai-agent-space/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/04/15/indias-vibe-coding-startup-emergent-enters-openclaw-like-ai-agent-space/</guid>
+      <pubDate>Wed, 15 Apr 2026 17:24:18 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> TechCrunch AI<br/><br/>TechCrunch report on Indian startup Emergent entering the AI agent space.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>OpenAI expands its cyber defense program with GPT-5.4-Cyber for vetted researchers</title>
+      <link>https://www.helpnetsecurity.com/2026/04/15/openai-gpt-5-4-cyber/</link>
+      <guid isPermaLink="true">https://www.helpnetsecurity.com/2026/04/15/openai-gpt-5-4-cyber/</guid>
+      <pubDate>Wed, 15 Apr 2026 07:56:56 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> r/artificial<br/><br/>Report of OpenAI expanding cyber defense program with GPT-5.4-Cyber for vetted researchers.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Show HN: Libretto – Making AI browser automations deterministic</title>
@@ -150,6 +142,14 @@
       <pubDate>Wed, 15 Apr 2026 06:12:47 +0000</pubDate>
       <category>Research &amp; Papers</category>
       <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>You can decompose models into a graph database [N]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1slmfmw/you_can_decompose_models_into_a_graph_database_n/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1slmfmw/you_can_decompose_models_into_a_graph_database_n/</guid>
+      <pubDate>Tue, 14 Apr 2026 21:38:19 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Jailbreaks as social engineering: 5 case studies suggest LLMs inherit human psychological vulnerabilities from training data [D]</title>
