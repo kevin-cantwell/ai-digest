@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Apr 2026 19:26:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 20:16:00 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Claude Design</title>
@@ -13,7 +13,7 @@
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-design-anthropic-labs</guid>
       <pubDate>Fri, 17 Apr 2026 15:04:09 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 90/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic announces Claude Design, a new product for AI-assisted design work.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 90/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic announces Claude Design, a new visual design capability in Anthropic Labs.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Introducing GPT-Rosalind for life sciences research</title>
@@ -21,7 +21,15 @@
       <guid isPermaLink="true">https://openai.com/index/introducing-gpt-rosalind</guid>
       <pubDate>Thu, 16 Apr 2026 01:00:00 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 90/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI introduces GPT-Rosalind, a specialized model for life sciences research.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 90/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI introduces GPT-Rosalind, a specialized model for life sciences research applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Codex for (almost) everything</title>
+      <link>https://openai.com/index/codex-for-almost-everything</link>
+      <guid isPermaLink="true">https://openai.com/index/codex-for-almost-everything</guid>
+      <pubDate>Thu, 16 Apr 2026 10:00:00 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 88/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI blog post on broad applications of Codex across multiple domains.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Roblox’s AI assistant gets new agentic tools to plan, build, and test games</title>
@@ -29,7 +37,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/04/16/robloxs-ai-assistant-gets-new-agentic-tools-to-plan-build-and-test-games/</guid>
       <pubDate>Thu, 16 Apr 2026 16:00:00 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 88/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Roblox launches agentic AI tools enabling its assistant to autonomously plan, build, and test games.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 88/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Roblox launches agentic AI assistant tools for game development planning and testing.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop</title>
@@ -37,7 +45,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/</guid>
       <pubDate>Thu, 16 Apr 2026 19:18:41 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 86/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI releases upgraded Codex with expanded desktop integration capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 86/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI releases enhanced Codex with expanded desktop integration capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Show HN: SPICE simulation → oscilloscope → verification with Claude Code</title>
@@ -48,12 +56,20 @@
       <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Developer demonstrates using Claude Code to automate SPICE circuit simulation verification workflow.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
+      <title>InsightFinder raises $15M to help companies figure out where AI agents go wrong</title>
+      <link>https://techcrunch.com/2026/04/16/insightfinder-raises-15m-to-help-companies-figure-out-where-ai-agents-go-wrong/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/04/16/insightfinder-raises-15m-to-help-companies-figure-out-where-ai-agents-go-wrong/</guid>
+      <pubDate>Thu, 16 Apr 2026 16:15:00 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> TechCrunch AI<br/><br/>InsightFinder raises $15M Series A for AI agent observability and debugging platform.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
       <title>Accelerating the cyber defense ecosystem that protects us all</title>
       <link>https://openai.com/index/accelerating-cyber-defense-ecosystem</link>
       <guid isPermaLink="true">https://openai.com/index/accelerating-cyber-defense-ecosystem</guid>
       <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces initiative to accelerate cyber defense tools and ecosystem development.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces initiative to strengthen cybersecurity defense ecosystem.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>06 New Claude Code Tips from Boris Cherny (creator of CC) after Opus 4.7 release</title>
@@ -61,15 +77,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1snn4ed/06_new_claude_code_tips_from_boris_cherny_creator/</guid>
       <pubDate>Fri, 17 Apr 2026 01:44:50 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Tips for Claude Code usage following Opus 4.7 release from creator Boris Cherny.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>InsightFinder raises $15M to help companies figure out where AI agents go wrong</title>
-      <link>https://techcrunch.com/2026/04/16/insightfinder-raises-15m-to-help-companies-figure-out-where-ai-agents-go-wrong/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/04/16/insightfinder-raises-15m-to-help-companies-figure-out-where-ai-agents-go-wrong/</guid>
-      <pubDate>Thu, 16 Apr 2026 16:15:00 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> TechCrunch AI<br/><br/>InsightFinder raises $15M funding to provide AI agent debugging and diagnostics platform.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Tips and best practices for Claude Code following Opus 4.7 release.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Claude Opus 4.7 costs 20–30% more per session</title>
@@ -77,7 +85,7 @@
       <guid isPermaLink="true">https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you</guid>
       <pubDate>Fri, 17 Apr 2026 15:29:36 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 74/100<br/><b>Source:</b> Hacker News<br/><br/>Analysis shows Claude Opus 4.7 costs 20-30% more per session due to tokenizer changes.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 74/100<br/><b>Source:</b> Hacker News<br/><br/>Analysis of Claude Opus 4.7 tokenizer changes resulting in higher per-session costs.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine</title>
@@ -85,7 +93,7 @@
       <guid isPermaLink="true">https://github.com/gainsec/autoprober</guid>
       <pubDate>Thu, 16 Apr 2026 21:56:37 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Developer builds AI-controlled hardware robotic arm using improvised materials and CNC.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Developer builds AI-controlled hardware automation system from repurposed components.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>The beginning of scarcity in AI</title>
@@ -93,39 +101,7 @@
       <guid isPermaLink="true">https://tomtunguz.com/ai-compute-crisis-2026/</guid>
       <pubDate>Thu, 16 Apr 2026 20:49:35 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Analysis argues GPU compute scarcity is emerging as significant constraint in AI development.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Agentic OS — an governed multi-agent execution platform</title>
-      <link>https://www.reddit.com/r/artificial/comments/1snzm1s/agentic_os_an_governed_multiagent_execution/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1snzm1s/agentic_os_an_governed_multiagent_execution/</guid>
-      <pubDate>Fri, 17 Apr 2026 12:31:37 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/artificial<br/><br/>Discussion of a multi-agent execution platform concept with governance features.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Stop comparing price per million tokens: the hidden LLM API costs [OpenAI has the most efficient tokenizer]</title>
-      <link>https://www.tensorzero.com/blog/stop-comparing-price-per-million-tokens-the-hidden-llm-api-costs/</link>
-      <guid isPermaLink="true">https://www.tensorzero.com/blog/stop-comparing-price-per-million-tokens-the-hidden-llm-api-costs/</guid>
-      <pubDate>Thu, 16 Apr 2026 20:12:37 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/openai<br/><br/>Analysis argues traditional token price comparisons are misleading; OpenAI has most efficient tokenizer.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>I own the domain modelcombat.com and don&apos;t know what to do with it</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sny205/i_own_the_domain_modelcombatcom_and_dont_know/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sny205/i_own_the_domain_modelcombatcom_and_dont_know/</guid>
-      <pubDate>Fri, 17 Apr 2026 11:19:12 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>The joy and pain of training an LLM from scratch</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1snuekx/the_joy_and_pain_of_training_an_llm_from_scratch/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1snuekx/the_joy_and_pain_of_training_an_llm_from_scratch/</guid>
-      <pubDate>Fri, 17 Apr 2026 07:56:30 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Analysis of emerging compute scarcity challenges in AI development.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Doing more with fewer parameters using stable looped models</title>
@@ -160,12 +136,36 @@
       <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
+      <title>Anthropic admitted they used other models data?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1snjafe/anthropic_admitted_they_used_other_models_data/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1snjafe/anthropic_admitted_they_used_other_models_data/</guid>
+      <pubDate>Thu, 16 Apr 2026 22:56:47 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
       <title>I built a small project to organize AI coding tools, looking for feedback on the structure and data model</title>
       <link>https://www.reddit.com/r/artificial/comments/1snxdjk/i_built_a_small_project_to_organize_ai_coding/</link>
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1snxdjk/i_built_a_small_project_to_organize_ai_coding/</guid>
       <pubDate>Fri, 17 Apr 2026 10:45:28 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
       <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Opus 4.7 Research mode is insane</title>
+      <link>https://i.redd.it/jb0v72g4upvg1.png</link>
+      <guid isPermaLink="true">https://i.redd.it/jb0v72g4upvg1.png</guid>
+      <pubDate>Fri, 17 Apr 2026 09:02:19 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>1 in 3 Anthropic workers now think entry-level engineers and researchers are likely replaced by Mythos within 3 months</title>
+      <link>https://i.redd.it/hyvw94j1gqvg1.png</link>
+      <guid isPermaLink="true">https://i.redd.it/hyvw94j1gqvg1.png</guid>
+      <pubDate>Fri, 17 Apr 2026 11:03:48 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
