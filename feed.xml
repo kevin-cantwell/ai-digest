@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Apr 2026 13:28:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 14:16:43 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Zero-Copy GPU Inference from WebAssembly on Apple Silicon</title>
@@ -13,15 +13,7 @@
       <guid isPermaLink="true">https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon/</guid>
       <pubDate>Sat, 18 Apr 2026 22:46:13 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> Hacker News<br/><br/>Technical development on zero-copy GPU inference from WebAssembly on Apple Silicon.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>easyaligner: Forced alignment with GPU acceleration and flexible text normalization (compatible with all w2v2 models on HF Hub) [P]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1soyqfw/easyaligner_forced_alignment_with_gpu/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1soyqfw/easyaligner_forced_alignment_with_gpu/</guid>
-      <pubDate>Sat, 18 Apr 2026 14:13:28 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Release of easyaligner, an open-source tool for GPU-accelerated forced alignment with flexible text normalization.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> Hacker News<br/><br/>Technical development on zero-copy GPU inference optimization from WebAssembly on Apple Silicon.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Changes in the system prompt between Claude Opus 4.6 and 4.7</title>
@@ -29,7 +21,7 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Apr/18/opus-system-prompt/</guid>
       <pubDate>Sun, 19 Apr 2026 10:36:29 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Documentation of system prompt changes between Claude Opus versions 4.6 and 4.7.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Analysis of system prompt changes between Claude Opus versions 4.6 and 4.7.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Prefill-as-a-Service: KVCache of Next-Generation Models Could Go Cross-Datacenter</title>
@@ -37,7 +29,7 @@
       <guid isPermaLink="true">https://i.redd.it/vj6di56o4zvg1.png</guid>
       <pubDate>Sat, 18 Apr 2026 16:20:57 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Concept for cross-datacenter KVCache sharing architecture for LLM inference.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Architectural proposal for cross-datacenter KVCache sharing as a service for inference.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>llama.cpp speculative checkpointing was merged</title>
@@ -45,7 +37,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sprdm8/llamacpp_speculative_checkpointing_was_merged/</guid>
       <pubDate>Sun, 19 Apr 2026 12:16:04 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Merge of speculative checkpointing feature into llama.cpp.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>llama.cpp merges speculative checkpointing optimization feature.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Claude&apos;s CoT summarizer model ended up leaking</title>
@@ -53,7 +45,15 @@
       <guid isPermaLink="true">https://i.redd.it/xdwnh9le21wg1.jpeg</guid>
       <pubDate>Sat, 18 Apr 2026 22:46:45 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Report about Claude&apos;s CoT summarizer model reportedly becoming publicly accessible.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Report of Claude&apos;s CoT summarizer model code becoming publicly accessible.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>I built a GNOME extension for Codex with local/remote history, live filters, Markdown export, and a read-only MCP server</title>
+      <link>https://i.redd.it/5k5dttdhz3wg1.png</link>
+      <guid isPermaLink="true">https://i.redd.it/5k5dttdhz3wg1.png</guid>
+      <pubDate>Sun, 19 Apr 2026 08:45:18 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> r/artificial<br/><br/>Developer shares a custom GNOME extension for code history management with local/remote capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>I tested 8 LLMs as tabletop GMs - a 27B model beat the 405B on narrative quality</title>
@@ -61,7 +61,15 @@
       <guid isPermaLink="true">https://i.redd.it/8smrzx58r1wg1.gif</guid>
       <pubDate>Sun, 19 Apr 2026 01:59:17 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Comparative benchmark of 8 LLMs as tabletop game masters.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Empirical comparison testing 8 LLMs as tabletop game masters with performance analysis.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Gemma 4 actually running usable on an Android phone (not llama.cpp)</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sozytf/gemma_4_actually_running_usable_on_an_android/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sozytf/gemma_4_actually_running_usable_on_an_android/</guid>
+      <pubDate>Sat, 18 Apr 2026 15:01:59 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>GPT-4 vs Claude vs Gemini for coding — honest breakdown after 3 months of daily use</title>
@@ -104,20 +112,12 @@
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>I built a GNOME extension for Codex with local/remote history, live filters, Markdown export, and a read-only MCP server</title>
-      <link>https://i.redd.it/5k5dttdhz3wg1.png</link>
-      <guid isPermaLink="true">https://i.redd.it/5k5dttdhz3wg1.png</guid>
-      <pubDate>Sun, 19 Apr 2026 08:45:18 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 52/100<br/><b>Source:</b> r/artificial<br/><br/>Personal project sharing a GNOME extension for an AI tool.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
       <title>My full Claude Code setup after months of daily use — context discipline, MCPs, memory, subagents</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1spehot/my_full_claude_code_setup_after_months_of_daily/</link>
       <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1spehot/my_full_claude_code_setup_after_months_of_daily/</guid>
       <pubDate>Sun, 19 Apr 2026 00:47:47 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 52/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Personal account of how user configured Claude for their own workflow.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 58/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Personal account of Claude Code configuration and workflow setup over months of use.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Sharing a beginner-friendly orchestration workflow for anyone just getting started building with Codex CLI.</title>
@@ -125,7 +125,15 @@
       <guid isPermaLink="true">https://i.redd.it/p6pc4yqeh4wg1.png</guid>
       <pubDate>Sun, 19 Apr 2026 10:17:57 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 52/100<br/><b>Source:</b> r/openai<br/><br/>Personal tutorial on using Codex CLI.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 58/100<br/><b>Source:</b> r/openai<br/><br/>Tutorial sharing a workflow for beginners using Codex CLI orchestration.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Self improving claude code sessions</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1sppv7n/self_improving_claude_code_sessions/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1sppv7n/self_improving_claude_code_sessions/</guid>
+      <pubDate>Sun, 19 Apr 2026 11:00:11 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 56/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Personal exploration of self-improving Claude code sessions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
