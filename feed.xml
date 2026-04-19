@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Apr 2026 06:37:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 07:32:55 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Zero-Copy GPU Inference from WebAssembly on Apple Silicon</title>
@@ -16,20 +16,20 @@
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> Hacker News<br/><br/>Technical implementation of zero-copy GPU inference from WebAssembly on Apple Silicon.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>easyaligner: Forced alignment with GPU acceleration and flexible text normalization (compatible with all w2v2 models on HF Hub) [P]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1soyqfw/easyaligner_forced_alignment_with_gpu/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1soyqfw/easyaligner_forced_alignment_with_gpu/</guid>
-      <pubDate>Sat, 18 Apr 2026 14:13:28 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/MachineLearning<br/><br/>New tool for GPU-accelerated forced alignment compatible with Hugging Face models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
       <title>We added cryptographic approval to our AI agent… and it was still unsafe</title>
       <link>https://www.reddit.com/r/artificial/comments/1sorsxu/we_added_cryptographic_approval_to_our_ai_agent/</link>
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sorsxu/we_added_cryptographic_approval_to_our_ai_agent/</guid>
       <pubDate>Sat, 18 Apr 2026 08:18:37 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/artificial<br/><br/>Research finding that cryptographic approval mechanisms do not prevent unsafe AI agent behavior.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/artificial<br/><br/>Research findings on AI agent safety showing cryptographic approval mechanisms remain insufficient.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>easyaligner: Forced alignment with GPU acceleration and flexible text normalization (compatible with all w2v2 models on HF Hub) [P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1soyqfw/easyaligner_forced_alignment_with_gpu/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1soyqfw/easyaligner_forced_alignment_with_gpu/</guid>
+      <pubDate>Sat, 18 Apr 2026 14:13:28 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Open-source tool release for forced alignment with GPU acceleration and text normalization.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Prefill-as-a-Service: KVCache of Next-Generation Models Could Go Cross-Datacenter</title>
@@ -37,7 +37,7 @@
       <guid isPermaLink="true">https://i.redd.it/vj6di56o4zvg1.png</guid>
       <pubDate>Sat, 18 Apr 2026 16:20:57 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Proposal for cross-datacenter KV cache sharing as inference optimization technique.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Architecture proposal for cross-datacenter KV cache optimization in next-generation models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Claude Opus 4.7 Intelligence, Performance and Price Analysis</title>
@@ -45,15 +45,7 @@
       <guid isPermaLink="true">https://artificialanalysis.ai/models/claude-opus-4-7</guid>
       <pubDate>Sat, 18 Apr 2026 10:19:30 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>Technical and economic analysis of Claude Opus 4.7 from industry benchmarking service.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Qwen 3.6 35B A3B Q4_K_M quant evaluation</title>
-      <link>https://i.redd.it/52knzk2i8xvg1.jpeg</link>
-      <guid isPermaLink="true">https://i.redd.it/52knzk2i8xvg1.jpeg</guid>
-      <pubDate>Sat, 18 Apr 2026 10:01:13 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 64/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>User benchmark and evaluation of Qwen 3.6 model quantization.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>Performance, capability, and pricing analysis of Claude Opus 4.7 model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Trials and tribulations fine-tuning &amp; deploying Gemma-4 [P]</title>
@@ -61,15 +53,15 @@
       <guid isPermaLink="true">https://www.oxen.ai/blog/writing-a-fine-tuning-and-deployment-pipeline-isnt-as-easy-as-it-looks-gemma-4-version</guid>
       <pubDate>Sat, 18 Apr 2026 22:57:43 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Personal experience report on fine-tuning and deploying Gemma-4 model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Experience report on fine-tuning and deploying Gemma-4 model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Opus 4.7 makes major gains over previous Opus models in GDPval and hallucination reduction on Artificial Analysis, other gains are marginal</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1soqqa4/opus_47_makes_major_gains_over_previous_opus/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1soqqa4/opus_47_makes_major_gains_over_previous_opus/</guid>
-      <pubDate>Sat, 18 Apr 2026 07:16:33 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Benchmark results showing Claude Opus 4.7 gains in evaluation metrics.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Claude Design keeps drawing a turd</title>
+      <link>https://i.redd.it/0icr7mrqzzvg1.jpeg</link>
+      <guid isPermaLink="true">https://i.redd.it/0icr7mrqzzvg1.jpeg</guid>
+      <pubDate>Sat, 18 Apr 2026 19:10:19 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Claude 4.7 gaslighted me with a real commit hash and I&apos;m not okay</title>
@@ -96,18 +88,10 @@
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>10 Hours of Claude Design - My Thoughts</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1soqutr/10_hours_of_claude_design_my_thoughts/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1soqutr/10_hours_of_claude_design_my_thoughts/</guid>
-      <pubDate>Sat, 18 Apr 2026 07:23:43 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>How Claude Must have felt after saying this</title>
-      <link>https://i.redd.it/hbq3rmdyfzvg1.png</link>
-      <guid isPermaLink="true">https://i.redd.it/hbq3rmdyfzvg1.png</guid>
-      <pubDate>Sat, 18 Apr 2026 17:19:09 +0000</pubDate>
+      <title>Opus 4.7 thought Claude Design might be a prompt injection attack</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1spbdvk/opus_47_thought_claude_design_might_be_a_prompt/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1spbdvk/opus_47_thought_claude_design_might_be_a_prompt/</guid>
+      <pubDate>Sat, 18 Apr 2026 22:27:19 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
@@ -120,12 +104,28 @@
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
+      <title>Every time I see it ignore a rule in claude.md</title>
+      <link>https://i.redd.it/dvasih8hb0wg1.png</link>
+      <guid isPermaLink="true">https://i.redd.it/dvasih8hb0wg1.png</guid>
+      <pubDate>Sat, 18 Apr 2026 20:16:31 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
       <title>Claude Code Opus 4.7 keeps checking on malware</title>
       <link>https://news.ycombinator.com/item?id=47814832</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=47814832</guid>
       <pubDate>Sat, 18 Apr 2026 10:46:17 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 58/100<br/><b>Source:</b> Hacker News<br/><br/>Vague claim about Claude Code&apos;s malware detection behavior without substantive details.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 58/100<br/><b>Source:</b> Hacker News<br/><br/>Vague claim about Claude Code model behavior with no substantive technical details.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Qwen 3.6 35B A3B Q4_K_M quant evaluation</title>
+      <link>https://i.redd.it/52knzk2i8xvg1.jpeg</link>
+      <guid isPermaLink="true">https://i.redd.it/52knzk2i8xvg1.jpeg</guid>
+      <pubDate>Sat, 18 Apr 2026 10:01:13 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 52/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Informal model quantization evaluation without structured methodology.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>My full Claude Code setup after months of daily use — context discipline, MCPs, memory, subagents</title>
@@ -133,15 +133,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1spehot/my_full_claude_code_setup_after_months_of_daily/</guid>
       <pubDate>Sun, 19 Apr 2026 00:47:47 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 52/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Personal setup guide and user experience story.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>We’re proud to open-source LIDARLearn [R] [D] [P]</title>
-      <link>https://i.redd.it/53o0rt8wfxvg1.png</link>
-      <guid isPermaLink="true">https://i.redd.it/53o0rt8wfxvg1.png</guid>
-      <pubDate>Sat, 18 Apr 2026 10:36:59 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 50/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 52/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Personal anecdote about individual setup and workflow.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
