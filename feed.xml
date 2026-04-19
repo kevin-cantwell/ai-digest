@@ -5,23 +5,15 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Apr 2026 22:10:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 23:13:11 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Zero-Copy GPU Inference from WebAssembly on Apple Silicon</title>
-      <link>https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon/</link>
-      <guid isPermaLink="true">https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon/</guid>
-      <pubDate>Sat, 18 Apr 2026 22:46:13 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Technical article on implementing zero-copy GPU inference from WebAssembly on Apple Silicon.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
     <item>
       <title>Changes in the system prompt between Claude Opus 4.6 and 4.7</title>
       <link>https://simonwillison.net/2026/Apr/18/opus-system-prompt/</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Apr/18/opus-system-prompt/</guid>
       <pubDate>Sun, 19 Apr 2026 10:36:29 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 74/100<br/><b>Source:</b> Hacker News<br/><br/>Analysis of changes to Claude Opus system prompts between model versions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 74/100<br/><b>Source:</b> Hacker News<br/><br/>Analysis of system prompt changes between Claude Opus 4.6 and 4.7 versions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>1,200 ICLR 2026 Papers with Public Code or Data [R]</title>
@@ -29,7 +21,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1spvoer/1200_iclr_2026_papers_with_public_code_or_data_r/</guid>
       <pubDate>Sun, 19 Apr 2026 15:14:12 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Curated collection of 1,200 ICLR 2026 research papers with public code or data.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Curated collection of 1,200 ICLR 2026 papers with publicly available code or data.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Same 9B Qwen weights: 19.1% in Aider vs 45.6% with a scaffold adapted to small local models</title>
@@ -37,15 +29,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1spufzz/same_9b_qwen_weights_191_in_aider_vs_456_with_a/</guid>
       <pubDate>Sun, 19 Apr 2026 14:27:33 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Comparative performance results of small model scaffolding approaches for coding tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Claude&apos;s CoT summarizer model ended up leaking</title>
-      <link>https://i.redd.it/xdwnh9le21wg1.jpeg</link>
-      <guid isPermaLink="true">https://i.redd.it/xdwnh9le21wg1.jpeg</guid>
-      <pubDate>Sat, 18 Apr 2026 22:46:45 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Report of an AI model&apos;s internal system being publicly exposed.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Empirical comparison showing significant performance improvement of scaffolded approach for small language models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>I built a GNOME extension for Codex with local/remote history, live filters, Markdown export, and a read-only MCP server</title>
@@ -53,23 +37,7 @@
       <guid isPermaLink="true">https://i.redd.it/5k5dttdhz3wg1.png</guid>
       <pubDate>Sun, 19 Apr 2026 08:45:18 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> r/artificial<br/><br/>Individual project building a GNOME extension for a code tool with various features.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Trials and tribulations fine-tuning &amp; deploying Gemma-4 [P]</title>
-      <link>https://www.oxen.ai/blog/writing-a-fine-tuning-and-deployment-pipeline-isnt-as-easy-as-it-looks-gemma-4-version</link>
-      <guid isPermaLink="true">https://www.oxen.ai/blog/writing-a-fine-tuning-and-deployment-pipeline-isnt-as-easy-as-it-looks-gemma-4-version</guid>
-      <pubDate>Sat, 18 Apr 2026 22:57:43 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Technical experience report on fine-tuning and deploying Gemma-4 model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>I tested 8 LLMs as tabletop GMs - a 27B model beat the 405B on narrative quality</title>
-      <link>https://i.redd.it/8smrzx58r1wg1.gif</link>
-      <guid isPermaLink="true">https://i.redd.it/8smrzx58r1wg1.gif</guid>
-      <pubDate>Sun, 19 Apr 2026 01:59:17 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Comparative benchmark of multiple LLMs evaluated for narrative generation in gaming context.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> r/artificial<br/><br/>User built a GNOME extension for code management with history and MCP server functionality.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>scalar-loop: a Python harness for Karpathy&apos;s autoresearch pattern that doesn&apos;t trust the agent&apos;s narration</title>
@@ -77,7 +45,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1spz2g0/scalarloop_a_python_harness_for_karpathys/</guid>
       <pubDate>Sun, 19 Apr 2026 17:21:26 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/artificial<br/><br/>Tool implementation for automating research patterns with LLM agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/artificial<br/><br/>Python framework implementing Karpathy&apos;s autoresearch pattern with agent verification.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>I built cognitive rot detector for Claude Code sessions - it tells you when to trigger compact, or pay attention to decisions</title>
@@ -85,13 +53,21 @@
       <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1sps4yp/i_built_cognitive_rot_detector_for_claude_code/</guid>
       <pubDate>Sun, 19 Apr 2026 12:51:16 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Individual built a tool for monitoring cognitive degradation in AI sessions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Tool built to detect cognitive degradation in Claude Code sessions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>I&apos;m running qwen3.6-35b-a3b with 8 bit quant and 64k context thru OpenCode on my mbp m5 max 128gb and it&apos;s as good as claude</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1spdvpo/im_running_qwen3635ba3b_with_8_bit_quant_and_64k/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1spdvpo/im_running_qwen3635ba3b_with_8_bit_quant_and_64k/</guid>
-      <pubDate>Sun, 19 Apr 2026 00:17:59 +0000</pubDate>
+      <title>llama.cpp speculative checkpointing was merged</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sprdm8/llamacpp_speculative_checkpointing_was_merged/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sprdm8/llamacpp_speculative_checkpointing_was_merged/</guid>
+      <pubDate>Sun, 19 Apr 2026 12:16:04 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Unsloth fix on Mistral Small 4?</title>
+      <link>https://i.redd.it/zae1ipz6r6wg1.png</link>
+      <guid isPermaLink="true">https://i.redd.it/zae1ipz6r6wg1.png</guid>
+      <pubDate>Sun, 19 Apr 2026 17:55:58 +0000</pubDate>
       <category>Industry News</category>
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
@@ -128,12 +104,20 @@
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Opus 4.7 thought Claude Design might be a prompt injection attack</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1spbdvk/opus_47_thought_claude_design_might_be_a_prompt/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1spbdvk/opus_47_thought_claude_design_might_be_a_prompt/</guid>
-      <pubDate>Sat, 18 Apr 2026 22:27:19 +0000</pubDate>
+      <title>New Claude user for work. Blown away. Are there more specific subs?</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1spyarg/new_claude_user_for_work_blown_away_are_there/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1spyarg/new_claude_user_for_work_blown_away_are_there/</guid>
+      <pubDate>Sun, 19 Apr 2026 16:52:43 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Oh Claude, How can I trust you anymore?</title>
+      <link>https://i.redd.it/gtfz97cmt5wg1.png</link>
+      <guid isPermaLink="true">https://i.redd.it/gtfz97cmt5wg1.png</guid>
+      <pubDate>Sun, 19 Apr 2026 14:49:19 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>RTX PRO 5000 (48GB) vs MacBook Pro M5 MAX (128GB RAM) - The choice for fine-tuning &amp; agentic coding</title>
@@ -141,7 +125,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sptsxo/rtx_pro_5000_48gb_vs_macbook_pro_m5_max_128gb_ram/</guid>
       <pubDate>Sun, 19 Apr 2026 14:01:39 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 58/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Reddit discussion comparing hardware choices for local LLM fine-tuning.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 58/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Reddit discussion comparing hardware choices for fine-tuning and agentic coding.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Sharing a beginner-friendly orchestration workflow for anyone just getting started building with Codex CLI.</title>
@@ -149,7 +133,39 @@
       <guid isPermaLink="true">https://i.redd.it/p6pc4yqeh4wg1.png</guid>
       <pubDate>Sun, 19 Apr 2026 10:17:57 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 58/100<br/><b>Source:</b> r/openai<br/><br/>Tutorial-style post sharing workflow patterns for using a CLI tool.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 58/100<br/><b>Source:</b> r/openai<br/><br/>Tutorial post on workflow orchestration for Codex CLI.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>I tested 8 LLMs as tabletop GMs - a 27B model beat the 405B on narrative quality</title>
+      <link>https://i.redd.it/8smrzx58r1wg1.gif</link>
+      <guid isPermaLink="true">https://i.redd.it/8smrzx58r1wg1.gif</guid>
+      <pubDate>Sun, 19 Apr 2026 01:59:17 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Comparative evaluation of 8 LLMs as tabletop game masters with performance analysis.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Qwen3.6 agent + Cisco switch: local NetOps AI actually works!</title>
+      <link>https://v.redd.it/90n3f5q836wg1</link>
+      <guid isPermaLink="true">https://v.redd.it/90n3f5q836wg1</guid>
+      <pubDate>Sun, 19 Apr 2026 15:55:45 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Case study of local Qwen 3.6 agent controlling network infrastructure.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Forcing always-on thinking in Claude 4.7 with a one-line prime + MCP</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1spxmdk/forcing_alwayson_thinking_in_claude_47_with_a/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1spxmdk/forcing_alwayson_thinking_in_claude_47_with_a/</guid>
+      <pubDate>Sun, 19 Apr 2026 16:27:19 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 56/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Technique for enabling extended thinking in Claude with MCP configuration.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>My full Claude Code setup after months of daily use — context discipline, MCPs, memory, subagents</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1spehot/my_full_claude_code_setup_after_months_of_daily/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1spehot/my_full_claude_code_setup_after_months_of_daily/</guid>
+      <pubDate>Sun, 19 Apr 2026 00:47:47 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 52/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Personal anecdote about individual Claude Code setup and configuration.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
