@@ -246,7 +246,7 @@
   <div class="header-inner">
     <div class="logo">AI Digest<span class="logo-dot">.</span></div>
     <div class="header-meta">
-      <span class="header-date" id="header-date" data-utc="2026-04-19T21:12:21Z">Sunday, April 19, 2026 — 21:12 UTC</span>
+      <span class="header-date" id="header-date" data-utc="2026-04-19T22:10:49Z">Sunday, April 19, 2026 — 22:10 UTC</span>
       <script>
         (function() {
           var el = document.getElementById('header-date');
@@ -259,7 +259,7 @@
       <span class="header-updated" id="header-updated">Updated just now</span>
       <script>
         (function() {
-          var builtAt = new Date("2026-04-19T21:12:21Z");
+          var builtAt = new Date("2026-04-19T22:10:49Z");
           function updateAge() {
             var mins = Math.floor((Date.now() - builtAt.getTime()) / 60000);
             var el = document.getElementById('header-updated');
@@ -275,14 +275,16 @@
           setInterval(updateAge, 60000);
         })();
       </script>
-      <span class="header-count">20 stories</span>
+      <span class="header-count">18 stories</span>
     </div>
   </div>
 </header>
 
 <main>
   <div class="tldr-box">
-    <p class="tldr-text">Users are increasingly implementing Claude Code with specialized architectural patterns—including memory management, multi-agent systems, and cognitive monitoring tools—to improve AI-assisted development workflows. Meanwhile, optimization discussions around local model deployment (comparing GPUs, inference efficiency on Apple Silicon, and MoE architectures) reflect growing focus on cost-effective inference for specialized tasks like coding and fine-tuning.</p>
+    <p class="tldr-text"># Summary
+
+Recent AI developments include technical advances in local model optimization—such as improved WebAssembly inference on Apple Silicon and significant performance gains from architecture-specific fine-tuning of smaller models—alongside transparency issues like Claude&#x27;s accidental CoT model leak and documented system prompt changes between versions. Open-source tooling and research reproducibility continue expanding, with over 1,200 ICLR papers releasing public code and various community projects enhancing local LLM workflows, while evaluation results show smaller specialized models can outperform larger general-purpose ones on specific tasks like narrative generation.</p>
   </div>
 
   
@@ -291,74 +293,50 @@
       <div class="cards">
       <div class="card">
         <div class="card-header">
-          <a class="card-title" href="https://www.reddit.com/r/LocalLLaMA/comments/1sptsxo/rtx_pro_5000_48gb_vs_macbook_pro_m5_max_128gb_ram/" target="_blank" rel="noopener noreferrer">RTX PRO 5000 (48GB) vs MacBook Pro M5 MAX (128GB RAM) - The choice for fine-tuning &amp; agentic coding</a>
+          <a class="card-title" href="https://i.redd.it/5k5dttdhz3wg1.png" target="_blank" rel="noopener noreferrer">I built a GNOME extension for Codex with local/remote history, live filters, Markdown export, and a read-only MCP server</a>
         </div>
-        
+        <p class="item-summary">Individual project building a GNOME extension for a code tool with various features.</p>
         <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1sptsxo/rtx_pro_5000_48gb_vs_macbook_pro_m5_max_128gb_ram/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
+          <a class="source" href="https://www.reddit.com/r/artificial/comments/1spnk33/i_built_a_gnome_extension_for_codex_with/" target="_blank" rel="noopener noreferrer">r/artificial</a>
           
-          <span class="age">7h ago</span>
-          <span class="score-bar" title="Quality score: 100/100"><span class="bar-filled">██████████</span><span class="bar-empty"></span> <span class="score-num">100</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://www.reddit.com/r/ClaudeAI/comments/1spehot/my_full_claude_code_setup_after_months_of_daily/" target="_blank" rel="noopener noreferrer">My full Claude Code setup after months of daily use — context discipline, MCPs, memory, subagents</a>
-        </div>
-        
-        <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/ClaudeAI/comments/1spehot/my_full_claude_code_setup_after_months_of_daily/" target="_blank" rel="noopener noreferrer">r/ClaudeAI</a>
-          
-          <span class="age">20h ago</span>
-          <span class="score-bar" title="Quality score: 100/100"><span class="bar-filled">██████████</span><span class="bar-empty"></span> <span class="score-num">100</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://i.redd.it/p6pc4yqeh4wg1.png" target="_blank" rel="noopener noreferrer">Sharing a beginner-friendly orchestration workflow for anyone just getting started building with Codex CLI.</a>
-        </div>
-        
-        <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/OpenAI/comments/1spp4ch/sharing_a_beginnerfriendly_orchestration_workflow/" target="_blank" rel="noopener noreferrer">r/openai</a>
-          
-          <span class="age">10h ago</span>
-          <span class="score-bar" title="Quality score: 100/100"><span class="bar-filled">██████████</span><span class="bar-empty"></span> <span class="score-num">100</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://www.reddit.com/r/ClaudeAI/comments/1sppv7n/self_improving_claude_code_sessions/" target="_blank" rel="noopener noreferrer">Self improving claude code sessions</a>
-        </div>
-        
-        <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/ClaudeAI/comments/1sppv7n/self_improving_claude_code_sessions/" target="_blank" rel="noopener noreferrer">r/ClaudeAI</a>
-          
-          <span class="age">10h ago</span>
-          <span class="score-bar" title="Quality score: 95/100"><span class="bar-filled">██████████</span><span class="bar-empty"></span> <span class="score-num">95</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://i.redd.it/u6bstzled4wg1.gif" target="_blank" rel="noopener noreferrer">I created awesome-claude-design using Claude code: DESIGN.md prompts by aesthetic families for Claude Design</a>
-        </div>
-        
-        <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/ClaudeAI/comments/1spopa1/i_created_awesomeclaudedesign_using_claude_code/" target="_blank" rel="noopener noreferrer">r/ClaudeAI</a>
-          
-          <span class="age">11h ago</span>
-          <span class="score-bar" title="Quality score: 95/100"><span class="bar-filled">██████████</span><span class="bar-empty"></span> <span class="score-num">95</span></span>
+          <span class="age">13h ago</span>
+          <span class="score-bar" title="Quality score: 64/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">64</span></span>
         </div>
       </div>
       <div class="card">
         <div class="card-header">
           <a class="card-title" href="https://www.reddit.com/r/ClaudeAI/comments/1sps4yp/i_built_cognitive_rot_detector_for_claude_code/" target="_blank" rel="noopener noreferrer">I built cognitive rot detector for Claude Code sessions - it tells you when to trigger compact, or pay attention to decisions</a>
         </div>
-        
+        <p class="item-summary">Individual built a tool for monitoring cognitive degradation in AI sessions.</p>
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/ClaudeAI/comments/1sps4yp/i_built_cognitive_rot_detector_for_claude_code/" target="_blank" rel="noopener noreferrer">r/ClaudeAI</a>
           
+          <span class="age">9h ago</span>
+          <span class="score-bar" title="Quality score: 62/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">62</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://www.reddit.com/r/LocalLLaMA/comments/1sptsxo/rtx_pro_5000_48gb_vs_macbook_pro_m5_max_128gb_ram/" target="_blank" rel="noopener noreferrer">RTX PRO 5000 (48GB) vs MacBook Pro M5 MAX (128GB RAM) - The choice for fine-tuning &amp; agentic coding</a>
+        </div>
+        <p class="item-summary">Reddit discussion comparing hardware choices for local LLM fine-tuning.</p>
+        <div class="card-meta">
+          <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1sptsxo/rtx_pro_5000_48gb_vs_macbook_pro_m5_max_128gb_ram/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
+          
           <span class="age">8h ago</span>
-          <span class="score-bar" title="Quality score: 95/100"><span class="bar-filled">██████████</span><span class="bar-empty"></span> <span class="score-num">95</span></span>
+          <span class="score-bar" title="Quality score: 58/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">58</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://i.redd.it/p6pc4yqeh4wg1.png" target="_blank" rel="noopener noreferrer">Sharing a beginner-friendly orchestration workflow for anyone just getting started building with Codex CLI.</a>
+        </div>
+        <p class="item-summary">Tutorial-style post sharing workflow patterns for using a CLI tool.</p>
+        <div class="card-meta">
+          <a class="source" href="https://www.reddit.com/r/OpenAI/comments/1spp4ch/sharing_a_beginnerfriendly_orchestration_workflow/" target="_blank" rel="noopener noreferrer">r/openai</a>
+          
+          <span class="age">11h ago</span>
+          <span class="score-bar" title="Quality score: 58/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">58</span></span>
         </div>
       </div>
       </div>
@@ -370,12 +348,72 @@
         <div class="card-header">
           <a class="card-title" href="https://simonwillison.net/2026/Apr/18/opus-system-prompt/" target="_blank" rel="noopener noreferrer">Changes in the system prompt between Claude Opus 4.6 and 4.7</a>
         </div>
-        <p class="item-summary">Analysis of system prompt changes between Claude Opus versions 4.6 and 4.7.</p>
+        <p class="item-summary">Analysis of changes to Claude Opus system prompts between model versions.</p>
         <div class="card-meta">
           <a class="source" href="https://news.ycombinator.com/item?id=47823270" target="_blank" rel="noopener noreferrer">Hacker News</a>
-          <span class="upvotes">▲ 103  💬 60</span>
-          <span class="age">10h ago</span>
+          <span class="upvotes">▲ 129  💬 71</span>
+          <span class="age">11h ago</span>
           <span class="score-bar" title="Quality score: 74/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">74</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://www.reddit.com/r/artificial/comments/1spckbj/gemini_caught_a_280m_crypto_exploit_before_it_hit/" target="_blank" rel="noopener noreferrer">Gemini caught a $280M crypto exploit before it hit the news, then retracted it as a hallucination because I couldn&#x27;t verify it - because the news hadn&#x27;t dropped yet</a>
+        </div>
+        
+        <div class="card-meta">
+          <a class="source" href="https://www.reddit.com/r/artificial/comments/1spckbj/gemini_caught_a_280m_crypto_exploit_before_it_hit/" target="_blank" rel="noopener noreferrer">r/artificial</a>
+          
+          <span class="age">22h ago</span>
+          <span class="score-bar" title="Quality score: 60/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">60</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://www.reddit.com/r/ClaudeAI/comments/1spddf6/i_left_my_7_year_old_nephew_unsupervised_on_the/" target="_blank" rel="noopener noreferrer">I left my 7 year old nephew unsupervised on the pc and he used my claude session</a>
+        </div>
+        
+        <div class="card-meta">
+          <a class="source" href="https://www.reddit.com/r/ClaudeAI/comments/1spddf6/i_left_my_7_year_old_nephew_unsupervised_on_the/" target="_blank" rel="noopener noreferrer">r/ClaudeAI</a>
+          
+          <span class="age">22h ago</span>
+          <span class="score-bar" title="Quality score: 60/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">60</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://www.reddit.com/r/ClaudeAI/comments/1spsugm/ysk_if_you_use_claude_on_your_companys_enterprise/" target="_blank" rel="noopener noreferrer">YSK: If you use Claude on your company&#x27;s Enterprise plan, your employer can access every message you&#x27;ve ever sent, including &quot;incognito&quot; chats/</a>
+        </div>
+        
+        <div class="card-meta">
+          <a class="source" href="https://www.reddit.com/r/ClaudeAI/comments/1spsugm/ysk_if_you_use_claude_on_your_companys_enterprise/" target="_blank" rel="noopener noreferrer">r/ClaudeAI</a>
+          
+          <span class="age">8h ago</span>
+          <span class="score-bar" title="Quality score: 60/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">60</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://www.reddit.com/r/ClaudeAI/comments/1spxi2f/claude_design_is_incredible/" target="_blank" rel="noopener noreferrer">Claude Design is Incredible...</a>
+        </div>
+        
+        <div class="card-meta">
+          <a class="source" href="https://www.reddit.com/r/ClaudeAI/comments/1spxi2f/claude_design_is_incredible/" target="_blank" rel="noopener noreferrer">r/ClaudeAI</a>
+          
+          <span class="age">5h ago</span>
+          <span class="score-bar" title="Quality score: 60/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">60</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://www.reddit.com/r/ClaudeAI/comments/1spbdvk/opus_47_thought_claude_design_might_be_a_prompt/" target="_blank" rel="noopener noreferrer">Opus 4.7 thought Claude Design might be a prompt injection attack</a>
+        </div>
+        
+        <div class="card-meta">
+          <a class="source" href="https://www.reddit.com/r/ClaudeAI/comments/1spbdvk/opus_47_thought_claude_design_might_be_a_prompt/" target="_blank" rel="noopener noreferrer">r/ClaudeAI</a>
+          
+          <span class="age">23h ago</span>
+          <span class="score-bar" title="Quality score: 60/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">60</span></span>
         </div>
       </div>
       </div>
@@ -385,91 +423,26 @@
       <div class="cards">
       <div class="card">
         <div class="card-header">
-          <a class="card-title" href="https://www.reddit.com/r/artificial/comments/1spz2g0/scalarloop_a_python_harness_for_karpathys/" target="_blank" rel="noopener noreferrer">scalar-loop: a Python harness for Karpathy&#x27;s autoresearch pattern that doesn&#x27;t trust the agent&#x27;s narration</a>
-        </div>
-        
-        <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/artificial/comments/1spz2g0/scalarloop_a_python_harness_for_karpathys/" target="_blank" rel="noopener noreferrer">r/artificial</a>
-          
-          <span class="age">3h ago</span>
-          <span class="score-bar" title="Quality score: 80/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">80</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://fractalisme.nl/team-3-as-discernment-machine/" target="_blank" rel="noopener noreferrer">Subagent architecture for Truth: Team 3 as Discernment Machine, a structured friction method for seeing clearly</a>
-        </div>
-        
-        <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/artificial/comments/1spif47/subagent_architecture_for_truth_team_3_as/" target="_blank" rel="noopener noreferrer">r/artificial</a>
-          
-          <span class="age">17h ago</span>
-          <span class="score-bar" title="Quality score: 80/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">80</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://i.redd.it/irungng861wg1.jpeg" target="_blank" rel="noopener noreferrer">Thank you Claude, the research was amazing!</a>
-        </div>
-        
-        <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/ClaudeAI/comments/1spcbr6/thank_you_claude_the_research_was_amazing/" target="_blank" rel="noopener noreferrer">r/ClaudeAI</a>
-          
-          <span class="age">22h ago</span>
-          <span class="score-bar" title="Quality score: 75/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">75</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
           <a class="card-title" href="https://www.reddit.com/r/MachineLearning/comments/1spvoer/1200_iclr_2026_papers_with_public_code_or_data_r/" target="_blank" rel="noopener noreferrer">1,200 ICLR 2026 Papers with Public Code or Data [R]</a>
         </div>
-        <p class="item-summary">Curated collection of 1,200 ICLR 2026 papers with publicly available code or datasets.</p>
+        <p class="item-summary">Curated collection of 1,200 ICLR 2026 research papers with public code or data.</p>
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/MachineLearning/comments/1spvoer/1200_iclr_2026_papers_with_public_code_or_data_r/" target="_blank" rel="noopener noreferrer">r/MachineLearning</a>
           
-          <span class="age">5h ago</span>
-          <span class="score-bar" title="Quality score: 74/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">74</span></span>
+          <span class="age">6h ago</span>
+          <span class="score-bar" title="Quality score: 68/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">68</span></span>
         </div>
       </div>
       <div class="card">
         <div class="card-header">
-          <a class="card-title" href="https://www.reddit.com/r/MachineLearning/comments/1sptj32/advice_on_becoming_a_research_engineer_d/" target="_blank" rel="noopener noreferrer">Advice on becoming a research engineer [D]</a>
+          <a class="card-title" href="https://www.reddit.com/r/artificial/comments/1spz2g0/scalarloop_a_python_harness_for_karpathys/" target="_blank" rel="noopener noreferrer">scalar-loop: a Python harness for Karpathy&#x27;s autoresearch pattern that doesn&#x27;t trust the agent&#x27;s narration</a>
         </div>
-        
+        <p class="item-summary">Tool implementation for automating research patterns with LLM agents.</p>
         <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/MachineLearning/comments/1sptj32/advice_on_becoming_a_research_engineer_d/" target="_blank" rel="noopener noreferrer">r/MachineLearning</a>
+          <a class="source" href="https://www.reddit.com/r/artificial/comments/1spz2g0/scalarloop_a_python_harness_for_karpathys/" target="_blank" rel="noopener noreferrer">r/artificial</a>
           
-          <span class="age">7h ago</span>
-          <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://www.reddit.com/r/MachineLearning/comments/1spoj6t/tier3_ise_final_year_with_ongoing_ml_research/" target="_blank" rel="noopener noreferrer">Tier-3 ISE final year with ongoing ML research (TMLR/Q1/NeurIPS target), trying to understand real impact in India [D]</a>
-        </div>
-        
-        <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/MachineLearning/comments/1spoj6t/tier3_ise_final_year_with_ongoing_ml_research/" target="_blank" rel="noopener noreferrer">r/MachineLearning</a>
-          
-          <span class="age">11h ago</span>
-          <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
-        </div>
-      </div>
-      </div>
-    </section>
-    <section class="digest-section">
-      <h2 class="section-title" style="color: #d6a24a;">🔧 Tools &amp; Open Source</h2>
-      <div class="cards">
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://www.reddit.com/r/OpenAI/comments/1spt48q/built_an_opensource_proxy_that_saves_30_on_api/" target="_blank" rel="noopener noreferrer">Built an open-source proxy that saves ~30% on API tokens while keeping response quality — free, looking for beta testers</a>
-        </div>
-        
-        <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/OpenAI/comments/1spt48q/built_an_opensource_proxy_that_saves_30_on_api/" target="_blank" rel="noopener noreferrer">r/openai</a>
-          
-          <span class="age">7h ago</span>
-          <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
+          <span class="age">4h ago</span>
+          <span class="score-bar" title="Quality score: 62/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">62</span></span>
         </div>
       </div>
       </div>
@@ -481,72 +454,72 @@
         <div class="card-header">
           <a class="card-title" href="https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon/" target="_blank" rel="noopener noreferrer">Zero-Copy GPU Inference from WebAssembly on Apple Silicon</a>
         </div>
-        <p class="item-summary">Technical article on zero-copy GPU inference optimization from WebAssembly on Apple Silicon.</p>
+        <p class="item-summary">Technical article on implementing zero-copy GPU inference from WebAssembly on Apple Silicon.</p>
         <div class="card-meta">
           <a class="source" href="https://news.ycombinator.com/item?id=47820195" target="_blank" rel="noopener noreferrer">Hacker News</a>
           <span class="upvotes">▲ 110  💬 46</span>
-          <span class="age">22h ago</span>
+          <span class="age">23h ago</span>
           <span class="score-bar" title="Quality score: 82/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">82</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://www.reddit.com/r/LocalLLaMA/comments/1spfdbm/for_chat_and_qa_which_moe_model_is_better_qwen_36/" target="_blank" rel="noopener noreferrer">For chat and Q&amp;A: Which MoE model is better: Qwen 3.6 35B or Gemma 4 26B (no coding or agents)</a>
-        </div>
-        
-        <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1spfdbm/for_chat_and_qa_which_moe_model_is_better_qwen_36/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
-          
-          <span class="age">19h ago</span>
-          <span class="score-bar" title="Quality score: 80/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">80</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://i.redd.it/xdwnh9le21wg1.jpeg" target="_blank" rel="noopener noreferrer">Claude&#x27;s CoT summarizer model ended up leaking</a>
-        </div>
-        
-        <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/ClaudeAI/comments/1spbtzz/claudes_cot_summarizer_model_ended_up_leaking/" target="_blank" rel="noopener noreferrer">r/ClaudeAI</a>
-          
-          <span class="age">22h ago</span>
-          <span class="score-bar" title="Quality score: 75/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">75</span></span>
         </div>
       </div>
       <div class="card">
         <div class="card-header">
           <a class="card-title" href="https://www.reddit.com/r/LocalLLaMA/comments/1spufzz/same_9b_qwen_weights_191_in_aider_vs_456_with_a/" target="_blank" rel="noopener noreferrer">Same 9B Qwen weights: 19.1% in Aider vs 45.6% with a scaffold adapted to small local models</a>
         </div>
-        <p class="item-summary">Comparative benchmark showing 2.4x improvement in local model coding performance with scaffolding optimization.</p>
+        <p class="item-summary">Comparative performance results of small model scaffolding approaches for coding tasks.</p>
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1spufzz/same_9b_qwen_weights_191_in_aider_vs_456_with_a/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
           
-          <span class="age">6h ago</span>
-          <span class="score-bar" title="Quality score: 74/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">74</span></span>
+          <span class="age">7h ago</span>
+          <span class="score-bar" title="Quality score: 68/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">68</span></span>
         </div>
       </div>
       <div class="card">
         <div class="card-header">
-          <a class="card-title" href="https://www.reddit.com/r/MachineLearning/comments/1sppcnw/converting_xquery_to_sql_with_local_llms_do_i/" target="_blank" rel="noopener noreferrer">Converting XQuery to SQL with Local LLMs: Do I Need Fine-Tuning or a Better Approach? [P]</a>
+          <a class="card-title" href="https://i.redd.it/xdwnh9le21wg1.jpeg" target="_blank" rel="noopener noreferrer">Claude&#x27;s CoT summarizer model ended up leaking</a>
         </div>
-        
+        <p class="item-summary">Report of an AI model&#x27;s internal system being publicly exposed.</p>
         <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/MachineLearning/comments/1sppcnw/converting_xquery_to_sql_with_local_llms_do_i/" target="_blank" rel="noopener noreferrer">r/MachineLearning</a>
+          <a class="source" href="https://www.reddit.com/r/ClaudeAI/comments/1spbtzz/claudes_cot_summarizer_model_ended_up_leaking/" target="_blank" rel="noopener noreferrer">r/ClaudeAI</a>
           
-          <span class="age">10h ago</span>
-          <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
+          <span class="age">23h ago</span>
+          <span class="score-bar" title="Quality score: 66/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">66</span></span>
         </div>
       </div>
       <div class="card">
         <div class="card-header">
-          <a class="card-title" href="https://gist.github.com/tarruda/4d30dad0c0d34c6bb3d37a7eede0f2b2" target="_blank" rel="noopener noreferrer">&quot;Browser OS&quot; implemented by Qwen 3.6 35B: The best result I ever got from a local model</a>
+          <a class="card-title" href="https://www.oxen.ai/blog/writing-a-fine-tuning-and-deployment-pipeline-isnt-as-easy-as-it-looks-gemma-4-version" target="_blank" rel="noopener noreferrer">Trials and tribulations fine-tuning &amp; deploying Gemma-4 [P]</a>
+        </div>
+        <p class="item-summary">Technical experience report on fine-tuning and deploying Gemma-4 model.</p>
+        <div class="card-meta">
+          <a class="source" href="https://www.reddit.com/r/MachineLearning/comments/1spc33w/trials_and_tribulations_finetuning_deploying/" target="_blank" rel="noopener noreferrer">r/MachineLearning</a>
+          
+          <span class="age">23h ago</span>
+          <span class="score-bar" title="Quality score: 62/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">62</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://i.redd.it/8smrzx58r1wg1.gif" target="_blank" rel="noopener noreferrer">I tested 8 LLMs as tabletop GMs - a 27B model beat the 405B on narrative quality</a>
+        </div>
+        <p class="item-summary">Comparative benchmark of multiple LLMs evaluated for narrative generation in gaming context.</p>
+        <div class="card-meta">
+          <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1spfz31/i_tested_8_llms_as_tabletop_gms_a_27b_model_beat/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
+          
+          <span class="age">20h ago</span>
+          <span class="score-bar" title="Quality score: 62/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">62</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://www.reddit.com/r/LocalLLaMA/comments/1spdvpo/im_running_qwen3635ba3b_with_8_bit_quant_and_64k/" target="_blank" rel="noopener noreferrer">I&#x27;m running qwen3.6-35b-a3b with 8 bit quant and 64k context thru OpenCode on my mbp m5 max 128gb and it&#x27;s as good as claude</a>
         </div>
         
         <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1spubyp/browser_os_implemented_by_qwen_36_35b_the_best/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
+          <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1spdvpo/im_running_qwen3635ba3b_with_8_bit_quant_and_64k/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
           
-          <span class="age">6h ago</span>
-          <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
+          <span class="age">21h ago</span>
+          <span class="score-bar" title="Quality score: 60/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">60</span></span>
         </div>
       </div>
       </div>
