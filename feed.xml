@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Apr 2026 12:14:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 13:28:35 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Zero-Copy GPU Inference from WebAssembly on Apple Silicon</title>
@@ -21,23 +21,15 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1soyqfw/easyaligner_forced_alignment_with_gpu/</guid>
       <pubDate>Sat, 18 Apr 2026 14:13:28 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Release of easyaligner tool for GPU-accelerated forced alignment compatible with Hugging Face models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Release of easyaligner, an open-source tool for GPU-accelerated forced alignment with flexible text normalization.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>I built a GNOME extension for Codex with local/remote history, live filters, Markdown export, and a read-only MCP server</title>
-      <link>https://i.redd.it/5k5dttdhz3wg1.png</link>
-      <guid isPermaLink="true">https://i.redd.it/5k5dttdhz3wg1.png</guid>
-      <pubDate>Sun, 19 Apr 2026 08:45:18 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/artificial<br/><br/>User shares a GNOME extension built for Codex with custom features like history and Markdown export.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Sharing a beginner-friendly orchestration workflow for anyone just getting started building with Codex CLI.</title>
-      <link>https://i.redd.it/p6pc4yqeh4wg1.png</link>
-      <guid isPermaLink="true">https://i.redd.it/p6pc4yqeh4wg1.png</guid>
-      <pubDate>Sun, 19 Apr 2026 10:17:57 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/openai<br/><br/>User shares a beginner workflow for Codex CLI orchestration.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Changes in the system prompt between Claude Opus 4.6 and 4.7</title>
+      <link>https://simonwillison.net/2026/Apr/18/opus-system-prompt/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/18/opus-system-prompt/</guid>
+      <pubDate>Sun, 19 Apr 2026 10:36:29 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Documentation of system prompt changes between Claude Opus versions 4.6 and 4.7.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Prefill-as-a-Service: KVCache of Next-Generation Models Could Go Cross-Datacenter</title>
@@ -45,15 +37,15 @@
       <guid isPermaLink="true">https://i.redd.it/vj6di56o4zvg1.png</guid>
       <pubDate>Sat, 18 Apr 2026 16:20:57 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Proposal for prefill-as-a-service architecture allowing KV cache to work across datacenters.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Concept for cross-datacenter KVCache sharing architecture for LLM inference.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>I tested 8 LLMs as tabletop GMs - a 27B model beat the 405B on narrative quality</title>
-      <link>https://i.redd.it/8smrzx58r1wg1.gif</link>
-      <guid isPermaLink="true">https://i.redd.it/8smrzx58r1wg1.gif</guid>
-      <pubDate>Sun, 19 Apr 2026 01:59:17 +0000</pubDate>
+      <title>llama.cpp speculative checkpointing was merged</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sprdm8/llamacpp_speculative_checkpointing_was_merged/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sprdm8/llamacpp_speculative_checkpointing_was_merged/</guid>
+      <pubDate>Sun, 19 Apr 2026 12:16:04 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Comparative benchmark testing eight LLMs as tabletop game masters with surprising results.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Merge of speculative checkpointing feature into llama.cpp.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Claude&apos;s CoT summarizer model ended up leaking</title>
@@ -61,37 +53,37 @@
       <guid isPermaLink="true">https://i.redd.it/xdwnh9le21wg1.jpeg</guid>
       <pubDate>Sat, 18 Apr 2026 22:46:45 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Claim that Claude&apos;s internal CoT summarizer model was leaked or exposed.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Report about Claude&apos;s CoT summarizer model reportedly becoming publicly accessible.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>My full Claude Code setup after months of daily use — context discipline, MCPs, memory, subagents</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1spehot/my_full_claude_code_setup_after_months_of_daily/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1spehot/my_full_claude_code_setup_after_months_of_daily/</guid>
-      <pubDate>Sun, 19 Apr 2026 00:47:47 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Personal account of Claude Code setup including context management and memory techniques.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Trials and tribulations fine-tuning &amp; deploying Gemma-4 [P]</title>
-      <link>https://www.oxen.ai/blog/writing-a-fine-tuning-and-deployment-pipeline-isnt-as-easy-as-it-looks-gemma-4-version</link>
-      <guid isPermaLink="true">https://www.oxen.ai/blog/writing-a-fine-tuning-and-deployment-pipeline-isnt-as-easy-as-it-looks-gemma-4-version</guid>
-      <pubDate>Sat, 18 Apr 2026 22:57:43 +0000</pubDate>
+      <title>I tested 8 LLMs as tabletop GMs - a 27B model beat the 405B on narrative quality</title>
+      <link>https://i.redd.it/8smrzx58r1wg1.gif</link>
+      <guid isPermaLink="true">https://i.redd.it/8smrzx58r1wg1.gif</guid>
+      <pubDate>Sun, 19 Apr 2026 01:59:17 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Account of fine-tuning and deploying Gemma-4 with challenges encountered.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Comparative benchmark of 8 LLMs as tabletop game masters.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>GPT-4 vs Claude vs Gemini for coding — honest breakdown after 3 months of daily use</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sp8qbq/gpt4_vs_claude_vs_gemini_for_coding_honest/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sp8qbq/gpt4_vs_claude_vs_gemini_for_coding_honest/</guid>
+      <pubDate>Sat, 18 Apr 2026 20:37:38 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Claude Design keeps drawing a turd</title>
+      <link>https://i.redd.it/0icr7mrqzzvg1.jpeg</link>
+      <guid isPermaLink="true">https://i.redd.it/0icr7mrqzzvg1.jpeg</guid>
+      <pubDate>Sat, 18 Apr 2026 19:10:19 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>I left my 7 year old nephew unsupervised on the pc and he used my claude session</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1spddf6/i_left_my_7_year_old_nephew_unsupervised_on_the/</link>
       <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1spddf6/i_left_my_7_year_old_nephew_unsupervised_on_the/</guid>
       <pubDate>Sat, 18 Apr 2026 23:54:51 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Claude 4.7 gaslighted me with a real commit hash and I&apos;m not okay</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1soxmf0/claude_47_gaslighted_me_with_a_real_commit_hash/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1soxmf0/claude_47_gaslighted_me_with_a_real_commit_hash/</guid>
-      <pubDate>Sat, 18 Apr 2026 13:26:35 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
@@ -112,20 +104,28 @@
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>How Claude Must have felt after saying this</title>
-      <link>https://i.redd.it/hbq3rmdyfzvg1.png</link>
-      <guid isPermaLink="true">https://i.redd.it/hbq3rmdyfzvg1.png</guid>
-      <pubDate>Sat, 18 Apr 2026 17:19:09 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>I built a GNOME extension for Codex with local/remote history, live filters, Markdown export, and a read-only MCP server</title>
+      <link>https://i.redd.it/5k5dttdhz3wg1.png</link>
+      <guid isPermaLink="true">https://i.redd.it/5k5dttdhz3wg1.png</guid>
+      <pubDate>Sun, 19 Apr 2026 08:45:18 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 52/100<br/><b>Source:</b> r/artificial<br/><br/>Personal project sharing a GNOME extension for an AI tool.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>I&apos;ve injected Claude into the creature of Black &amp; White (2001)</title>
-      <link>https://i.redd.it/f21wikb7x0wg1.png</link>
-      <guid isPermaLink="true">https://i.redd.it/f21wikb7x0wg1.png</guid>
-      <pubDate>Sat, 18 Apr 2026 22:31:03 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>My full Claude Code setup after months of daily use — context discipline, MCPs, memory, subagents</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1spehot/my_full_claude_code_setup_after_months_of_daily/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1spehot/my_full_claude_code_setup_after_months_of_daily/</guid>
+      <pubDate>Sun, 19 Apr 2026 00:47:47 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 52/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Personal account of how user configured Claude for their own workflow.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Sharing a beginner-friendly orchestration workflow for anyone just getting started building with Codex CLI.</title>
+      <link>https://i.redd.it/p6pc4yqeh4wg1.png</link>
+      <guid isPermaLink="true">https://i.redd.it/p6pc4yqeh4wg1.png</guid>
+      <pubDate>Sun, 19 Apr 2026 10:17:57 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 52/100<br/><b>Source:</b> r/openai<br/><br/>Personal tutorial on using Codex CLI.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
