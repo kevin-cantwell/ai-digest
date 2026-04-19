@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Apr 2026 01:36:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 03:07:06 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>We added cryptographic approval to our AI agent… and it was still unsafe</title>
@@ -13,23 +13,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sorsxu/we_added_cryptographic_approval_to_our_ai_agent/</guid>
       <pubDate>Sat, 18 Apr 2026 08:18:37 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/artificial<br/><br/>Research finding that cryptographic approval mechanisms failed to prevent unsafe AI agent behavior, revealing a significant security limitation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Opus 4.7 makes major gains over previous Opus models in GDPval and hallucination reduction on Artificial Analysis, other gains are marginal</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1soqqa4/opus_47_makes_major_gains_over_previous_opus/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1soqqa4/opus_47_makes_major_gains_over_previous_opus/</guid>
-      <pubDate>Sat, 18 Apr 2026 07:16:33 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Analysis showing Claude Opus 4.7 achieves major improvements in GDPval and hallucination reduction versus prior versions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Claude Opus 4.7 Intelligence, Performance and Price Analysis</title>
-      <link>https://artificialanalysis.ai/models/claude-opus-4-7</link>
-      <guid isPermaLink="true">https://artificialanalysis.ai/models/claude-opus-4-7</guid>
-      <pubDate>Sat, 18 Apr 2026 10:19:30 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 72/100<br/><b>Source:</b> Hacker News<br/><br/>Comprehensive analysis of Claude Opus 4.7 performance, cost, and capabilities from Artificial Analysis.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/artificial<br/><br/>Research finding that cryptographic approval mechanisms do not guarantee AI agent safety.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>easyaligner: Forced alignment with GPU acceleration and flexible text normalization (compatible with all w2v2 models on HF Hub) [P]</title>
@@ -37,7 +21,15 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1soyqfw/easyaligner_forced_alignment_with_gpu/</guid>
       <pubDate>Sat, 18 Apr 2026 14:13:28 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Release of easyaligner, a tool for forced alignment with GPU acceleration and text normalization for wav2vec2 models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/MachineLearning<br/><br/>New tool release for forced alignment with GPU acceleration and flexible text normalization.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Claude Opus 4.7 Intelligence, Performance and Price Analysis</title>
+      <link>https://artificialanalysis.ai/models/claude-opus-4-7</link>
+      <guid isPermaLink="true">https://artificialanalysis.ai/models/claude-opus-4-7</guid>
+      <pubDate>Sat, 18 Apr 2026 10:19:30 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 72/100<br/><b>Source:</b> Hacker News<br/><br/>Comprehensive analysis of Claude Opus 4.7 performance, capabilities, and pricing from Artificial Analysis.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Prefill-as-a-Service: KVCache of Next-Generation Models Could Go Cross-Datacenter</title>
@@ -45,31 +37,23 @@
       <guid isPermaLink="true">https://i.redd.it/vj6di56o4zvg1.png</guid>
       <pubDate>Sat, 18 Apr 2026 16:20:57 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Discussion of Prefill-as-a-Service architecture for KVCache optimization across datacenters; notable infrastructure concept.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Infrastructure concept for distributing KV cache computation across datacenters for LLM inference.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>I made a self healing PRD system for Claude code</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sokj0w/i_made_a_self_healing_prd_system_for_claude_code/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sokj0w/i_made_a_self_healing_prd_system_for_claude_code/</guid>
-      <pubDate>Sat, 18 Apr 2026 02:00:58 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/artificial<br/><br/>User-built project for a self-healing PRD system with Claude Code; has some technical merit but is self-promotion.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Gemma 4 actually running usable on an Android phone (not llama.cpp)</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sozytf/gemma_4_actually_running_usable_on_an_android/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sozytf/gemma_4_actually_running_usable_on_an_android/</guid>
-      <pubDate>Sat, 18 Apr 2026 15:01:59 +0000</pubDate>
+      <title>Opus 4.7 makes major gains over previous Opus models in GDPval and hallucination reduction on Artificial Analysis, other gains are marginal</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1soqqa4/opus_47_makes_major_gains_over_previous_opus/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1soqqa4/opus_47_makes_major_gains_over_previous_opus/</guid>
+      <pubDate>Sat, 18 Apr 2026 07:16:33 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/artificial<br/><br/>Report of Gemma 4 running usably on Android phones via a non-standard implementation; notable for mobile deployment.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Performance analysis showing Claude Opus 4.7 achieves significant gains in benchmarks and hallucination reduction.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>10 Hours of Claude Design - My Thoughts</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1soqutr/10_hours_of_claude_design_my_thoughts/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1soqutr/10_hours_of_claude_design_my_thoughts/</guid>
-      <pubDate>Sat, 18 Apr 2026 07:23:43 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Trials and tribulations fine-tuning &amp; deploying Gemma-4 [P]</title>
+      <link>https://www.oxen.ai/blog/writing-a-fine-tuning-and-deployment-pipeline-isnt-as-easy-as-it-looks-gemma-4-version</link>
+      <guid isPermaLink="true">https://www.oxen.ai/blog/writing-a-fine-tuning-and-deployment-pipeline-isnt-as-easy-as-it-looks-gemma-4-version</guid>
+      <pubDate>Sat, 18 Apr 2026 22:57:43 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Personal experience report on fine-tuning and deploying Gemma-4 models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Claude is on fire. Everything they’ve dropped in the last few days .</title>
@@ -80,18 +64,18 @@
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>How Claude Must have felt after saying this</title>
-      <link>https://i.redd.it/hbq3rmdyfzvg1.png</link>
-      <guid isPermaLink="true">https://i.redd.it/hbq3rmdyfzvg1.png</guid>
-      <pubDate>Sat, 18 Apr 2026 17:19:09 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
       <title>I left my 7 year old nephew unsupervised on the pc and he used my claude session</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1spddf6/i_left_my_7_year_old_nephew_unsupervised_on_the/</link>
       <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1spddf6/i_left_my_7_year_old_nephew_unsupervised_on_the/</guid>
       <pubDate>Sat, 18 Apr 2026 23:54:51 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>How Claude Must have felt after saying this</title>
+      <link>https://i.redd.it/hbq3rmdyfzvg1.png</link>
+      <guid isPermaLink="true">https://i.redd.it/hbq3rmdyfzvg1.png</guid>
+      <pubDate>Sat, 18 Apr 2026 17:19:09 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
@@ -112,6 +96,14 @@
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
+      <title>I finally stopped using Claude just for code, and it fixed the worst part of my workday...</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1sp3ra2/i_finally_stopped_using_claude_just_for_code_and/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1sp3ra2/i_finally_stopped_using_claude_just_for_code_and/</guid>
+      <pubDate>Sat, 18 Apr 2026 17:26:43 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
       <title>Every time I see it ignore a rule in claude.md</title>
       <link>https://i.redd.it/dvasih8hb0wg1.png</link>
       <guid isPermaLink="true">https://i.redd.it/dvasih8hb0wg1.png</guid>
@@ -125,7 +117,7 @@
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=47814832</guid>
       <pubDate>Sat, 18 Apr 2026 10:46:17 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 58/100<br/><b>Source:</b> Hacker News<br/><br/>Anecdotal observation about Claude Code&apos;s behavior; lacks substantive technical details.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 58/100<br/><b>Source:</b> Hacker News<br/><br/>Unsubstantiated claim about Claude Code Opus 4.7 behavior lacking technical detail.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Qwen 3.6 35B A3B Q4_K_M quant evaluation</title>
@@ -133,7 +125,15 @@
       <guid isPermaLink="true">https://i.redd.it/52knzk2i8xvg1.jpeg</guid>
       <pubDate>Sat, 18 Apr 2026 10:01:13 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 58/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Benchmark evaluation of a Qwen model quantization; mildly interesting but routine technical evaluation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 52/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Informal quantization evaluation lacking rigorous benchmarking methodology.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>My full Claude Code setup after months of daily use — context discipline, MCPs, memory, subagents</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1spehot/my_full_claude_code_setup_after_months_of_daily/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1spehot/my_full_claude_code_setup_after_months_of_daily/</guid>
+      <pubDate>Sun, 19 Apr 2026 00:47:47 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 52/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Personal anecdote about individual Claude Code setup and workflows.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>We’re proud to open-source LIDARLearn [R] [D] [P]</title>
