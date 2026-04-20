@@ -5,159 +5,23 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Apr 2026 03:07:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 05:05:08 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Show HN: TRELLIS.2 image-to-3D running on Mac Silicon – no Nvidia GPU needed</title>
-      <link>https://github.com/shivampkumar/trellis-mac</link>
-      <guid isPermaLink="true">https://github.com/shivampkumar/trellis-mac</guid>
-      <pubDate>Mon, 20 Apr 2026 00:07:16 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 78/100<br/><b>Source:</b> Hacker News<br/><br/>Open-source image-to-3D model TRELLIS.2 now optimized to run on Mac Silicon without GPU.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Changes in the system prompt between Claude Opus 4.6 and 4.7</title>
-      <link>https://simonwillison.net/2026/Apr/18/opus-system-prompt/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/18/opus-system-prompt/</guid>
-      <pubDate>Sun, 19 Apr 2026 10:36:29 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 74/100<br/><b>Source:</b> Hacker News<br/><br/>Analysis of system prompt changes between Claude Opus model versions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Researchers gave 1,222 people AI assistants, then took them away after 10 minutes. Performance crashed below the control group and people stopped trying. UCLA, MIT, Oxford, and Carnegie Mellon call it the &quot;boiling frog&quot; effect.</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sqcz1m/researchers_gave_1222_people_ai_assistants_then/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sqcz1m/researchers_gave_1222_people_ai_assistants_then/</guid>
-      <pubDate>Mon, 20 Apr 2026 02:47:31 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/artificial<br/><br/>Multi-institution research study revealing dependence effects when AI assistants are removed from users.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>1,200 ICLR 2026 Papers with Public Code or Data [R]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1spvoer/1200_iclr_2026_papers_with_public_code_or_data_r/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1spvoer/1200_iclr_2026_papers_with_public_code_or_data_r/</guid>
-      <pubDate>Sun, 19 Apr 2026 15:14:12 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Directory of 1,200 ICLR 2026 papers with publicly available code or data.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Same 9B Qwen weights: 19.1% in Aider vs 45.6% with a scaffold adapted to small local models</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1spufzz/same_9b_qwen_weights_191_in_aider_vs_456_with_a/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1spufzz/same_9b_qwen_weights_191_in_aider_vs_456_with_a/</guid>
-      <pubDate>Sun, 19 Apr 2026 14:27:33 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Benchmark showing significant performance improvement for small local models with scaffold adaptation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Claude Token Counter, now with model comparisons</title>
-      <link>https://simonwillison.net/2026/Apr/20/claude-token-counts/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/20/claude-token-counts/#atom-everything</guid>
-      <pubDate>Mon, 20 Apr 2026 00:50:45 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> Simon Willison<br/><br/>Tool for counting tokens across Claude models with added comparison features.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>I built a GNOME extension for Codex with local/remote history, live filters, Markdown export, and a read-only MCP server</title>
-      <link>https://i.redd.it/5k5dttdhz3wg1.png</link>
-      <guid isPermaLink="true">https://i.redd.it/5k5dttdhz3wg1.png</guid>
-      <pubDate>Sun, 19 Apr 2026 08:45:18 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> r/artificial<br/><br/>User shares a personal GNOME extension project for Codex with local history and export features.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>scalar-loop: a Python harness for Karpathy&apos;s autoresearch pattern that doesn&apos;t trust the agent&apos;s narration</title>
-      <link>https://www.reddit.com/r/artificial/comments/1spz2g0/scalarloop_a_python_harness_for_karpathys/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1spz2g0/scalarloop_a_python_harness_for_karpathys/</guid>
-      <pubDate>Sun, 19 Apr 2026 17:21:26 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/artificial<br/><br/>Open-source tool for implementing research-driven AI agent patterns with safeguards.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Project Shadows: Turns out &quot;just add memory&quot; doesn&apos;t fix your agent</title>
-      <link>https://open.substack.com/pub/omarmegawer/p/part-3-project-shadows?r=4b5w1p&amp;amp;utm_campaign=post&amp;amp;utm_medium=web&amp;amp;showWelcomeOnShare=true</link>
-      <guid isPermaLink="true">https://open.substack.com/pub/omarmegawer/p/part-3-project-shadows?r=4b5w1p&amp;amp;utm_campaign=post&amp;amp;utm_medium=web&amp;amp;showWelcomeOnShare=true</guid>
-      <pubDate>Sun, 19 Apr 2026 15:52:15 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/artificial<br/><br/>Research findings showing that adding memory alone does not solve agent performance issues.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Forcing always-on thinking in Claude 4.7 with a one-line prime + MCP</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1spxmdk/forcing_alwayson_thinking_in_claude_47_with_a/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1spxmdk/forcing_alwayson_thinking_in_claude_47_with_a/</guid>
-      <pubDate>Sun, 19 Apr 2026 16:27:19 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Technique for enabling extended reasoning in Claude using a one-line prompt modification.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Uber’s Anthropic AI push hits a wall</title>
-      <link>https://finance.yahoo.com/sectors/technology/articles/ubers-anthropic-ai-push-hits-223109852.html</link>
-      <guid isPermaLink="true">https://finance.yahoo.com/sectors/technology/articles/ubers-anthropic-ai-push-hits-223109852.html</guid>
-      <pubDate>Sun, 19 Apr 2026 18:13:32 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Claude Brain</title>
-      <link>https://github.com/memvid/claude-brain</link>
-      <guid isPermaLink="true">https://github.com/memvid/claude-brain</guid>
-      <pubDate>Sun, 19 Apr 2026 15:48:13 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>llama.cpp speculative checkpointing was merged</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sprdm8/llamacpp_speculative_checkpointing_was_merged/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sprdm8/llamacpp_speculative_checkpointing_was_merged/</guid>
-      <pubDate>Sun, 19 Apr 2026 12:16:04 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Unsloth fix on Mistral Small 4?</title>
-      <link>https://i.redd.it/zae1ipz6r6wg1.png</link>
-      <guid isPermaLink="true">https://i.redd.it/zae1ipz6r6wg1.png</guid>
-      <pubDate>Sun, 19 Apr 2026 17:55:58 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>QWEN3.6 + ik_llama is fast af</title>
-      <link>https://i.redd.it/p204eyn2g8wg1.jpeg</link>
-      <guid isPermaLink="true">https://i.redd.it/p204eyn2g8wg1.jpeg</guid>
-      <pubDate>Sun, 19 Apr 2026 23:35:51 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>YSK: If you use Claude on your company&apos;s Enterprise plan, your employer can access every message you&apos;ve ever sent, including &quot;incognito&quot; chats/</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1spsugm/ysk_if_you_use_claude_on_your_companys_enterprise/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1spsugm/ysk_if_you_use_claude_on_your_companys_enterprise/</guid>
-      <pubDate>Sun, 19 Apr 2026 13:21:47 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Claude Design is Incredible...</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1spxi2f/claude_design_is_incredible/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1spxi2f/claude_design_is_incredible/</guid>
-      <pubDate>Sun, 19 Apr 2026 16:22:49 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Oh Claude, How can I trust you anymore?</title>
-      <link>https://i.redd.it/gtfz97cmt5wg1.png</link>
-      <guid isPermaLink="true">https://i.redd.it/gtfz97cmt5wg1.png</guid>
-      <pubDate>Sun, 19 Apr 2026 14:49:19 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
     <item>
       <title>RTX PRO 5000 (48GB) vs MacBook Pro M5 MAX (128GB RAM) - The choice for fine-tuning &amp; agentic coding</title>
       <link>https://www.reddit.com/r/LocalLLaMA/comments/1sptsxo/rtx_pro_5000_48gb_vs_macbook_pro_m5_max_128gb_ram/</link>
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sptsxo/rtx_pro_5000_48gb_vs_macbook_pro_m5_max_128gb_ram/</guid>
       <pubDate>Sun, 19 Apr 2026 14:01:39 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 58/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Reddit discussion comparing GPU and MacBook specifications for local LLM fine-tuning.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 100/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Sharing a beginner-friendly orchestration workflow for anyone just getting started building with Codex CLI.</title>
+      <link>https://i.redd.it/p6pc4yqeh4wg1.png</link>
+      <guid isPermaLink="true">https://i.redd.it/p6pc4yqeh4wg1.png</guid>
+      <pubDate>Sun, 19 Apr 2026 10:17:57 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 100/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Is anyone getting real coding work done with Qwen3.6-35B-A3B-UD-Q4_K_M on a 32GB Mac in opencode, claude code or similar?</title>
@@ -165,7 +29,143 @@
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sq94qx/is_anyone_getting_real_coding_work_done_with/</guid>
       <pubDate>Sun, 19 Apr 2026 23:54:06 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 56/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Reddit question about real-world coding performance with a specific local LLM model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 95/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Self improving claude code sessions</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1sppv7n/self_improving_claude_code_sessions/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1sppv7n/self_improving_claude_code_sessions/</guid>
+      <pubDate>Sun, 19 Apr 2026 11:00:11 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 95/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>I created awesome-claude-design using Claude code: DESIGN.md prompts by aesthetic families for Claude Design</title>
+      <link>https://i.redd.it/u6bstzled4wg1.gif</link>
+      <guid isPermaLink="true">https://i.redd.it/u6bstzled4wg1.gif</guid>
+      <pubDate>Sun, 19 Apr 2026 09:53:47 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 95/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>I built cognitive rot detector for Claude Code sessions - it tells you when to trigger compact, or pay attention to decisions</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1sps4yp/i_built_cognitive_rot_detector_for_claude_code/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1sps4yp/i_built_cognitive_rot_detector_for_claude_code/</guid>
+      <pubDate>Sun, 19 Apr 2026 12:51:16 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 95/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Changes in the system prompt between Claude Opus 4.6 and 4.7</title>
+      <link>https://simonwillison.net/2026/Apr/18/opus-system-prompt/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/18/opus-system-prompt/</guid>
+      <pubDate>Sun, 19 Apr 2026 10:36:29 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 80/100<br/><b>Source:</b> Hacker News<br/><br/>Analysis of system prompt changes between Claude Opus 4.6 and 4.7 versions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>1,200 ICLR 2026 Papers with Public Code or Data [R]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1spvoer/1200_iclr_2026_papers_with_public_code_or_data_r/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1spvoer/1200_iclr_2026_papers_with_public_code_or_data_r/</guid>
+      <pubDate>Sun, 19 Apr 2026 15:14:12 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>ICLR 2026 conference paper index highlighting 1,200 papers with publicly available code or data.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Researchers gave 1,222 people AI assistants, then took them away after 10 minutes. Performance crashed below the control group and people stopped trying. UCLA, MIT, Oxford, and Carnegie Mellon call it the &quot;boiling frog&quot; effect.</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sqcz1m/researchers_gave_1222_people_ai_assistants_then/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sqcz1m/researchers_gave_1222_people_ai_assistants_then/</guid>
+      <pubDate>Mon, 20 Apr 2026 02:47:31 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/artificial<br/><br/>Multi-university study demonstrates &apos;boiling frog&apos; effect where removing AI assistants causes performance degradation in 1,222 subjects.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Show HN: Google Gemini Is Scanning Your Photos – and the EU Said No</title>
+      <link>https://news.ycombinator.com/item?id=47825520</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47825520</guid>
+      <pubDate>Sun, 19 Apr 2026 16:36:09 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Report on Google Gemini photo scanning feature and EU regulatory response.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>SGOCR: A Spatially-Grounded OCR-focused Pipeline &amp; V1 Dataset [P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1sqdrqg/sgocr_a_spatiallygrounded_ocrfocused_pipeline_v1/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1sqdrqg/sgocr_a_spatiallygrounded_ocrfocused_pipeline_v1/</guid>
+      <pubDate>Mon, 20 Apr 2026 03:24:59 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>SGOCR: new OCR-focused pipeline and dataset for spatially-grounded optical character recognition.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Same 9B Qwen weights: 19.1% in Aider vs 45.6% with a scaffold adapted to small local models</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1spufzz/same_9b_qwen_weights_191_in_aider_vs_456_with_a/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1spufzz/same_9b_qwen_weights_191_in_aider_vs_456_with_a/</guid>
+      <pubDate>Sun, 19 Apr 2026 14:27:33 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Benchmark comparison showing 45.6% vs 19.1% performance improvement using scaffolding for 9B Qwen models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>scalar-loop: a Python harness for Karpathy&apos;s autoresearch pattern that doesn&apos;t trust the agent&apos;s narration</title>
+      <link>https://www.reddit.com/r/artificial/comments/1spz2g0/scalarloop_a_python_harness_for_karpathys/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1spz2g0/scalarloop_a_python_harness_for_karpathys/</guid>
+      <pubDate>Sun, 19 Apr 2026 17:21:26 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/artificial<br/><br/>Python harness implementation for Karpathy&apos;s autoresearch pattern with agent verification.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Claude Token Counter, now with model comparisons</title>
+      <link>https://simonwillison.net/2026/Apr/20/claude-token-counts/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/20/claude-token-counts/#atom-everything</guid>
+      <pubDate>Mon, 20 Apr 2026 00:50:45 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> Simon Willison<br/><br/>Claude token counter tool updated with model comparison functionality.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Advice on becoming a research engineer [D]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1sptj32/advice_on_becoming_a_research_engineer_d/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1sptj32/advice_on_becoming_a_research_engineer_d/</guid>
+      <pubDate>Sun, 19 Apr 2026 13:50:31 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>C++ CuTe / CUTLASS vs CuTeDSL (Python) in 2026 — what should new GPU kernel / LLM inference engineers actually learn?[D]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1sqfgat/c_cute_cutlass_vs_cutedsl_python_in_2026_what/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1sqfgat/c_cute_cutlass_vs_cutedsl_python_in_2026_what/</guid>
+      <pubDate>Mon, 20 Apr 2026 04:49:17 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Converting XQuery to SQL with Local LLMs: Do I Need Fine-Tuning or a Better Approach? [P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1sppcnw/converting_xquery_to_sql_with_local_llms_do_i/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1sppcnw/converting_xquery_to_sql_with_local_llms_do_i/</guid>
+      <pubDate>Sun, 19 Apr 2026 10:31:23 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Tier-3 ISE final year with ongoing ML research (TMLR/Q1/NeurIPS target), trying to understand real impact in India [D]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1spoj6t/tier3_ise_final_year_with_ongoing_ml_research/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1spoj6t/tier3_ise_final_year_with_ongoing_ml_research/</guid>
+      <pubDate>Sun, 19 Apr 2026 09:43:40 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Built an open-source proxy that saves ~30% on API tokens while keeping response quality — free, looking for beta testers</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1spt48q/built_an_opensource_proxy_that_saves_30_on_api/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/OpenAI/comments/1spt48q/built_an_opensource_proxy_that_saves_30_on_api/</guid>
+      <pubDate>Sun, 19 Apr 2026 13:33:12 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>A Critique on Model Complaints (from 5.4 XT)</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1sqelgl/a_critique_on_model_complaints_from_54_xt/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/OpenAI/comments/1sqelgl/a_critique_on_model_complaints_from_54_xt/</guid>
+      <pubDate>Mon, 20 Apr 2026 04:05:04 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
