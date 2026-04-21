@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Apr 2026 08:39:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 09:34:52 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>🔬 Training Transformers to solve 95% failure rate of Cancer Trials — Ron Alfa &amp; Daniel Bear, Noetik</title>
@@ -13,7 +13,7 @@
       <guid isPermaLink="true">https://www.latent.space/p/noetik</guid>
       <pubDate>Mon, 20 Apr 2026 16:17:17 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 80/100<br/><b>Source:</b> Latent Space<br/><br/>Research on using transformers to address 95% failure rate in cancer clinical trials.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 80/100<br/><b>Source:</b> Latent Space<br/><br/>Latent Space coverage of transformers being applied to improve cancer trial success rates.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>[AINews] Moonshot Kimi K2.6: the world&apos;s leading Open Model refreshes to catch up to Opus 4.6 (ahead of DeepSeek v4?)</title>
@@ -21,7 +21,7 @@
       <guid isPermaLink="true">https://www.latent.space/p/ainews-moonshot-kimi-k26-the-worlds</guid>
       <pubDate>Tue, 21 Apr 2026 00:19:33 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> Latent Space<br/><br/>Moonshot Kimi K2.6 model release with competitive performance against Opus and DeepSeek.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> Latent Space<br/><br/>Latent Space reporting on Moonshot Kimi K2.6 model refresh claiming performance parity with Claude Opus 4.6.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Soul Player C64 – A real transformer running on a 1 MHz Commodore 64</title>
@@ -29,7 +29,7 @@
       <guid isPermaLink="true">https://github.com/gizmo64k/soulplayer-c64</guid>
       <pubDate>Mon, 20 Apr 2026 19:51:07 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>A transformer model implementation successfully running on a 1 MHz Commodore 64, demonstrating novel model compression or architecture optimization.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>A transformer model implementation running on a 1 MHz Commodore 64, demonstrating neural network efficiency on severely constrained hardware.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Kimi vendor verifier – verify accuracy of inference providers</title>
@@ -37,63 +37,7 @@
       <guid isPermaLink="true">https://www.kimi.com/blog/kimi-vendor-verifier</guid>
       <pubDate>Mon, 20 Apr 2026 18:39:53 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Kimi releases vendor verification tool for validating inference provider accuracy.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>20% of packages ChatGPT recommends dont exist. built a small MCP server that catches the fakes before the install runs</title>
-      <link>https://www.reddit.com/r/ChatGPTCoding/comments/1srhmnr/20_of_packages_chatgpt_recommends_dont_exist/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/ChatGPTCoding/comments/1srhmnr/20_of_packages_chatgpt_recommends_dont_exist/</guid>
-      <pubDate>Tue, 21 Apr 2026 08:29:30 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/ChatGPTCoding<br/><br/>Analysis showing 20% of packages recommended by ChatGPT don&apos;t exist; tool built to catch fake packages.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>KV Cache Compression 900000x Beyond TurboQuant and Per-Vector Shannon Limit</title>
-      <link>https://arxiv.org/abs/2604.15356</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2604.15356</guid>
-      <pubDate>Tue, 21 Apr 2026 02:11:14 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> Hacker News<br/><br/>Research paper on KV cache compression technique achieving significant compression ratios.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>I prompted ChatGPT, Claude, Perplexity, and Gemini and watched my Nginx logs</title>
-      <link>https://surfacedby.com/blog/nginx-logs-ai-traffic-vs-referral-traffic</link>
-      <guid isPermaLink="true">https://surfacedby.com/blog/nginx-logs-ai-traffic-vs-referral-traffic</guid>
-      <pubDate>Mon, 20 Apr 2026 15:22:01 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 74/100<br/><b>Source:</b> Hacker News<br/><br/>Technical analysis comparing network traffic patterns from multiple AI service providers.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Qwen 3.6 Max Preview just went live on the Qwen Chat website. It currently has the highest AA-Intelligence Index score among Chinese models (52) (Will it be open source?)</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sqlcan/qwen_36_max_preview_just_went_live_on_the_qwen/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sqlcan/qwen_36_max_preview_just_went_live_on_the_qwen/</guid>
-      <pubDate>Mon, 20 Apr 2026 10:26:43 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Qwen releases 3.6 Max Preview model with high performance scores among Chinese LLMs.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Less human AI agents, please</title>
-      <link>https://nial.se/blog/less-human-ai-agents-please/</link>
-      <guid isPermaLink="true">https://nial.se/blog/less-human-ai-agents-please/</guid>
-      <pubDate>Tue, 21 Apr 2026 06:58:08 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Opinion piece discussing design philosophy for AI agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>A Roblox cheat and one AI tool brought down Vercel&apos;s platform</title>
-      <link>https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform</link>
-      <guid isPermaLink="true">https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform</guid>
-      <pubDate>Tue, 21 Apr 2026 04:12:12 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Platform outage analysis: security incident at Vercel triggered by Roblox cheat and AI tool exploitation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Atlassian enables default data collection to train AI</title>
-      <link>https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8</link>
-      <guid isPermaLink="true">https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8</guid>
-      <pubDate>Mon, 20 Apr 2026 12:23:39 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Atlassian enables default data collection from products to train AI models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Kimi announces a vendor verification tool to validate inference provider accuracy.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Anthropic says OpenClaw-style Claude CLI usage is allowed again</title>
@@ -101,7 +45,55 @@
       <guid isPermaLink="true">https://docs.openclaw.ai/providers/anthropic</guid>
       <pubDate>Tue, 21 Apr 2026 03:43:03 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic clarifies policy allowing OpenClaw-style Claude CLI usage.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 74/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic clarifies that OpenClaw-style CLI usage for Claude is permitted.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>KV Cache Compression 900000x Beyond TurboQuant and Per-Vector Shannon Limit</title>
+      <link>https://arxiv.org/abs/2604.15356</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2604.15356</guid>
+      <pubDate>Tue, 21 Apr 2026 02:11:14 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> Hacker News<br/><br/>Research paper on KV cache compression achieving significant efficiency improvements over prior quantization methods.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Qwen 3.6 Max Preview just went live on the Qwen Chat website. It currently has the highest AA-Intelligence Index score among Chinese models (52) (Will it be open source?)</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sqlcan/qwen_36_max_preview_just_went_live_on_the_qwen/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sqlcan/qwen_36_max_preview_just_went_live_on_the_qwen/</guid>
+      <pubDate>Mon, 20 Apr 2026 10:26:43 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Qwen releases 3.6 Max Preview model achieving high benchmark scores among Chinese models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Less human AI agents, please</title>
+      <link>https://nial.se/blog/less-human-ai-agents-please/</link>
+      <guid isPermaLink="true">https://nial.se/blog/less-human-ai-agents-please/</guid>
+      <pubDate>Tue, 21 Apr 2026 06:58:08 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Opinion piece arguing against overly anthropomorphic design in AI agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Deezer says 44% of songs uploaded to its platform daily are AI-generated</title>
+      <link>https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/</guid>
+      <pubDate>Mon, 20 Apr 2026 15:41:02 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Deezer reports that 44% of daily song uploads to its platform are AI-generated.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>20% of packages ChatGPT recommends dont exist. built a small MCP server that catches the fakes before the install runs</title>
+      <link>https://www.reddit.com/r/ChatGPTCoding/comments/1srhmnr/20_of_packages_chatgpt_recommends_dont_exist/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ChatGPTCoding/comments/1srhmnr/20_of_packages_chatgpt_recommends_dont_exist/</guid>
+      <pubDate>Tue, 21 Apr 2026 08:29:30 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/ChatGPTCoding<br/><br/>Analysis showing ChatGPT recommends non-existent packages and presentation of an MCP-based mitigation tool.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>I prompted ChatGPT, Claude, Perplexity, and Gemini and watched my Nginx logs</title>
+      <link>https://surfacedby.com/blog/nginx-logs-ai-traffic-vs-referral-traffic</link>
+      <guid isPermaLink="true">https://surfacedby.com/blog/nginx-logs-ai-traffic-vs-referral-traffic</guid>
+      <pubDate>Mon, 20 Apr 2026 15:22:01 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> Hacker News<br/><br/>Technical analysis examining HTTP traffic patterns and API calls from multiple AI chatbot services.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>20 days post-Claude Code leak: Did the accidental &quot;open sourcing&quot; actually matter for local devs?</title>
@@ -109,7 +101,15 @@
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sqkm0b/20_days_postclaude_code_leak_did_the_accidental/</guid>
       <pubDate>Mon, 20 Apr 2026 09:45:14 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Discussion of impact from a Claude Code source leak on local LLM development community.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Community discussion about the impact of an alleged Claude Code leak on local LLM developers.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>I built a video editor that you can use with Claude Code</title>
+      <link>https://v.redd.it/q9q93fcdzcwg1</link>
+      <guid isPermaLink="true">https://v.redd.it/q9q93fcdzcwg1</guid>
+      <pubDate>Mon, 20 Apr 2026 14:52:19 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Individual project building a video editor that integrates with Claude Code.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Users unable to load ChatGPT and Codex</title>
@@ -117,15 +117,15 @@
       <guid isPermaLink="true">https://status.openai.com/incidents/01KPNN2V2SMP3TAN3MCJK87W50</guid>
       <pubDate>Mon, 20 Apr 2026 14:37:41 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/openai<br/><br/>Service outage affecting ChatGPT and Codex availability.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/openai<br/><br/>User reports of service unavailability for ChatGPT and Codex.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Claude Token Counter, now with model comparisons</title>
-      <link>https://simonwillison.net/2026/Apr/20/claude-token-counts/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/20/claude-token-counts/#atom-everything</guid>
-      <pubDate>Mon, 20 Apr 2026 00:50:45 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> Simon Willison<br/><br/>Tool update adding model comparison features to Claude token counter.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>What should i do to have a good OD model?[P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1sqn1hn/what_should_i_do_to_have_a_good_od_modelp/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1sqn1hn/what_should_i_do_to_have_a_good_od_modelp/</guid>
+      <pubDate>Mon, 20 Apr 2026 11:52:02 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Kimi K2.6 Released (huggingface)</title>
@@ -152,20 +152,20 @@
       <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Do different AI models converge to the same strategy or stay different when given identical starting conditions</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sr9yua/do_different_ai_models_converge_to_the_same/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sr9yua/do_different_ai_models_converge_to_the_same/</guid>
-      <pubDate>Tue, 21 Apr 2026 01:50:56 +0000</pubDate>
+      <title>Which Gemma model do you want next?</title>
+      <link>https://i.redd.it/v3qojtk5yhwg1.png</link>
+      <guid isPermaLink="true">https://i.redd.it/v3qojtk5yhwg1.png</guid>
+      <pubDate>Tue, 21 Apr 2026 07:34:50 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>What fundamental research exists anwering if / if not AGI can be achieved through LLMs?</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sqvxgf/what_fundamental_research_exists_anwering_if_if/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sqvxgf/what_fundamental_research_exists_anwering_if_if/</guid>
-      <pubDate>Mon, 20 Apr 2026 17:22:04 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Open WebUI Desktop Released!</title>
+      <link>https://github.com/open-webui/desktop</link>
+      <guid isPermaLink="true">https://github.com/open-webui/desktop</guid>
+      <pubDate>Tue, 21 Apr 2026 08:31:27 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
