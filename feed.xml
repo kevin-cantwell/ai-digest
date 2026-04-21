@@ -5,47 +5,23 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Apr 2026 19:29:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 20:20:17 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>OpenAI Livestream: ChatGPT Images 2.0</title>
+      <link>https://openai.com/live/</link>
+      <guid isPermaLink="true">https://openai.com/live/</guid>
+      <pubDate>Tue, 21 Apr 2026 18:50:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI announces ChatGPT Images 2.0 with significant capability improvements.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
     <item>
       <title>Scaling Codex to enterprises worldwide</title>
       <link>https://openai.com/index/scaling-codex-to-enterprises-worldwide</link>
       <guid isPermaLink="true">https://openai.com/index/scaling-codex-to-enterprises-worldwide</guid>
       <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 88/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces scaling efforts for Codex to enterprise customers globally.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return</title>
-      <link>https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/</guid>
-      <pubDate>Tue, 21 Apr 2026 13:08:25 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic secures $5B investment from Amazon and commits to $100B in cloud spending.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Soul Player C64 – A real transformer running on a 1 MHz Commodore 64</title>
-      <link>https://github.com/gizmo64k/soulplayer-c64</link>
-      <guid isPermaLink="true">https://github.com/gizmo64k/soulplayer-c64</guid>
-      <pubDate>Mon, 20 Apr 2026 19:51:07 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>A transformer model implementation optimized to run on a 1 MHz Commodore 64, demonstrating efficient model compression.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>🔬 Training Transformers to solve 95% failure rate of Cancer Trials — Ron Alfa &amp; Daniel Bear, Noetik</title>
-      <link>https://www.latent.space/p/noetik</link>
-      <guid isPermaLink="true">https://www.latent.space/p/noetik</guid>
-      <pubDate>Mon, 20 Apr 2026 16:17:17 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 80/100<br/><b>Source:</b> Latent Space<br/><br/>Noetik discusses using transformers to address a 95% failure rate in cancer clinical trials.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>[AINews] Moonshot Kimi K2.6: the world&apos;s leading Open Model refreshes to catch up to Opus 4.6 (ahead of DeepSeek v4?)</title>
-      <link>https://www.latent.space/p/ainews-moonshot-kimi-k26-the-worlds</link>
-      <guid isPermaLink="true">https://www.latent.space/p/ainews-moonshot-kimi-k26-the-worlds</guid>
-      <pubDate>Tue, 21 Apr 2026 00:19:33 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> Latent Space<br/><br/>Moonshot releases Kimi K2.6, positioning it as a leading open model competitive with Opus 4.6.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 88/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces scaling of Codex to enterprise customers worldwide.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Show HN: GoModel – an open-source AI gateway in Go</title>
@@ -53,55 +29,15 @@
       <guid isPermaLink="true">https://github.com/ENTERPILOT/GOModel/</guid>
       <pubDate>Tue, 21 Apr 2026 14:11:53 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>GoModel is an open-source AI gateway written in Go for routing requests to multiple AI providers.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>GoModel is an open-source AI gateway written in Go for routing requests across multiple AI providers.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>KV Cache Compression 900000x Beyond TurboQuant and Per-Vector Shannon Limit</title>
-      <link>https://arxiv.org/abs/2604.15356</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2604.15356</guid>
-      <pubDate>Tue, 21 Apr 2026 02:11:14 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> Hacker News<br/><br/>Research paper presenting KV cache compression technique achieving 900000x improvement beyond prior methods.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>AI research lab NeoCognition lands $40M seed to build agents that learn like humans</title>
-      <link>https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/</guid>
-      <pubDate>Tue, 21 Apr 2026 19:11:29 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> TechCrunch AI<br/><br/>NeoCognition, an AI research lab, secures $40M seed funding to develop agents that learn similarly to humans.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Meta capturing employee mouse movements, keystrokes for AI training data</title>
-      <link>https://economictimes.indiatimes.com/tech/technology/meta-to-start-capturing-employee-mouse-movements-keystrokes-for-ai-training-data/articleshow/130422612.cms?from=mdr</link>
-      <guid isPermaLink="true">https://economictimes.indiatimes.com/tech/technology/meta-to-start-capturing-employee-mouse-movements-keystrokes-for-ai-training-data/articleshow/130422612.cms?from=mdr</guid>
-      <pubDate>Tue, 21 Apr 2026 17:40:39 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 72/100<br/><b>Source:</b> Hacker News<br/><br/>Meta plans to capture employee mouse movements and keystrokes to generate AI training data.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Less human AI agents, please</title>
-      <link>https://nial.se/blog/less-human-ai-agents-please/</link>
-      <guid isPermaLink="true">https://nial.se/blog/less-human-ai-agents-please/</guid>
-      <pubDate>Tue, 21 Apr 2026 06:58:08 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Opinion piece arguing against overly anthropomorphic design in AI agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>20% of packages ChatGPT recommends dont exist. built a small MCP server that catches the fakes before the install runs</title>
-      <link>https://www.reddit.com/r/ChatGPTCoding/comments/1srhmnr/20_of_packages_chatgpt_recommends_dont_exist/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/ChatGPTCoding/comments/1srhmnr/20_of_packages_chatgpt_recommends_dont_exist/</guid>
-      <pubDate>Tue, 21 Apr 2026 08:29:30 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/ChatGPTCoding<br/><br/>Developer built an MCP server to detect non-existent package recommendations from ChatGPT before installation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Meta to start capturing employee mouse movement, keystrokes for AI training data</title>
-      <link>https://tech.yahoo.com/ai/meta-ai/articles/exclusive-meta-start-capturing-employee-162745587.html</link>
-      <guid isPermaLink="true">https://tech.yahoo.com/ai/meta-ai/articles/exclusive-meta-start-capturing-employee-162745587.html</guid>
-      <pubDate>Tue, 21 Apr 2026 16:32:26 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> Hacker News<br/><br/>Meta plans to capture employee mouse movements and keystrokes for AI model training data.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return</title>
+      <link>https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/</guid>
+      <pubDate>Tue, 21 Apr 2026 13:08:25 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Amazon invests $5B in Anthropic with commitment to $100B cloud spending partnership.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Anthropic says OpenClaw-style Claude CLI usage is allowed again</title>
@@ -109,7 +45,55 @@
       <guid isPermaLink="true">https://docs.openclaw.ai/providers/anthropic</guid>
       <pubDate>Tue, 21 Apr 2026 03:43:03 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic clarifies that OpenClaw-style CLI usage for Claude is permitted under its terms.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 80/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic clarifies that OpenClaw-style Claude CLI usage is now permitted again.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>AI research lab NeoCognition lands $40M seed to build agents that learn like humans</title>
+      <link>https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/</guid>
+      <pubDate>Tue, 21 Apr 2026 19:11:29 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 80/100<br/><b>Source:</b> TechCrunch AI<br/><br/>AI research lab NeoCognition raises $40M seed funding to develop human-like learning agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>🔬 Training Transformers to solve 95% failure rate of Cancer Trials — Ron Alfa &amp; Daniel Bear, Noetik</title>
+      <link>https://www.latent.space/p/noetik</link>
+      <guid isPermaLink="true">https://www.latent.space/p/noetik</guid>
+      <pubDate>Mon, 20 Apr 2026 16:17:17 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 80/100<br/><b>Source:</b> Latent Space<br/><br/>Noetik uses transformers to address 95% failure rate in cancer clinical trials.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>[AINews] Moonshot Kimi K2.6: the world&apos;s leading Open Model refreshes to catch up to Opus 4.6 (ahead of DeepSeek v4?)</title>
+      <link>https://www.latent.space/p/ainews-moonshot-kimi-k26-the-worlds</link>
+      <guid isPermaLink="true">https://www.latent.space/p/ainews-moonshot-kimi-k26-the-worlds</guid>
+      <pubDate>Tue, 21 Apr 2026 00:19:33 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> Latent Space<br/><br/>Moonshot releases Kimi K2.6, an open-source model claiming competitive performance with Claude Opus 4.6.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Meta capturing employee mouse movements, keystrokes for AI training data</title>
+      <link>https://economictimes.indiatimes.com/tech/technology/meta-to-start-capturing-employee-mouse-movements-keystrokes-for-ai-training-data/articleshow/130422612.cms?from=mdr</link>
+      <guid isPermaLink="true">https://economictimes.indiatimes.com/tech/technology/meta-to-start-capturing-employee-mouse-movements-keystrokes-for-ai-training-data/articleshow/130422612.cms?from=mdr</guid>
+      <pubDate>Tue, 21 Apr 2026 17:40:39 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Meta announces capturing employee interaction data for AI model training purposes.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Less human AI agents, please</title>
+      <link>https://nial.se/blog/less-human-ai-agents-please/</link>
+      <guid isPermaLink="true">https://nial.se/blog/less-human-ai-agents-please/</guid>
+      <pubDate>Tue, 21 Apr 2026 06:58:08 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Opinion piece discussing design principles for AI agents to avoid excessive human-like behavior.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>20% of packages ChatGPT recommends dont exist. built a small MCP server that catches the fakes before the install runs</title>
+      <link>https://www.reddit.com/r/ChatGPTCoding/comments/1srhmnr/20_of_packages_chatgpt_recommends_dont_exist/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ChatGPTCoding/comments/1srhmnr/20_of_packages_chatgpt_recommends_dont_exist/</guid>
+      <pubDate>Tue, 21 Apr 2026 08:29:30 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/ChatGPTCoding<br/><br/>Developer builds MCP server to detect non-existent package recommendations from ChatGPT.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Bulding my own Diffusion Language Model from scratch was easier than I thought [P]</title>
@@ -117,55 +101,71 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1srufft/bulding_my_own_diffusion_language_model_from/</guid>
       <pubDate>Tue, 21 Apr 2026 17:23:47 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Reddit post describing the process of building a diffusion language model from scratch.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Project report on building a diffusion-based language model from scratch with comparative ease.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Open WebUI Desktop Released!</title>
-      <link>https://github.com/open-webui/desktop</link>
-      <guid isPermaLink="true">https://github.com/open-webui/desktop</guid>
-      <pubDate>Tue, 21 Apr 2026 08:31:27 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Which Gemma model do you want next?</title>
-      <link>https://i.redd.it/v3qojtk5yhwg1.png</link>
-      <guid isPermaLink="true">https://i.redd.it/v3qojtk5yhwg1.png</guid>
-      <pubDate>Tue, 21 Apr 2026 07:34:50 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>I benchmarked 21 local LLMs on a MacBook Air M5 for code quality AND speed</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sr2wid/i_benchmarked_21_local_llms_on_a_macbook_air_m5/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sr2wid/i_benchmarked_21_local_llms_on_a_macbook_air_m5/</guid>
-      <pubDate>Mon, 20 Apr 2026 21:01:46 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>PixelClaw: an LLM agent for image manipulation</title>
-      <link>https://v.redd.it/34d9pa79jkwg1</link>
-      <guid isPermaLink="true">https://v.redd.it/34d9pa79jkwg1</guid>
-      <pubDate>Tue, 21 Apr 2026 16:23:48 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Do different AI models converge to the same strategy or stay different when given identical starting conditions</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sr9yua/do_different_ai_models_converge_to_the_same/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sr9yua/do_different_ai_models_converge_to_the_same/</guid>
-      <pubDate>Tue, 21 Apr 2026 01:50:56 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>I opened devtools on a 200 message ChatGPT chat and the memory usage surprised me</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1srgwrz/i_opened_devtools_on_a_200_message_chatgpt_chat/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/OpenAI/comments/1srgwrz/i_opened_devtools_on_a_200_message_chatgpt_chat/</guid>
-      <pubDate>Tue, 21 Apr 2026 07:45:43 +0000</pubDate>
+      <title>I essentially reverse engineered OpenAI’s new background computer use and created a free MCP server that does the same</title>
+      <link>https://github.com/hyprcat/mac-cua</link>
+      <guid isPermaLink="true">https://github.com/hyprcat/mac-cua</guid>
+      <pubDate>Tue, 21 Apr 2026 18:51:24 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/openai<br/><br/>Developer creates open-source implementation of OpenAI&apos;s background computer use capability.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Meta to start capturing employee mouse movements, keystrokes for AI training</title>
+      <link>https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/</link>
+      <guid isPermaLink="true">https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/</guid>
+      <pubDate>Tue, 21 Apr 2026 16:43:12 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> Hacker News<br/><br/>Meta announces collection of employee interaction data including mouse movements and keystrokes for AI training.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>New fear unlocked: Claude can run Bash tool with dangerouslyDisableSandbox when it wishes to do so</title>
+      <link>https://i.redd.it/jnqrc2ajriwg1.png</link>
+      <guid isPermaLink="true">https://i.redd.it/jnqrc2ajriwg1.png</guid>
+      <pubDate>Tue, 21 Apr 2026 10:49:00 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Discussion of potential security concern regarding Claude&apos;s bash tool execution with disabled sandboxing.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>tested 9 models with and without agent skills. Haiku 4.5 with a skill beat baseline Opus 4.7.</title>
+      <link>https://i.redd.it/sd4erk373kwg1.png</link>
+      <guid isPermaLink="true">https://i.redd.it/sd4erk373kwg1.png</guid>
+      <pubDate>Tue, 21 Apr 2026 14:48:49 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Benchmark testing shows Claude Haiku 4.5 with agent skills outperforms baseline Opus 4.7.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>OpenAI helps Hyatt advance AI among colleagues</title>
+      <link>https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise</link>
+      <guid isPermaLink="true">https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise</guid>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Case study: OpenAI partners with Hyatt to implement ChatGPT Enterprise for employee training.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Claude Token Counter, now with model comparisons</title>
+      <link>https://simonwillison.net/2026/Apr/20/claude-token-counts/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/20/claude-token-counts/#atom-everything</guid>
+      <pubDate>Mon, 20 Apr 2026 00:50:45 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> Simon Willison<br/><br/>Simon Willison releases Claude Token Counter tool with model comparison features.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Meta to start capturing employee mouse movement, keystrokes for AI training data</title>
+      <link>https://tech.yahoo.com/ai/meta-ai/articles/exclusive-meta-start-capturing-employee-162745587.html</link>
+      <guid isPermaLink="true">https://tech.yahoo.com/ai/meta-ai/articles/exclusive-meta-start-capturing-employee-162745587.html</guid>
+      <pubDate>Tue, 21 Apr 2026 16:32:26 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Kasane: New drop-in Kakoune front end with GPU rendering and WASM Plugins</title>
+      <link>https://github.com/Yus314/kasane</link>
+      <guid isPermaLink="true">https://github.com/Yus314/kasane</guid>
+      <pubDate>Tue, 21 Apr 2026 15:53:22 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 65/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
