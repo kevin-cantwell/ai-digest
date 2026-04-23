@@ -5,31 +5,15 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Apr 2026 12:24:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 13:35:29 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model</title>
-      <link>https://qwen.ai/blog?id=qwen3.6-27b</link>
-      <guid isPermaLink="true">https://qwen.ai/blog?id=qwen3.6-27b</guid>
-      <pubDate>Wed, 22 Apr 2026 13:19:58 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>Alibaba&apos;s Qwen releases 27B dense model achieving flagship-level coding performance.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
     <item>
       <title>Speeding up agentic workflows with WebSockets in the Responses API</title>
       <link>https://openai.com/index/speeding-up-agentic-workflows-with-websockets</link>
       <guid isPermaLink="true">https://openai.com/index/speeding-up-agentic-workflows-with-websockets</guid>
       <pubDate>Wed, 22 Apr 2026 10:00:00 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 88/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI introduces WebSocket support in Responses API to improve agentic workflow performance.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>OpenAI model for masking personally identifiable information (PII) in text</title>
-      <link>https://openai.com/index/introducing-openai-privacy-filter/</link>
-      <guid isPermaLink="true">https://openai.com/index/introducing-openai-privacy-filter/</guid>
-      <pubDate>Thu, 23 Apr 2026 00:14:55 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 84/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI releases model for detecting and masking personally identifiable information in text.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 88/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI releases WebSocket support for Responses API to improve agentic workflow performance.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>OpenAI: Workspace Agents for Business</title>
@@ -37,7 +21,7 @@
       <guid isPermaLink="true">https://openai.com/business/workspace-agents/</guid>
       <pubDate>Wed, 22 Apr 2026 18:04:07 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 84/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI announces Workspace Agents for business applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 84/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI announces Workspace Agents product for business automation and productivity.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Introducing workspace agents in ChatGPT</title>
@@ -45,7 +29,7 @@
       <guid isPermaLink="true">https://openai.com/index/introducing-workspace-agents-in-chatgpt</guid>
       <pubDate>Wed, 22 Apr 2026 10:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 84/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI introduces workspace agents feature in ChatGPT for enterprise use.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 84/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI releases Workspace Agents feature in ChatGPT for business workflows.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>OpenAI&apos;s response to the Axios developer tool compromise</title>
@@ -53,7 +37,7 @@
       <guid isPermaLink="true">https://openai.com/index/axios-developer-tool-compromise/</guid>
       <pubDate>Thu, 23 Apr 2026 00:45:01 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI addresses security incident involving compromised Axios developer tool.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI addresses security incident involving compromise of developer tools via Axios.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>We benchmarked 18 LLMs on OCR (7k+ calls) — cheaper/old models oftentimes win. Full dataset + framework open-sourced. [R]</title>
@@ -61,31 +45,15 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1st9v81/we_benchmarked_18_llms_on_ocr_7k_calls_cheaperold/</guid>
       <pubDate>Thu, 23 Apr 2026 05:40:31 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Comprehensive benchmark of 18 LLMs on OCR tasks with 7000+ evaluations and open-sourced dataset.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Benchmark study comparing 18 LLMs on OCR tasks with dataset and framework released open-source.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Making ChatGPT better for clinicians</title>
-      <link>https://openai.com/index/making-chatgpt-better-for-clinicians</link>
-      <guid isPermaLink="true">https://openai.com/index/making-chatgpt-better-for-clinicians</guid>
-      <pubDate>Wed, 22 Apr 2026 15:00:00 +0000</pubDate>
+      <title>OpenAI model for masking personally identifiable information (PII) in text</title>
+      <link>https://openai.com/index/introducing-openai-privacy-filter/</link>
+      <guid isPermaLink="true">https://openai.com/index/introducing-openai-privacy-filter/</guid>
+      <pubDate>Thu, 23 Apr 2026 00:14:55 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces improvements to ChatGPT for clinical healthcare applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Introducing OpenAI Privacy Filter</title>
-      <link>https://openai.com/index/introducing-openai-privacy-filter</link>
-      <guid isPermaLink="true">https://openai.com/index/introducing-openai-privacy-filter</guid>
-      <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces Privacy Filter tool for removing PII from text data.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Partnering with industry leaders to accelerate AI transformation</title>
-      <link>https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/</link>
-      <guid isPermaLink="true">https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/</guid>
-      <pubDate>Tue, 21 Apr 2026 14:54:15 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 75/100<br/><b>Source:</b> Google DeepMind<br/><br/>Google DeepMind partners with global consultancies to bring the power of frontier AI to organizations around the world.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI introduces Privacy Filter model for masking personally identifiable information in text.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Changes to GitHub Copilot Individual plans</title>
@@ -96,36 +64,20 @@
       <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 75/100<br/><b>Source:</b> Simon Willison<br/><br/>Changes to GitHub Copilot Individual plans On the same day as Claude Code&apos;s temporary will-they-won&apos;t-they $100/month kerfuffle (for the moment, they won&apos;t), here&apos;s the latest on GitHub Copilot pricin<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>AI research lab NeoCognition lands $40M seed to build agents that learn like humans</title>
-      <link>https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/</guid>
-      <pubDate>Tue, 21 Apr 2026 19:11:29 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> TechCrunch AI<br/><br/>NeoCognition AI lab raises $40M seed funding to develop human-like learning agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
       <title>Show HN: Broccoli, one shot coding agent on the cloud</title>
       <link>https://github.com/besimple-oss/broccoli</link>
       <guid isPermaLink="true">https://github.com/besimple-oss/broccoli</guid>
       <pubDate>Wed, 22 Apr 2026 16:09:56 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 72/100<br/><b>Source:</b> Hacker News<br/><br/>Open-source cloud-based single-shot coding agent project launched.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 72/100<br/><b>Source:</b> Hacker News<br/><br/>New open-source cloud-based single-shot coding agent called Broccoli.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>8 inputs → 58 body params: putting a body-model forward pass inside the training loss [P]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1stbdah/8_inputs_58_body_params_putting_a_bodymodel/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1stbdah/8_inputs_58_body_params_putting_a_bodymodel/</guid>
-      <pubDate>Thu, 23 Apr 2026 07:03:53 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research on integrating body model forward passes directly into transformer training loss.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Is Claude Code going to cost $100/month? Probably not - it&apos;s all very confusing</title>
-      <link>https://simonwillison.net/2026/Apr/22/claude-code-confusion/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/22/claude-code-confusion/#atom-everything</guid>
-      <pubDate>Wed, 22 Apr 2026 02:07:34 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 68/100<br/><b>Source:</b> Simon Willison<br/><br/>Analysis of confusing pricing information around Claude Code subscription costs.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Qwen/Qwen3.6-27B · Hugging Face</title>
+      <link>https://huggingface.co/Qwen/Qwen3.6-27B</link>
+      <guid isPermaLink="true">https://huggingface.co/Qwen/Qwen3.6-27B</guid>
+      <pubDate>Wed, 22 Apr 2026 13:36:43 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> Hacker News<br/><br/>Qwen releases new 27B parameter language model on Hugging Face.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Deepseek has released DeepEP V2 and TileKernels.</title>
@@ -133,7 +85,47 @@
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1ste9zs/deepseek_has_released_deepep_v2_and_tilekernels/</guid>
       <pubDate>Thu, 23 Apr 2026 09:57:18 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>DeepSeek releases DeepEP V2 and TileKernels technical improvements.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 72/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>DeepSeek releases DeepEP V2 and TileKernels optimization technologies.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Making ChatGPT better for clinicians</title>
+      <link>https://openai.com/index/making-chatgpt-better-for-clinicians</link>
+      <guid isPermaLink="true">https://openai.com/index/making-chatgpt-better-for-clinicians</guid>
+      <pubDate>Wed, 22 Apr 2026 15:00:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces improvements to ChatGPT tailored for clinical healthcare professionals.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Introducing OpenAI Privacy Filter</title>
+      <link>https://openai.com/index/introducing-openai-privacy-filter</link>
+      <guid isPermaLink="true">https://openai.com/index/introducing-openai-privacy-filter</guid>
+      <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI introduces Privacy Filter feature for protecting sensitive data.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>8 inputs → 58 body params: putting a body-model forward pass inside the training loss [P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1stbdah/8_inputs_58_body_params_putting_a_bodymodel/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1stbdah/8_inputs_58_body_params_putting_a_bodymodel/</guid>
+      <pubDate>Thu, 23 Apr 2026 07:03:53 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research on integrating body-model forward pass directly into training loss optimization.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>I made a free MCP server that gives Claude live sports data — scores, standings, brackets, top scorers (football / basketball / cricket / tennis)</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1st441t/i_made_a_free_mcp_server_that_gives_claude_live/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1st441t/i_made_a_free_mcp_server_that_gives_claude_live/</guid>
+      <pubDate>Thu, 23 Apr 2026 01:06:24 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Developer releases free MCP server providing live sports data integration with Claude.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Is Claude Code going to cost $100/month? Probably not - it&apos;s all very confusing</title>
+      <link>https://simonwillison.net/2026/Apr/22/claude-code-confusion/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/22/claude-code-confusion/#atom-everything</guid>
+      <pubDate>Wed, 22 Apr 2026 02:07:34 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 68/100<br/><b>Source:</b> Simon Willison<br/><br/>Analysis clarifying confusion around Claude Code pricing models and costs.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Dense vs. MoE gap is shrinking fast with the 3.6-27B release</title>
