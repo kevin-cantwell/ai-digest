@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Apr 2026 11:27:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 12:24:40 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>An update on recent Claude Code quality reports</title>
@@ -13,23 +13,7 @@
       <guid isPermaLink="true">https://www.anthropic.com/engineering/april-23-postmortem</guid>
       <pubDate>Thu, 23 Apr 2026 17:48:38 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic publishes postmortem on Claude Code quality issues with technical analysis and remediation details.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘super app’</title>
-      <link>https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/</guid>
-      <pubDate>Thu, 23 Apr 2026 18:29:29 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 78/100<br/><b>Source:</b> TechCrunch AI<br/><br/>TechCrunch reports OpenAI&apos;s GPT-5.5 release as major step toward AI superapp.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>GPT-5.5 Bio Bug Bounty</title>
-      <link>https://openai.com/index/gpt-5-5-bio-bug-bounty</link>
-      <guid isPermaLink="true">https://openai.com/index/gpt-5-5-bio-bug-bounty</guid>
-      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 76/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces GPT-5.5 bug bounty program with focus on biosecurity risks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic publishes postmortem report on Claude Code quality issues.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Tencent Releases Hy3 preview - Open Source 295B 21B Active MoE</title>
@@ -37,7 +21,31 @@
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1stk2mz/tencent_releases_hy3_preview_open_source_295b_21b/</guid>
       <pubDate>Thu, 23 Apr 2026 14:17:27 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Tencent releases Hy3 open-source model with 295B parameters and 21B active MoE architecture.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Tencent releases Hy3 preview, an open-source 295B parameter mixture-of-experts model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘super app’</title>
+      <link>https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/</guid>
+      <pubDate>Thu, 23 Apr 2026 18:29:29 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 78/100<br/><b>Source:</b> TechCrunch AI<br/><br/>TechCrunch reports OpenAI&apos;s release of GPT-5.5 model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>GPT-5.5 Bio Bug Bounty</title>
+      <link>https://openai.com/index/gpt-5-5-bio-bug-bounty</link>
+      <guid isPermaLink="true">https://openai.com/index/gpt-5-5-bio-bug-bounty</guid>
+      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 76/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces GPT-5.5 bug bounty program focused on biosecurity.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Making ChatGPT better for clinicians</title>
+      <link>https://openai.com/index/making-chatgpt-better-for-clinicians</link>
+      <guid isPermaLink="true">https://openai.com/index/making-chatgpt-better-for-clinicians</guid>
+      <pubDate>Wed, 22 Apr 2026 15:00:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI publishes improvements to ChatGPT for clinical applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Anthropic&apos;s Claude Desktop App Installs Undisclosed Native Messaging Bridge</title>
@@ -45,7 +53,15 @@
       <guid isPermaLink="true">https://letsdatascience.com/news/claude-desktop-installs-preauthorized-browser-extension-mani-4064fb1a</guid>
       <pubDate>Thu, 23 Apr 2026 19:43:08 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Security report on undisclosed native messaging bridge in Claude Desktop application.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Security report on Anthropic Claude Desktop App installing undisclosed messaging bridge.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Built a normalizer so WER stops penalizing formatting differences in STT evals! [P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1stmn7h/built_a_normalizer_so_wer_stops_penalizing/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1stmn7h/built_a_normalizer_so_wer_stops_penalizing/</guid>
+      <pubDate>Thu, 23 Apr 2026 15:49:58 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Introducing GPT-5.5</title>
@@ -69,7 +85,7 @@
       <guid isPermaLink="true">https://www.latent.space/p/ainews-gpt-55-and-openai-codex-superapp</guid>
       <pubDate>Fri, 24 Apr 2026 04:40:43 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 68/100<br/><b>Source:</b> Latent Space<br/><br/>Latent Space newsletter covering GPT-5.5 and OpenAI Codex developments.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 68/100<br/><b>Source:</b> Latent Space<br/><br/>Latent Space newsletter discusses GPT-5.5 and OpenAI Codex superapp.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Takeaways &amp; discussion about the DeepSeek V4 architecture</title>
@@ -77,15 +93,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1subuve/takeaways_discussion_about_the_deepseek_v4/</guid>
       <pubDate>Fri, 24 Apr 2026 10:29:52 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 66/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Reddit discussion analyzing DeepSeek V4 architectural design and technical details.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Making ChatGPT better for clinicians</title>
-      <link>https://openai.com/index/making-chatgpt-better-for-clinicians</link>
-      <guid isPermaLink="true">https://openai.com/index/making-chatgpt-better-for-clinicians</guid>
-      <pubDate>Wed, 22 Apr 2026 15:00:00 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces ChatGPT improvements tailored for clinical healthcare applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 66/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Reddit discussion analyzing DeepSeek V4 architecture.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>ICML 2026 - Final Predictions on Average Score Needed Before Scores Come Out in 1 week? [D]</title>
@@ -136,6 +144,14 @@
       <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
+      <title>How can GPT 5.5 Pro be lower than GPT 5.4 Pro on the benchmark of HLE (w/ tools)?</title>
+      <link>https://i.redd.it/b3hw0z6tp3xg1.png</link>
+      <guid isPermaLink="true">https://i.redd.it/b3hw0z6tp3xg1.png</guid>
+      <pubDate>Fri, 24 Apr 2026 08:47:29 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
       <title>Google makes an interesting choice with its new agent-building tool for enterprises</title>
       <link>https://techcrunch.com/2026/04/22/google-makes-an-interesting-choice-with-its-new-agent-building-tool-for-enterprises/</link>
       <guid isPermaLink="true">https://techcrunch.com/2026/04/22/google-makes-an-interesting-choice-with-its-new-agent-building-tool-for-enterprises/</guid>
@@ -144,20 +160,12 @@
       <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 65/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Gemini Enterprise Agent Platform takes an interesting approach: It is geared for IT and technical users.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Reminder: Opus 4.6 is still the best at long context retrieval benchmark ( MRCR v2 )</title>
-      <link>https://i.redd.it/8354zx0vmzwg1.png</link>
-      <guid isPermaLink="true">https://i.redd.it/8354zx0vmzwg1.png</guid>
-      <pubDate>Thu, 23 Apr 2026 19:09:14 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 64/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Reddit post reporting Opus 4.6 benchmark performance on long context retrieval task.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
       <title>Top 10 uses for Codex at work</title>
       <link>https://openai.com/academy/top-10-use-cases-codex-for-work</link>
       <guid isPermaLink="true">https://openai.com/academy/top-10-use-cases-codex-for-work</guid>
       <pubDate>Thu, 23 Apr 2026 10:00:00 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI Academy article listing practical applications for Codex in workplace settings.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI publishes tutorial on use cases for Codex.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
