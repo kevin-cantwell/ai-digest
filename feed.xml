@@ -5,15 +5,23 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Apr 2026 07:38:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 08:43:40 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Introducing workspace agents in ChatGPT</title>
+      <link>https://openai.com/index/introducing-workspace-agents-in-chatgpt</link>
+      <guid isPermaLink="true">https://openai.com/index/introducing-workspace-agents-in-chatgpt</guid>
+      <pubDate>Wed, 22 Apr 2026 10:00:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 90/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces workspace agents feature for ChatGPT platform.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
     <item>
       <title>Decoupled DiLoCo: A new frontier for resilient, distributed AI training</title>
       <link>https://deepmind.google/blog/decoupled-diloco/</link>
       <guid isPermaLink="true">https://deepmind.google/blog/decoupled-diloco/</guid>
       <pubDate>Wed, 22 Apr 2026 10:20:03 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 90/100<br/><b>Source:</b> Google DeepMind<br/><br/>Google DeepMind presents Decoupled DiLoCo, a new distributed AI training methodology.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 90/100<br/><b>Source:</b> Google DeepMind<br/><br/>Google DeepMind releases Decoupled DiLoCo, a distributed training method for resilient AI training.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>An update on recent Claude Code quality reports</title>
@@ -21,7 +29,7 @@
       <guid isPermaLink="true">https://www.anthropic.com/engineering/april-23-postmortem</guid>
       <pubDate>Thu, 23 Apr 2026 17:48:38 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic publishes post-mortem report on Claude Code quality issues and recent incident.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic publishes post-mortem report on recent Claude Code quality issues.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Speeding up agentic workflows with WebSockets in the Responses API</title>
@@ -29,15 +37,7 @@
       <guid isPermaLink="true">https://openai.com/index/speeding-up-agentic-workflows-with-websockets</guid>
       <pubDate>Wed, 22 Apr 2026 10:00:00 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 88/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces WebSocket support for agentic workflows in Responses API.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Introducing workspace agents in ChatGPT</title>
-      <link>https://openai.com/index/introducing-workspace-agents-in-chatgpt</link>
-      <guid isPermaLink="true">https://openai.com/index/introducing-workspace-agents-in-chatgpt</guid>
-      <pubDate>Wed, 22 Apr 2026 10:00:00 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 84/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces workspace agents feature in ChatGPT product.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 88/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces WebSockets support in Responses API to improve agentic workflow performance.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Open-source dashboard to visualize AI coding agents (Claude Code)</title>
@@ -48,20 +48,20 @@
       <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Open-source dashboard tool released for visualizing AI coding agent behavior.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
+      <title>Tencent Releases Hy3 preview - Open Source 295B 21B Active MoE</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1stk2mz/tencent_releases_hy3_preview_open_source_295b_21b/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1stk2mz/tencent_releases_hy3_preview_open_source_295b_21b/</guid>
+      <pubDate>Thu, 23 Apr 2026 14:17:27 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Tencent releases Hy3, an open-source 295B parameter mixture-of-experts model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
       <title>GPT-5.5 Bio Bug Bounty</title>
       <link>https://openai.com/index/gpt-5-5-bio-bug-bounty</link>
       <guid isPermaLink="true">https://openai.com/index/gpt-5-5-bio-bug-bounty</guid>
       <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 82/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI launches bug bounty program for GPT-5.5.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Post-mortem on recent Claude Code quality issues</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1stq98j/postmortem_on_recent_claude_code_quality_issues/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1stq98j/postmortem_on_recent_claude_code_quality_issues/</guid>
-      <pubDate>Thu, 23 Apr 2026 17:57:18 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Discussion of Anthropic&apos;s post-mortem on Claude Code quality issues.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 76/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI launches GPT-5.5 security bug bounty program.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>GPT-5.5 API Pricing. Twice as expensive as GPT-5.4</title>
@@ -96,12 +96,12 @@
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 75/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI says its latest model offers increased capabilities across a broad variety of categories.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Tencent Releases Hy3 preview - Open Source 295B 21B Active MoE</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1stk2mz/tencent_releases_hy3_preview_open_source_295b_21b/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1stk2mz/tencent_releases_hy3_preview_open_source_295b_21b/</guid>
-      <pubDate>Thu, 23 Apr 2026 14:17:27 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Tencent releases Hy3 preview, an open-source 295B parameter MoE model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>[AINews] GPT 5.5 and OpenAI Codex Superapp</title>
+      <link>https://www.latent.space/p/ainews-gpt-55-and-openai-codex-superapp</link>
+      <guid isPermaLink="true">https://www.latent.space/p/ainews-gpt-55-and-openai-codex-superapp</guid>
+      <pubDate>Fri, 24 Apr 2026 04:40:43 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 74/100<br/><b>Source:</b> Latent Space<br/><br/>News digest discussing GPT-5.5 and OpenAI Codex developments.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Deepseek has released DeepEP V2 and TileKernels.</title>
@@ -136,34 +136,26 @@
       <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Optimizing Transformer model size &amp; inference beyond FP16 + ONNX (pruning/graph opt didn’t help much) [P]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1stfk9y/optimizing_transformer_model_size_inference/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1stfk9y/optimizing_transformer_model_size_inference/</guid>
-      <pubDate>Thu, 23 Apr 2026 11:06:17 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Technical discussion on Transformer model optimization techniques.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Claude Pro plan is back to normal, includes Claude Code again. Few!</title>
-      <link>https://claude.com/pricing</link>
-      <guid isPermaLink="true">https://claude.com/pricing</guid>
-      <pubDate>Fri, 24 Apr 2026 00:33:46 +0000</pubDate>
+      <title>Post-mortem on recent Claude Code quality issues</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1stq98j/postmortem_on_recent_claude_code_quality_issues/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1stq98j/postmortem_on_recent_claude_code_quality_issues/</guid>
+      <pubDate>Thu, 23 Apr 2026 17:57:18 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Report that Claude Pro plan restored Claude Code access after outage.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Buried lede: Deepseek v4 Flash is incredibly inexpensive from the official API for its weight category</title>
-      <link>https://i.redd.it/by8mpgr2f2xg1.png</link>
-      <guid isPermaLink="true">https://i.redd.it/by8mpgr2f2xg1.png</guid>
-      <pubDate>Fri, 24 Apr 2026 04:29:15 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 66/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Analysis of DeepSeek V4 Flash&apos;s cost-effectiveness compared to competitors.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Community discussion of Claude Code quality post-mortem report.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>First time fine-tuning, need a sanity check — 3B or 7B for multi-task reasoning? [D]</title>
       <link>https://www.reddit.com/r/MachineLearning/comments/1stdytn/first_time_finetuning_need_a_sanity_check_3b_or/</link>
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1stdytn/first_time_finetuning_need_a_sanity_check_3b_or/</guid>
       <pubDate>Thu, 23 Apr 2026 09:39:11 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>ICML 2026 - Final Predictions on Average Score Needed Before Scores Come Out in 1 week? [D]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1su8rq1/icml_2026_final_predictions_on_average_score/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1su8rq1/icml_2026_final_predictions_on_average_score/</guid>
+      <pubDate>Fri, 24 Apr 2026 07:29:51 +0000</pubDate>
       <category>Industry News</category>
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
