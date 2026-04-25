@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Apr 2026 16:14:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 17:15:42 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API</title>
@@ -21,7 +21,7 @@
       <guid isPermaLink="true">https://openai.com/index/gpt-5-5-bio-bug-bounty/</guid>
       <pubDate>Sat, 25 Apr 2026 14:17:31 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 86/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI announces GPT-5.5 biosafety bug bounty program.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI launches a biosafety bounty program for GPT-5.5 to identify potential biological risks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Open-source 9-task benchmark for coding-agent retrieval augmentation. Per-task deltas +0.010 to +0.320, all evals reproducible [P]</title>
@@ -29,7 +29,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1suzqxe/opensource_9task_benchmark_for_codingagent/</guid>
       <pubDate>Sat, 25 Apr 2026 02:33:00 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Open-source benchmark for coding-agent retrieval augmentation with reproducible evaluations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Open-source benchmark suite for evaluating coding-agent retrieval augmentation with reproducible results.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>[AINews] GPT 5.5 and OpenAI Codex Superapp</title>
@@ -37,7 +37,7 @@
       <guid isPermaLink="true">https://www.latent.space/p/ainews-gpt-55-and-openai-codex-superapp</guid>
       <pubDate>Fri, 24 Apr 2026 04:40:43 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 80/100<br/><b>Source:</b> Latent Space<br/><br/>Industry news coverage of GPT-5.5 and OpenAI Codex Superapp.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 80/100<br/><b>Source:</b> Latent Space<br/><br/>News roundup covering GPT-5.5 release and OpenAI&apos;s Codex Superapp.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>DeepSeek V4 preview release: The inference efficiency champion?</title>
@@ -45,7 +45,23 @@
       <guid isPermaLink="true">https://deadstack.net/cluster/deepseek-releases-v4-preview-model-with-strong</guid>
       <pubDate>Fri, 24 Apr 2026 17:59:56 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 78/100<br/><b>Source:</b> r/artificial<br/><br/>DeepSeek V4 preview release announcement focusing on inference efficiency.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 78/100<br/><b>Source:</b> r/artificial<br/><br/>DeepSeek releases V4 preview with focus on inference efficiency improvements.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>CC-Canary: Detect early signs of regressions in Claude Code</title>
+      <link>https://github.com/delta-hq/cc-canary</link>
+      <guid isPermaLink="true">https://github.com/delta-hq/cc-canary</guid>
+      <pubDate>Fri, 24 Apr 2026 17:53:37 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Tool to detect performance regressions in Claude Code functionality.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>GPT-5.5: &apos;strongest agentic coding model ever&apos; failing spectacularly at its own game (LiveBench)</title>
+      <link>https://www.reddit.com/r/artificial/comments/1sv4l94/gpt55_strongest_agentic_coding_model_ever_failing/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sv4l94/gpt55_strongest_agentic_coding_model_ever_failing/</guid>
+      <pubDate>Sat, 25 Apr 2026 06:39:40 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/artificial<br/><br/>Analysis of GPT-5.5 performance gaps on coding benchmarks despite marketing claims.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Agentic Company OS update: project-scoped runtimes, governance UI, snapshots/replay, skills, and operating models</title>
@@ -53,7 +69,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sumqgo/agentic_company_os_update_projectscoped_runtimes/</guid>
       <pubDate>Fri, 24 Apr 2026 17:43:06 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/artificial<br/><br/>Update to Agentic Company OS with new features like project-scoped runtimes and governance UI.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/artificial<br/><br/>Update on Agentic Company OS platform with new runtime and governance features.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Qwen3.6 27B&apos;s surprising KV cache quantization test results (Turbo3/4 vs F16 vs Q8 vs Q4)</title>
@@ -85,15 +101,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1sun6wt/dharmaocr_opensource_specialized_slm_3b/</guid>
       <pubDate>Fri, 24 Apr 2026 17:59:48 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>DharmaOCR: open-source specialized 3B language model with performance benchmarks against LLMs.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>An update on recent Claude Code quality reports</title>
-      <link>https://simonwillison.net/2026/Apr/24/recent-claude-code-quality-reports/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/24/recent-claude-code-quality-reports/#atom-everything</guid>
-      <pubDate>Fri, 24 Apr 2026 01:31:25 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 74/100<br/><b>Source:</b> Simon Willison<br/><br/>Commentary on recent Claude Code quality issues and reports.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Open-source 3B parameter OCR model with performance benchmarks against larger models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)</title>
@@ -101,7 +109,7 @@
       <guid isPermaLink="true">https://github.com/nex-crm/wuphf</guid>
       <pubDate>Sat, 25 Apr 2026 08:53:53 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>A GitHub project for an agent-maintained wiki system using Markdown and Git.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Open-source project enables AI agents to maintain a knowledge wiki using Markdown and Git.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do</title>
@@ -109,7 +117,7 @@
       <guid isPermaLink="true">https://alash3al.github.io/stash?_v01</guid>
       <pubDate>Sat, 25 Apr 2026 01:24:40 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>An open-source memory layer for AI agents similar to Claude and ChatGPT capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Open-source memory layer tool aims to provide persistent context capabilities for AI agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Google to invest up to $40B in Anthropic in cash and compute</title>
@@ -128,20 +136,12 @@
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>CC-Canary: Detect early signs of regressions in Claude Code</title>
-      <link>https://github.com/delta-hq/cc-canary</link>
-      <guid isPermaLink="true">https://github.com/delta-hq/cc-canary</guid>
-      <pubDate>Fri, 24 Apr 2026 17:53:37 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>A GitHub tool to detect regressions in Claude Code functionality.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
       <title>AMA Announcement: Nous Research, The Opensource Lab Behind Hermes Agent (Wednesday, 8AM-11AM PST)</title>
       <link>https://i.redd.it/4wu342pa78xg1.jpeg</link>
       <guid isPermaLink="true">https://i.redd.it/4wu342pa78xg1.jpeg</guid>
       <pubDate>Fri, 24 Apr 2026 23:52:19 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>AMA announcement with Nous Research about the Hermes Agent framework.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Announcement of AMA with Nous Research about Hermes Agent framework.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Lambda Calculus Benchmark for AI</title>
@@ -149,7 +149,7 @@
       <guid isPermaLink="true">https://victortaelin.github.io/lambench/</guid>
       <pubDate>Sat, 25 Apr 2026 11:16:23 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>Lambda Calculus Benchmark for evaluating AI model reasoning capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>Lambda Calculus Benchmark designed to evaluate AI model reasoning capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>LLM research on Hacker News is drying up</title>
@@ -160,10 +160,10 @@
       <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Qwen3.6-27B at ~80 tps with 218k context window on 1x RTX 5090 served by vllm 0.19</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sv8eua/qwen3627b_at_80_tps_with_218k_context_window_on/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sv8eua/qwen3627b_at_80_tps_with_218k_context_window_on/</guid>
-      <pubDate>Sat, 25 Apr 2026 10:21:45 +0000</pubDate>
+      <title>&quot;Weights are coming&quot;.Xiaomi’s MiMo V2.5 Pro has landed at 54 in the Artificial Analysis Intelligence Index.</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sv9q8f/weights_are_comingxiaomis_mimo_v25_pro_has_landed/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sv9q8f/weights_are_comingxiaomis_mimo_v25_pro_has_landed/</guid>
+      <pubDate>Sat, 25 Apr 2026 11:33:49 +0000</pubDate>
       <category>Industry News</category>
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
