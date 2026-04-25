@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Apr 2026 09:20:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 10:17:26 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API</title>
@@ -13,15 +13,31 @@
       <guid isPermaLink="true">https://developers.openai.com/api/docs/changelog</guid>
       <pubDate>Fri, 24 Apr 2026 18:23:32 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI releases GPT-5.5 and GPT-5.5 Pro models to the API.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 94/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI releases GPT-5.5 and GPT-5.5 Pro models via API with expanded capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>CC-Canary: Detect early signs of regressions in Claude Code</title>
-      <link>https://github.com/delta-hq/cc-canary</link>
-      <guid isPermaLink="true">https://github.com/delta-hq/cc-canary</guid>
-      <pubDate>Fri, 24 Apr 2026 17:53:37 +0000</pubDate>
+      <title>[AINews] GPT 5.5 and OpenAI Codex Superapp</title>
+      <link>https://www.latent.space/p/ainews-gpt-55-and-openai-codex-superapp</link>
+      <guid isPermaLink="true">https://www.latent.space/p/ainews-gpt-55-and-openai-codex-superapp</guid>
+      <pubDate>Fri, 24 Apr 2026 04:40:43 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>CC-Canary tool for detecting regressions in Claude Code performance.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 86/100<br/><b>Source:</b> Latent Space<br/><br/>Latent Space newsletter coverage of GPT-5.5 and OpenAI Codex platform updates.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>DeepSeek V4 preview release: The inference efficiency champion?</title>
+      <link>https://deadstack.net/cluster/deepseek-releases-v4-preview-model-with-strong</link>
+      <guid isPermaLink="true">https://deadstack.net/cluster/deepseek-releases-v4-preview-model-with-strong</guid>
+      <pubDate>Fri, 24 Apr 2026 17:59:56 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 84/100<br/><b>Source:</b> r/artificial<br/><br/>DeepSeek V4 preview release announcement highlighting inference efficiency improvements.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do</title>
+      <link>https://alash3al.github.io/stash?_v01</link>
+      <guid isPermaLink="true">https://alash3al.github.io/stash?_v01</guid>
+      <pubDate>Sat, 25 Apr 2026 01:24:40 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Open source memory layer project enabling AI agents to maintain persistent context similar to Claude.ai and ChatGPT.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Open-source 9-task benchmark for coding-agent retrieval augmentation. Per-task deltas +0.010 to +0.320, all evals reproducible [P]</title>
@@ -29,7 +45,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1suzqxe/opensource_9task_benchmark_for_codingagent/</guid>
       <pubDate>Sat, 25 Apr 2026 02:33:00 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Open-source 9-task benchmark for evaluating coding-agent retrieval augmentation with reproducible results.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Open-source benchmark for evaluating coding-agent retrieval augmentation with reproducible results.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Agentic Company OS update: project-scoped runtimes, governance UI, snapshots/replay, skills, and operating models</title>
@@ -37,31 +53,23 @@
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sumqgo/agentic_company_os_update_projectscoped_runtimes/</guid>
       <pubDate>Fri, 24 Apr 2026 17:43:06 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/artificial<br/><br/>Agentic Company OS update adds project-scoped runtimes, governance UI, and snapshots/replay capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/artificial<br/><br/>Company OS platform adds project-scoped runtimes, governance UI, and snapshot/replay capabilities for agentic workflows.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>AMA Announcement: Nous Research, The Opensource Lab Behind Hermes Agent (Wednesday, 8AM-11AM PST)</title>
-      <link>https://i.redd.it/4wu342pa78xg1.jpeg</link>
-      <guid isPermaLink="true">https://i.redd.it/4wu342pa78xg1.jpeg</guid>
-      <pubDate>Fri, 24 Apr 2026 23:52:19 +0000</pubDate>
+      <title>We&apos;re open-sourcing the first publicly available blood detection model: dataset, weights, and CLI [P] [R]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1sui6je/were_opensourcing_the_first_publicly_available/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1sui6je/were_opensourcing_the_first_publicly_available/</guid>
+      <pubDate>Fri, 24 Apr 2026 15:00:03 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Open-source blood detection model release with dataset, weights, and benchmarking.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Claude Code Manager</title>
-      <link>https://i.redd.it/hizf5int77xg1.png</link>
-      <guid isPermaLink="true">https://i.redd.it/hizf5int77xg1.png</guid>
-      <pubDate>Fri, 24 Apr 2026 20:32:41 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>OpenAI has truly stepped up their game and released some great models in the last three months.</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1suikj8/openai_has_truly_stepped_up_their_game_and/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/OpenAI/comments/1suikj8/openai_has_truly_stepped_up_their_game_and/</guid>
-      <pubDate>Fri, 24 Apr 2026 15:13:41 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>DharmaOCR: Open-Source Specialized SLM (3B) + Cost–Performance Benchmark against LLMs and other open-sourced models [R]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1sun6wt/dharmaocr_opensource_specialized_slm_3b/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1sun6wt/dharmaocr_opensource_specialized_slm_3b/</guid>
+      <pubDate>Fri, 24 Apr 2026 17:59:48 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Open-source 3B specialized OCR small language model with performance benchmarks against larger models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Why did OpenAI stop releasing “chat” api models?</title>
@@ -80,20 +88,20 @@
       <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 80/100<br/><b>Source:</b> Simon Willison<br/><br/>Release: llm-openai-via-codex 0.1a0 Hijacks your Codex CLI credentials to make API calls with LLM, as described in my post about GPT-5.5. Tags: openai, llm, codex-cli<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>DeepSeek V4 preview release: The inference efficiency champion?</title>
-      <link>https://deadstack.net/cluster/deepseek-releases-v4-preview-model-with-strong</link>
-      <guid isPermaLink="true">https://deadstack.net/cluster/deepseek-releases-v4-preview-model-with-strong</guid>
-      <pubDate>Fri, 24 Apr 2026 17:59:56 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 78/100<br/><b>Source:</b> r/artificial<br/><br/>DeepSeek V4 preview release announcement focusing on inference efficiency.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)</title>
+      <link>https://github.com/nex-crm/wuphf</link>
+      <guid isPermaLink="true">https://github.com/nex-crm/wuphf</guid>
+      <pubDate>Sat, 25 Apr 2026 08:53:53 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 78/100<br/><b>Source:</b> Hacker News<br/><br/>Open source tool for agents to maintain knowledge bases in Markdown and Git.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do</title>
-      <link>https://alash3al.github.io/stash?_v01</link>
-      <guid isPermaLink="true">https://alash3al.github.io/stash?_v01</guid>
-      <pubDate>Sat, 25 Apr 2026 01:24:40 +0000</pubDate>
+      <title>CC-Canary: Detect early signs of regressions in Claude Code</title>
+      <link>https://github.com/delta-hq/cc-canary</link>
+      <guid isPermaLink="true">https://github.com/delta-hq/cc-canary</guid>
+      <pubDate>Fri, 24 Apr 2026 17:53:37 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Open-source memory layer project enabling AI agents to persist context similar to Claude.ai and ChatGPT.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Tool for detecting regressions in Claude Code performance through canary testing.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Show HN: Browser Harness – Gives LLM freedom to complete any browser task</title>
@@ -101,7 +109,7 @@
       <guid isPermaLink="true">https://github.com/browser-use/browser-harness</guid>
       <pubDate>Fri, 24 Apr 2026 14:31:38 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 75/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Open source browser automation harness enabling LLMs to complete web-based tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Takeaways &amp; discussion about the DeepSeek V4 architecture</title>
@@ -120,14 +128,6 @@
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 75/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>I re-tested Claude Opus 4.5 vs 4.6 vs 4.7 — real differences beyond benchmarks</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1suarzw/i_retested_claude_opus_45_vs_46_vs_47_real/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1suarzw/i_retested_claude_opus_45_vs_46_vs_47_real/</guid>
-      <pubDate>Fri, 24 Apr 2026 09:29:07 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 75/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
       <title>Is a decent 5.5 Instant model coming or should I continue with Claude Sonnet?</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1sujc9h/is_a_decent_55_instant_model_coming_or_should_i/</link>
       <guid isPermaLink="true">https://www.reddit.com/r/OpenAI/comments/1sujc9h/is_a_decent_55_instant_model_coming_or_should_i/</guid>
@@ -144,12 +144,12 @@
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 75/100<br/><b>Source:</b> TechCrunch AI<br/><br/>DeepSeek says both models are more efficient and performant than DeepSeek V3.2 due to architectural improvements, and have almost &quot;closed the gap&quot; with current leading models, both open and closed, on<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>DharmaOCR: Open-Source Specialized SLM (3B) + Cost–Performance Benchmark against LLMs and other open-sourced models [R]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1sun6wt/dharmaocr_opensource_specialized_slm_3b/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1sun6wt/dharmaocr_opensource_specialized_slm_3b/</guid>
-      <pubDate>Fri, 24 Apr 2026 17:59:48 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>DharmaOCR specialized 3B model open-sourced with cost-performance benchmarks against LLMs.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘super app’</title>
+      <link>https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/</guid>
+      <pubDate>Thu, 23 Apr 2026 18:29:29 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 75/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI says its latest model offers increased capabilities across a broad variety of categories.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Google to invest up to $40B in Anthropic in cash and compute</title>
@@ -160,12 +160,12 @@
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>LLM research on Hacker News is drying up</title>
-      <link>https://dylancastillo.co/til/llm-research-on-hacker-news-is-dying.html</link>
-      <guid isPermaLink="true">https://dylancastillo.co/til/llm-research-on-hacker-news-is-dying.html</guid>
-      <pubDate>Fri, 24 Apr 2026 18:12:15 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Tell HN: Claude 4.7 is ignoring stop hooks</title>
+      <link>https://news.ycombinator.com/item?id=47895029</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47895029</guid>
+      <pubDate>Fri, 24 Apr 2026 19:55:09 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
