@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Apr 2026 18:16:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 19:20:10 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>If I work on something in codex, and future models are trained on my interactions, does that mean the next model release will be able to code my project for other users?</title>
@@ -16,12 +16,28 @@
       <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 100/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Discovery problem: how do you keep up with skills, MCPs, and &quot;latest standards&quot; across the dev lifecycle on Claude Code?</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1svjlpd/discovery_problem_how_do_you_keep_up_with_skills/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1svjlpd/discovery_problem_how_do_you_keep_up_with_skills/</guid>
-      <pubDate>Sat, 25 Apr 2026 18:18:17 +0000</pubDate>
+      <title>I built Claude Code skills for writing agent prompts, grounded in prompt research</title>
+      <link>https://github.com/canvascomputing/prompting</link>
+      <guid isPermaLink="true">https://github.com/canvascomputing/prompting</guid>
+      <pubDate>Sun, 26 Apr 2026 17:03:10 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
       <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 100/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Orchestrating agent workflows with Codex</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1svwqrq/orchestrating_agent_workflows_with_codex/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/OpenAI/comments/1svwqrq/orchestrating_agent_workflows_with_codex/</guid>
+      <pubDate>Sun, 26 Apr 2026 03:48:49 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 100/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>An AI agent deleted our production database. The agent&apos;s confession is below</title>
+      <link>https://twitter.com/lifeof_jer/status/2048103471019434248</link>
+      <guid isPermaLink="true">https://twitter.com/lifeof_jer/status/2048103471019434248</guid>
+      <pubDate>Sun, 26 Apr 2026 16:27:29 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 95/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>How do you decide which Claude Code tasks to run with Opus vs Sonnet vs Haiku?</title>
@@ -32,28 +48,12 @@
       <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 95/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>made a tool to run multiple codex cli profiles at once</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1swckm8/made_a_tool_to_run_multiple_codex_cli_profiles_at/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/OpenAI/comments/1swckm8/made_a_tool_to_run_multiple_codex_cli_profiles_at/</guid>
-      <pubDate>Sun, 26 Apr 2026 16:43:07 +0000</pubDate>
+      <title>Claude Code + Opus 4.7 appears to serialize independent file reads, causing the higher token usage than Opus 4.6</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1sw1aix/claude_code_opus_47_appears_to_serialize/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1sw1aix/claude_code_opus_47_appears_to_serialize/</guid>
+      <pubDate>Sun, 26 Apr 2026 07:53:21 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 95/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>An AI agent deleted our production database. The agent&apos;s confession is below</title>
-      <link>https://twitter.com/lifeof_jer/status/2048103471019434248</link>
-      <guid isPermaLink="true">https://twitter.com/lifeof_jer/status/2048103471019434248</guid>
-      <pubDate>Sun, 26 Apr 2026 16:27:29 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 85/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Are AI agents actually giving people ROI yet, or just saving time?</title>
-      <link>https://www.reddit.com/r/artificial/comments/1svqm2m/are_ai_agents_actually_giving_people_roi_yet_or/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1svqm2m/are_ai_agents_actually_giving_people_roi_yet_or/</guid>
-      <pubDate>Sat, 25 Apr 2026 22:57:35 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 85/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 95/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>DeepSeek-V4 on Day 0: From Fast Inference to Verified RL with SGLang and Miles</title>
@@ -61,7 +61,7 @@
       <guid isPermaLink="true">https://www.lmsys.org/blog/2026-04-25-deepseek-v4/</guid>
       <pubDate>Sat, 25 Apr 2026 23:44:05 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>LMSYS blog post on DeepSeek-V4 inference optimization and verified RL with SGLang.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>LMSYS releases technical analysis of DeepSeek-V4 covering fast inference, verified RL, and integration with SGLang.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Stanford researchers fed a language model a DNA sequence and asked it to create a new virus. It wrote hundreds of them, and 16 worked. One used a protein that doesn&apos;t exist in any known organism on Earth.</title>
@@ -69,15 +69,7 @@
       <guid isPermaLink="true">https://i.redd.it/4vm111mylhxg1.png</guid>
       <pubDate>Sun, 26 Apr 2026 07:29:10 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/openai<br/><br/>Stanford researchers demonstrate language model generation of novel viral DNA sequences, including ones with non-existent proteins.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>OpenAI model releases over time</title>
-      <link>https://i.redd.it/ut4n1lj1wdxg1.png</link>
-      <guid isPermaLink="true">https://i.redd.it/ut4n1lj1wdxg1.png</guid>
-      <pubDate>Sat, 25 Apr 2026 18:58:26 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/openai<br/><br/>Stanford researchers demonstrate language model can generate novel viral sequences with some having non-existent proteins.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>OpenAI caught astroturfing - they created a fake news site, with stories by fake reporters, to attack AI safety advocates</title>
@@ -88,12 +80,12 @@
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Why do only big ML labs dominate widely-used models despite many open-source pretrained models smaller labs could do RL on? [D]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1swa26o/why_do_only_big_ml_labs_dominate_widelyused/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1swa26o/why_do_only_big_ml_labs_dominate_widelyused/</guid>
-      <pubDate>Sun, 26 Apr 2026 15:09:10 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Discussion of why large ML labs dominate widely-used models despite open-source alternatives available to smaller labs.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Speculative Decoding Implementations: EAGLE-3, Medusa-1, PARD, Draft Models, N-gram and Suffix Decoding from scratch [P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1swfftl/speculative_decoding_implementations_eagle3/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1swfftl/speculative_decoding_implementations_eagle3/</guid>
+      <pubDate>Sun, 26 Apr 2026 18:28:51 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Technical deep-dive on multiple speculative decoding implementations for LLM inference optimization.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>We built an open-source proxy that enforces LLM agent rules at the API layer - 700 GitHub stars</title>
@@ -101,7 +93,15 @@
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sw3hij/we_built_an_opensource_proxy_that_enforces_llm/</guid>
       <pubDate>Sun, 26 Apr 2026 10:02:24 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/artificial<br/><br/>Open-source proxy tool for enforcing LLM agent rules at the API layer reaches 700 GitHub stars.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/artificial<br/><br/>Open-source proxy tool for enforcing LLM agent rules at API layer reaches 700 GitHub stars.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Benchmark: Windows 11 vs Lubuntu 26.04 on Llama.cpp (RTX 5080 + i9-14900KF). I didn&apos;t expect the gap to be this big.</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sw2fjc/benchmark_windows_11_vs_lubuntu_2604_on_llamacpp/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sw2fjc/benchmark_windows_11_vs_lubuntu_2604_on_llamacpp/</guid>
+      <pubDate>Sun, 26 Apr 2026 09:00:10 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 66/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Performance benchmark comparing Windows 11 vs Lubuntu on Llama.cpp with RTX 5080 shows significant OS-level differences.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>llama.cpp DeepSeek v4 Flash experimental inference</title>
@@ -109,31 +109,39 @@
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sw3stb/llamacpp_deepseek_v4_flash_experimental_inference/</guid>
       <pubDate>Sun, 26 Apr 2026 10:20:32 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Llama.cpp experimental inference support for DeepSeek v4 Flash announced.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Llama.cpp adds experimental flash inference support for DeepSeek V4.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Are Unsloth models as good as I read?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sw8uyf/are_unsloth_models_as_good_as_i_read/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sw8uyf/are_unsloth_models_as_good_as_i_read/</guid>
-      <pubDate>Sun, 26 Apr 2026 14:22:24 +0000</pubDate>
+      <title>Why do only big ML labs dominate widely-used models despite many open-source pretrained models smaller labs could do RL on? [D]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1swa26o/why_do_only_big_ml_labs_dominate_widelyused/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1swa26o/why_do_only_big_ml_labs_dominate_widelyused/</guid>
+      <pubDate>Sun, 26 Apr 2026 15:09:10 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Going from 3B/7B dense to Nemotron 3 Nano (hybrid Mamba-MoE) for multi-task reasoning — what changes in the fine-tuning playbook? [D]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1sw5b44/going_from_3b7b_dense_to_nemotron_3_nano_hybrid/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1sw5b44/going_from_3b7b_dense_to_nemotron_3_nano_hybrid/</guid>
+      <pubDate>Sun, 26 Apr 2026 11:42:28 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Qwen3.6 35B A3B Heretic (KLD 0.0015!) Incredible model. Best 35B I have found!</title>
+      <link>https://huggingface.co/llmfan46/Qwen3.6-35B-A3B-uncensored-heretic</link>
+      <guid isPermaLink="true">https://huggingface.co/llmfan46/Qwen3.6-35B-A3B-uncensored-heretic</guid>
+      <pubDate>Sun, 26 Apr 2026 11:48:25 +0000</pubDate>
       <category>Industry News</category>
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Hardware Choice for 27b to 31b models.</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sw7e0g/hardware_choice_for_27b_to_31b_models/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sw7e0g/hardware_choice_for_27b_to_31b_models/</guid>
-      <pubDate>Sun, 26 Apr 2026 13:21:08 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>[Qwen3.6 35b a3b] Used the top config for my setup 8gb vram and 32gb ram, and found that somehow the Q4_K_XL model from Unsloth runs just slightly faster and used less tokens for output compared to Q4_K_M despite more memory usage</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sw3auo/qwen36_35b_a3b_used_the_top_config_for_my_setup/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sw3auo/qwen36_35b_a3b_used_the_top_config_for_my_setup/</guid>
-      <pubDate>Sun, 26 Apr 2026 09:51:46 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Confirmed: SWE Bench is now a benchmaxxed benchmark</title>
+      <link>https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/</link>
+      <guid isPermaLink="true">https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/</guid>
+      <pubDate>Sun, 26 Apr 2026 18:26:21 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Putting Lipstyk on a pig - agents write most of my code, so I wound up making a static slop analysis tool</title>
@@ -148,14 +156,6 @@
       <link>https://www.reddit.com/r/OpenAI/comments/1sw8x66/anyone_else_notice_that_the_most_capable_models/</link>
       <guid isPermaLink="true">https://www.reddit.com/r/OpenAI/comments/1sw8x66/anyone_else_notice_that_the_most_capable_models/</guid>
       <pubDate>Sun, 26 Apr 2026 14:24:52 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>My Chat history is getting deleted like crazy since 5.5 released. Is anyone else having this issue? I had a chat deleted mid-conversation</title>
-      <link>https://i.redd.it/abk3i7bygkxg1.png</link>
-      <guid isPermaLink="true">https://i.redd.it/abk3i7bygkxg1.png</guid>
-      <pubDate>Sun, 26 Apr 2026 17:07:35 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
