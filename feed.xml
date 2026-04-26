@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Apr 2026 05:04:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 06:40:49 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>GPT‑5.5 Bio Bug Bounty</title>
@@ -13,7 +13,15 @@
       <guid isPermaLink="true">https://openai.com/index/gpt-5-5-bio-bug-bounty/</guid>
       <pubDate>Sat, 25 Apr 2026 14:17:31 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 86/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI announces GPT-5.5 bug bounty program for biosecurity research.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 86/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI launches bug bounty program for GPT-5.5 Bio model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>DeepSeek-V4 on Day 0: From Fast Inference to Verified RL with SGLang and Miles</title>
+      <link>https://www.lmsys.org/blog/2026-04-25-deepseek-v4/</link>
+      <guid isPermaLink="true">https://www.lmsys.org/blog/2026-04-25-deepseek-v4/</guid>
+      <pubDate>Sat, 25 Apr 2026 23:44:05 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 84/100<br/><b>Source:</b> Hacker News<br/><br/>Analysis of DeepSeek-V4 inference optimizations and verified RL training techniques.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>DeepSeek previews new AI model that ‘closes the gap’ with frontier models</title>
@@ -21,23 +29,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/04/24/deepseek-previews-new-ai-model-that-closes-the-gap-with-frontier-models/</guid>
       <pubDate>Fri, 24 Apr 2026 13:30:59 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> TechCrunch AI<br/><br/>DeepSeek announces new AI model that advances performance toward frontier model capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Lambda Calculus Benchmark for AI</title>
-      <link>https://victortaelin.github.io/lambench/</link>
-      <guid isPermaLink="true">https://victortaelin.github.io/lambench/</guid>
-      <pubDate>Sat, 25 Apr 2026 11:16:23 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Lambda Calculus Benchmark released for evaluating AI model reasoning capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>GPT-5.5: &apos;strongest agentic coding model ever&apos; failing spectacularly at its own game (LiveBench)</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sv4l94/gpt55_strongest_agentic_coding_model_ever_failing/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sv4l94/gpt55_strongest_agentic_coding_model_ever_failing/</guid>
-      <pubDate>Sat, 25 Apr 2026 06:39:40 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/artificial<br/><br/>Analysis of GPT-5.5 performance on LiveBench coding tasks showing benchmark results.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> TechCrunch AI<br/><br/>DeepSeek announces new model claiming performance parity with frontier models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>FP4 inference in llama.cpp (NVFP4) and ik_llama.cpp (MXFP4) landed - Finally</title>
@@ -45,7 +37,15 @@
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1svfjyv/fp4_inference_in_llamacpp_nvfp4_and_ik_llamacpp/</guid>
       <pubDate>Sat, 25 Apr 2026 15:42:44 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>FP4 inference quantization formats implemented in llama.cpp for improved efficiency.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>FP4 quantized inference support added to llama.cpp and ik_llama.cpp.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Lambda Calculus Benchmark for AI</title>
+      <link>https://victortaelin.github.io/lambench/</link>
+      <guid isPermaLink="true">https://victortaelin.github.io/lambench/</guid>
+      <pubDate>Sat, 25 Apr 2026 11:16:23 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Lambda Calculus benchmark suite for evaluating AI model reasoning capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)</title>
@@ -53,7 +53,15 @@
       <guid isPermaLink="true">https://github.com/nex-crm/wuphf</guid>
       <pubDate>Sat, 25 Apr 2026 08:53:53 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>GitHub project for agent-maintained wiki using Markdown and Git, showing community tool development.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Open source tool for maintaining AI agent knowledge bases with Markdown and Git integration.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>What exactly &quot;we may use your data to improve our models” mean?</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1svofd9/what_exactly_we_may_use_your_data_to_improve_our/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1svofd9/what_exactly_we_may_use_your_data_to_improve_our/</guid>
+      <pubDate>Sat, 25 Apr 2026 21:24:54 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Anthropic created a test marketplace for agent-on-agent commerce</title>
@@ -69,7 +77,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sv9o4y/we_released_an_open_source_tool_that_handles_ai/</guid>
       <pubDate>Sat, 25 Apr 2026 11:30:46 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> r/artificial<br/><br/>Self-promotion of open source AI agent configuration tool with community engagement request.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> r/artificial<br/><br/>Self-promotion of open source AI agent configuration tool.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>I open sourced a project tracker for Claude Code that lives in .story/: tickets, issues, and session handovers as files</title>
@@ -77,23 +85,7 @@
       <guid isPermaLink="true">https://www.storybloq.com</guid>
       <pubDate>Sat, 25 Apr 2026 19:09:32 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>User open-sourced project tracker tool for Claude Code, self-promotion focused.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>&quot;Weights are coming&quot;.Xiaomi’s MiMo V2.5 Pro has landed at 54 in the Artificial Analysis Intelligence Index.</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sv9q8f/weights_are_comingxiaomis_mimo_v25_pro_has_landed/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sv9q8f/weights_are_comingxiaomis_mimo_v25_pro_has_landed/</guid>
-      <pubDate>Sat, 25 Apr 2026 11:33:49 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Xiaomi MiMo V2.5 Pro model released and ranked in Artificial Analysis Intelligence Index.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Qwen3.6-27B at ~80 tps with 218k context window on 1x RTX 5090 served by vllm 0.19</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sv8eua/qwen3627b_at_80_tps_with_218k_context_window_on/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sv8eua/qwen3627b_at_80_tps_with_218k_context_window_on/</guid>
-      <pubDate>Sat, 25 Apr 2026 10:21:45 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Benchmark results for Qwen 3.6-27B throughput and context window on specific hardware.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Personal project announcement for Claude Code workflow tracking.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Gemini AI is doing free marketing for my private discord community 💀</title>
@@ -102,6 +94,14 @@
       <pubDate>Sat, 25 Apr 2026 20:39:06 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Built cross-model persistent memory - told GPT-5 Nano I live in Bahrain, asked Sonnet 4.6 where I live, it knew instantly</title>
+      <link>https://www.reddit.com/r/artificial/comments/1svixo0/built_crossmodel_persistent_memory_told_gpt5_nano/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1svixo0/built_crossmodel_persistent_memory_told_gpt5_nano/</guid>
+      <pubDate>Sat, 25 Apr 2026 17:53:18 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/artificial<br/><br/>User describes cross-model persistent memory implementation for multiple AI APIs.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>(Free $150?) Claude Opus might actually be back… anyone tried this yet?</title>
@@ -132,14 +132,6 @@
       <link>https://www.reddit.com/r/ClaudeAI/comments/1svv1at/claude_in_excel_is_the_best_thing_ai_has_brought/</link>
       <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1svv1at/claude_in_excel_is_the_best_thing_ai_has_brought/</guid>
       <pubDate>Sun, 26 Apr 2026 02:23:43 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>What do you do while Claude is thinking?</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1svf0a0/what_do_you_do_while_claude_is_thinking/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1svf0a0/what_do_you_do_while_claude_is_thinking/</guid>
-      <pubDate>Sat, 25 Apr 2026 15:20:49 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
