@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Apr 2026 05:07:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 06:56:54 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Stanford researchers fed a language model a DNA sequence and asked it to create a new virus. It wrote hundreds of them, and 16 worked. One used a protein that doesn&apos;t exist in any known organism on Earth.</title>
@@ -13,7 +13,7 @@
       <guid isPermaLink="true">https://i.redd.it/4vm111mylhxg1.png</guid>
       <pubDate>Sun, 26 Apr 2026 07:29:10 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 86/100<br/><b>Source:</b> r/openai<br/><br/>Stanford research: language models generated hundreds of novel virus sequences including one with a non-existent protein.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 86/100<br/><b>Source:</b> r/openai<br/><br/>Stanford researchers demonstrated that language models can generate functional viral DNA sequences, raising biosecurity concerns.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>EvanFlow – A TDD driven feedback loop for Claude Code</title>
@@ -21,7 +21,7 @@
       <guid isPermaLink="true">https://github.com/evanklem/evanflow</guid>
       <pubDate>Mon, 27 Apr 2026 01:56:39 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>EvanFlow is a TDD-driven feedback loop tool for Claude Code development.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>EvanFlow is a TDD-driven feedback loop tool for Claude Code, a developer tool for integrating AI into coding workflows.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Cloudflare just shipped enterprise MCP governance, is this where the industry is heading or does nobody care</title>
@@ -29,7 +29,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1sw4zmj/cloudflare_just_shipped_enterprise_mcp_governance/</guid>
       <pubDate>Sun, 26 Apr 2026 11:25:25 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Cloudflare shipped enterprise MCP governance features for LLM agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Cloudflare shipped enterprise MCP governance features, potentially signaling industry direction for AI agent management.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>We built an open-source proxy that enforces LLM agent rules at the API layer - 700 GitHub stars</title>
@@ -37,7 +37,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sw3hij/we_built_an_opensource_proxy_that_enforces_llm/</guid>
       <pubDate>Sun, 26 Apr 2026 10:02:24 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/artificial<br/><br/>Open-source proxy tool for enforcing LLM agent rules at API layer with 700 GitHub stars.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/artificial<br/><br/>Open-source proxy project for enforcing LLM agent rules at the API layer, achieving 700 GitHub stars.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Claude Code + Opus 4.7 appears to serialize independent file reads, causing the higher token usage than Opus 4.6</title>
@@ -45,7 +45,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1sw1aix/claude_code_opus_47_appears_to_serialize/</guid>
       <pubDate>Sun, 26 Apr 2026 07:53:21 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Technical analysis of Claude Code Opus 4.7 serializing file reads and increasing token usage.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Technical observation that Claude Code with Opus 4.7 appears to serialize file reads differently, affecting token usage.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Speculative Decoding Implementations: EAGLE-3, Medusa-1, PARD, Draft Models, N-gram and Suffix Decoding from scratch [P]</title>
@@ -53,7 +53,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1swfftl/speculative_decoding_implementations_eagle3/</guid>
       <pubDate>Sun, 26 Apr 2026 18:28:51 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Technical resource: implementations of speculative decoding techniques including EAGLE-3 and Medusa-1.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Technical post documenting implementations of multiple speculative decoding techniques for LLM inference optimization.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Opencode-power-pack – Claude Code skills ported to OpenCode</title>
@@ -61,7 +61,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1swf37n/opencodepowerpack_claude_code_skills_ported_to/</guid>
       <pubDate>Sun, 26 Apr 2026 18:16:14 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Tool project: Claude Code skills ported to OpenCode platform.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Opencode-power-pack project porting Claude Code skills to an open-source alternative.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Show HN: AI memory with biological decay (52% recall)</title>
@@ -69,7 +69,7 @@
       <guid isPermaLink="true">https://github.com/sachitrafa/YourMemory</guid>
       <pubDate>Sun, 26 Apr 2026 20:58:31 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>GitHub project: AI memory system with biological decay achieving 52% recall.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>Show HN project presenting AI memory system with biological decay model achieving 52% recall metrics.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>llama.cpp DeepSeek v4 Flash experimental inference</title>
@@ -77,29 +77,29 @@
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sw3stb/llamacpp_deepseek_v4_flash_experimental_inference/</guid>
       <pubDate>Sun, 26 Apr 2026 10:20:32 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Technical update: llama.cpp adds DeepSeek v4 Flash experimental inference support.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Llama.cpp added experimental inference support for DeepSeek v4 Flash model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>New model for detecting and masking PII from OpenAI</title>
-      <link>https://huggingface.co/openai/privacy-filter</link>
-      <guid isPermaLink="true">https://huggingface.co/openai/privacy-filter</guid>
-      <pubDate>Sun, 26 Apr 2026 06:40:55 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Are Unsloth models as good as I read?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sw8uyf/are_unsloth_models_as_good_as_i_read/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sw8uyf/are_unsloth_models_as_good_as_i_read/</guid>
-      <pubDate>Sun, 26 Apr 2026 14:22:24 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Confirmed: SWE Bench is now a benchmaxxed benchmark</title>
+      <link>https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/</link>
+      <guid isPermaLink="true">https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/</guid>
+      <pubDate>Sun, 26 Apr 2026 18:26:21 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>AMD Hipfire - a new inference engine optimized for AMD GPU&apos;s</title>
       <link>https://www.reddit.com/r/LocalLLaMA/comments/1swpsv0/amd_hipfire_a_new_inference_engine_optimized_for/</link>
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1swpsv0/amd_hipfire_a_new_inference_engine_optimized_for/</guid>
       <pubDate>Mon, 27 Apr 2026 01:36:53 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Are Unsloth models as good as I read?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sw8uyf/are_unsloth_models_as_good_as_i_read/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sw8uyf/are_unsloth_models_as_good_as_i_read/</guid>
+      <pubDate>Sun, 26 Apr 2026 14:22:24 +0000</pubDate>
       <category>Industry News</category>
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
@@ -112,12 +112,12 @@
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>[Qwen3.6 35b a3b] Used the top config for my setup 8gb vram and 32gb ram, and found that somehow the Q4_K_XL model from Unsloth runs just slightly faster and used less tokens for output compared to Q4_K_M despite more memory usage</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sw3auo/qwen36_35b_a3b_used_the_top_config_for_my_setup/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sw3auo/qwen36_35b_a3b_used_the_top_config_for_my_setup/</guid>
-      <pubDate>Sun, 26 Apr 2026 09:51:46 +0000</pubDate>
+      <title>What If AI Becomes Personal—And Breaks the Big Tech Model?</title>
+      <link>https://www.reddit.com/r/artificial/comments/1swbsu2/what_if_ai_becomes_personaland_breaks_the_big/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1swbsu2/what_if_ai_becomes_personaland_breaks_the_big/</guid>
+      <pubDate>Sun, 26 Apr 2026 16:14:59 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>I published a paper today that describes a specific processing failure in AI systems — one that disproportionately affects neurodivergent users</title>
@@ -144,20 +144,12 @@
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Running parallel Claude Code agents on the same repo: how I stopped them from fighting over localhost ports</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1swlxqb/running_parallel_claude_code_agents_on_the_same/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1swlxqb/running_parallel_claude_code_agents_on_the_same/</guid>
-      <pubDate>Sun, 26 Apr 2026 22:41:24 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Technical how-to about running parallel Claude Code agents on the same repository.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
       <title>I built Claude Code skills for writing agent prompts, grounded in prompt research</title>
       <link>https://github.com/canvascomputing/prompting</link>
       <guid isPermaLink="true">https://github.com/canvascomputing/prompting</guid>
       <pubDate>Sun, 26 Apr 2026 17:03:10 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Personal project: Claude Code skills for writing agent prompts.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>User-built Claude Code skills for writing agent prompts based on prompt research.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Benchmark: Windows 11 vs Lubuntu 26.04 on Llama.cpp (RTX 5080 + i9-14900KF). I didn&apos;t expect the gap to be this big.</title>
@@ -165,7 +157,15 @@
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sw2fjc/benchmark_windows_11_vs_lubuntu_2604_on_llamacpp/</guid>
       <pubDate>Sun, 26 Apr 2026 09:00:10 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Performance benchmark comparing Windows 11 vs Lubuntu on Llama.cpp with RTX 5080.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Benchmark comparison of Windows 11 vs Lubuntu on Llama.cpp inference with RTX 5080, showing significant performance gap.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Anthropic&apos;s Claude remote uses GLM-4.7</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1swr135/anthropics_claude_remote_uses_glm47/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1swr135/anthropics_claude_remote_uses_glm47/</guid>
+      <pubDate>Mon, 27 Apr 2026 02:35:10 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
