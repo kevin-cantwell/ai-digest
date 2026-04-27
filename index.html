@@ -246,7 +246,7 @@
   <div class="header-inner">
     <div class="logo">AI Digest<span class="logo-dot">.</span></div>
     <div class="header-meta">
-      <span class="header-date" id="header-date" data-utc="2026-04-27T12:35:39Z">Monday, April 27, 2026 — 12:35 UTC</span>
+      <span class="header-date" id="header-date" data-utc="2026-04-27T13:36:13Z">Monday, April 27, 2026 — 13:36 UTC</span>
       <script>
         (function() {
           var el = document.getElementById('header-date');
@@ -259,7 +259,7 @@
       <span class="header-updated" id="header-updated">Updated just now</span>
       <script>
         (function() {
-          var builtAt = new Date("2026-04-27T12:35:39Z");
+          var builtAt = new Date("2026-04-27T13:36:13Z");
           function updateAge() {
             var mins = Math.floor((Date.now() - builtAt.getTime()) / 60000);
             var el = document.getElementById('header-updated');
@@ -275,16 +275,14 @@
           setInterval(updateAge, 60000);
         })();
       </script>
-      <span class="header-count">18 stories</span>
+      <span class="header-count">20 stories</span>
     </div>
   </div>
 </header>
 
 <main>
   <div class="tldr-box">
-    <p class="tldr-text"># Summary
-
-Developers are addressing practical challenges in AI agent deployment, with emerging focus on agent identity and governance as key bottlenecks rather than memory capacity, while infrastructure improvements like speculative decoding techniques and GPU-optimized inference engines are advancing local model performance.</p>
+    <p class="tldr-text">Microsoft and OpenAI announced the next phase of their partnership, signaling continued collaboration in AI development and deployment. Multiple breakthroughs emerged in agent systems and inference optimization, including an open-source agent ranking highly on TerminalBench and new architecture enabling large language model inference on single GPUs.</p>
   </div>
 
   
@@ -293,74 +291,38 @@ Developers are addressing practical challenges in AI agent deployment, with emer
       <div class="cards">
       <div class="card">
         <div class="card-header">
-          <a class="card-title" href="https://github.com/evanklem/evanflow" target="_blank" rel="noopener noreferrer">EvanFlow – A TDD driven feedback loop for Claude Code</a>
-        </div>
-        <p class="item-summary">EvanFlow is a TDD-driven feedback loop tool for Claude Code development.</p>
-        <div class="card-meta">
-          <a class="source" href="https://news.ycombinator.com/item?id=47916909" target="_blank" rel="noopener noreferrer">Hacker News</a>
-          <span class="upvotes">▲ 82  💬 41</span>
-          <span class="age">10h ago</span>
-          <span class="score-bar" title="Quality score: 76/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">76</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://www.reddit.com/r/artificial/comments/1swx3bb/i_ran_11_ai_agents_for_2_months_memory_wasnt_the/" target="_blank" rel="noopener noreferrer">I ran 11 AI agents for 2 months. Memory wasn&#x27;t the bottleneck - identity was.</a>
-        </div>
-        <p class="item-summary">Experiment report on running 11 AI agents for 2 months, identifying identity as a bottleneck.</p>
-        <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/artificial/comments/1swx3bb/i_ran_11_ai_agents_for_2_months_memory_wasnt_the/" target="_blank" rel="noopener noreferrer">r/artificial</a>
-          
-          <span class="age">4h ago</span>
-          <span class="score-bar" title="Quality score: 76/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">76</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://www.reddit.com/r/LocalLLaMA/comments/1swf37n/opencodepowerpack_claude_code_skills_ported_to/" target="_blank" rel="noopener noreferrer">Opencode-power-pack – Claude Code skills ported to OpenCode</a>
-        </div>
-        <p class="item-summary">OpenCode power pack tool porting Claude Code skills to OpenCode.</p>
-        <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1swf37n/opencodepowerpack_claude_code_skills_ported_to/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
-          
-          <span class="age">18h ago</span>
-          <span class="score-bar" title="Quality score: 74/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">74</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
           <a class="card-title" href="https://www.reddit.com/r/artificial/comments/1swwa91/agentic_sprawl_is_becoming_a_real_organizational/" target="_blank" rel="noopener noreferrer">Agentic sprawl is becoming a real organizational problem. What does responsible AI agent governance even look like?</a>
         </div>
-        <p class="item-summary">Discussion on organizational challenges with agentic sprawl and AI governance.</p>
+        <p class="item-summary">A discussion on organizational challenges and governance of multiple AI agents in production.</p>
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/artificial/comments/1swwa91/agentic_sprawl_is_becoming_a_real_organizational/" target="_blank" rel="noopener noreferrer">r/artificial</a>
           
-          <span class="age">5h ago</span>
+          <span class="age">6h ago</span>
+          <span class="score-bar" title="Quality score: 76/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">76</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://github.com/evanklem/evanflow" target="_blank" rel="noopener noreferrer">EvanFlow – A TDD driven feedback loop for Claude Code</a>
+        </div>
+        <p class="item-summary">A TDD-driven feedback loop tool for Claude Code that appears to be a personal project.</p>
+        <div class="card-meta">
+          <a class="source" href="https://news.ycombinator.com/item?id=47916909" target="_blank" rel="noopener noreferrer">Hacker News</a>
+          <span class="upvotes">▲ 88  💬 42</span>
+          <span class="age">11h ago</span>
           <span class="score-bar" title="Quality score: 70/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">70</span></span>
         </div>
       </div>
       <div class="card">
         <div class="card-header">
-          <a class="card-title" href="https://github.com/canvascomputing/prompting" target="_blank" rel="noopener noreferrer">I built Claude Code skills for writing agent prompts, grounded in prompt research</a>
+          <a class="card-title" href="https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/" target="_blank" rel="noopener noreferrer">OpenAI could be making a phone with AI agents replacing apps</a>
         </div>
-        <p class="item-summary">User-built Claude Code skills for writing agent prompts based on research.</p>
+        <p class="item-summary">Speculation that OpenAI may be developing a phone with AI agents replacing traditional apps.</p>
         <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/ClaudeAI/comments/1swd43v/i_built_claude_code_skills_for_writing_agent/" target="_blank" rel="noopener noreferrer">r/ClaudeAI</a>
+          <a class="source" href="https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/" target="_blank" rel="noopener noreferrer">TechCrunch AI</a>
           
-          <span class="age">19h ago</span>
+          <span class="age">27m ago</span>
           <span class="score-bar" title="Quality score: 70/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">70</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://www.reddit.com/r/ClaudeAI/comments/1swlxqb/running_parallel_claude_code_agents_on_the_same/" target="_blank" rel="noopener noreferrer">Running parallel Claude Code agents on the same repo: how I stopped them from fighting over localhost ports</a>
-        </div>
-        <p class="item-summary">Technical how-to on running parallel Claude Code agents with port management.</p>
-        <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/ClaudeAI/comments/1swlxqb/running_parallel_claude_code_agents_on_the_same/" target="_blank" rel="noopener noreferrer">r/ClaudeAI</a>
-          
-          <span class="age">13h ago</span>
-          <span class="score-bar" title="Quality score: 64/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">64</span></span>
         </div>
       </div>
       </div>
@@ -370,13 +332,37 @@ Developers are addressing practical challenges in AI agent deployment, with emer
       <div class="cards">
       <div class="card">
         <div class="card-header">
+          <a class="card-title" href="https://openai.com/index/next-phase-of-microsoft-partnership" target="_blank" rel="noopener noreferrer">The next phase of the Microsoft OpenAI partnership</a>
+        </div>
+        <p class="item-summary">Official announcement of the next phase of the Microsoft-OpenAI partnership.</p>
+        <div class="card-meta">
+          <a class="source" href="https://openai.com/index/next-phase-of-microsoft-partnership" target="_blank" rel="noopener noreferrer">OpenAI Blog</a>
+          
+          <span class="age">7h ago</span>
+          <span class="score-bar" title="Quality score: 78/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">78</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/" target="_blank" rel="noopener noreferrer">Announcing our partnership with the Republic of Korea</a>
+        </div>
+        <p class="item-summary">Google DeepMind announces a strategic partnership with South Korea.</p>
+        <div class="card-meta">
+          <a class="source" href="https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/" target="_blank" rel="noopener noreferrer">Google DeepMind</a>
+          
+          <span class="age">6h ago</span>
+          <span class="score-bar" title="Quality score: 72/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">72</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
           <a class="card-title" href="https://www.reddit.com/r/OpenAI/comments/1sw8x66/anyone_else_notice_that_the_most_capable_models/" target="_blank" rel="noopener noreferrer">Anyone else notice that the most capable models aren&#x27;t actually available to us anymore?</a>
         </div>
         
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/OpenAI/comments/1sw8x66/anyone_else_notice_that_the_most_capable_models/" target="_blank" rel="noopener noreferrer">r/openai</a>
           
-          <span class="age">22h ago</span>
+          <span class="age">23h ago</span>
           <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
         </div>
       </div>
@@ -388,32 +374,8 @@ Developers are addressing practical challenges in AI agent deployment, with emer
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/OpenAI/comments/1swd8ct/my_chat_history_is_getting_deleted_like_crazy/" target="_blank" rel="noopener noreferrer">r/openai</a>
           
-          <span class="age">19h ago</span>
+          <span class="age">20h ago</span>
           <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://www.reddit.com/r/LocalLLaMA/comments/1swr135/anthropics_claude_remote_uses_glm47/" target="_blank" rel="noopener noreferrer">Anthropic&#x27;s Claude remote uses GLM-4.7</a>
-        </div>
-        
-        <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1swr135/anthropics_claude_remote_uses_glm47/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
-          
-          <span class="age">10h ago</span>
-          <span class="score-bar" title="Quality score: 60/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">60</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://www.reddit.com/r/ClaudeAI/comments/1sw8npc/claude_47_named_a_journalist_from_125_words_of/" target="_blank" rel="noopener noreferrer">Claude 4.7 named a journalist from 125 words of unpublished writing</a>
-        </div>
-        
-        <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/ClaudeAI/comments/1sw8npc/claude_47_named_a_journalist_from_125_words_of/" target="_blank" rel="noopener noreferrer">r/ClaudeAI</a>
-          
-          <span class="age">22h ago</span>
-          <span class="score-bar" title="Quality score: 60/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">60</span></span>
         </div>
       </div>
       </div>
@@ -423,13 +385,61 @@ Developers are addressing practical challenges in AI agent deployment, with emer
       <div class="cards">
       <div class="card">
         <div class="card-header">
+          <a class="card-title" href="https://www.reddit.com/r/LocalLLaMA/comments/1sx2vxp/skymizer_taiwan_inc_unveils_breakthrough/" target="_blank" rel="noopener noreferrer">Skymizer Taiwan Inc. Unveils Breakthrough Architecture Enabling Ultra-Large LLM Inference on a Single Card</a>
+        </div>
+        <p class="item-summary">A company announcement of a technical breakthrough for efficient large LLM inference on single hardware.</p>
+        <div class="card-meta">
+          <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1sx2vxp/skymizer_taiwan_inc_unveils_breakthrough/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
+          
+          <span class="age">39m ago</span>
+          <span class="score-bar" title="Quality score: 74/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">74</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://www.reddit.com/r/MachineLearning/comments/1swuw9g/freshman_in_ml_how_do_you_identify_actually_open/" target="_blank" rel="noopener noreferrer">freshman in ML: how do you identify actually open research problems? [D]</a>
+        </div>
+        
+        <div class="card-meta">
+          <a class="source" href="https://www.reddit.com/r/MachineLearning/comments/1swuw9g/freshman_in_ml_how_do_you_identify_actually_open/" target="_blank" rel="noopener noreferrer">r/MachineLearning</a>
+          
+          <span class="age">7h ago</span>
+          <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://www.reddit.com/r/MachineLearning/comments/1swwsin/value_of_top_conference_workshop_papers_for_phd/" target="_blank" rel="noopener noreferrer">Value of top conference workshop papers for PhD admissios [D]</a>
+        </div>
+        
+        <div class="card-meta">
+          <a class="source" href="https://www.reddit.com/r/MachineLearning/comments/1swwsin/value_of_top_conference_workshop_papers_for_phd/" target="_blank" rel="noopener noreferrer">r/MachineLearning</a>
+          
+          <span class="age">5h ago</span>
+          <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/" target="_blank" rel="noopener noreferrer">Confirmed: SWE Bench is now a benchmaxxed benchmark</a>
+        </div>
+        
+        <div class="card-meta">
+          <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1swfdbj/confirmed_swe_bench_is_now_a_benchmaxxed_benchmark/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
+          
+          <span class="age">19h ago</span>
+          <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
           <a class="card-title" href="https://www.reddit.com/r/artificial/comments/1swt68j/i_published_a_paper_today_that_describes_a/" target="_blank" rel="noopener noreferrer">I published a paper today that describes a specific processing failure in AI systems — one that disproportionately affects neurodivergent users</a>
         </div>
         
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/artificial/comments/1swt68j/i_published_a_paper_today_that_describes_a/" target="_blank" rel="noopener noreferrer">r/artificial</a>
           
-          <span class="age">8h ago</span>
+          <span class="age">9h ago</span>
           <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
         </div>
       </div>
@@ -440,14 +450,26 @@ Developers are addressing practical challenges in AI agent deployment, with emer
       <div class="cards">
       <div class="card">
         <div class="card-header">
+          <a class="card-title" href="https://github.com/dirac-run/dirac" target="_blank" rel="noopener noreferrer">Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview</a>
+        </div>
+        <p class="item-summary">An open-source agent project achieving top performance on TerminalBench with Gemini models.</p>
+        <div class="card-meta">
+          <a class="source" href="https://news.ycombinator.com/item?id=47920787" target="_blank" rel="noopener noreferrer">Hacker News</a>
+          <span class="upvotes">▲ 42  💬 13</span>
+          <span class="age">1h ago</span>
+          <span class="score-bar" title="Quality score: 78/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">78</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
           <a class="card-title" href="https://github.com/sachitrafa/YourMemory" target="_blank" rel="noopener noreferrer">Show HN: AI memory with biological decay (52% recall)</a>
         </div>
-        <p class="item-summary">Show HN: AI memory system with biological decay achieving 52% recall.</p>
+        <p class="item-summary">An open-source project implementing biological decay patterns in AI memory systems.</p>
         <div class="card-meta">
           <a class="source" href="https://news.ycombinator.com/item?id=47914367" target="_blank" rel="noopener noreferrer">Hacker News</a>
           <span class="upvotes">▲ 90  💬 38</span>
-          <span class="age">15h ago</span>
-          <span class="score-bar" title="Quality score: 72/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">72</span></span>
+          <span class="age">16h ago</span>
+          <span class="score-bar" title="Quality score: 66/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">66</span></span>
         </div>
       </div>
       </div>
@@ -457,26 +479,50 @@ Developers are addressing practical challenges in AI agent deployment, with emer
       <div class="cards">
       <div class="card">
         <div class="card-header">
+          <a class="card-title" href="https://www.reddit.com/r/MachineLearning/comments/1swxx1v/three_limitations_i_keep_hitting_with/" target="_blank" rel="noopener noreferrer">Three limitations I keep hitting with retrieval-augmented generation in production and I&#x27;m running out of ideas [D]</a>
+        </div>
+        <p class="item-summary">Discussion of production limitations encountered with retrieval-augmented generation systems.</p>
+        <div class="card-meta">
+          <a class="source" href="https://www.reddit.com/r/MachineLearning/comments/1swxx1v/three_limitations_i_keep_hitting_with/" target="_blank" rel="noopener noreferrer">r/MachineLearning</a>
+          
+          <span class="age">4h ago</span>
+          <span class="score-bar" title="Quality score: 70/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">70</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
           <a class="card-title" href="https://www.reddit.com/r/MachineLearning/comments/1swfftl/speculative_decoding_implementations_eagle3/" target="_blank" rel="noopener noreferrer">Speculative Decoding Implementations: EAGLE-3, Medusa-1, PARD, Draft Models, N-gram and Suffix Decoding from scratch [P]</a>
         </div>
-        <p class="item-summary">Technical resource on speculative decoding implementations including EAGLE-3 and Medusa-1.</p>
+        
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/MachineLearning/comments/1swfftl/speculative_decoding_implementations_eagle3/" target="_blank" rel="noopener noreferrer">r/MachineLearning</a>
           
-          <span class="age">18h ago</span>
-          <span class="score-bar" title="Quality score: 74/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">74</span></span>
+          <span class="age">19h ago</span>
+          <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://www.reddit.com/r/MachineLearning/comments/1sx35es/int8_quantization_gives_me_better_accuracy_than/" target="_blank" rel="noopener noreferrer">INT8 quantization gives me better accuracy than FP16 ! [D]</a>
+        </div>
+        
+        <div class="card-meta">
+          <a class="source" href="https://www.reddit.com/r/MachineLearning/comments/1sx35es/int8_quantization_gives_me_better_accuracy_than/" target="_blank" rel="noopener noreferrer">r/MachineLearning</a>
+          
+          <span class="age">29m ago</span>
+          <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
         </div>
       </div>
       <div class="card">
         <div class="card-header">
           <a class="card-title" href="https://www.reddit.com/r/LocalLLaMA/comments/1swpsv0/amd_hipfire_a_new_inference_engine_optimized_for/" target="_blank" rel="noopener noreferrer">AMD Hipfire - a new inference engine optimized for AMD GPU&#x27;s</a>
         </div>
-        <p class="item-summary">AMD Hipfire, a new inference engine optimized for AMD GPUs.</p>
+        
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1swpsv0/amd_hipfire_a_new_inference_engine_optimized_for/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
           
-          <span class="age">10h ago</span>
-          <span class="score-bar" title="Quality score: 68/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">68</span></span>
+          <span class="age">11h ago</span>
+          <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
         </div>
       </div>
       <div class="card">
@@ -486,18 +532,6 @@ Developers are addressing practical challenges in AI agent deployment, with emer
         
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1sw8uyf/are_unsloth_models_as_good_as_i_read/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
-          
-          <span class="age">22h ago</span>
-          <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://www.reddit.com/r/LocalLLaMA/comments/1sw7e0g/hardware_choice_for_27b_to_31b_models/" target="_blank" rel="noopener noreferrer">Hardware Choice for 27b to 31b models.</a>
-        </div>
-        
-        <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1sw7e0g/hardware_choice_for_27b_to_31b_models/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
           
           <span class="age">23h ago</span>
           <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
@@ -511,19 +545,7 @@ Developers are addressing practical challenges in AI agent deployment, with emer
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1swwns0/turboocr_update_layout_model_multilingual/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
           
-          <span class="age">5h ago</span>
-          <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://www.reddit.com/r/artificial/comments/1swy11q/i_tested_the_same_prompt_across_multiple_ai/" target="_blank" rel="noopener noreferrer">I tested the same prompt across multiple AI models… the differences surprised me</a>
-        </div>
-        
-        <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/artificial/comments/1swy11q/i_tested_the_same_prompt_across_multiple_ai/" target="_blank" rel="noopener noreferrer">r/artificial</a>
-          
-          <span class="age">3h ago</span>
+          <span class="age">6h ago</span>
           <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
         </div>
       </div>
