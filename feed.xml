@@ -5,23 +5,15 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Apr 2026 14:47:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 15:41:28 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>🚨 TODAY: OpenAI expands its partnership with AWS, bringing its models, Codex, and Amazon Bedrock Managed Agents powered by OpenAI to AWS in limited preview.</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1synx9k/today_openai_expands_its_partnership_with_aws/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/OpenAI/comments/1synx9k/today_openai_expands_its_partnership_with_aws/</guid>
-      <pubDate>Wed, 29 Apr 2026 04:04:54 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 94/100<br/><b>Source:</b> r/openai<br/><br/>OpenAI expands partnership with AWS to bring models and managed agents to Amazon Bedrock.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
     <item>
       <title>OpenAI models, Codex, and Managed Agents come to AWS</title>
       <link>https://openai.com/index/openai-on-aws</link>
       <guid isPermaLink="true">https://openai.com/index/openai-on-aws</guid>
       <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 94/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI officially announces availability of its models and managed agents on AWS platform.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 94/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces major partnership with AWS for model deployment on Bedrock platform.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Claude for Creative Work</title>
@@ -29,7 +21,15 @@
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-for-creative-work</guid>
       <pubDate>Tue, 28 Apr 2026 23:46:56 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic announces Claude capabilities and positioning for creative work applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic announces Claude capabilities and features for creative work applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>🚨 TODAY: OpenAI expands its partnership with AWS, bringing its models, Codex, and Amazon Bedrock Managed Agents powered by OpenAI to AWS in limited preview.</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1synx9k/today_openai_expands_its_partnership_with_aws/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/OpenAI/comments/1synx9k/today_openai_expands_its_partnership_with_aws/</guid>
+      <pubDate>Wed, 29 Apr 2026 04:04:54 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 88/100<br/><b>Source:</b> r/openai<br/><br/>OpenAI expands partnership with AWS to bring models and agents to Amazon Bedrock.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs</title>
@@ -37,7 +37,7 @@
       <guid isPermaLink="true">https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/</guid>
       <pubDate>Tue, 28 Apr 2026 19:24:43 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Interview with OpenAI and AWS CEOs discussing the Bedrock managed agents partnership.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Interview with OpenAI and AWS CEOs discussing Bedrock Managed Agents partnership.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Google just released Deep Research Max — an autonomous research agent that writes expert-grade reports on its own</title>
@@ -48,20 +48,20 @@
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/artificial<br/><br/>Google releases Deep Research Max, an autonomous research agent for generating expert reports.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
+      <title>Mistral Medium 3.5</title>
+      <link>https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5</link>
+      <guid isPermaLink="true">https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5</guid>
+      <pubDate>Wed, 29 Apr 2026 15:17:46 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Mistral releases Medium 3.5 model with remote agent capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
       <title>OpenAI Partners With MediaTek, Qualcomm on AI Agent Phone</title>
       <link>https://www.chosun.com/english/industry-en/2026/04/29/D7NMNQD2N5DXLOV7JSFHCX4NFU/</link>
       <guid isPermaLink="true">https://www.chosun.com/english/industry-en/2026/04/29/D7NMNQD2N5DXLOV7JSFHCX4NFU/</guid>
       <pubDate>Tue, 28 Apr 2026 15:41:50 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/artificial<br/><br/>OpenAI partners with MediaTek and Qualcomm on AI agent-powered phone development.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Study: 2x+ coding performance of 7B model without touching the coding agent</title>
-      <link>https://i.redd.it/u7tp3wiik1yg1.png</link>
-      <guid isPermaLink="true">https://i.redd.it/u7tp3wiik1yg1.png</guid>
-      <pubDate>Wed, 29 Apr 2026 02:54:04 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Research study demonstrates 2x coding performance improvement for 7B parameter model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/artificial<br/><br/>OpenAI partners with MediaTek and Qualcomm on AI agent phone development.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Our commitment to community safety</title>
@@ -69,7 +69,7 @@
       <guid isPermaLink="true">https://openai.com/index/our-commitment-to-community-safety</guid>
       <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI publishes statement on community safety commitments and practices.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI publishes statement on community safety commitments.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Cybersecurity in the Intelligence Age</title>
@@ -77,7 +77,7 @@
       <guid isPermaLink="true">https://openai.com/index/cybersecurity-in-the-intelligence-age</guid>
       <pubDate>Wed, 29 Apr 2026 04:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI publishes analysis of cybersecurity implications in the AI intelligence era.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI publishes perspective on cybersecurity in the age of AI systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Letting AI play my game – building an agentic test harness to help play-testing</title>
@@ -85,7 +85,15 @@
       <guid isPermaLink="true">https://blog.jeffschomay.com/letting-ai-play-my-game</guid>
       <pubDate>Wed, 29 Apr 2026 12:43:12 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Developer describes using AI as a test harness for game play-testing, a technical how-to rather than news.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Developer describes building an agentic test harness to use AI for game play-testing.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>AI&apos;s economics don&apos;t make sense</title>
+      <link>https://www.wheresyoured.at/ais-economics-dont-make-sense/</link>
+      <guid isPermaLink="true">https://www.wheresyoured.at/ais-economics-dont-make-sense/</guid>
+      <pubDate>Tue, 28 Apr 2026 16:39:53 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Analysis piece examining the economic challenges and sustainability of current AI business models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Snapchat moves ads into chats with AI agents designed to feel like conversation</title>
@@ -93,23 +101,63 @@
       <guid isPermaLink="true">https://interestingengineering.com/ai-robotics/snapchat-ai-sponsored-snaps-chat-ads</guid>
       <pubDate>Wed, 29 Apr 2026 03:54:35 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/artificial<br/><br/>Snapchat integrates AI agents into chat interface for advertising purposes.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/artificial<br/><br/>Snapchat integrates AI agents into chat for advertising purposes.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Your Claude Code project dashboard is now on the Mac App Store</title>
-      <link>https://www.storybloq.com/</link>
-      <guid isPermaLink="true">https://www.storybloq.com/</guid>
-      <pubDate>Wed, 29 Apr 2026 03:13:42 +0000</pubDate>
+      <title>Run, learn and test Agentic AI on your browser, for free and no setup!</title>
+      <link>https://i.redd.it/4gi1ke7qw4yg1.png</link>
+      <guid isPermaLink="true">https://i.redd.it/4gi1ke7qw4yg1.png</guid>
+      <pubDate>Wed, 29 Apr 2026 13:53:13 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Claude Code project dashboard released on Mac App Store, incremental product update.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/artificial<br/><br/>Tool or service for running agentic AI experiments in a browser without setup.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>llama.cpp benchmark native vs. non native NVFP4 on Blackwell - summary</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1syxckc/llamacpp_benchmark_native_vs_non_native_nvfp4_on/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1syxckc/llamacpp_benchmark_native_vs_non_native_nvfp4_on/</guid>
-      <pubDate>Wed, 29 Apr 2026 12:27:37 +0000</pubDate>
+      <title>Study: 2x+ coding performance of 7B model without touching the coding agent</title>
+      <link>https://i.redd.it/u7tp3wiik1yg1.png</link>
+      <guid isPermaLink="true">https://i.redd.it/u7tp3wiik1yg1.png</guid>
+      <pubDate>Wed, 29 Apr 2026 02:54:04 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 66/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Technical benchmark comparing llama.cpp native and non-native implementations on Blackwell hardware.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Research study shows 2x coding performance improvement in 7B parameter model through optimization.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>87% Cost Savings &amp; Sub-3s Latency: I built a &quot;Warm-Cache&quot; harness for persistent Claude agents.</title>
+      <link>https://www.reddit.com/r/artificial/comments/1syw5al/87_cost_savings_sub3s_latency_i_built_a_warmcache/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1syw5al/87_cost_savings_sub3s_latency_i_built_a_warmcache/</guid>
+      <pubDate>Wed, 29 Apr 2026 11:33:35 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> r/artificial<br/><br/>Developer describes optimization technique achieving 87% cost savings for persistent Claude agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>An interactive semantic map of the latest 10 million published papers [P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1sz14mi/an_interactive_semantic_map_of_the_latest_10/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1sz14mi/an_interactive_semantic_map_of_the_latest_10/</guid>
+      <pubDate>Wed, 29 Apr 2026 14:53:29 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>What is the scientific value of administering the standard Rorschach test to LLMs when the training data is almost certainly contaminated? (R) + [D]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1syc6ee/what_is_the_scientific_value_of_administering_the/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1syc6ee/what_is_the_scientific_value_of_administering_the/</guid>
+      <pubDate>Tue, 28 Apr 2026 19:50:10 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>The Structured Output Benchmark (SOB) - validates both JSON parse and value accuracy [R]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1syepnz/the_structured_output_benchmark_sob_validates/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1syepnz/the_structured_output_benchmark_sob_validates/</guid>
+      <pubDate>Tue, 28 Apr 2026 21:22:09 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Stanford Paper review [D]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1sz0yy8/stanford_paper_review_d/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1sz0yy8/stanford_paper_review_d/</guid>
+      <pubDate>Wed, 29 Apr 2026 14:47:41 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Topological Data Analysis-friendly CAD/3D point cloud dataset [P]</title>
@@ -118,54 +166,6 @@
       <pubDate>Tue, 28 Apr 2026 18:17:12 +0000</pubDate>
       <category>Research &amp; Papers</category>
       <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>XiaomiMiMo MiMo-V2.5 (not pro) - Architecture: Sparse MoE (Mixture of Experts), 310B total / 15B activated parameters</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sy9u3h/xiaomimimo_mimov25_not_pro_architecture_sparse/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sy9u3h/xiaomimimo_mimov25_not_pro_architecture_sparse/</guid>
-      <pubDate>Tue, 28 Apr 2026 18:27:13 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Benchmarking Local LLM/Harness Combinations</title>
-      <link>https://neuralnoise.com/2026/harness-bench-wip/?bare</link>
-      <guid isPermaLink="true">https://neuralnoise.com/2026/harness-bench-wip/?bare</guid>
-      <pubDate>Tue, 28 Apr 2026 16:38:45 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>How are they able to charge ~50% less than Lovable if they’re using the same models?</title>
-      <link>https://www.reddit.com/r/artificial/comments/1syk2ro/how_are_they_able_to_charge_50_less_than_lovable/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1syk2ro/how_are_they_able_to_charge_50_less_than_lovable/</guid>
-      <pubDate>Wed, 29 Apr 2026 01:07:58 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Building an AI that does institutional-grade equity research for retail investors would you actually use it?</title>
-      <link>https://www.reddit.com/r/artificial/comments/1sya00f/building_an_ai_that_does_institutionalgrade/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1sya00f/building_an_ai_that_does_institutionalgrade/</guid>
-      <pubDate>Tue, 28 Apr 2026 18:32:58 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Really do like this new image model</title>
-      <link>https://i.redd.it/mfjzedjh73yg1.png</link>
-      <guid isPermaLink="true">https://i.redd.it/mfjzedjh73yg1.png</guid>
-      <pubDate>Wed, 29 Apr 2026 08:07:15 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Open source package with 1 million monthly downloads stole user credentials</title>
-      <link>https://arstechnica.com/security/2026/04/open-source-package-with-1-million-monthly-downloads-stole-user-credentials/</link>
-      <guid isPermaLink="true">https://arstechnica.com/security/2026/04/open-source-package-with-1-million-monthly-downloads-stole-user-credentials/</guid>
-      <pubDate>Mon, 27 Apr 2026 21:04:03 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 65/100<br/><b>Source:</b> Ars Technica<br/><br/>If you&apos;re one of millions using element-data, it&apos;s time to check for compromise.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
