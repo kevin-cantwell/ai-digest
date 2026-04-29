@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Apr 2026 00:41:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 01:38:22 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>OpenAI models, Codex, and Managed Agents come to AWS</title>
@@ -13,7 +13,23 @@
       <guid isPermaLink="true">https://openai.com/index/openai-on-aws</guid>
       <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 88/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI models and Managed Agents become available on AWS cloud platform.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 88/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI&apos;s models and managed agents now available on AWS platform.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Claude system prompt bug wastes user money and bricks managed agents</title>
+      <link>https://github.com/anthropics/claude-code/issues/49363</link>
+      <guid isPermaLink="true">https://github.com/anthropics/claude-code/issues/49363</guid>
+      <pubDate>Tue, 28 Apr 2026 23:59:57 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>A bug in Claude&apos;s system prompt causes managed agents to fail and waste user API tokens.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Claude for Creative Work</title>
+      <link>https://www.anthropic.com/news/claude-for-creative-work</link>
+      <guid isPermaLink="true">https://www.anthropic.com/news/claude-for-creative-work</guid>
+      <pubDate>Tue, 28 Apr 2026 23:46:56 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic announces Claude capabilities and applications for creative work.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs</title>
@@ -21,7 +37,7 @@
       <guid isPermaLink="true">https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/</guid>
       <pubDate>Tue, 28 Apr 2026 19:24:43 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Strategic interview with OpenAI and AWS CEOs on Bedrock Managed Agents partnership.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Interview with OpenAI and AWS CEOs discussing integration of OpenAI models on Amazon Bedrock.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>OpenAI could be making a phone with AI agents replacing apps</title>
@@ -29,47 +45,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/</guid>
       <pubDate>Mon, 27 Apr 2026 13:08:59 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI developing phone with AI agents replacing traditional applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>The next phase of the Microsoft OpenAI partnership</title>
-      <link>https://openai.com/index/next-phase-of-microsoft-partnership</link>
-      <guid isPermaLink="true">https://openai.com/index/next-phase-of-microsoft-partnership</guid>
-      <pubDate>Mon, 27 Apr 2026 06:00:00 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Microsoft and OpenAI announce next phase of strategic partnership.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>VibeVoice: Open-source frontier voice AI</title>
-      <link>https://github.com/microsoft/VibeVoice</link>
-      <guid isPermaLink="true">https://github.com/microsoft/VibeVoice</guid>
-      <pubDate>Tue, 28 Apr 2026 11:56:04 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Microsoft releases VibeVoice, an open-source voice AI frontier model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>OpenAI Partners With MediaTek, Qualcomm on AI Agent Phone</title>
-      <link>https://www.chosun.com/english/industry-en/2026/04/29/D7NMNQD2N5DXLOV7JSFHCX4NFU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/english/industry-en/2026/04/29/D7NMNQD2N5DXLOV7JSFHCX4NFU/</guid>
-      <pubDate>Tue, 28 Apr 2026 15:41:50 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/artificial<br/><br/>OpenAI partners with MediaTek and Qualcomm on AI agent phone development.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>PullMD - gave Claude Code an MCP server so it stops burning tokens parsing HTML</title>
-      <link>https://i.redd.it/vu0jdtms3xxg1.png</link>
-      <guid isPermaLink="true">https://i.redd.it/vu0jdtms3xxg1.png</guid>
-      <pubDate>Tue, 28 Apr 2026 12:12:09 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>PullMD tool adds MCP server integration to Claude Code to reduce token consumption.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Claude Code just added mobile push notifications to Remote Control you can now get pinged on your phone when a long task finishes</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1sy9w0x/claude_code_just_added_mobile_push_notifications/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1sy9w0x/claude_code_just_added_mobile_push_notifications/</guid>
-      <pubDate>Tue, 28 Apr 2026 18:29:09 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Claude Code adds mobile push notifications for task completion alerts.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> TechCrunch AI<br/><br/>TechCrunch reports OpenAI is developing a phone with AI agents replacing traditional applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>OpenAI available at FedRAMP Moderate</title>
@@ -77,15 +53,23 @@
       <guid isPermaLink="true">https://openai.com/index/openai-available-at-fedramp-moderate</guid>
       <pubDate>Mon, 27 Apr 2026 14:00:00 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI achieves FedRAMP Moderate compliance certification.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI achieves FedRAMP Moderate authorization for compliance with federal security requirements.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>AI&apos;s economics don&apos;t make sense</title>
-      <link>https://www.wheresyoured.at/ais-economics-dont-make-sense/</link>
-      <guid isPermaLink="true">https://www.wheresyoured.at/ais-economics-dont-make-sense/</guid>
-      <pubDate>Tue, 28 Apr 2026 16:39:53 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Economic analysis of AI industry business model sustainability.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>The next phase of the Microsoft OpenAI partnership</title>
+      <link>https://openai.com/index/next-phase-of-microsoft-partnership</link>
+      <guid isPermaLink="true">https://openai.com/index/next-phase-of-microsoft-partnership</guid>
+      <pubDate>Mon, 27 Apr 2026 06:00:00 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces next phase of strategic partnership with Microsoft.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>VibeVoice: Open-source frontier voice AI</title>
+      <link>https://github.com/microsoft/VibeVoice</link>
+      <guid isPermaLink="true">https://github.com/microsoft/VibeVoice</guid>
+      <pubDate>Tue, 28 Apr 2026 11:56:04 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Microsoft releases VibeVoice, an open-source voice AI model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Who owns the code Claude Code wrote?</title>
@@ -93,23 +77,47 @@
       <guid isPermaLink="true">https://legallayer.substack.com/p/who-owns-the-claude-code-wrote</guid>
       <pubDate>Tue, 28 Apr 2026 11:24:52 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Legal analysis of intellectual property ownership for code generated by Claude Code.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Legal analysis of intellectual property ownership for code generated by Claude Code.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>LingBot-Map: Streaming 3D reconstruction with geometric context transformer</title>
-      <link>https://technology.robbyant.com/lingbot-map</link>
-      <guid isPermaLink="true">https://technology.robbyant.com/lingbot-map</guid>
-      <pubDate>Tue, 28 Apr 2026 03:27:40 +0000</pubDate>
+      <title>OpenAI Partners With MediaTek, Qualcomm on AI Agent Phone</title>
+      <link>https://www.chosun.com/english/industry-en/2026/04/29/D7NMNQD2N5DXLOV7JSFHCX4NFU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/english/industry-en/2026/04/29/D7NMNQD2N5DXLOV7JSFHCX4NFU/</guid>
+      <pubDate>Tue, 28 Apr 2026 15:41:50 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/artificial<br/><br/>OpenAI partners with MediaTek and Qualcomm on AI agent-based smartphone development.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Claude.ai unavailable and elevated errors on the API</title>
+      <link>https://status.claude.com/incidents/9l93x2ht4s5w</link>
+      <guid isPermaLink="true">https://status.claude.com/incidents/9l93x2ht4s5w</guid>
+      <pubDate>Tue, 28 Apr 2026 18:01:21 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 74/100<br/><b>Source:</b> Hacker News<br/><br/>Claude.ai experienced service unavailability and elevated API errors.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Claude Code just added mobile push notifications to Remote Control you can now get pinged on your phone when a long task finishes</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1sy9w0x/claude_code_just_added_mobile_push_notifications/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1sy9w0x/claude_code_just_added_mobile_push_notifications/</guid>
+      <pubDate>Tue, 28 Apr 2026 18:29:09 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Claude Code added mobile push notifications to Remote Control feature.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Quoting OpenAI Codex base_instructions</title>
+      <link>https://simonwillison.net/2026/Apr/28/openai-codex/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/28/openai-codex/#atom-everything</guid>
+      <pubDate>Tue, 28 Apr 2026 22:02:53 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 74/100<br/><b>Source:</b> Simon Willison<br/><br/>Documentation of OpenAI Codex base instructions discovered in public sources.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Our commitment to community safety</title>
+      <link>https://openai.com/index/our-commitment-to-community-safety</link>
+      <guid isPermaLink="true">https://openai.com/index/our-commitment-to-community-safety</guid>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> Hacker News<br/><br/>LingBot-Map presents streaming 3D reconstruction with geometric context transformer.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Show HN: AgentSwift – Open-source iOS builder agent</title>
-      <link>https://github.com/hpennington/agentswift</link>
-      <guid isPermaLink="true">https://github.com/hpennington/agentswift</guid>
-      <pubDate>Tue, 28 Apr 2026 01:14:31 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 68/100<br/><b>Source:</b> Hacker News<br/><br/>AgentSwift, open-source iOS builder agent released on GitHub.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI publishes statement on community safety commitments.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Announcing our partnership with the Republic of Korea</title>
@@ -117,13 +125,21 @@
       <guid isPermaLink="true">https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/</guid>
       <pubDate>Mon, 27 Apr 2026 07:00:06 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> Google DeepMind<br/><br/>Google DeepMind announces partnership with Republic of Korea.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> Google DeepMind<br/><br/>Google DeepMind announces partnership with the Republic of Korea on AI development.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Dynamic batching for Encoder-Decoder MT training or generation when long sequence caps the batch size [P]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1sy01uz/dynamic_batching_for_encoderdecoder_mt_training/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1sy01uz/dynamic_batching_for_encoderdecoder_mt_training/</guid>
-      <pubDate>Tue, 28 Apr 2026 12:31:50 +0000</pubDate>
+      <title>LingBot-Map: Streaming 3D reconstruction with geometric context transformer</title>
+      <link>https://technology.robbyant.com/lingbot-map</link>
+      <guid isPermaLink="true">https://technology.robbyant.com/lingbot-map</guid>
+      <pubDate>Tue, 28 Apr 2026 03:27:40 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>What is the scientific value of administering the standard Rorschach test to LLMs when the training data is almost certainly contaminated? (R) + [D]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1syc6ee/what_is_the_scientific_value_of_administering_the/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1syc6ee/what_is_the_scientific_value_of_administering_the/</guid>
+      <pubDate>Tue, 28 Apr 2026 19:50:10 +0000</pubDate>
       <category>Research &amp; Papers</category>
       <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
@@ -136,10 +152,10 @@
       <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Fast experiment on T4 GPU. Self play training on Dark Hex (Colab notebook) [P]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1sy3c93/fast_experiment_on_t4_gpu_self_play_training_on/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1sy3c93/fast_experiment_on_t4_gpu_self_play_training_on/</guid>
-      <pubDate>Tue, 28 Apr 2026 14:40:00 +0000</pubDate>
+      <title>Dynamic batching for Encoder-Decoder MT training or generation when long sequence caps the batch size [P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1sy01uz/dynamic_batching_for_encoderdecoder_mt_training/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1sy01uz/dynamic_batching_for_encoderdecoder_mt_training/</guid>
+      <pubDate>Tue, 28 Apr 2026 12:31:50 +0000</pubDate>
       <category>Research &amp; Papers</category>
       <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
@@ -150,22 +166,6 @@
       <pubDate>Tue, 28 Apr 2026 12:54:33 +0000</pubDate>
       <category>Research &amp; Papers</category>
       <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Topological Data Analysis-friendly CAD/3D point cloud dataset [P]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1sy9jt3/topological_data_analysisfriendly_cad3d_point/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1sy9jt3/topological_data_analysisfriendly_cad3d_point/</guid>
-      <pubDate>Tue, 28 Apr 2026 18:17:12 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Local model on coding has reached a certain threshold to be feasible for real work</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1sxn7x2/local_model_on_coding_has_reached_a_certain/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1sxn7x2/local_model_on_coding_has_reached_a_certain/</guid>
-      <pubDate>Tue, 28 Apr 2026 01:32:36 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
