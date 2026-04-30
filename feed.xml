@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Apr 2026 06:55:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 07:48:19 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Mistral Medium 3.5</title>
@@ -21,7 +21,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1syxef3/google_just_released_deep_research_max_an/</guid>
       <pubDate>Wed, 29 Apr 2026 12:29:52 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/artificial<br/><br/>Google releases Deep Research Max, an autonomous research agent.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/artificial<br/><br/>Google releases Deep Research Max, an autonomous agent for generating research reports.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Building the compute infrastructure for the Intelligence Age</title>
@@ -29,7 +29,7 @@
       <guid isPermaLink="true">https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age</guid>
       <pubDate>Wed, 29 Apr 2026 15:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI discusses compute infrastructure strategy for AI systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI blog post on infrastructure strategy for supporting large-scale AI systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Microsoft says it has over 20M paid Copilot users, and they really are using it</title>
@@ -37,7 +37,15 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/04/29/microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are-using-it/</guid>
       <pubDate>Wed, 29 Apr 2026 23:02:23 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 78/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Microsoft reports 20M+ paid Copilot users with usage metrics.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 78/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Microsoft reports 20M+ paid Copilot users with evidence of active engagement.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>The Abstraction Fallacy: Why AI can simulate but not instantiate consciousness</title>
+      <link>https://deepmind.google/research/publications/231971/</link>
+      <guid isPermaLink="true">https://deepmind.google/research/publications/231971/</guid>
+      <pubDate>Wed, 29 Apr 2026 17:30:15 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>DeepMind research publication on consciousness simulation versus instantiation in AI systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>I tested Claude + Blender MCP for real 3D workflows and here&apos;s the honest result</title>
@@ -45,31 +53,31 @@
       <guid isPermaLink="true">https://v.redd.it/jjgznl0al4yg1</guid>
       <pubDate>Wed, 29 Apr 2026 12:47:09 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Practical evaluation of Claude with Blender integration for 3D workflows.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Honest evaluation of Claude with Blender MCP for practical 3D workflows.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Anthropic&apos;s Champion Kit for engineers pushing Claude Code at their company</title>
-      <link>https://code.claude.com/docs/en/champion-kit</link>
-      <guid isPermaLink="true">https://code.claude.com/docs/en/champion-kit</guid>
-      <pubDate>Wed, 29 Apr 2026 07:02:59 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 74/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic releases Champion Kit for internal Claude Code adoption.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>llama.cpp benchmark native vs. non native NVFP4 on Blackwell - summary</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1syxckc/llamacpp_benchmark_native_vs_non_native_nvfp4_on/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1syxckc/llamacpp_benchmark_native_vs_non_native_nvfp4_on/</guid>
-      <pubDate>Wed, 29 Apr 2026 12:27:37 +0000</pubDate>
+      <title>AI Safety Researcher: I wrote about neuralese as a cautionary tale ... AI Researchers: At long last, we invented neuralese from the classic paper, Don&apos;t Let The Machines Speak In Neuralese</title>
+      <link>https://i.redd.it/luzhbet125yg1.png</link>
+      <guid isPermaLink="true">https://i.redd.it/luzhbet125yg1.png</guid>
+      <pubDate>Wed, 29 Apr 2026 14:20:19 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 72/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Benchmark comparison of llama.cpp NVFP4 performance on new hardware.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/openai<br/><br/>Discussion of AI safety research on interpretability (neuralese) and its convergence with academic work.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Cybersecurity in the Intelligence Age</title>
-      <link>https://openai.com/index/cybersecurity-in-the-intelligence-age</link>
-      <guid isPermaLink="true">https://openai.com/index/cybersecurity-in-the-intelligence-age</guid>
-      <pubDate>Wed, 29 Apr 2026 04:00:00 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI addresses cybersecurity implications of AI deployment.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Quoting OpenAI Codex base_instructions</title>
+      <link>https://simonwillison.net/2026/Apr/28/openai-codex/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/28/openai-codex/#atom-everything</guid>
+      <pubDate>Tue, 28 Apr 2026 22:02:53 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 74/100<br/><b>Source:</b> Simon Willison<br/><br/>Technical documentation analysis of OpenAI Codex system instructions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>87% Cost Savings &amp; Sub-3s Latency: I built a &quot;Warm-Cache&quot; harness for persistent Claude agents.</title>
+      <link>https://www.reddit.com/r/artificial/comments/1syw5al/87_cost_savings_sub3s_latency_i_built_a_warmcache/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1syw5al/87_cost_savings_sub3s_latency_i_built_a_warmcache/</guid>
+      <pubDate>Wed, 29 Apr 2026 11:33:35 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 72/100<br/><b>Source:</b> r/artificial<br/><br/>Developer describes optimization technique for persistent Claude agents achieving significant cost and latency improvements.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Ramp&apos;s Sheets AI Exfiltrates Financials</title>
@@ -77,7 +85,7 @@
       <guid isPermaLink="true">https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials</guid>
       <pubDate>Wed, 29 Apr 2026 17:44:21 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Security vulnerability in Ramp&apos;s Sheets AI leaking financial data.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Security vulnerability analysis of Ramp&apos;s Sheets AI product exposing financial data.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Letting AI play my game – building an agentic test harness to help play-testing</title>
@@ -85,7 +93,7 @@
       <guid isPermaLink="true">https://blog.jeffschomay.com/letting-ai-play-my-game</guid>
       <pubDate>Wed, 29 Apr 2026 12:43:12 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Developer describes using AI agents for game playtesting.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Developer describes using AI agents as a playtesting tool for game development.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Fully 3D-modeled Raspberry Pi 5 enclosure made 100% through Claude&apos;s Blender MCP, zero manual modeling</title>
@@ -93,7 +101,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1sz748q/fully_3dmodeled_raspberry_pi_5_enclosure_made_100/</guid>
       <pubDate>Wed, 29 Apr 2026 18:23:09 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Developer demonstrates Claude generating a 3D model via Blender MCP.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>User reports successfully generating a 3D model using Claude&apos;s Blender integration.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>How Anthropic teams use Claude Code</title>
@@ -101,7 +109,31 @@
       <guid isPermaLink="true">https://claude.com/blog/how-anthropic-teams-use-claude-code</guid>
       <pubDate>Thu, 30 Apr 2026 02:58:26 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Overview of how Anthropic teams use Claude Code internally.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Report on how Anthropic internally uses Claude Code.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>llama.cpp benchmark native vs. non native NVFP4 on Blackwell - summary</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1syxckc/llamacpp_benchmark_native_vs_non_native_nvfp4_on/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1syxckc/llamacpp_benchmark_native_vs_non_native_nvfp4_on/</guid>
+      <pubDate>Wed, 29 Apr 2026 12:27:37 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 66/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Performance benchmark comparing llama.cpp implementations on NVIDIA Blackwell hardware.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Cybersecurity in the Intelligence Age</title>
+      <link>https://openai.com/index/cybersecurity-in-the-intelligence-age</link>
+      <guid isPermaLink="true">https://openai.com/index/cybersecurity-in-the-intelligence-age</guid>
+      <pubDate>Wed, 29 Apr 2026 04:00:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI discusses cybersecurity implications and strategies in the era of advanced AI.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>A grounded conceptual model for ownership types in Rust</title>
+      <link>https://cacm.acm.org/research-highlights/a-grounded-conceptual-model-for-ownership-types-in-rust/</link>
+      <guid isPermaLink="true">https://cacm.acm.org/research-highlights/a-grounded-conceptual-model-for-ownership-types-in-rust/</guid>
+      <pubDate>Thu, 30 Apr 2026 01:47:19 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 65/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>An interactive semantic map of the latest 10 million published papers [P]</title>
@@ -134,38 +166,6 @@
       <pubDate>Wed, 29 Apr 2026 15:57:39 +0000</pubDate>
       <category>Research &amp; Papers</category>
       <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Introducing the IBM Granite 4.1 family of models (3B/8B/30B)</title>
-      <link>https://research.ibm.com/blog/granite-4-1-ai-foundation-models</link>
-      <guid isPermaLink="true">https://research.ibm.com/blog/granite-4-1-ai-foundation-models</guid>
-      <pubDate>Wed, 29 Apr 2026 15:27:58 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>PS5’s can now be hacked to run Linux - perhaps some potential for local inference?</title>
-      <link>https://www.tomshardware.com/software/linux/ps5-linux-loadr-goes-public-turning-phat-consoles-into-full-linux-pcs</link>
-      <guid isPermaLink="true">https://www.tomshardware.com/software/linux/ps5-linux-loadr-goes-public-turning-phat-consoles-into-full-linux-pcs</guid>
-      <pubDate>Wed, 29 Apr 2026 15:22:20 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>I benchmarked caveman against the prompt &quot;be brief&quot;</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1sytl0c/i_benchmarked_caveman_against_the_prompt_be_brief/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1sytl0c/i_benchmarked_caveman_against_the_prompt_be_brief/</guid>
-      <pubDate>Wed, 29 Apr 2026 09:16:06 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Amazon’s cloud business is surging — and so is its capital spending</title>
-      <link>https://techcrunch.com/2026/04/29/amazons-cloud-business-is-surging-and-so-is-its-capital-spending/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/04/29/amazons-cloud-business-is-surging-and-so-is-its-capital-spending/</guid>
-      <pubDate>Thu, 30 Apr 2026 00:14:23 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 65/100<br/><b>Source:</b> TechCrunch AI<br/><br/>The e-commerce giant is making more money than expected from AWS but it&apos;s also spending a lot, and will continue to do so in the near term, its chief executive said.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
