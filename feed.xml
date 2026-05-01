@@ -5,15 +5,23 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 May 2026 05:18:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 06:57:43 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Our evaluation of OpenAI&apos;s GPT-5.5 cyber capabilities</title>
+      <link>https://simonwillison.net/2026/Apr/30/gpt-55-cyber-capabilities/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/30/gpt-55-cyber-capabilities/#atom-everything</guid>
+      <pubDate>Thu, 30 Apr 2026 23:03:24 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 86/100<br/><b>Source:</b> Simon Willison<br/><br/>Technical evaluation of GPT-5.5 cybersecurity capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
     <item>
       <title>Enabling a new model for healthcare with AI co-clinician</title>
       <link>https://deepmind.google/blog/ai-co-clinician/</link>
       <guid isPermaLink="true">https://deepmind.google/blog/ai-co-clinician/</guid>
       <pubDate>Thu, 30 Apr 2026 12:14:15 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 84/100<br/><b>Source:</b> Google DeepMind<br/><br/>Google DeepMind announces new healthcare AI model functioning as clinical decision support system.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 84/100<br/><b>Source:</b> Google DeepMind<br/><br/>Google DeepMind releases AI co-clinician model for healthcare applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Granite 4.1: IBM&apos;s 8B Model Matching 32B MoE</title>
@@ -21,23 +29,7 @@
       <guid isPermaLink="true">https://firethering.com/granite-4-1-ibm-open-source-model-family/</guid>
       <pubDate>Thu, 30 Apr 2026 10:31:17 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>IBM releases Granite 4.1 open-source model achieving 32B MoE performance with 8B parameters.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>[Open Source] We built a local code search MCP for Claude Code that uses ~98% fewer tokens than grep+read</title>
-      <link>https://i.redd.it/n6lg2gbstbyg1.png</link>
-      <guid isPermaLink="true">https://i.redd.it/n6lg2gbstbyg1.png</guid>
-      <pubDate>Thu, 30 Apr 2026 13:11:07 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Open source MCP for Claude that implements local code search with significant token efficiency gains.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Our evaluation of OpenAI&apos;s GPT-5.5 cyber capabilities</title>
-      <link>https://simonwillison.net/2026/Apr/30/gpt-55-cyber-capabilities/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/30/gpt-55-cyber-capabilities/#atom-everything</guid>
-      <pubDate>Thu, 30 Apr 2026 23:03:24 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 80/100<br/><b>Source:</b> Simon Willison<br/><br/>Evaluation of GPT-5.5&apos;s cybersecurity capabilities and potential cyber exploit performance.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>IBM releases Granite 4.1 open-source model matching larger MoE performance.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>AI Security Institute: GPT-5.5 &quot;may be the strongest model we have tested&quot; for cyber exploits, including Mythos</title>
@@ -45,47 +37,7 @@
       <guid isPermaLink="true">https://www.aisi.gov.uk/blog/our-evaluation-of-openais-gpt-5-5-cyber-capabilities</guid>
       <pubDate>Thu, 30 Apr 2026 16:30:22 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 78/100<br/><b>Source:</b> r/openai<br/><br/>AI Security Institute reports GPT-5.5 shows strongest capabilities for cyber exploitation tasks tested.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library</title>
-      <link>https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/</link>
-      <guid isPermaLink="true">https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/</guid>
-      <pubDate>Thu, 30 Apr 2026 16:09:26 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Security issue: malware discovered in PyTorch Lightning AI training library dependency.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>I built AI agents that play Pokemon Showdown autonomously using free LLM APIs via tool-calling [P]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1t08j6u/i_built_ai_agents_that_play_pokemon_showdown/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1t08j6u/i_built_ai_agents_that_play_pokemon_showdown/</guid>
-      <pubDate>Thu, 30 Apr 2026 20:47:06 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Personal project using LLM APIs via tool-calling to build autonomous Pokemon game agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Stripe introduces Link, a digital wallet that autonomous AI agents can use, too</title>
-      <link>https://techcrunch.com/2026/04/30/stripe-link-digital-wallet-ai-agents-shopping/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/04/30/stripe-link-digital-wallet-ai-agents-shopping/</guid>
-      <pubDate>Thu, 30 Apr 2026 17:15:19 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Stripe introduces AI agent-compatible digital wallet product for autonomous shopping.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Applying Karpathy&apos;s autoresearch to a 33M-token public transit dataset (14% improvement, replication notes) [P]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1t04rrz/applying_karpathys_autoresearch_to_a_33mtoken/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1t04rrz/applying_karpathys_autoresearch_to_a_33mtoken/</guid>
-      <pubDate>Thu, 30 Apr 2026 18:31:34 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research application of Karpathy&apos;s autoresearch methodology to transit dataset with 14% improvement.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Claude Code Read tool silently downscales images</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1t08qow/claude_code_read_tool_silently_downscales_images/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1t08qow/claude_code_read_tool_silently_downscales_images/</guid>
-      <pubDate>Thu, 30 Apr 2026 20:55:01 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Technical observation that Claude Code&apos;s read tool downscales images during processing.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 78/100<br/><b>Source:</b> r/openai<br/><br/>AI Security Institute reports GPT-5.5 as strongest tested model for cyber exploits.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Building the compute infrastructure for the Intelligence Age</title>
@@ -93,15 +45,55 @@
       <guid isPermaLink="true">https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age</guid>
       <pubDate>Wed, 29 Apr 2026 15:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI outlines strategy and investment in compute infrastructure for large-scale AI deployment.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI outlines compute infrastructure strategy for advanced AI systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>The More Young People Use AI, the More They Hate It</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai</guid>
-      <pubDate>Thu, 30 Apr 2026 14:34:36 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library</title>
+      <link>https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/</link>
+      <guid isPermaLink="true">https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/</guid>
+      <pubDate>Thu, 30 Apr 2026 16:09:26 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Security vulnerability discovered in PyTorch Lightning library used for AI training.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>[Open Source] We built a local code search MCP for Claude Code that uses ~98% fewer tokens than grep+read</title>
+      <link>https://i.redd.it/n6lg2gbstbyg1.png</link>
+      <guid isPermaLink="true">https://i.redd.it/n6lg2gbstbyg1.png</guid>
+      <pubDate>Thu, 30 Apr 2026 13:11:07 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Open-source MCP tool for code search claiming significant token efficiency gains.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Stripe introduces Link, a digital wallet that autonomous AI agents can use, too</title>
+      <link>https://techcrunch.com/2026/04/30/stripe-link-digital-wallet-ai-agents-shopping/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/04/30/stripe-link-digital-wallet-ai-agents-shopping/</guid>
+      <pubDate>Thu, 30 Apr 2026 17:15:19 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Stripe introduces Link digital wallet with support for autonomous AI agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Show HN: TRiP – a complete transformer engine in C built from scratch just by me</title>
+      <link>https://github.com/carlovalenti/TRiP</link>
+      <guid isPermaLink="true">https://github.com/carlovalenti/TRiP</guid>
+      <pubDate>Thu, 30 Apr 2026 16:48:17 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 74/100<br/><b>Source:</b> Hacker News<br/><br/>Complete transformer engine implementation in C released as open-source project.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Claude Code Read tool silently downscales images</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1t08qow/claude_code_read_tool_silently_downscales_images/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1t08qow/claude_code_read_tool_silently_downscales_images/</guid>
+      <pubDate>Thu, 30 Apr 2026 20:55:01 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Technical report on Claude Code&apos;s image downscaling behavior.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>DeepSeek released &apos;Thinking-with-Visual-Primitives&apos; framework</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1szwi1d/deepseek_released_thinkingwithvisualprimitives/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1szwi1d/deepseek_released_thinkingwithvisualprimitives/</guid>
+      <pubDate>Thu, 30 Apr 2026 13:43:54 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 72/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>DeepSeek releases new framework for visual reasoning in language models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>DataCenter.FM – background noise app featuring the sound of the AI bubble</title>
@@ -120,20 +112,20 @@
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>[AINews] Agents for Everything Else: Codex for Knowledge Work, Claude for Creative Work</title>
-      <link>https://www.latent.space/p/ainews-agents-for-everything-else</link>
-      <guid isPermaLink="true">https://www.latent.space/p/ainews-agents-for-everything-else</guid>
-      <pubDate>Fri, 01 May 2026 04:53:41 +0000</pubDate>
+      <title>I built AI agents that play Pokemon Showdown autonomously using free LLM APIs via tool-calling [P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1t08j6u/i_built_ai_agents_that_play_pokemon_showdown/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1t08j6u/i_built_ai_agents_that_play_pokemon_showdown/</guid>
+      <pubDate>Thu, 30 Apr 2026 20:47:06 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Latent Space<br/><br/>Opinion piece discussing appropriate use cases for different AI models in various work domains.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Personal project using LLMs for autonomous Pokemon game play via tool-calling.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Show HN: TRiP – a complete transformer engine in C built from scratch just by me</title>
-      <link>https://github.com/carlovalenti/TRiP</link>
-      <guid isPermaLink="true">https://github.com/carlovalenti/TRiP</guid>
-      <pubDate>Thu, 30 Apr 2026 16:48:17 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 68/100<br/><b>Source:</b> Hacker News<br/><br/>Independent implementation of complete transformer engine in C from scratch.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Applying Karpathy&apos;s autoresearch to a 33M-token public transit dataset (14% improvement, replication notes) [P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1t04rrz/applying_karpathys_autoresearch_to_a_33mtoken/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1t04rrz/applying_karpathys_autoresearch_to_a_33mtoken/</guid>
+      <pubDate>Thu, 30 Apr 2026 18:31:34 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Application of Karpathy&apos;s autoresearch techniques to transit dataset with 14% improvement.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Notes on what actually breaks when you run a coding agent on small local models</title>
@@ -141,7 +133,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1szsdyb/notes_on_what_actually_breaks_when_you_run_a/</guid>
       <pubDate>Thu, 30 Apr 2026 10:39:41 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Technical analysis of limitations and failure modes in coding agents using small local models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Analysis of limitations when running coding agents on small local models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Built an MCP Claude Connector for SEC filings after I nuked through my Claude usage limit</title>
@@ -149,23 +141,31 @@
       <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1t02ohf/built_an_mcp_claude_connector_for_sec_filings/</guid>
       <pubDate>Thu, 30 Apr 2026 17:17:30 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Personal project building an MCP connector for SEC filings data integration.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Personal project building MCP connector for SEC filings data.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>DeepSeek released &apos;Thinking-with-Visual-Primitives&apos; framework</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1szwi1d/deepseek_released_thinkingwithvisualprimitives/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1szwi1d/deepseek_released_thinkingwithvisualprimitives/</guid>
-      <pubDate>Thu, 30 Apr 2026 13:43:54 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>DeepSeek releases framework integrating visual reasoning with transformer thinking mechanisms.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Codex CLI 0.128.0 adds /goal</title>
+      <link>https://simonwillison.net/2026/Apr/30/codex-goals/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/30/codex-goals/#atom-everything</guid>
+      <pubDate>Thu, 30 Apr 2026 23:23:17 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 68/100<br/><b>Source:</b> Simon Willison<br/><br/>Minor feature release for Codex CLI adding /goal functionality.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>PSA: llama-swap released a new grouping feature, matrix, allowing you to fine tune which models can run together</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1szwjrp/psa_llamaswap_released_a_new_grouping_feature/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1szwjrp/psa_llamaswap_released_a_new_grouping_feature/</guid>
-      <pubDate>Thu, 30 Apr 2026 13:45:50 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Release of new grouping feature in llama-swap for model orchestration.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Show HN: Pu.sh – a full coding-agent harness in 400 lines of shell</title>
+      <link>https://pu.dev/</link>
+      <guid isPermaLink="true">https://pu.dev/</guid>
+      <pubDate>Thu, 30 Apr 2026 20:55:12 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>Minimal coding-agent harness implementation in 400 lines of shell script.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Chinese nexus/network in A* conferences rejecting non chinese papers [D]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1t06564/chinese_nexusnetwork_in_a_conferences_rejecting/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1t06564/chinese_nexusnetwork_in_a_conferences_rejecting/</guid>
+      <pubDate>Thu, 30 Apr 2026 19:21:06 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
