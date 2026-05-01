@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 May 2026 21:19:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 22:18:32 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Our evaluation of OpenAI&apos;s GPT-5.5 cyber capabilities</title>
@@ -13,7 +13,7 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Apr/30/gpt-55-cyber-capabilities/#atom-everything</guid>
       <pubDate>Thu, 30 Apr 2026 23:03:24 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 92/100<br/><b>Source:</b> Simon Willison<br/><br/>Evaluation of GPT-5.5&apos;s cybersecurity capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 86/100<br/><b>Source:</b> Simon Willison<br/><br/>Evaluation of GPT-5.5&apos;s cybersecurity capabilities and vulnerabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Enabling a new model for healthcare with AI co-clinician</title>
@@ -21,7 +21,7 @@
       <guid isPermaLink="true">https://deepmind.google/blog/ai-co-clinician/</guid>
       <pubDate>Thu, 30 Apr 2026 12:14:15 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 90/100<br/><b>Source:</b> Google DeepMind<br/><br/>Google DeepMind introduces AI co-clinician model for healthcare.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 84/100<br/><b>Source:</b> Google DeepMind<br/><br/>Google DeepMind announces AI co-clinician model for healthcare delivery.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Google DeepMind Researchers Map Out Ways Hackers Hijack AI Agents</title>
@@ -29,7 +29,7 @@
       <guid isPermaLink="true">https://sumsub.com/media/news/google-deepmind-researchers-map-out-ways-hackers-hijack-ai-agents/?utm_source=chatgpt.com</guid>
       <pubDate>Fri, 01 May 2026 07:57:30 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 88/100<br/><b>Source:</b> r/openai<br/><br/>Google DeepMind research identifying attack vectors for hijacking AI agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/openai<br/><br/>Google DeepMind research identifying attack vectors for hijacking AI agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Independent eval of Openai/privacy-filter vs GLiNER on 600 PII samples. The model is much better than naive benchmarks make it look</title>
@@ -37,7 +37,7 @@
       <guid isPermaLink="true">https://i.redd.it/fahduw8sviyg1.png</guid>
       <pubDate>Fri, 01 May 2026 12:52:39 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/openai<br/><br/>Independent evaluation comparing OpenAI&apos;s privacy filter to GLiNER on PII detection.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/openai<br/><br/>Independent evaluation comparing PII detection models on real-world samples.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Stripe updates Link, a digital wallet that autonomous AI agents can use, too</title>
@@ -45,31 +45,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/04/30/stripe-link-digital-wallet-ai-agents-shopping/</guid>
       <pubDate>Thu, 30 Apr 2026 17:15:19 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Stripe updates Link digital wallet to support autonomous AI agent transactions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Show HN: Loopsy, a way for terminals and AI agents on different machines to talk</title>
-      <link>https://github.com/leox255/loopsy</link>
-      <guid isPermaLink="true">https://github.com/leox255/loopsy</guid>
-      <pubDate>Fri, 01 May 2026 10:25:41 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>A GitHub project enabling inter-machine communication between terminals and AI agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Open-source diagnostic for AI misalignment. Model agnostic, industry agnostic. Free to Run.</title>
-      <link>https://www.reddit.com/r/artificial/comments/1t12f08/opensource_diagnostic_for_ai_misalignment_model/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t12f08/opensource_diagnostic_for_ai_misalignment_model/</guid>
-      <pubDate>Fri, 01 May 2026 18:54:37 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/artificial<br/><br/>Open-source tool for diagnosing AI misalignment across models and industries.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>An Open-Source Spec for Codex Orchestration: Symphony</title>
-      <link>https://openai.com/index/open-source-codex-orchestration-symphony/</link>
-      <guid isPermaLink="true">https://openai.com/index/open-source-codex-orchestration-symphony/</guid>
-      <pubDate>Fri, 01 May 2026 17:36:14 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/openai<br/><br/>An open-source specification for orchestrating code generation agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Stripe updates Link digital wallet to support autonomous AI agent transactions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>[AINews] Agents for Everything Else: Codex for Knowledge Work, Claude for Creative Work</title>
@@ -77,7 +53,7 @@
       <guid isPermaLink="true">https://www.latent.space/p/ainews-agents-for-everything-else</guid>
       <pubDate>Fri, 01 May 2026 04:53:41 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Latent Space<br/><br/>Analysis of agent design patterns for different domains.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Latent Space<br/><br/>Analysis of agent specialization for knowledge work versus creative tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>GitHub - intel/auto-round: A SOTA quantization algorithm for high-accuracy low-bit LLM inference, seamlessly optimized for CPU/XPU/CUDA, with multi-datatype support and full compatibility with vLLM, SGLang, and Transformers.</title>
@@ -85,7 +61,7 @@
       <guid isPermaLink="true">https://github.com/intel/auto-round</guid>
       <pubDate>Fri, 01 May 2026 14:03:57 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Intel releases auto-round, a quantization algorithm for efficient LLM inference.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Intel releases auto-round, a state-of-art quantization algorithm for efficient LLM inference.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Codex CLI 0.128.0 adds /goal</title>
@@ -93,7 +69,7 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Apr/30/codex-goals/#atom-everything</guid>
       <pubDate>Thu, 30 Apr 2026 23:23:17 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 74/100<br/><b>Source:</b> Simon Willison<br/><br/>Codex CLI release includes new goal-setting feature.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 74/100<br/><b>Source:</b> Simon Willison<br/><br/>Codex CLI release adding a /goal feature for agent workflows.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Our agent found a bug with WireGuard in Google Kubernetes Engine</title>
@@ -101,7 +77,31 @@
       <guid isPermaLink="true">https://lovable.dev/blog/hunting-networking-bugs-in-kubernetes</guid>
       <pubDate>Fri, 01 May 2026 08:14:07 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> Hacker News<br/><br/>An AI agent discovered a networking bug in Google Kubernetes Engine.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> Hacker News<br/><br/>An AI agent discovered a bug in WireGuard within Google Kubernetes Engine.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Elon Musk testifies that xAI trained Grok on OpenAI models</title>
+      <link>https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/</guid>
+      <pubDate>Thu, 30 Apr 2026 18:03:57 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Elon Musk testifies that xAI trained Grok using OpenAI models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Show HN: Loopsy, a way for terminals and AI agents on different machines to talk</title>
+      <link>https://github.com/leox255/loopsy</link>
+      <guid isPermaLink="true">https://github.com/leox255/loopsy</guid>
+      <pubDate>Fri, 01 May 2026 10:25:41 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>A tool enabling communication between terminals and AI agents across machines.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>An Open-Source Spec for Codex Orchestration: Symphony</title>
+      <link>https://openai.com/index/open-source-codex-orchestration-symphony/</link>
+      <guid isPermaLink="true">https://openai.com/index/open-source-codex-orchestration-symphony/</guid>
+      <pubDate>Fri, 01 May 2026 17:36:14 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/openai<br/><br/>An open-source specification for orchestrating AI code generation workflows.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Introducing Advanced Account Security</title>
@@ -109,31 +109,7 @@
       <guid isPermaLink="true">https://openai.com/index/advanced-account-security</guid>
       <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI introduces advanced account security features.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Spotify adds &apos;Verified&apos; badges to distinguish human artists from AI</title>
-      <link>https://www.bbc.com/news/articles/c5yerr4m1yno</link>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/c5yerr4m1yno</guid>
-      <pubDate>Fri, 01 May 2026 16:42:41 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Spotify implements verified badges to distinguish human from AI artists.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Apple accidentally left Claude.md files Apple Support app</title>
-      <link>https://x.com/aaronp613/status/2049986504617820551</link>
-      <guid isPermaLink="true">https://x.com/aaronp613/status/2049986504617820551</guid>
-      <pubDate>Fri, 01 May 2026 11:08:32 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> Hacker News<br/><br/>Apple left Claude.md files in Apple Support app source code.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Running llama.cpp on Snapdragon Hexagon NPU seems promising</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t0k6fj/running_llamacpp_on_snapdragon_hexagon_npu_seems/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t0k6fj/running_llamacpp_on_snapdragon_hexagon_npu_seems/</guid>
-      <pubDate>Fri, 01 May 2026 05:26:05 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Early results running llama.cpp on Snapdragon Hexagon NPU.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI introduces Advanced Account Security features.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Is it just me or is the Conference Lottery culture killing research? [D]</title>
@@ -142,6 +118,14 @@
       <pubDate>Fri, 01 May 2026 07:26:11 +0000</pubDate>
       <category>Research &amp; Papers</category>
       <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Why Is Table Extraction with VLM Models Still Challenging? [D]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1t0txco/why_is_table_extraction_with_vlm_models_still/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1t0txco/why_is_table_extraction_with_vlm_models_still/</guid>
+      <pubDate>Fri, 01 May 2026 13:47:16 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>What benchmark would you build for “reply quality” in SDR generation? [D]</title>
@@ -166,6 +150,22 @@
       <pubDate>Fri, 01 May 2026 10:22:14 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>RPers: how do the new Gemma and Qwen compare to the old 70B models?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t0eobs/rpers_how_do_the_new_gemma_and_qwen_compare_to/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t0eobs/rpers_how_do_the_new_gemma_and_qwen_compare_to/</guid>
+      <pubDate>Fri, 01 May 2026 01:02:33 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Cloud Skills Are Still Just Skills - How Anthropic no longer releases new skills, and gates them within the Cloud now with Ultraplan, Ultrareview, and Cloud Security.</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1t0wlme/cloud_skills_are_still_just_skills_how_anthropic/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1t0wlme/cloud_skills_are_still_just_skills_how_anthropic/</guid>
+      <pubDate>Fri, 01 May 2026 15:26:45 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
