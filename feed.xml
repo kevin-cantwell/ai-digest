@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 May 2026 20:13:58 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 21:16:08 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Our evaluation of OpenAI&apos;s GPT-5.5 cyber capabilities</title>
@@ -13,7 +13,7 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Apr/30/gpt-55-cyber-capabilities/#atom-everything</guid>
       <pubDate>Thu, 30 Apr 2026 23:03:24 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 86/100<br/><b>Source:</b> Simon Willison<br/><br/>Evaluation of GPT-5.5 cyber capabilities and security implications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 86/100<br/><b>Source:</b> Simon Willison<br/><br/>Evaluation of GPT-5.5 cybersecurity capabilities; substantive research publication.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights</title>
@@ -21,7 +21,7 @@
       <guid isPermaLink="true">https://arxiv.org/abs/2509.00462</guid>
       <pubDate>Sat, 02 May 2026 15:28:13 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Empirical research on AI self-preferencing bias in algorithmic hiring systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Academic paper on AI self-preferencing bias in algorithmic hiring systems; rigorous research.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>We are finally there: Qwen3.6-27B + agentic search; 95.7% SimpleQA on a single 3090, fully local</title>
@@ -29,31 +29,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t1n6o8/we_are_finally_there_qwen3627b_agentic_search_957/</guid>
       <pubDate>Sat, 02 May 2026 11:21:25 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Qwen 27B model achieves 95.7% on SimpleQA with local agentic search on consumer GPU.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Codex CLI 0.128.0 adds /goal</title>
-      <link>https://simonwillison.net/2026/Apr/30/codex-goals/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/30/codex-goals/#atom-everything</guid>
-      <pubDate>Thu, 30 Apr 2026 23:23:17 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 80/100<br/><b>Source:</b> Simon Willison<br/><br/>Codex CLI 0.128.0 release adds /goal feature for goal-directed agent behavior.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Show HN: Agent-desktop – Native desktop automation CLI for AI agents</title>
-      <link>https://github.com/lahfir/agent-desktop</link>
-      <guid isPermaLink="true">https://github.com/lahfir/agent-desktop</guid>
-      <pubDate>Sat, 02 May 2026 02:18:24 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>New CLI tool for native desktop automation with AI agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>[AINews] AI Engineer World&apos;s Fair — Autoresearch, Memory, World Models, Tokenmaxxing, Agentic Commerce, and Vertical AI Call for Speakers</title>
-      <link>https://www.latent.space/p/ainews-ai-engineer-worlds-fair-autoresearch</link>
-      <guid isPermaLink="true">https://www.latent.space/p/ainews-ai-engineer-worlds-fair-autoresearch</guid>
-      <pubDate>Sat, 02 May 2026 07:21:55 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Latent Space<br/><br/>Call for speakers for AI Engineer World&apos;s Fair covering agents and AI commerce.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Local LLM achieving competitive benchmark performance (95.7% SimpleQA) on consumer hardware with agentic search.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Caliber: open-source community registry for AI agent config files (CLAUDE.md, .cursor/rules, GEMINI.md) — 888 stars</title>
@@ -61,7 +37,39 @@
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t1vi2n/caliber_opensource_community_registry_for_ai/</guid>
       <pubDate>Sat, 02 May 2026 17:06:00 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/artificial<br/><br/>Open-source community registry for AI agent configuration files reaching 888 stars.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/artificial<br/><br/>Open-source registry for AI agent configuration files reaching 888 stars; community project with traction.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Codex CLI 0.128.0 adds /goal</title>
+      <link>https://simonwillison.net/2026/Apr/30/codex-goals/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/30/codex-goals/#atom-everything</guid>
+      <pubDate>Thu, 30 Apr 2026 23:23:17 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 80/100<br/><b>Source:</b> Simon Willison<br/><br/>CLI tool release update adding goal-setting feature; concrete product development.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Show HN: Agent-desktop – Native desktop automation CLI for AI agents</title>
+      <link>https://github.com/lahfir/agent-desktop</link>
+      <guid isPermaLink="true">https://github.com/lahfir/agent-desktop</guid>
+      <pubDate>Sat, 02 May 2026 02:18:24 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Open-source CLI tool for native desktop automation with AI agents; moderate technical substance.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>[AINews] AI Engineer World&apos;s Fair — Autoresearch, Memory, World Models, Tokenmaxxing, Agentic Commerce, and Vertical AI Call for Speakers</title>
+      <link>https://www.latent.space/p/ainews-ai-engineer-worlds-fair-autoresearch</link>
+      <guid isPermaLink="true">https://www.latent.space/p/ainews-ai-engineer-worlds-fair-autoresearch</guid>
+      <pubDate>Sat, 02 May 2026 07:21:55 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Latent Space<br/><br/>Conference announcement for AI engineering topics including agents and world models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Community-built registry for AI agent config files (system prompts, CLAUDE.md, GPT instructions) just hit 888 stars</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1t1u1ci/communitybuilt_registry_for_ai_agent_config_files/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/OpenAI/comments/1t1u1ci/communitybuilt_registry_for_ai_agent_config_files/</guid>
+      <pubDate>Sat, 02 May 2026 16:09:21 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/openai<br/><br/>Open-source agent config registry reaching 888 stars; duplicate topic with community interest.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Hybrid on-device inference on Android: llama.cpp + LiteRT + NPU/GPU routing</title>
@@ -69,7 +77,7 @@
       <guid isPermaLink="true">https://i.redd.it/ty4as6o41pyg1.png</guid>
       <pubDate>Sat, 02 May 2026 09:31:55 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Hybrid on-device inference technique for Android combining llama.cpp, LiteRT, and NPU routing.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Hybrid on-device inference approach combining llama.cpp with LiteRT and hardware acceleration routing.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Open Design: Use Your Coding Agent as a Design Engine</title>
@@ -77,15 +85,7 @@
       <guid isPermaLink="true">https://github.com/nexu-io/open-design</guid>
       <pubDate>Sat, 02 May 2026 12:16:16 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>GitHub project for using coding agents as design engines.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Built an open-source runtime layer to stop AI agents before they overspend or take risky actions — looking for feedback</title>
-      <link>https://www.reddit.com/r/artificial/comments/1t1ti2x/built_an_opensource_runtime_layer_to_stop_ai/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t1ti2x/built_an_opensource_runtime_layer_to_stop_ai/</guid>
-      <pubDate>Sat, 02 May 2026 15:49:04 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/artificial<br/><br/>Open-source runtime layer for controlling AI agent spending and risk.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>GitHub project proposing use of coding agents for design tasks; appears early-stage without major validation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>[RELEASE] - Finally, my first TTS model is out! 🎙️ Flare-TTS 28M</title>
@@ -93,7 +93,23 @@
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t1mmnd/release_finally_my_first_tts_model_is_out/</guid>
       <pubDate>Sat, 02 May 2026 10:52:10 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Release of Flare-TTS 28M text-to-speech model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Release of Flare-TTS text-to-speech model with 28M parameters; new model contribution.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>I implemented meta paper [P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1t1rni9/i_implemented_meta_paper_p/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1t1rni9/i_implemented_meta_paper_p/</guid>
+      <pubDate>Sat, 02 May 2026 14:37:53 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Have Qwen said anything about further Qwen 3.6 models?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t1jc1d/have_qwen_said_anything_about_further_qwen_36/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t1jc1d/have_qwen_said_anything_about_further_qwen_36/</guid>
+      <pubDate>Sat, 02 May 2026 07:42:18 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Kv cache quantization: ignorance, or malice?</title>
@@ -144,28 +160,12 @@
       <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Best suited model for solo Dev</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1t1q3qn/best_suited_model_for_solo_dev/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1t1q3qn/best_suited_model_for_solo_dev/</guid>
-      <pubDate>Sat, 02 May 2026 13:35:35 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
       <title>4 CLI cmds and your AI knows more about your project than you do (open source)</title>
       <link>http://github.com/theanshsonkar/carto</link>
       <guid isPermaLink="true">http://github.com/theanshsonkar/carto</guid>
       <pubDate>Sat, 02 May 2026 05:39:29 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
       <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Anthropic&apos;s analysis of Claude usage for personal guidance</title>
-      <link>https://www.anthropic.com/research/claude-personal-guidance</link>
-      <guid isPermaLink="true">https://www.anthropic.com/research/claude-personal-guidance</guid>
-      <pubDate>Fri, 01 May 2026 23:19:27 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
