@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 May 2026 16:17:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 17:18:53 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>CAISI releases evaluation report: DeepSeek V4 becomes the most powerful model in China, but still lags about 8 months behind the US frontier</title>
@@ -13,7 +13,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t29wx0/caisi_releases_evaluation_report_deepseek_v4/</guid>
       <pubDate>Sun, 03 May 2026 03:10:38 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 88/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>CAISI evaluation report shows DeepSeek V4 as China&apos;s most powerful model but trailing US frontier by approximately 8 months.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 88/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>CAISI evaluation report benchmarks DeepSeek V4 as China&apos;s most powerful model but finds it lags ~8 months behind US frontier models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>[Paper on Hummingbird+: low-cost FPGAs for LLM inference] Qwen3-30B-A3B Q4 at 18 t/s token-gen, 24GB, expected $150 mass production cost</title>
@@ -21,15 +21,7 @@
       <guid isPermaLink="true">https://dl.acm.org/doi/pdf/10.1145/3748173.3779189</guid>
       <pubDate>Sun, 03 May 2026 12:55:26 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Hummingbird+ paper presents low-cost FPGA approach for LLM inference with significant performance and cost metrics.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Caliber: open-source community registry for AI agent config files (CLAUDE.md, .cursor/rules, GEMINI.md) — 888 stars</title>
-      <link>https://www.reddit.com/r/artificial/comments/1t1vi2n/caliber_opensource_community_registry_for_ai/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t1vi2n/caliber_opensource_community_registry_for_ai/</guid>
-      <pubDate>Sat, 02 May 2026 17:06:00 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/artificial<br/><br/>Caliber open-source project for managing AI agent configuration files reaches 888 GitHub stars.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Paper on Hummingbird+ FPGA hardware for efficient LLM inference with specific performance benchmarks and cost targets.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Local LLM Benchmark about Backend Generation by Function Calling (GLM vs Qwen vs DeepSeek)</title>
@@ -37,15 +29,31 @@
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t2m7wi/local_llm_benchmark_about_backend_generation_by/</guid>
       <pubDate>Sun, 03 May 2026 13:59:02 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 72/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Benchmark comparison of local LLMs (GLM, Qwen, DeepSeek) on function calling for backend generation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 72/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Benchmark comparing local LLMs on function calling for backend code generation tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>The Codex Agent Skill for Kubernetes</title>
-      <link>https://medium.com/@lukasniessen/claude-agent-skill-for-kubernetes-kubeshark-codex-claude-code-skill-a4c10d580f22</link>
-      <guid isPermaLink="true">https://medium.com/@lukasniessen/claude-agent-skill-for-kubernetes-kubeshark-codex-claude-code-skill-a4c10d580f22</guid>
-      <pubDate>Sat, 02 May 2026 16:38:26 +0000</pubDate>
+      <title>Built a Voice Agents from Scratch GitHub tutorial: mic &gt; Whisper &gt; local LLM (GGUF) &gt; Kokoro &gt; speaker, fully local, no API keys</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t2pisc/built_a_voice_agents_from_scratch_github_tutorial/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t2pisc/built_a_voice_agents_from_scratch_github_tutorial/</guid>
+      <pubDate>Sun, 03 May 2026 16:06:28 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 72/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>GitHub tutorial for building fully local voice agents using Whisper, local LLM, and text-to-speech.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>I cut Codex’s API Usage by 50% using a self modifying system</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1t1ythh/i_cut_codexs_api_usage_by_50_using_a_self/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/OpenAI/comments/1t1ythh/i_cut_codexs_api_usage_by_50_using_a_self/</guid>
+      <pubDate>Sat, 02 May 2026 19:10:08 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/openai<br/><br/>Discussion of Codex Agent Skill for Kubernetes integration.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/openai<br/><br/>User describes optimizing their Codex API usage by 50% through a self-modifying system.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Level up your Claude Code workflow: 8 tips for better quality control</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1t2h7d3/level_up_your_claude_code_workflow_8_tips_for/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1t2h7d3/level_up_your_claude_code_workflow_8_tips_for/</guid>
+      <pubDate>Sun, 03 May 2026 09:54:09 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>List of tips for improving Claude Code workflow quality control.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Local image generation on Mac: 10 models compared (SD 1.5 → Flux dev → Qwen-Image → Gemini)</title>
@@ -56,36 +64,12 @@
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Comparative benchmark of 10 local image generation models on Mac hardware.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Did ChatGPT 5.5 extended thinking really ace the Putnam 2025 exam or was it in the training data?</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1t2pgef/did_chatgpt_55_extended_thinking_really_ace_the/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/OpenAI/comments/1t2pgef/did_chatgpt_55_extended_thinking_really_ace_the/</guid>
-      <pubDate>Sun, 03 May 2026 16:03:51 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>so for coding which model do we use now?</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1t2hrts/so_for_coding_which_model_do_we_use_now/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/OpenAI/comments/1t2hrts/so_for_coding_which_model_do_we_use_now/</guid>
-      <pubDate>Sun, 03 May 2026 10:26:54 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
       <title>[AINews] AI Engineer World&apos;s Fair — Autoresearch, Memory, World Models, Tokenmaxxing, Agentic Commerce, and Vertical AI Call for Speakers</title>
       <link>https://www.latent.space/p/ainews-ai-engineer-worlds-fair-autoresearch</link>
       <guid isPermaLink="true">https://www.latent.space/p/ainews-ai-engineer-worlds-fair-autoresearch</guid>
       <pubDate>Sat, 02 May 2026 07:21:55 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> Latent Space<br/><br/>Call for speakers at AI Engineer World&apos;s Fair covering autoresearch and agent topics.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Level up your Claude Code workflow: 8 tips for better quality control</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1t2h7d3/level_up_your_claude_code_workflow_8_tips_for/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1t2h7d3/level_up_your_claude_code_workflow_8_tips_for/</guid>
-      <pubDate>Sun, 03 May 2026 09:54:09 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Tips and best practices for Claude Code workflow optimization.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> Latent Space<br/><br/>Announcement of AI Engineer World&apos;s Fair conference call for speakers on emerging AI topics.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>AI, Intimacy, and the Data You Never Meant to Share</title>
@@ -101,7 +85,7 @@
       <guid isPermaLink="true">https://github.com/mahimairaja/voiceai</guid>
       <pubDate>Sat, 02 May 2026 22:03:15 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 60/100<br/><b>Source:</b> Hacker News<br/><br/>Voice-AI-for-Beginners educational repository providing learning path for voice AI development.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 60/100<br/><b>Source:</b> Hacker News<br/><br/>Open-source learning curriculum for voice AI development.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Richard Dawkins and The Claude Delusion: The great skeptic gets taken in</title>
@@ -144,10 +128,10 @@
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Non-business uses for Claude Cowork</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1t22v8r/nonbusiness_uses_for_claude_cowork/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1t22v8r/nonbusiness_uses_for_claude_cowork/</guid>
-      <pubDate>Sat, 02 May 2026 21:49:14 +0000</pubDate>
+      <title>What if Claude launched in 1998?</title>
+      <link>https://i.redd.it/6mh1f5k78yyg1.png</link>
+      <guid isPermaLink="true">https://i.redd.it/6mh1f5k78yyg1.png</guid>
+      <pubDate>Sun, 03 May 2026 16:27:20 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
@@ -166,6 +150,22 @@
       <pubDate>Sat, 02 May 2026 19:22:33 +0000</pubDate>
       <category>Industry News</category>
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Claude.ai web: “/” and ↑ key should have a toggle to disable — basic input is broken without it</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1t28qen/claudeai_web_and_key_should_have_a_toggle_to/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1t28qen/claudeai_web_and_key_should_have_a_toggle_to/</guid>
+      <pubDate>Sun, 03 May 2026 02:13:55 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Implemented TurboQuant and results don’t fully match paper</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t208qv/implemented_turboquant_and_results_dont_fully/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t208qv/implemented_turboquant_and_results_dont_fully/</guid>
+      <pubDate>Sat, 02 May 2026 20:05:02 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 56/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Implementation report of TurboQuant quantization method with results diverging from published paper.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
