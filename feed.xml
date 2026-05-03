@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 May 2026 18:20:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 19:24:32 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>CAISI releases evaluation report: DeepSeek V4 becomes the most powerful model in China, but still lags about 8 months behind the US frontier</title>
@@ -13,15 +13,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t29wx0/caisi_releases_evaluation_report_deepseek_v4/</guid>
       <pubDate>Sun, 03 May 2026 03:10:38 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>CAISI evaluation report ranks DeepSeek V4 as China&apos;s most powerful model but approximately 8 months behind US frontier models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Public interpretability dataset and benchmark library for a novel transformer architecture [R]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1t2spfo/public_interpretability_dataset_and_benchmark/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1t2spfo/public_interpretability_dataset_and_benchmark/</guid>
-      <pubDate>Sun, 03 May 2026 18:04:44 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Public interpretability dataset and benchmark library released for novel transformer architecture.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>CAISI evaluation report ranks DeepSeek V4 as China&apos;s most powerful model but notes an ~8-month gap behind US frontier models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>[Paper on Hummingbird+: low-cost FPGAs for LLM inference] Qwen3-30B-A3B Q4 at 18 t/s token-gen, 24GB, expected $150 mass production cost</title>
@@ -29,15 +21,7 @@
       <guid isPermaLink="true">https://dl.acm.org/doi/pdf/10.1145/3748173.3779189</guid>
       <pubDate>Sun, 03 May 2026 12:55:26 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Research paper on Hummingbird+ low-cost FPGA hardware achieving 18 tokens/sec for Qwen3-30B at $150 production cost.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Local LLM Benchmark about Backend Generation by Function Calling (GLM vs Qwen vs DeepSeek)</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t2m7wi/local_llm_benchmark_about_backend_generation_by/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t2m7wi/local_llm_benchmark_about_backend_generation_by/</guid>
-      <pubDate>Sun, 03 May 2026 13:59:02 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 72/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Benchmark comparing local LLM function calling performance across GLM, Qwen, and DeepSeek.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Research paper on Hummingbird+ FPGA inference acceleration achieving 18 tokens/sec on Qwen3-30B with low production cost.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Built a Voice Agents from Scratch GitHub tutorial: mic &gt; Whisper &gt; local LLM (GGUF) &gt; Kokoro &gt; speaker, fully local, no API keys</title>
@@ -45,15 +29,15 @@
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t2pisc/built_a_voice_agents_from_scratch_github_tutorial/</guid>
       <pubDate>Sun, 03 May 2026 16:06:28 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 72/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>GitHub tutorial for building local voice agents combining Whisper, local LLM, and text-to-speech.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 78/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Open-source tutorial for building fully local voice agents using Whisper, local LLM, and Kokoro TTS.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>I cut Codex’s API Usage by 50% using a self modifying system</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1t1ythh/i_cut_codexs_api_usage_by_50_using_a_self/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/OpenAI/comments/1t1ythh/i_cut_codexs_api_usage_by_50_using_a_self/</guid>
-      <pubDate>Sat, 02 May 2026 19:10:08 +0000</pubDate>
+      <title>[AINews] AI Engineer World&apos;s Fair — Autoresearch, Memory, World Models, Tokenmaxxing, Agentic Commerce, and Vertical AI Call for Speakers</title>
+      <link>https://www.latent.space/p/ainews-ai-engineer-worlds-fair-autoresearch</link>
+      <guid isPermaLink="true">https://www.latent.space/p/ainews-ai-engineer-worlds-fair-autoresearch</guid>
+      <pubDate>Sat, 02 May 2026 07:21:55 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/openai<br/><br/>User describes achieving 50% API usage reduction for Codex through a self-modifying system technique.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Latent Space<br/><br/>AI Engineer World&apos;s Fair conference call for speakers on topics including autoresearch, memory, and agentic commerce.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Local image generation on Mac: 10 models compared (SD 1.5 → Flux dev → Qwen-Image → Gemini)</title>
@@ -61,7 +45,23 @@
       <guid isPermaLink="true">https://i.redd.it/b7zbv2z2otyg1.jpeg</guid>
       <pubDate>Sun, 03 May 2026 01:08:59 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Benchmark comparison of 10 local image generation models on Mac hardware.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Comparative benchmark of 10 local image generation models on Mac hardware.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Local LLM Benchmark about Backend Generation by Function Calling (GLM vs Qwen vs DeepSeek)</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t2m7wi/local_llm_benchmark_about_backend_generation_by/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t2m7wi/local_llm_benchmark_about_backend_generation_by/</guid>
+      <pubDate>Sun, 03 May 2026 13:59:02 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 66/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Benchmark comparing GLM, Qwen, and DeepSeek local LLMs on backend generation via function calling.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>AI voice generation has a workflow problem, not just a quality problem</title>
+      <link>https://v.redd.it/q8tumnjugyyg1</link>
+      <guid isPermaLink="true">https://v.redd.it/q8tumnjugyyg1</guid>
+      <pubDate>Sun, 03 May 2026 17:15:42 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>I left my Agent OS running overnight and it built 4 new tools I didn&apos;t even ask for</title>
@@ -70,14 +70,6 @@
       <pubDate>Sun, 03 May 2026 02:47:42 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
       <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>online platforms for mental health therapy training their AIs</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1t1ypk5/online_platforms_for_mental_health_therapy/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1t1ypk5/online_platforms_for_mental_health_therapy/</guid>
-      <pubDate>Sat, 02 May 2026 19:06:02 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Sitting on 10k in unused openai api credits that will expire, what would you build?</title>
@@ -96,12 +88,28 @@
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>[AINews] AI Engineer World&apos;s Fair — Autoresearch, Memory, World Models, Tokenmaxxing, Agentic Commerce, and Vertical AI Call for Speakers</title>
-      <link>https://www.latent.space/p/ainews-ai-engineer-worlds-fair-autoresearch</link>
-      <guid isPermaLink="true">https://www.latent.space/p/ainews-ai-engineer-worlds-fair-autoresearch</guid>
-      <pubDate>Sat, 02 May 2026 07:21:55 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> Latent Space<br/><br/>Call for speakers at AI Engineer World&apos;s Fair conference covering autoresearch, memory, and agentic systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Did ChatGPT 5.5 extended thinking really ace the Putnam 2025 exam or was it in the training data?</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1t2pgef/did_chatgpt_55_extended_thinking_really_ace_the/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/OpenAI/comments/1t2pgef/did_chatgpt_55_extended_thinking_really_ace_the/</guid>
+      <pubDate>Sun, 03 May 2026 16:03:51 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Open Weights Models Hall of Fame</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t2lwn0/open_weights_models_hall_of_fame/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t2lwn0/open_weights_models_hall_of_fame/</guid>
+      <pubDate>Sun, 03 May 2026 13:45:55 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Curated list or ranking of open-weights AI models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Implemented TurboQuant and results don’t fully match paper</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t208qv/implemented_turboquant_and_results_dont_fully/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t208qv/implemented_turboquant_and_results_dont_fully/</guid>
+      <pubDate>Sat, 02 May 2026 20:05:02 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Implementation report of TurboQuant quantization technique with results diverging from published paper.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Level up your Claude Code workflow: 8 tips for better quality control</title>
@@ -109,7 +117,15 @@
       <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1t2h7d3/level_up_your_claude_code_workflow_8_tips_for/</guid>
       <pubDate>Sun, 03 May 2026 09:54:09 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Tips article on improving Claude Code workflow quality control.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Tips and best practices for using Claude Code workflow.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>The Oscars just banned AI from winning acting and writing awards</title>
+      <link>https://gizmodo.com/the-oscars-just-banned-ai-from-winning-acting-and-writing-awards-2000753740</link>
+      <guid isPermaLink="true">https://gizmodo.com/the-oscars-just-banned-ai-from-winning-acting-and-writing-awards-2000753740</guid>
+      <pubDate>Sun, 03 May 2026 17:34:15 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>AI, Intimacy, and the Data You Never Meant to Share</title>
@@ -125,7 +141,7 @@
       <guid isPermaLink="true">https://github.com/mahimairaja/voiceai</guid>
       <pubDate>Sat, 02 May 2026 22:03:15 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 60/100<br/><b>Source:</b> Hacker News<br/><br/>Curated learning path repository for developers building voice AI applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 60/100<br/><b>Source:</b> Hacker News<br/><br/>GitHub learning resource for developers starting with voice AI development.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Ban phrases on llama.cpp with this script.</title>
@@ -148,22 +164,6 @@
       <link>https://i.redd.it/6mh1f5k78yyg1.png</link>
       <guid isPermaLink="true">https://i.redd.it/6mh1f5k78yyg1.png</guid>
       <pubDate>Sun, 03 May 2026 16:27:20 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Why Adaptive Thinking nukes Claude entirely</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1t1yvzr/why_adaptive_thinking_nukes_claude_entirely/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1t1yvzr/why_adaptive_thinking_nukes_claude_entirely/</guid>
-      <pubDate>Sat, 02 May 2026 19:12:43 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Non-business uses for Claude Cowork</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1t22v8r/nonbusiness_uses_for_claude_cowork/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1t22v8r/nonbusiness_uses_for_claude_cowork/</guid>
-      <pubDate>Sat, 02 May 2026 21:49:14 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
