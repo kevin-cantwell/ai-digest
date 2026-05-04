@@ -246,7 +246,7 @@
   <div class="header-inner">
     <div class="logo">AI Digest<span class="logo-dot">.</span></div>
     <div class="header-meta">
-      <span class="header-date" id="header-date" data-utc="2026-05-04T09:48:43Z">Monday, May 4, 2026 — 09:48 UTC</span>
+      <span class="header-date" id="header-date" data-utc="2026-05-04T10:42:25Z">Monday, May 4, 2026 — 10:42 UTC</span>
       <script>
         (function() {
           var el = document.getElementById('header-date');
@@ -259,7 +259,7 @@
       <span class="header-updated" id="header-updated">Updated just now</span>
       <script>
         (function() {
-          var builtAt = new Date("2026-05-04T09:48:43Z");
+          var builtAt = new Date("2026-05-04T10:42:25Z");
           function updateAge() {
             var mins = Math.floor((Date.now() - builtAt.getTime()) / 60000);
             var el = document.getElementById('header-updated');
@@ -275,14 +275,16 @@
           setInterval(updateAge, 60000);
         })();
       </script>
-      <span class="header-count">19 stories</span>
+      <span class="header-count">20 stories</span>
     </div>
   </div>
 </header>
 
 <main>
   <div class="tldr-box">
-    <p class="tldr-text">Researchers are advancing agentic AI systems through multiple approaches, including &quot;Signal Lock&quot; to improve prediction-execution reliability, refinement loops that boost smaller models&#x27; performance on focused tasks, and integration of smaller specialized models (450M parameters for satellite-based wildfire detection, 1.7B for coding improvements). Hardware and inference efficiency improvements are enabling practical deployment, with low-cost FPGA solutions achieving 18 tokens/second on 30B models, fully local voice agent pipelines, and quantized large models running on consumer GPU setups.</p>
+    <p class="tldr-text"># Summary
+
+Researchers are advancing local AI inference efficiency through multiple approaches: Hummingbird+ enables LLM inference on low-cost FPGAs with Qwen3-30B achieving 18 tokens/second at an expected $150 production cost, while novel techniques like refinement loops and signal lock mechanisms are improving agentic AI reasoning and task accuracy. Practical implementations are expanding, including fully local voice agent systems without API dependencies and specialized vision-language models for real-time applications like wildfire detection on resource-constrained satellite hardware.</p>
   </div>
 
   
@@ -293,7 +295,7 @@
         <div class="card-header">
           <a class="card-title" href="https://open.substack.com/pub/structuredlanguage/p/signal-lock-closing-the-prediction?utm_source=share&amp;amp;utm_medium=android&amp;amp;r=6sdhpn" target="_blank" rel="noopener noreferrer">Signal Lock: Closing the Prediction-Execution Gap in Agentic AI Systems</a>
         </div>
-        <p class="item-summary">Research on Signal Lock addressing prediction-execution gap in agentic AI systems.</p>
+        <p class="item-summary">Research on Signal Lock addressing prediction-execution gap in AI agent systems.</p>
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/artificial/comments/1t2yk5g/signal_lock_closing_the_predictionexecution_gap/" target="_blank" rel="noopener noreferrer">r/artificial</a>
           
@@ -308,33 +310,45 @@
         <p class="item-summary">GitHub project combining Claude with DeepSeek V4 Pro for code agent loops.</p>
         <div class="card-meta">
           <a class="source" href="https://news.ycombinator.com/item?id=48002136" target="_blank" rel="noopener noreferrer">Hacker News</a>
-          <span class="upvotes">▲ 460  💬 176</span>
-          <span class="age">11h ago</span>
+          <span class="upvotes">▲ 476  💬 189</span>
+          <span class="age">12h ago</span>
           <span class="score-bar" title="Quality score: 76/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">76</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://www.reddit.com/r/ClaudeAI/comments/1t2h7d3/level_up_your_claude_code_workflow_8_tips_for/" target="_blank" rel="noopener noreferrer">Level up your Claude Code workflow: 8 tips for better quality control</a>
-        </div>
-        <p class="item-summary">Tips and best practices for Claude Code workflow optimization.</p>
-        <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/ClaudeAI/comments/1t2h7d3/level_up_your_claude_code_workflow_8_tips_for/" target="_blank" rel="noopener noreferrer">r/ClaudeAI</a>
-          
-          <span class="age">23h ago</span>
-          <span class="score-bar" title="Quality score: 62/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">62</span></span>
         </div>
       </div>
       <div class="card">
         <div class="card-header">
           <a class="card-title" href="https://v.redd.it/q8tumnjugyyg1" target="_blank" rel="noopener noreferrer">AI voice generation has a workflow problem, not just a quality problem</a>
         </div>
-        <p class="item-summary">Analysis of workflow and quality challenges in AI voice generation.</p>
+        <p class="item-summary">Analysis of workflow challenges in AI voice generation systems.</p>
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/artificial/comments/1t2rde5/ai_voice_generation_has_a_workflow_problem_not/" target="_blank" rel="noopener noreferrer">r/artificial</a>
           
-          <span class="age">16h ago</span>
+          <span class="age">17h ago</span>
           <span class="score-bar" title="Quality score: 56/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">56</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://www.reddit.com/r/ClaudeAI/comments/1t32zxi/anyone_actually_built_a_real_feedback_loop_for/" target="_blank" rel="noopener noreferrer">Anyone actually built a real feedback loop for Claude agents in production? Because &quot;run evals and pray&quot; isn&#x27;t cutting it</a>
+        </div>
+        <p class="item-summary">Community discussion question about feedback loops for Claude agents.</p>
+        <div class="card-meta">
+          <a class="source" href="https://www.reddit.com/r/ClaudeAI/comments/1t32zxi/anyone_actually_built_a_real_feedback_loop_for/" target="_blank" rel="noopener noreferrer">r/ClaudeAI</a>
+          
+          <span class="age">9h ago</span>
+          <span class="score-bar" title="Quality score: 56/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">56</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://www.reddit.com/r/ClaudeAI/comments/1t2l3az/anyone_using_claude_codewith_antigravity_as_an/" target="_blank" rel="noopener noreferrer">Anyone using Claude code(with Antigravity) as an Enterprise Architect for solution / integration architecture?</a>
+        </div>
+        <p class="item-summary">Community question about using Claude Code for enterprise architecture work.</p>
+        <div class="card-meta">
+          <a class="source" href="https://www.reddit.com/r/ClaudeAI/comments/1t2l3az/anyone_using_claude_codewith_antigravity_as_an/" target="_blank" rel="noopener noreferrer">r/ClaudeAI</a>
+          
+          <span class="age">21h ago</span>
+          <span class="score-bar" title="Quality score: 52/100"><span class="bar-filled">█████</span><span class="bar-empty">░░░░░</span> <span class="score-num">52</span></span>
         </div>
       </div>
       </div>
@@ -344,49 +358,13 @@
       <div class="cards">
       <div class="card">
         <div class="card-header">
-          <a class="card-title" href="https://www.reddit.com/r/artificial/comments/1t2z0tn/richard_dawkins_spent_3_days_with_claude_and/" target="_blank" rel="noopener noreferrer">Richard Dawkins spent 3 days with Claude and named her &quot;Claudia.&quot; what he concluded after is hard to defend.</a>
-        </div>
-        
-        <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/artificial/comments/1t2z0tn/richard_dawkins_spent_3_days_with_claude_and/" target="_blank" rel="noopener noreferrer">r/artificial</a>
-          
-          <span class="age">11h ago</span>
-          <span class="score-bar" title="Quality score: 60/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">60</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://i.redd.it/zv67ral3rzyg1.png" target="_blank" rel="noopener noreferrer">Claude got access to a clock and immediately lost its mind</a>
-        </div>
-        
-        <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/ClaudeAI/comments/1t2ydlt/claude_got_access_to_a_clock_and_immediately_lost/" target="_blank" rel="noopener noreferrer">r/ClaudeAI</a>
-          
-          <span class="age">12h ago</span>
-          <span class="score-bar" title="Quality score: 60/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">60</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://i.redd.it/6mh1f5k78yyg1.png" target="_blank" rel="noopener noreferrer">What if Claude launched in 1998?</a>
-        </div>
-        
-        <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/ClaudeAI/comments/1t2q2kn/what_if_claude_launched_in_1998/" target="_blank" rel="noopener noreferrer">r/ClaudeAI</a>
-          
-          <span class="age">17h ago</span>
-          <span class="score-bar" title="Quality score: 60/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">60</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
           <a class="card-title" href="https://i.redd.it/hr7yiz21w0zg1.jpeg" target="_blank" rel="noopener noreferrer">Claude has other things to do</a>
         </div>
         
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/ClaudeAI/comments/1t33k42/claude_has_other_things_to_do/" target="_blank" rel="noopener noreferrer">r/ClaudeAI</a>
           
-          <span class="age">8h ago</span>
+          <span class="age">9h ago</span>
           <span class="score-bar" title="Quality score: 60/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">60</span></span>
         </div>
       </div>
@@ -398,7 +376,7 @@
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/ClaudeAI/comments/1t2kxiv/claude_design_is_saving_me/" target="_blank" rel="noopener noreferrer">r/ClaudeAI</a>
           
-          <span class="age">20h ago</span>
+          <span class="age">21h ago</span>
           <span class="score-bar" title="Quality score: 60/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">60</span></span>
         </div>
       </div>
@@ -410,7 +388,43 @@
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/ClaudeAI/comments/1t30pu5/project_deal_anthropic_created_a_marketplace_for/" target="_blank" rel="noopener noreferrer">r/ClaudeAI</a>
           
+          <span class="age">11h ago</span>
+          <span class="score-bar" title="Quality score: 60/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">60</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://www.reddit.com/r/ClaudeAI/comments/1t32dur/i_hate_em_dashes_how_do_i_stop_claude_from_using/" target="_blank" rel="noopener noreferrer">I HATE EM DASHES. How do I stop claude from using them?</a>
+        </div>
+        
+        <div class="card-meta">
+          <a class="source" href="https://www.reddit.com/r/ClaudeAI/comments/1t32dur/i_hate_em_dashes_how_do_i_stop_claude_from_using/" target="_blank" rel="noopener noreferrer">r/ClaudeAI</a>
+          
           <span class="age">10h ago</span>
+          <span class="score-bar" title="Quality score: 60/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">60</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://www.reddit.com/r/ClaudeAI/comments/1t36pp3/im_trying_to_learn_chinese_and_had_the_idea_for/" target="_blank" rel="noopener noreferrer">I&#x27;m trying to learn Chinese and had the idea for Claude to help me by translating webnovels complete with clickable characters and grammar notes. For example:</a>
+        </div>
+        
+        <div class="card-meta">
+          <a class="source" href="https://www.reddit.com/r/ClaudeAI/comments/1t36pp3/im_trying_to_learn_chinese_and_had_the_idea_for/" target="_blank" rel="noopener noreferrer">r/ClaudeAI</a>
+          
+          <span class="age">6h ago</span>
+          <span class="score-bar" title="Quality score: 60/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">60</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://i.redd.it/kj9evzvov1zg1.png" target="_blank" rel="noopener noreferrer">Claude Opus 4.7 won’t just output prompts—keeps arguing instead</a>
+        </div>
+        
+        <div class="card-meta">
+          <a class="source" href="https://www.reddit.com/r/ClaudeAI/comments/1t37r61/claude_opus_47_wont_just_output_promptskeeps/" target="_blank" rel="noopener noreferrer">r/ClaudeAI</a>
+          
+          <span class="age">5h ago</span>
           <span class="score-bar" title="Quality score: 60/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">60</span></span>
         </div>
       </div>
@@ -423,11 +437,11 @@
         <div class="card-header">
           <a class="card-title" href="https://dl.acm.org/doi/pdf/10.1145/3748173.3779189" target="_blank" rel="noopener noreferrer">[Paper on Hummingbird+: low-cost FPGAs for LLM inference] Qwen3-30B-A3B Q4 at 18 t/s token-gen, 24GB, expected $150 mass production cost</a>
         </div>
-        <p class="item-summary">Research paper on Hummingbird+ low-cost FPGAs for LLM inference with specific performance metrics.</p>
+        <p class="item-summary">Academic paper on Hummingbird+ FPGAs achieving efficient LLM inference at low cost.</p>
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1t2kpzn/paper_on_hummingbird_lowcost_fpgas_for_llm/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
           
-          <span class="age">20h ago</span>
+          <span class="age">21h ago</span>
           <span class="score-bar" title="Quality score: 80/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">80</span></span>
         </div>
       </div>
@@ -435,11 +449,11 @@
         <div class="card-header">
           <a class="card-title" href="https://www.reddit.com/r/LocalLLaMA/comments/1t2m7wi/local_llm_benchmark_about_backend_generation_by/" target="_blank" rel="noopener noreferrer">Local LLM Benchmark about Backend Generation by Function Calling (GLM vs Qwen vs DeepSeek)</a>
         </div>
-        <p class="item-summary">Benchmark comparing local LLM backend generation via function calling across models.</p>
+        <p class="item-summary">Benchmark comparing GLM, Qwen, and DeepSeek on function calling tasks.</p>
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1t2m7wi/local_llm_benchmark_about_backend_generation_by/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
           
-          <span class="age">19h ago</span>
+          <span class="age">20h ago</span>
           <span class="score-bar" title="Quality score: 66/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">66</span></span>
         </div>
       </div>
@@ -452,11 +466,11 @@
         <div class="card-header">
           <a class="card-title" href="https://www.reddit.com/r/LocalLLaMA/comments/1t2pisc/built_a_voice_agents_from_scratch_github_tutorial/" target="_blank" rel="noopener noreferrer">Built a Voice Agents from Scratch GitHub tutorial: mic &gt; Whisper &gt; local LLM (GGUF) &gt; Kokoro &gt; speaker, fully local, no API keys</a>
         </div>
-        <p class="item-summary">Open-source tutorial for building fully local voice agents with Whisper, GGUF, and text-to-speech.</p>
+        <p class="item-summary">GitHub tutorial for building fully local voice agents without API keys.</p>
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1t2pisc/built_a_voice_agents_from_scratch_github_tutorial/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
           
-          <span class="age">17h ago</span>
+          <span class="age">18h ago</span>
           <span class="score-bar" title="Quality score: 78/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">78</span></span>
         </div>
       </div>
@@ -467,9 +481,21 @@
       <div class="cards">
       <div class="card">
         <div class="card-header">
+          <a class="card-title" href="https://bigattichouse.medium.com/second-thoughts-improving-small-llms-with-bidirectional-refinement-loops-part-1-fa5ab51af656?sk=907cce272a3aed0eb3f1e3a0669a3964" target="_blank" rel="noopener noreferrer">&quot;Second Thoughts&quot; Been playing with adding a small transformer that reads output near the end of generation, and feeds it back near the top as a refinement loop. A quick test of 1.7B model showed drastic improvement in focused tasks (like coding)</a>
+        </div>
+        <p class="item-summary">Experimental technique using transformer refinement loop to improve model outputs.</p>
+        <div class="card-meta">
+          <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1t33mlw/second_thoughts_been_playing_with_adding_a_small/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
+          
+          <span class="age">9h ago</span>
+          <span class="score-bar" title="Quality score: 74/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">74</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
           <a class="card-title" href="https://paulabartabajo.substack.com/p/how-to-build-end-2-end-systems-with" target="_blank" rel="noopener noreferrer">Frontier models can&#x27;t run on satellites. Here&#x27;s an end-to-end wildfire detection pipeline using a 450M on-board Vision-Language Model (Sentinel-2 + LFM2.5-VL)</a>
         </div>
-        <p class="item-summary">Demonstration of wildfire detection pipeline using 450M vision-language model for satellite inference.</p>
+        <p class="item-summary">End-to-end wildfire detection system using on-device 450M vision-language model for satellite imagery.</p>
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1t36myv/frontier_models_cant_run_on_satellites_heres_an/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
           
@@ -479,50 +505,14 @@
       </div>
       <div class="card">
         <div class="card-header">
-          <a class="card-title" href="https://bigattichouse.medium.com/second-thoughts-improving-small-llms-with-bidirectional-refinement-loops-part-1-fa5ab51af656?sk=907cce272a3aed0eb3f1e3a0669a3964" target="_blank" rel="noopener noreferrer">&quot;Second Thoughts&quot; Been playing with adding a small transformer that reads output near the end of generation, and feeds it back near the top as a refinement loop. A quick test of 1.7B model showed drastic improvement in focused tasks (like coding)</a>
-        </div>
-        <p class="item-summary">Experimental technique adding refinement loop transformer to LLM generation.</p>
-        <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1t33mlw/second_thoughts_been_playing_with_adding_a_small/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
-          
-          <span class="age">8h ago</span>
-          <span class="score-bar" title="Quality score: 68/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">68</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
           <a class="card-title" href="https://claude.com/blog/how-kepler-built-verifiable-ai-for-financial-services-with-claude" target="_blank" rel="noopener noreferrer">How Kepler built verifiable AI for financial services with Claude</a>
         </div>
-        <p class="item-summary">Case study on Kepler building verifiable AI for financial services using Claude.</p>
+        <p class="item-summary">Case study of Kepler building verifiable AI for financial services with Claude.</p>
         <div class="card-meta">
           <a class="source" href="https://news.ycombinator.com/item?id=47999754" target="_blank" rel="noopener noreferrer">Hacker News</a>
           <span class="upvotes">▲ 41  💬 22</span>
-          <span class="age">15h ago</span>
+          <span class="age">16h ago</span>
           <span class="score-bar" title="Quality score: 66/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">66</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://www.reddit.com/r/LocalLLaMA/comments/1t32ps4/mistralmedium35128bq3_k_m_on_3x3090_72gb_vram/" target="_blank" rel="noopener noreferrer">Mistral-Medium-3.5-128B-Q3_K_M on 3x3090 (72GB VRAM)</a>
-        </div>
-        
-        <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1t32ps4/mistralmedium35128bq3_k_m_on_3x3090_72gb_vram/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
-          
-          <span class="age">9h ago</span>
-          <span class="score-bar" title="Quality score: 60/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">60</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://www.reddit.com/r/LocalLLaMA/comments/1t3boe0/llamacpp_quantization_is_broken/" target="_blank" rel="noopener noreferrer">Llama.cpp quantization is broken</a>
-        </div>
-        <p class="item-summary">Bug report claiming Llama.cpp quantization has issues.</p>
-        <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1t3boe0/llamacpp_quantization_is_broken/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
-          
-          <span class="age">1h ago</span>
-          <span class="score-bar" title="Quality score: 60/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">60</span></span>
         </div>
       </div>
       <div class="card">
@@ -533,7 +523,31 @@
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/ClaudeAI/comments/1t35yeq/i_cant_be_the_only_person_with_a_normal_claude/" target="_blank" rel="noopener noreferrer">r/ClaudeAI</a>
           
-          <span class="age">6h ago</span>
+          <span class="age">7h ago</span>
+          <span class="score-bar" title="Quality score: 60/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">60</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://www.reddit.com/r/ClaudeAI/comments/1t32rzn/stop_trying_to_put_me_to_bed_claude/" target="_blank" rel="noopener noreferrer">Stop trying to put me to bed Claude!</a>
+        </div>
+        
+        <div class="card-meta">
+          <a class="source" href="https://www.reddit.com/r/ClaudeAI/comments/1t32rzn/stop_trying_to_put_me_to_bed_claude/" target="_blank" rel="noopener noreferrer">r/ClaudeAI</a>
+          
+          <span class="age">9h ago</span>
+          <span class="score-bar" title="Quality score: 60/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">60</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://www.reddit.com/r/ClaudeAI/comments/1t2wsmj/are_there_any_good_websites_that_showcase/" target="_blank" rel="noopener noreferrer">Are there any good websites that showcase frontend code made by Claude? Like a showcase website?</a>
+        </div>
+        
+        <div class="card-meta">
+          <a class="source" href="https://www.reddit.com/r/ClaudeAI/comments/1t2wsmj/are_there_any_good_websites_that_showcase/" target="_blank" rel="noopener noreferrer">r/ClaudeAI</a>
+          
+          <span class="age">14h ago</span>
           <span class="score-bar" title="Quality score: 60/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">60</span></span>
         </div>
       </div>
