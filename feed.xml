@@ -5,31 +5,15 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 May 2026 03:09:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 05:11:50 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>CAISI releases evaluation report: DeepSeek V4 becomes the most powerful model in China, but still lags about 8 months behind the US frontier</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t29wx0/caisi_releases_evaluation_report_deepseek_v4/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t29wx0/caisi_releases_evaluation_report_deepseek_v4/</guid>
-      <pubDate>Sun, 03 May 2026 03:10:38 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>CAISI evaluation report ranks DeepSeek V4 as China&apos;s most powerful model with 8-month gap to US frontier.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Signal Lock: Closing the Prediction-Execution Gap in Agentic AI Systems</title>
-      <link>https://open.substack.com/pub/structuredlanguage/p/signal-lock-closing-the-prediction?utm_source=share&amp;amp;utm_medium=android&amp;amp;r=6sdhpn</link>
-      <guid isPermaLink="true">https://open.substack.com/pub/structuredlanguage/p/signal-lock-closing-the-prediction?utm_source=share&amp;amp;utm_medium=android&amp;amp;r=6sdhpn</guid>
-      <pubDate>Sun, 03 May 2026 21:45:27 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/artificial<br/><br/>Research on Signal Lock technique addressing prediction-execution gaps in agentic AI systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
     <item>
       <title>DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper</title>
       <link>https://github.com/aattaran/deepclaude</link>
       <guid isPermaLink="true">https://github.com/aattaran/deepclaude</guid>
       <pubDate>Sun, 03 May 2026 22:13:20 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>GitHub project combining Claude with DeepSeek V4 Pro for cost-effective AI code agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>DeepClaude project demonstrates a Claude code agent loop using DeepSeek V4 Pro at significantly reduced cost.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>[Paper on Hummingbird+: low-cost FPGAs for LLM inference] Qwen3-30B-A3B Q4 at 18 t/s token-gen, 24GB, expected $150 mass production cost</title>
@@ -37,7 +21,7 @@
       <guid isPermaLink="true">https://dl.acm.org/doi/pdf/10.1145/3748173.3779189</guid>
       <pubDate>Sun, 03 May 2026 12:55:26 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Hummingbird+ FPGA hardware paper enables low-cost LLM inference at $150 mass production cost.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Research on Hummingbird+ FPGAs for LLM inference demonstrates cost-effective hardware acceleration with concrete performance metrics.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Built a Voice Agents from Scratch GitHub tutorial: mic &gt; Whisper &gt; local LLM (GGUF) &gt; Kokoro &gt; speaker, fully local, no API keys</title>
@@ -45,7 +29,15 @@
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t2pisc/built_a_voice_agents_from_scratch_github_tutorial/</guid>
       <pubDate>Sun, 03 May 2026 16:06:28 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 72/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>GitHub tutorial for building fully local voice agents using Whisper, local LLM, and Kokoro TTS.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 78/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>GitHub tutorial demonstrating fully local voice agent pipeline combining Whisper, local LLM, and text-to-speech.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Signal Lock: Closing the Prediction-Execution Gap in Agentic AI Systems</title>
+      <link>https://open.substack.com/pub/structuredlanguage/p/signal-lock-closing-the-prediction?utm_source=share&amp;amp;utm_medium=android&amp;amp;r=6sdhpn</link>
+      <guid isPermaLink="true">https://open.substack.com/pub/structuredlanguage/p/signal-lock-closing-the-prediction?utm_source=share&amp;amp;utm_medium=android&amp;amp;r=6sdhpn</guid>
+      <pubDate>Sun, 03 May 2026 21:45:27 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/artificial<br/><br/>Signal Lock proposes a technical approach to addressing prediction-execution gaps in agentic AI systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>[AINews] AI Engineer World&apos;s Fair — Autoresearch, Memory, World Models, Tokenmaxxing, Agentic Commerce, and Vertical AI Call for Speakers</title>
@@ -53,7 +45,7 @@
       <guid isPermaLink="true">https://www.latent.space/p/ainews-ai-engineer-worlds-fair-autoresearch</guid>
       <pubDate>Sat, 02 May 2026 07:21:55 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Latent Space<br/><br/>Call for speakers at AI Engineer World&apos;s Fair conference covering emerging AI topics.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Latent Space<br/><br/>Call for speakers at AI Engineer World&apos;s Fair covering topics like autoresearch and memory systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>&quot;Second Thoughts&quot; Been playing with adding a small transformer that reads output near the end of generation, and feeds it back near the top as a refinement loop. A quick test of 1.7B model showed drastic improvement in focused tasks (like coding)</title>
@@ -61,31 +53,7 @@
       <guid isPermaLink="true">https://bigattichouse.medium.com/second-thoughts-improving-small-llms-with-bidirectional-refinement-loops-part-1-fa5ab51af656?sk=907cce272a3aed0eb3f1e3a0669a3964</guid>
       <pubDate>Mon, 04 May 2026 01:26:59 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Experimental technique adding refinement loop transformer to improve small model performance.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Local LLM Benchmark about Backend Generation by Function Calling (GLM vs Qwen vs DeepSeek)</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t2m7wi/local_llm_benchmark_about_backend_generation_by/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t2m7wi/local_llm_benchmark_about_backend_generation_by/</guid>
-      <pubDate>Sun, 03 May 2026 13:59:02 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 66/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Benchmark comparing function-calling backend generation across GLM, Qwen, and DeepSeek models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>so for coding which model do we use now?</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1t2hrts/so_for_coding_which_model_do_we_use_now/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/OpenAI/comments/1t2hrts/so_for_coding_which_model_do_we_use_now/</guid>
-      <pubDate>Sun, 03 May 2026 10:26:54 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Anyone actually built a real feedback loop for Claude agents in production? Because &quot;run evals and pray&quot; isn&apos;t cutting it</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1t32zxi/anyone_actually_built_a_real_feedback_loop_for/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1t32zxi/anyone_actually_built_a_real_feedback_loop_for/</guid>
-      <pubDate>Mon, 04 May 2026 00:59:03 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Discussion thread on implementing production feedback loops for Claude agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Experimental technique adding refinement loop transformer to improve small model performance on focused tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>How Kepler built verifiable AI for financial services with Claude</title>
@@ -93,7 +61,15 @@
       <guid isPermaLink="true">https://claude.com/blog/how-kepler-built-verifiable-ai-for-financial-services-with-claude</guid>
       <pubDate>Sun, 03 May 2026 18:14:56 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>Case study of Kepler using Claude for verifiable AI in financial services.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Local LLM Benchmark about Backend Generation by Function Calling (GLM vs Qwen vs DeepSeek)</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t2m7wi/local_llm_benchmark_about_backend_generation_by/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t2m7wi/local_llm_benchmark_about_backend_generation_by/</guid>
+      <pubDate>Sun, 03 May 2026 13:59:02 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 66/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Benchmark comparing local LLM function calling capabilities across GLM, Qwen, and DeepSeek models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>The Oscars just banned AI from winning acting and writing awards</title>
@@ -158,6 +134,22 @@
       <pubDate>Sun, 03 May 2026 13:03:58 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Claude has other things to do</title>
+      <link>https://i.redd.it/hr7yiz21w0zg1.jpeg</link>
+      <guid isPermaLink="true">https://i.redd.it/hr7yiz21w0zg1.jpeg</guid>
+      <pubDate>Mon, 04 May 2026 01:23:57 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Stop trying to put me to bed Claude!</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1t32rzn/stop_trying_to_put_me_to_bed_claude/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1t32rzn/stop_trying_to_put_me_to_bed_claude/</guid>
+      <pubDate>Mon, 04 May 2026 00:49:13 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
