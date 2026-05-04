@@ -5,39 +5,15 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 May 2026 05:11:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 07:06:01 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper</title>
-      <link>https://github.com/aattaran/deepclaude</link>
-      <guid isPermaLink="true">https://github.com/aattaran/deepclaude</guid>
-      <pubDate>Sun, 03 May 2026 22:13:20 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>DeepClaude project demonstrates a Claude code agent loop using DeepSeek V4 Pro at significantly reduced cost.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>[Paper on Hummingbird+: low-cost FPGAs for LLM inference] Qwen3-30B-A3B Q4 at 18 t/s token-gen, 24GB, expected $150 mass production cost</title>
-      <link>https://dl.acm.org/doi/pdf/10.1145/3748173.3779189</link>
-      <guid isPermaLink="true">https://dl.acm.org/doi/pdf/10.1145/3748173.3779189</guid>
-      <pubDate>Sun, 03 May 2026 12:55:26 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Research on Hummingbird+ FPGAs for LLM inference demonstrates cost-effective hardware acceleration with concrete performance metrics.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Built a Voice Agents from Scratch GitHub tutorial: mic &gt; Whisper &gt; local LLM (GGUF) &gt; Kokoro &gt; speaker, fully local, no API keys</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t2pisc/built_a_voice_agents_from_scratch_github_tutorial/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t2pisc/built_a_voice_agents_from_scratch_github_tutorial/</guid>
-      <pubDate>Sun, 03 May 2026 16:06:28 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 78/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>GitHub tutorial demonstrating fully local voice agent pipeline combining Whisper, local LLM, and text-to-speech.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
     <item>
       <title>Signal Lock: Closing the Prediction-Execution Gap in Agentic AI Systems</title>
       <link>https://open.substack.com/pub/structuredlanguage/p/signal-lock-closing-the-prediction?utm_source=share&amp;amp;utm_medium=android&amp;amp;r=6sdhpn</link>
       <guid isPermaLink="true">https://open.substack.com/pub/structuredlanguage/p/signal-lock-closing-the-prediction?utm_source=share&amp;amp;utm_medium=android&amp;amp;r=6sdhpn</guid>
       <pubDate>Sun, 03 May 2026 21:45:27 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/artificial<br/><br/>Signal Lock proposes a technical approach to addressing prediction-execution gaps in agentic AI systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/artificial<br/><br/>Research on Signal Lock framework addressing prediction-execution gaps in AI agent systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>[AINews] AI Engineer World&apos;s Fair — Autoresearch, Memory, World Models, Tokenmaxxing, Agentic Commerce, and Vertical AI Call for Speakers</title>
@@ -45,7 +21,31 @@
       <guid isPermaLink="true">https://www.latent.space/p/ainews-ai-engineer-worlds-fair-autoresearch</guid>
       <pubDate>Sat, 02 May 2026 07:21:55 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Latent Space<br/><br/>Call for speakers at AI Engineer World&apos;s Fair covering topics like autoresearch and memory systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Latent Space<br/><br/>AI Engineer World&apos;s Fair conference announcement covering autoresearch, agents, and vertical AI topics.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>[Paper on Hummingbird+: low-cost FPGAs for LLM inference] Qwen3-30B-A3B Q4 at 18 t/s token-gen, 24GB, expected $150 mass production cost</title>
+      <link>https://dl.acm.org/doi/pdf/10.1145/3748173.3779189</link>
+      <guid isPermaLink="true">https://dl.acm.org/doi/pdf/10.1145/3748173.3779189</guid>
+      <pubDate>Sun, 03 May 2026 12:55:26 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Paper on Hummingbird+ FPGA hardware achieving efficient LLM inference at low cost.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>DeepClaude – Claude Code agent loop with DeepSeek V4 Pro</title>
+      <link>https://github.com/aattaran/deepclaude</link>
+      <guid isPermaLink="true">https://github.com/aattaran/deepclaude</guid>
+      <pubDate>Sun, 03 May 2026 22:13:20 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>GitHub project combining Claude with DeepSeek V4 Pro for code agent automation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Built a Voice Agents from Scratch GitHub tutorial: mic &gt; Whisper &gt; local LLM (GGUF) &gt; Kokoro &gt; speaker, fully local, no API keys</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t2pisc/built_a_voice_agents_from_scratch_github_tutorial/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t2pisc/built_a_voice_agents_from_scratch_github_tutorial/</guid>
+      <pubDate>Sun, 03 May 2026 16:06:28 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 72/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>GitHub tutorial for building fully local voice agents without API keys.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>&quot;Second Thoughts&quot; Been playing with adding a small transformer that reads output near the end of generation, and feeds it back near the top as a refinement loop. A quick test of 1.7B model showed drastic improvement in focused tasks (like coding)</title>
@@ -53,7 +53,15 @@
       <guid isPermaLink="true">https://bigattichouse.medium.com/second-thoughts-improving-small-llms-with-bidirectional-refinement-loops-part-1-fa5ab51af656?sk=907cce272a3aed0eb3f1e3a0669a3964</guid>
       <pubDate>Mon, 04 May 2026 01:26:59 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Experimental technique adding refinement loop transformer to improve small model performance on focused tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Experimental technique using transformer refinement loop to improve model output quality.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Frontier models can&apos;t run on satellites. Here&apos;s an end-to-end wildfire detection pipeline using a 450M on-board Vision-Language Model (Sentinel-2 + LFM2.5-VL)</title>
+      <link>https://paulabartabajo.substack.com/p/how-to-build-end-2-end-systems-with</link>
+      <guid isPermaLink="true">https://paulabartabajo.substack.com/p/how-to-build-end-2-end-systems-with</guid>
+      <pubDate>Mon, 04 May 2026 03:48:22 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>End-to-end wildfire detection pipeline using 450M Vision-Language Model on satellite data.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>How Kepler built verifiable AI for financial services with Claude</title>
@@ -61,7 +69,7 @@
       <guid isPermaLink="true">https://claude.com/blog/how-kepler-built-verifiable-ai-for-financial-services-with-claude</guid>
       <pubDate>Sun, 03 May 2026 18:14:56 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>Case study of Kepler using Claude for verifiable AI in financial services.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>Case study on Kepler&apos;s implementation of verifiable AI for financial services using Claude.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Local LLM Benchmark about Backend Generation by Function Calling (GLM vs Qwen vs DeepSeek)</title>
@@ -69,7 +77,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t2m7wi/local_llm_benchmark_about_backend_generation_by/</guid>
       <pubDate>Sun, 03 May 2026 13:59:02 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 66/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Benchmark comparing local LLM function calling capabilities across GLM, Qwen, and DeepSeek models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 66/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Benchmark comparing function calling performance across GLM, Qwen, and DeepSeek models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>The Oscars just banned AI from winning acting and writing awards</title>
@@ -104,14 +112,6 @@
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Asked Google Gemini about Ai Agency</title>
-      <link>https://www.reddit.com/r/artificial/comments/1t2cwl3/asked_google_gemini_about_ai_agency/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t2cwl3/asked_google_gemini_about_ai_agency/</guid>
-      <pubDate>Sun, 03 May 2026 05:47:32 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
       <title>Claude got access to a clock and immediately lost its mind</title>
       <link>https://i.redd.it/zv67ral3rzyg1.png</link>
       <guid isPermaLink="true">https://i.redd.it/zv67ral3rzyg1.png</guid>
@@ -128,14 +128,6 @@
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Claude design is saving me</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1t2kxiv/claude_design_is_saving_me/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1t2kxiv/claude_design_is_saving_me/</guid>
-      <pubDate>Sun, 03 May 2026 13:03:58 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
       <title>Claude has other things to do</title>
       <link>https://i.redd.it/hr7yiz21w0zg1.jpeg</link>
       <guid isPermaLink="true">https://i.redd.it/hr7yiz21w0zg1.jpeg</guid>
@@ -144,12 +136,28 @@
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Stop trying to put me to bed Claude!</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1t32rzn/stop_trying_to_put_me_to_bed_claude/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1t32rzn/stop_trying_to_put_me_to_bed_claude/</guid>
-      <pubDate>Mon, 04 May 2026 00:49:13 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Claude design is saving me</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1t2kxiv/claude_design_is_saving_me/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1t2kxiv/claude_design_is_saving_me/</guid>
+      <pubDate>Sun, 03 May 2026 13:03:58 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Project Deal: Anthropic created a marketplace for their employees &amp; tasked Claude with buying, selling and negotiating on employees behalf.</title>
+      <link>https://i.redd.it/cpwycis490zg1.jpeg</link>
+      <guid isPermaLink="true">https://i.redd.it/cpwycis490zg1.jpeg</guid>
+      <pubDate>Sun, 03 May 2026 23:16:29 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Are modern ML PhDs becoming too incremental, or is this just what research looks like now? [D]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1t311vb/are_modern_ml_phds_becoming_too_incremental_or_is/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1t311vb/are_modern_ml_phds_becoming_too_incremental_or_is/</guid>
+      <pubDate>Sun, 03 May 2026 23:31:19 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 56/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Discussion about whether modern ML PhD research has become too incremental.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
