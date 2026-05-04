@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 May 2026 14:46:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 15:42:56 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Signal Lock: Closing the Prediction-Execution Gap in Agentic AI Systems</title>
@@ -13,7 +13,7 @@
       <guid isPermaLink="true">https://open.substack.com/pub/structuredlanguage/p/signal-lock-closing-the-prediction?utm_source=share&amp;amp;utm_medium=android&amp;amp;r=6sdhpn</guid>
       <pubDate>Sun, 03 May 2026 21:45:27 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/artificial<br/><br/>Technical discussion of Signal Lock, a method to address stale context issues in agentic AI systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/artificial<br/><br/>Research on Signal Lock mechanism addressing prediction-execution gap in AI agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Built a Voice Agents from Scratch GitHub tutorial: mic &gt; Whisper &gt; local LLM (GGUF) &gt; Kokoro &gt; speaker, fully local, no API keys</title>
@@ -21,7 +21,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t2pisc/built_a_voice_agents_from_scratch_github_tutorial/</guid>
       <pubDate>Sun, 03 May 2026 16:06:28 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 78/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Tutorial for building fully local voice agents using Whisper, GGUF, and Kokoro without API dependencies.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 78/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>GitHub tutorial for building fully local voice agent pipeline with Whisper and local LLM.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>DeepClaude – Claude Code agent loop with DeepSeek V4 Pro</title>
@@ -29,7 +29,7 @@
       <guid isPermaLink="true">https://github.com/aattaran/deepclaude</guid>
       <pubDate>Sun, 03 May 2026 22:13:20 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>GitHub project combining Claude Code agent with DeepSeek V4 Pro for automated code generation workflows.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>GitHub project combining Claude with DeepSeek V4 Pro for code agent loops.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Frontier models can&apos;t run on satellites. Here&apos;s an end-to-end wildfire detection pipeline using a 450M on-board Vision-Language Model (Sentinel-2 + LFM2.5-VL)</title>
@@ -37,47 +37,7 @@
       <guid isPermaLink="true">https://paulabartabajo.substack.com/p/how-to-build-end-2-end-systems-with</guid>
       <pubDate>Mon, 04 May 2026 03:48:22 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>End-to-end wildfire detection pipeline using 450M parameter vision-language model for satellite imagery.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Your Claude Code agent is always working from stale context. I built it a fix it can rewind, replay, and stay ahead of every edit.</title>
-      <link>https://github.com/syncable-dev/memtrace-public</link>
-      <guid isPermaLink="true">https://github.com/syncable-dev/memtrace-public</guid>
-      <pubDate>Mon, 04 May 2026 10:33:23 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>User reports building a fix for Claude Code agent context staleness with replay and rewind capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Why SSMs struggle in parameter-constrained training: empirical findings at 25M parameters [R]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1t3hxsy/why_ssms_struggle_in_parameterconstrained/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1t3hxsy/why_ssms_struggle_in_parameterconstrained/</guid>
-      <pubDate>Mon, 04 May 2026 13:36:19 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research findings on why State Space Models underperform in parameter-constrained training regimes.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>AutoBe benchmark: structured harness narrows frontier-vs-local gap in backend generation [D]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1t3hks9/autobe_benchmark_structured_harness_narrows/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1t3hks9/autobe_benchmark_structured_harness_narrows/</guid>
-      <pubDate>Mon, 04 May 2026 13:21:59 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research on AutoBe benchmark showing structured approaches reduce gap between frontier and local models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>&quot;Second Thoughts&quot; Been playing with adding a small transformer that reads output near the end of generation, and feeds it back near the top as a refinement loop. A quick test of 1.7B model showed drastic improvement in focused tasks (like coding)</title>
-      <link>https://bigattichouse.medium.com/second-thoughts-improving-small-llms-with-bidirectional-refinement-loops-part-1-fa5ab51af656?sk=907cce272a3aed0eb3f1e3a0669a3964</link>
-      <guid isPermaLink="true">https://bigattichouse.medium.com/second-thoughts-improving-small-llms-with-bidirectional-refinement-loops-part-1-fa5ab51af656?sk=907cce272a3aed0eb3f1e3a0669a3964</guid>
-      <pubDate>Mon, 04 May 2026 01:26:59 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Experimental refinement technique using small transformers to feed output back into generation for improved results.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Live demo of LocalVQE: Tiny ~1M param audio model that cancels echo and noise in realtime</title>
-      <link>https://huggingface.co/spaces/LocalAI-io/LocalVQE-demo</link>
-      <guid isPermaLink="true">https://huggingface.co/spaces/LocalAI-io/LocalVQE-demo</guid>
-      <pubDate>Mon, 04 May 2026 12:54:08 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Live demonstration of LocalVQE, a 1M parameter real-time audio noise cancellation model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>End-to-end wildfire detection pipeline using 450M parameter Vision-Language Model on satellite hardware.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>How Kepler built verifiable AI for financial services with Claude</title>
@@ -85,15 +45,63 @@
       <guid isPermaLink="true">https://claude.com/blog/how-kepler-built-verifiable-ai-for-financial-services-with-claude</guid>
       <pubDate>Sun, 03 May 2026 18:14:56 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>Case study of Kepler building verifiable AI system for financial services using Claude.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> Hacker News<br/><br/>Case study of Kepler building verifiable AI system for financial services using Claude.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>[Release] TinyMozart v2 85M 🎶</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t3fjbw/release_tinymozart_v2_85m/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t3fjbw/release_tinymozart_v2_85m/</guid>
-      <pubDate>Mon, 04 May 2026 11:57:34 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Release announcement of TinyMozart v2, an 85M parameter music generation model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Your Claude Code agent is always working from stale context. I built it a fix it can rewind, replay, and stay ahead of every edit.</title>
+      <link>https://github.com/syncable-dev/memtrace-public</link>
+      <guid isPermaLink="true">https://github.com/syncable-dev/memtrace-public</guid>
+      <pubDate>Mon, 04 May 2026 10:33:23 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Personal project adding context management improvements to Claude Code agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Why SSMs struggle in parameter-constrained training: empirical findings at 25M parameters [R]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1t3hxsy/why_ssms_struggle_in_parameterconstrained/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1t3hxsy/why_ssms_struggle_in_parameterconstrained/</guid>
+      <pubDate>Mon, 04 May 2026 13:36:19 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Empirical research findings on State Space Models performance in parameter-constrained training.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>AutoBe benchmark: structured harness narrows frontier-vs-local gap in backend generation [D]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1t3hks9/autobe_benchmark_structured_harness_narrows/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1t3hks9/autobe_benchmark_structured_harness_narrows/</guid>
+      <pubDate>Mon, 04 May 2026 13:21:59 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>AutoBe benchmark demonstrating improvements in frontier vs local model performance for code generation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>&quot;Second Thoughts&quot; Been playing with adding a small transformer that reads output near the end of generation, and feeds it back near the top as a refinement loop. A quick test of 1.7B model showed drastic improvement in focused tasks (like coding)</title>
+      <link>https://bigattichouse.medium.com/second-thoughts-improving-small-llms-with-bidirectional-refinement-loops-part-1-fa5ab51af656?sk=907cce272a3aed0eb3f1e3a0669a3964</link>
+      <guid isPermaLink="true">https://bigattichouse.medium.com/second-thoughts-improving-small-llms-with-bidirectional-refinement-loops-part-1-fa5ab51af656?sk=907cce272a3aed0eb3f1e3a0669a3964</guid>
+      <pubDate>Mon, 04 May 2026 01:26:59 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Experimental refinement loop technique using transformer feedback for LLM outputs.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Live demo of LocalVQE: Tiny ~1M param audio model that cancels echo and noise in realtime</title>
+      <link>https://huggingface.co/spaces/LocalAI-io/LocalVQE-demo</link>
+      <guid isPermaLink="true">https://huggingface.co/spaces/LocalAI-io/LocalVQE-demo</guid>
+      <pubDate>Mon, 04 May 2026 12:54:08 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Live demonstration of LocalVQE, a 1M parameter audio model for real-time echo and noise cancellation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>AGENTS.md trick that stopped Codex from doing dumb work at premium rates</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1t3jsot/agentsmd_trick_that_stopped_codex_from_doing_dumb/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/OpenAI/comments/1t3jsot/agentsmd_trick_that_stopped_codex_from_doing_dumb/</guid>
+      <pubDate>Mon, 04 May 2026 14:44:54 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> r/openai<br/><br/>User sharing a prompt technique for improving Claude Codex behavior.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Parax v0.5: Parametric Modeling in JAX [P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1t3jmdc/parax_v05_parametric_modeling_in_jax_p/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1t3jmdc/parax_v05_parametric_modeling_in_jax_p/</guid>
+      <pubDate>Mon, 04 May 2026 14:38:31 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Release of Parax v0.5 for parametric modeling in JAX framework.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Deep research + report &quot;a la McKinsey&quot; with Hermes Agent and qwen3.6-35b-a3b Q6_K.</title>
@@ -101,7 +109,15 @@
       <guid isPermaLink="true">https://github.com/hamletlg/deep-research-pipeline</guid>
       <pubDate>Mon, 04 May 2026 11:09:01 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>User report of building research report generation with Hermes Agent and Qwen 35B model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>User demonstrating report generation workflow with Hermes Agent and Qwen model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Claude got access to a clock and immediately lost its mind</title>
+      <link>https://i.redd.it/zv67ral3rzyg1.png</link>
+      <guid isPermaLink="true">https://i.redd.it/zv67ral3rzyg1.png</guid>
+      <pubDate>Sun, 03 May 2026 21:38:06 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>What if Claude launched in 1998?</title>
@@ -142,22 +158,6 @@
       <pubDate>Mon, 04 May 2026 00:49:13 +0000</pubDate>
       <category>Industry News</category>
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Are there any good websites that showcase frontend code made by Claude? Like a showcase website?</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1t2wsmj/are_there_any_good_websites_that_showcase/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1t2wsmj/are_there_any_good_websites_that_showcase/</guid>
-      <pubDate>Sun, 03 May 2026 20:36:28 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Most of my Claude usage was on work that didn&apos;t need Claude. Cut my bill 60x on bulk tasks with a tiny side model.</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1t3elab/most_of_my_claude_usage_was_on_work_that_didnt/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1t3elab/most_of_my_claude_usage_was_on_work_that_didnt/</guid>
-      <pubDate>Mon, 04 May 2026 11:12:10 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>User anecdote about reducing Claude costs by 60x through selective model use.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Claude is lying regularly when I have conversations with it</title>
