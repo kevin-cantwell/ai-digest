@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 May 2026 10:35:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 11:29:54 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>How OpenAI delivers low-latency voice AI at scale</title>
@@ -13,23 +13,7 @@
       <guid isPermaLink="true">https://openai.com/index/delivering-low-latency-voice-ai-at-scale/</guid>
       <pubDate>Mon, 04 May 2026 19:42:47 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 86/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI technical post on architecture and optimization for delivering low-latency voice AI at scale.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Google Chrome silently installs a 4 GB AI model on your device without consent</title>
-      <link>https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/</link>
-      <guid isPermaLink="true">https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/</guid>
-      <pubDate>Tue, 05 May 2026 07:34:55 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Report that Google Chrome installs a 4GB AI model without explicit user consent, raising privacy concerns.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Anthropic Launches Enterprise AI Firm With Wall Street Giants</title>
-      <link>https://www.reddit.com/r/artificial/comments/1t42w30/anthropic_launches_enterprise_ai_firm_with_wall/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t42w30/anthropic_launches_enterprise_ai_firm_with_wall/</guid>
-      <pubDate>Tue, 05 May 2026 02:44:35 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/artificial<br/><br/>Anthropic launches enterprise AI joint venture with major Wall Street financial institutions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 86/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI publishes technical details on infrastructure and optimization for low-latency voice AI deployment at scale.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Uber Shares What Happens When 1.500 AI Agents Hit Production</title>
@@ -37,7 +21,23 @@
       <guid isPermaLink="true">https://shiftmag.dev/uber-shares-what-happens-when-1-500-ai-agents-hit-production-9430/</guid>
       <pubDate>Tue, 05 May 2026 07:35:06 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/artificial<br/><br/>Uber shares operational insights from deploying 1,500 AI agents in production environments.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/artificial<br/><br/>Uber publicly shares operational insights and lessons from deploying 1,500 AI agents in production systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Prompt injection benchmark: delimiter + strict prompt took Gemma 4 from 21% to 100% defense rate (15 models, 6100+ tests)</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t47z4q/prompt_injection_benchmark_delimiter_strict/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t47z4q/prompt_injection_benchmark_delimiter_strict/</guid>
+      <pubDate>Tue, 05 May 2026 07:05:46 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Research benchmark demonstrates prompt injection defense improvements across 15 models using delimiter and strict prompt techniques.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Google Chrome silently installs a 4 GB AI model on your device without consent</title>
+      <link>https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/</link>
+      <guid isPermaLink="true">https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/</guid>
+      <pubDate>Tue, 05 May 2026 07:34:55 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Report that Google Chrome automatically installs a 4GB AI model without explicit user consent, raising privacy concerns.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Sierra raises $950M as the race to own enterprise AI gets serious</title>
@@ -45,31 +45,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/</guid>
       <pubDate>Mon, 04 May 2026 16:45:55 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Sierra raises $950M funding round for enterprise AI, signaling major market consolidation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>LLMSearchIndex- an Open Source Local Web Search Library with over 200 million indexed Web Pages for RAG applications</title>
-      <link>https://github.com/zakerytclarke/llmsearchindex</link>
-      <guid isPermaLink="true">https://github.com/zakerytclarke/llmsearchindex</guid>
-      <pubDate>Mon, 04 May 2026 13:26:10 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Open source library indexing 200+ million web pages for RAG applications released.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>OpenAI and PwC collaborate to reimagine the office of the CFO</title>
-      <link>https://openai.com/index/openai-pwc-finance-collaboration</link>
-      <guid isPermaLink="true">https://openai.com/index/openai-pwc-finance-collaboration</guid>
-      <pubDate>Mon, 04 May 2026 21:00:00 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI and PwC partnership announcement targeting finance/CFO operations with AI.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>DeepSeek V4 Pro matches GPT-5.2 on FoodTruck Bench, our agentic benchmark — 10 weeks later, ~17× cheaper</title>
-      <link>https://i.redd.it/fx89f3w5n9zg1.png</link>
-      <guid isPermaLink="true">https://i.redd.it/fx89f3w5n9zg1.png</guid>
-      <pubDate>Tue, 05 May 2026 06:51:49 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Benchmark comparison claims DeepSeek V4 Pro matches GPT-5.2 on a custom agentic benchmark at lower cost, but relies on non-standard metrics.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Sierra, an enterprise AI startup, raises $950M funding round as competition intensifies for enterprise AI market.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Anthropic and OpenAI are both launching joint ventures for enterprise AI services</title>
@@ -77,15 +53,15 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/</guid>
       <pubDate>Mon, 04 May 2026 15:59:24 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 70/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Both Anthropic and OpenAI have partnered with asset managers to more aggressively market their enterprise AI products.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 76/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Both Anthropic and OpenAI announce major joint ventures for enterprise AI services and solutions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Peanut - Text to Image Model (Open Weights coming soon)</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t45g3l/peanut_text_to_image_model_open_weights_coming/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t45g3l/peanut_text_to_image_model_open_weights_coming/</guid>
-      <pubDate>Tue, 05 May 2026 04:47:18 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Announcement of Peanut text-to-image model with open weights coming soon.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>LLMSearchIndex- an Open Source Local Web Search Library with over 200 million indexed Web Pages for RAG applications</title>
+      <link>https://github.com/zakerytclarke/llmsearchindex</link>
+      <guid isPermaLink="true">https://github.com/zakerytclarke/llmsearchindex</guid>
+      <pubDate>Mon, 04 May 2026 13:26:10 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Open-source release of LLMSearchIndex library with 200+ million indexed web pages for local RAG applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>As MTP prepares to land in llama.cpp, Models that support MTP</title>
@@ -93,7 +69,39 @@
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t46o09/as_mtp_prepares_to_land_in_llamacpp_models_that/</guid>
       <pubDate>Tue, 05 May 2026 05:51:38 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Technical note about Multi-Token Prediction preparation for llama.cpp and supporting models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Technical update on Multi-Token Prediction (MTP) integration into llama.cpp with compatible model list.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>DeepSeek V4 Pro matches GPT-5.2 on FoodTruck Bench, our agentic benchmark — 10 weeks later, ~17× cheaper</title>
+      <link>https://i.redd.it/fx89f3w5n9zg1.png</link>
+      <guid isPermaLink="true">https://i.redd.it/fx89f3w5n9zg1.png</guid>
+      <pubDate>Tue, 05 May 2026 06:51:49 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>DeepSeek V4 Pro claimed to match GPT-5.2 on a custom benchmark at lower cost, but lacks independent verification and uses a non-standard benchmark.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Anthropic Launches Enterprise AI Firm With Wall Street Giants</title>
+      <link>https://www.reddit.com/r/artificial/comments/1t42w30/anthropic_launches_enterprise_ai_firm_with_wall/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t42w30/anthropic_launches_enterprise_ai_firm_with_wall/</guid>
+      <pubDate>Tue, 05 May 2026 02:44:35 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/artificial<br/><br/>Anthropic launches enterprise AI services joint venture with major Wall Street financial institutions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Peanut - Text to Image Model (Open Weights coming soon)</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t45g3l/peanut_text_to_image_model_open_weights_coming/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t45g3l/peanut_text_to_image_model_open_weights_coming/</guid>
+      <pubDate>Tue, 05 May 2026 04:47:18 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Announcement of Peanut text-to-image model with open weights coming soon, limited details available.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>OpenAI and PwC collaborate to reimagine the office of the CFO</title>
+      <link>https://openai.com/index/openai-pwc-finance-collaboration</link>
+      <guid isPermaLink="true">https://openai.com/index/openai-pwc-finance-collaboration</guid>
+      <pubDate>Mon, 04 May 2026 21:00:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces collaboration with PwC to develop AI applications for financial operations and CFO functions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Why SSMs struggle in parameter-constrained training: empirical findings at 25M parameters [R]</title>
@@ -104,18 +112,18 @@
       <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>AutoBe benchmark: structured harness narrows frontier-vs-local gap in backend generation [D]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1t3hks9/autobe_benchmark_structured_harness_narrows/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1t3hks9/autobe_benchmark_structured_harness_narrows/</guid>
-      <pubDate>Mon, 04 May 2026 13:21:59 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
       <title>NeurIPS openreview - can I upload paper pdf after abstract deadline or should I upload something first to be able to update it later? [D]</title>
       <link>https://www.reddit.com/r/MachineLearning/comments/1t46wzz/neurips_openreview_can_i_upload_paper_pdf_after/</link>
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1t46wzz/neurips_openreview_can_i_upload_paper_pdf_after/</guid>
       <pubDate>Tue, 05 May 2026 06:05:11 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>AutoBe benchmark: structured harness narrows frontier-vs-local gap in backend generation [D]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1t3hks9/autobe_benchmark_structured_harness_narrows/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1t3hks9/autobe_benchmark_structured_harness_narrows/</guid>
+      <pubDate>Mon, 04 May 2026 13:21:59 +0000</pubDate>
       <category>Research &amp; Papers</category>
       <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
