@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 May 2026 23:20:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 00:38:21 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>How OpenAI delivers low-latency voice AI at scale</title>
@@ -13,7 +13,7 @@
       <guid isPermaLink="true">https://openai.com/index/delivering-low-latency-voice-ai-at-scale/</guid>
       <pubDate>Mon, 04 May 2026 19:42:47 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 86/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI technical article on delivering low-latency voice AI infrastructure at scale.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 86/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI publishes technical article on infrastructure and methods for delivering low-latency voice AI at scale.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Your Claude Code agent is always working from stale context. I built it a fix it can rewind, replay, and stay ahead of every edit.</title>
@@ -21,7 +21,7 @@
       <guid isPermaLink="true">https://github.com/syncable-dev/memtrace-public</guid>
       <pubDate>Mon, 04 May 2026 10:33:23 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Technical contribution describing a context management fix for Claude Code agents to handle stale information.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Developer describes a technical improvement to Claude Code agent&apos;s context management through a rewinding mechanism.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Sierra raises $950M as the race to own enterprise AI gets serious</title>
@@ -29,7 +29,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/</guid>
       <pubDate>Mon, 04 May 2026 16:45:55 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Sierra raises $950M funding round as enterprise AI services market accelerates.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Sierra raises $950M funding round for enterprise AI services, signaling major investment in sector.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Anthropic and OpenAI are both launching joint ventures for enterprise AI services</title>
@@ -37,7 +37,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/</guid>
       <pubDate>Mon, 04 May 2026 15:59:24 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 76/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic and OpenAI both launch enterprise AI joint ventures, signaling major market pivot.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 76/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic and OpenAI both launch joint venture offerings for enterprise AI services.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>&quot;Second Thoughts&quot; Been playing with adding a small transformer that reads output near the end of generation, and feeds it back near the top as a refinement loop. A quick test of 1.7B model showed drastic improvement in focused tasks (like coding)</title>
@@ -45,7 +45,7 @@
       <guid isPermaLink="true">https://bigattichouse.medium.com/second-thoughts-improving-small-llms-with-bidirectional-refinement-loops-part-1-fa5ab51af656?sk=907cce272a3aed0eb3f1e3a0669a3964</guid>
       <pubDate>Mon, 04 May 2026 01:26:59 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Technical experiment describing a refinement loop architecture using small transformers in language model generation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Developer describes experimental refinement loop architecture using a small transformer for improved model output quality.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>LLMSearchIndex- an Open Source Local Web Search Library with over 200 million indexed Web Pages for RAG applications</title>
@@ -53,39 +53,7 @@
       <guid isPermaLink="true">https://github.com/zakerytclarke/llmsearchindex</guid>
       <pubDate>Mon, 04 May 2026 13:26:10 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Open source library release for local web search indexing with 200M+ pages for RAG applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Vertical vs. Horizontal: Who wins the Agentic AI race in banking?</title>
-      <link>https://www.reddit.com/r/artificial/comments/1t3ulp7/vertical_vs_horizontal_who_wins_the_agentic_ai/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t3ulp7/vertical_vs_horizontal_who_wins_the_agentic_ai/</guid>
-      <pubDate>Mon, 04 May 2026 21:01:09 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/artificial<br/><br/>Discussion comparing vertical versus horizontal approaches to agentic AI in banking sector.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Why SSMs struggle in parameter-constrained training: empirical findings at 25M parameters [R]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1t3hxsy/why_ssms_struggle_in_parameterconstrained/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1t3hxsy/why_ssms_struggle_in_parameterconstrained/</guid>
-      <pubDate>Mon, 04 May 2026 13:36:19 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Empirical research findings on State Space Models&apos; performance constraints in parameter-limited training.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Live demo of LocalVQE: Tiny ~1M param audio model that cancels echo and noise in realtime</title>
-      <link>https://huggingface.co/spaces/LocalAI-io/LocalVQE-demo</link>
-      <guid isPermaLink="true">https://huggingface.co/spaces/LocalAI-io/LocalVQE-demo</guid>
-      <pubDate>Mon, 04 May 2026 12:54:08 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Live demonstration of LocalVQE, a tiny 1M parameter audio model for real-time echo and noise cancellation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Anyone actually built a real feedback loop for Claude agents in production? Because &quot;run evals and pray&quot; isn&apos;t cutting it</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1t32zxi/anyone_actually_built_a_real_feedback_loop_for/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1t32zxi/anyone_actually_built_a_real_feedback_loop_for/</guid>
-      <pubDate>Mon, 04 May 2026 00:59:03 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Discussion question about feedback loops and evaluation strategies for Claude agents in production.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Release of LLMSearchIndex, an open source library providing 200+ million indexed web pages for RAG applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Frontier models can&apos;t run on satellites. Here&apos;s an end-to-end wildfire detection pipeline using a 450M on-board Vision-Language Model (Sentinel-2 + LFM2.5-VL)</title>
@@ -93,7 +61,39 @@
       <guid isPermaLink="true">https://paulabartabajo.substack.com/p/how-to-build-end-2-end-systems-with</guid>
       <pubDate>Mon, 04 May 2026 03:48:22 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Technical implementation of wildfire detection using a 450M parameter vision-language model on satellite imagery.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Vertical vs. Horizontal: Who wins the Agentic AI race in banking?</title>
+      <link>https://www.reddit.com/r/artificial/comments/1t3ulp7/vertical_vs_horizontal_who_wins_the_agentic_ai/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t3ulp7/vertical_vs_horizontal_who_wins_the_agentic_ai/</guid>
+      <pubDate>Mon, 04 May 2026 21:01:09 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/artificial<br/><br/>Discussion comparing vertical versus horizontal approaches in agentic AI for banking sector.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Why SSMs struggle in parameter-constrained training: empirical findings at 25M parameters [R]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1t3hxsy/why_ssms_struggle_in_parameterconstrained/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1t3hxsy/why_ssms_struggle_in_parameterconstrained/</guid>
+      <pubDate>Mon, 04 May 2026 13:36:19 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research findings on why state space models struggle under parameter constraints at 25M parameters.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>How do you experiment with a (very) large model architecture? [D]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1t3savv/how_do_you_experiment_with_a_very_large_model/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1t3savv/how_do_you_experiment_with_a_very_large_model/</guid>
+      <pubDate>Mon, 04 May 2026 19:40:13 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Discussion thread about methodologies for experimenting with large language model architectures.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Live demo of LocalVQE: Tiny ~1M param audio model that cancels echo and noise in realtime</title>
+      <link>https://huggingface.co/spaces/LocalAI-io/LocalVQE-demo</link>
+      <guid isPermaLink="true">https://huggingface.co/spaces/LocalAI-io/LocalVQE-demo</guid>
+      <pubDate>Mon, 04 May 2026 12:54:08 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Live demonstration of LocalVQE, a 1M parameter audio model for real-time echo and noise cancellation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Yoda Translator - Toy 500k Param Model</title>
@@ -104,12 +104,12 @@
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>On-device AI changes how people behave with sensitive data. I noticed this while building a therapy prep voice agent</title>
-      <link>https://www.reddit.com/r/artificial/comments/1t3trh1/ondevice_ai_changes_how_people_behave_with/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t3trh1/ondevice_ai_changes_how_people_behave_with/</guid>
-      <pubDate>Mon, 04 May 2026 20:31:35 +0000</pubDate>
+      <title>Image AI models now drive app growth, beating chatbot upgrades</title>
+      <link>https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/</guid>
+      <pubDate>Mon, 04 May 2026 19:12:49 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Appfigures finds visual model launches generate 6.5x more downloads — but most don’t convert that spike into revenue.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>AutoBe benchmark: structured harness narrows frontier-vs-local gap in backend generation [D]</title>
@@ -117,15 +117,23 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1t3hks9/autobe_benchmark_structured_harness_narrows/</guid>
       <pubDate>Mon, 04 May 2026 13:21:59 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Benchmark introduction for backend code generation reducing performance gap between frontier and local models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research on AutoBe benchmark that compares frontier versus local model performance in backend code generation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>How do you experiment with a (very) large model architecture? [D]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1t3savv/how_do_you_experiment_with_a_very_large_model/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1t3savv/how_do_you_experiment_with_a_very_large_model/</guid>
-      <pubDate>Mon, 04 May 2026 19:40:13 +0000</pubDate>
+      <title>Deep research + report &quot;a la McKinsey&quot; with Hermes Agent and qwen3.6-35b-a3b Q6_K.</title>
+      <link>https://github.com/hamletlg/deep-research-pipeline</link>
+      <guid isPermaLink="true">https://github.com/hamletlg/deep-research-pipeline</guid>
+      <pubDate>Mon, 04 May 2026 11:09:01 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Discussion thread about experimental methodologies for large model architecture development.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Description of using Hermes Agent with Qwen model for research report generation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>built a plugin so my parallel Claude Code sessions can message each other instead of me alt-tabbing</title>
+      <link>https://i.redd.it/68xdfr1qn5zg1.gif</link>
+      <guid isPermaLink="true">https://i.redd.it/68xdfr1qn5zg1.gif</guid>
+      <pubDate>Mon, 04 May 2026 17:38:22 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Personal anecdote about building a plugin for parallel Claude Code sessions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>If Claude App gave you the same control as Claude CLI then would you bother with the CLI?</title>
@@ -156,14 +164,6 @@
       <link>https://i.redd.it/juj74ld803zg1.png</link>
       <guid isPermaLink="true">https://i.redd.it/juj74ld803zg1.png</guid>
       <pubDate>Mon, 04 May 2026 09:34:56 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Real-time competitive multiplayer .io game built with Claude (4.6 &amp; 4.7), live at nodecontrol.gg</title>
-      <link>https://v.redd.it/y8qfk5b735zg1</link>
-      <guid isPermaLink="true">https://v.redd.it/y8qfk5b735zg1</guid>
-      <pubDate>Mon, 04 May 2026 15:45:50 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
