@@ -5,15 +5,23 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 May 2026 19:33:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 20:29:58 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Anthropic researchers detail “model spec midtraining”, which adds a stage between pretraining and fine-tuning to improve generalization from alignment training</title>
+      <link>https://alignment.anthropic.com/2026/msm/</link>
+      <guid isPermaLink="true">https://alignment.anthropic.com/2026/msm/</guid>
+      <pubDate>Thu, 07 May 2026 04:06:31 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 88/100<br/><b>Source:</b> r/artificial<br/><br/>Anthropic researchers introduce &apos;model spec midtraining,&apos; a new training stage between pretraining and fine-tuning.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
     <item>
       <title>Advancing voice intelligence with new models in the API</title>
       <link>https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api</link>
       <guid isPermaLink="true">https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api</guid>
       <pubDate>Thu, 07 May 2026 10:00:00 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 94/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI releases new voice intelligence models for API with enhanced capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 88/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI releases new voice intelligence models available in their API.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>AlphaEvolve: Gemini-powered coding agent scaling impact across fields</title>
@@ -21,15 +29,7 @@
       <guid isPermaLink="true">https://deepmind.google/blog/alphaevolve-impact/</guid>
       <pubDate>Thu, 07 May 2026 15:02:20 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>Google DeepMind announces AlphaEvolve, a Gemini-powered coding agent for multi-domain applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Anthropic researchers detail “model spec midtraining”, which adds a stage between pretraining and fine-tuning to improve generalization from alignment training</title>
-      <link>https://alignment.anthropic.com/2026/msm/</link>
-      <guid isPermaLink="true">https://alignment.anthropic.com/2026/msm/</guid>
-      <pubDate>Thu, 07 May 2026 04:06:31 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 88/100<br/><b>Source:</b> r/artificial<br/><br/>Anthropic researchers introduce model spec midtraining, a new training stage improving alignment generalization.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>DeepMind announces AlphaEvolve, a Gemini-powered coding agent with cross-domain applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Natural Language Autoencoders: Turning Claude&apos;s Thoughts into Text</title>
@@ -37,7 +37,7 @@
       <guid isPermaLink="true">https://www.anthropic.com/research/natural-language-autoencoders</guid>
       <pubDate>Thu, 07 May 2026 17:54:02 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 86/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic research on natural language autoencoders for interpreting model internal representations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 80/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic research on natural language autoencoders for interpreting Claude&apos;s internal representations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>We’re introducing three audio models in the API that unlock a new class of voice apps for developers.</title>
@@ -45,15 +45,7 @@
       <guid isPermaLink="true">https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api/</guid>
       <pubDate>Thu, 07 May 2026 17:32:51 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 86/100<br/><b>Source:</b> r/openai<br/><br/>OpenAI releases three new audio models for API enabling voice application development.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic)</title>
-      <link>https://ahk.cardor.dev</link>
-      <guid isPermaLink="true">https://ahk.cardor.dev</guid>
-      <pubDate>Thu, 07 May 2026 10:45:59 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Open-source scaffolding toolkit for building multi-agent workflows with provider-agnostic support.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/openai<br/><br/>OpenAI announces three new audio models in the API for voice application development.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Making LLM Training Faster with Unsloth and NVIDIA</title>
@@ -64,12 +56,20 @@
       <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Unsloth announces collaboration with NVIDIA to accelerate LLM training.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>ParoQuant: Pairwise Rotation Quantization for Efficient Reasoning LLM Inference</title>
-      <link>https://i.redd.it/9gim2lznimzg1.jpeg</link>
-      <guid isPermaLink="true">https://i.redd.it/9gim2lznimzg1.jpeg</guid>
-      <pubDate>Thu, 07 May 2026 02:07:48 +0000</pubDate>
+      <title>Testing ads in ChatGPT</title>
+      <link>https://openai.com/index/testing-ads-in-chatgpt</link>
+      <guid isPermaLink="true">https://openai.com/index/testing-ads-in-chatgpt</guid>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>ParoQuant research on pairwise rotation quantization for efficient LLM inference.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces testing of ads within ChatGPT interface.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>AI Slop Is Killing Online Communities</title>
+      <link>https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/</link>
+      <guid isPermaLink="true">https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/</guid>
+      <pubDate>Thu, 07 May 2026 18:46:25 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>DeepSeek 4 Flash local inference engine for Metal</title>
@@ -77,7 +77,7 @@
       <guid isPermaLink="true">https://github.com/antirez/ds4</guid>
       <pubDate>Thu, 07 May 2026 15:40:24 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>GitHub project for local DeepSeek inference optimization on Apple Metal.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>GitHub project for local DeepSeek inference optimization on Metal architecture.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Motherboard sales &apos;collapse&apos; amid unprecedented shortages fueled by AI</title>
@@ -88,12 +88,20 @@
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
+      <title>Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic)</title>
+      <link>https://ahk.cardor.dev</link>
+      <guid isPermaLink="true">https://ahk.cardor.dev</guid>
+      <pubDate>Thu, 07 May 2026 10:45:59 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Open-source scaffolding toolkit for building multi-agent workflows with provider-agnostic design.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
       <title>Show HN: Agent-skills-eval – Test whether Agent Skills improve outputs</title>
       <link>https://github.com/darkrishabh/agent-skills-eval</link>
       <guid isPermaLink="true">https://github.com/darkrishabh/agent-skills-eval</guid>
       <pubDate>Thu, 07 May 2026 06:12:25 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Tool for evaluating whether agent skills improve model outputs.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>GitHub tool for evaluating whether agent skills improve AI system outputs.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Pre-Deployment AI Evaluations</title>
@@ -109,7 +117,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/</guid>
       <pubDate>Thu, 07 May 2026 19:21:21 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Can Sam Altman—or any CEO—be trusted with super intelligence?<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Elon Musk&apos;s legal effort to dismantle OpenAI may hinge on how its for-profit subsidiary enhances or detracts from the frontier lab&apos;s founding mission of ensuring that humanity benefits from artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>The GB10 Solution Atlas is now open source, the inference engine made for the community with breakneck inference speeds (Qwen3.6-35B-FP8 100+ tok/s)</title>
@@ -117,15 +125,7 @@
       <guid isPermaLink="true">https://v.redd.it/yl2mm4ohvkzg1</guid>
       <pubDate>Wed, 06 May 2026 20:36:19 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Open source inference engine GB10 Solution Atlas released with high-speed inference capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Testing ads in ChatGPT</title>
-      <link>https://openai.com/index/testing-ads-in-chatgpt</link>
-      <guid isPermaLink="true">https://openai.com/index/testing-ads-in-chatgpt</guid>
-      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces testing of advertising within ChatGPT platform.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>GB10 releases open-source inference engine achieving high throughput on Qwen models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>ECCV reviewer wants me to compare and contrast to my own paper. [D]</title>
