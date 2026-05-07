@@ -5,31 +5,15 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 May 2026 15:50:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 16:37:06 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Higher usage limits for Claude and a compute deal with SpaceX</title>
-      <link>https://www.anthropic.com/news/higher-limits-spacex</link>
-      <guid isPermaLink="true">https://www.anthropic.com/news/higher-limits-spacex</guid>
-      <pubDate>Wed, 06 May 2026 16:17:33 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic increases Claude usage limits and announces compute partnership with SpaceX.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
     <item>
       <title>Anthropic researchers detail “model spec midtraining”, which adds a stage between pretraining and fine-tuning to improve generalization from alignment training</title>
       <link>https://alignment.anthropic.com/2026/msm/</link>
       <guid isPermaLink="true">https://alignment.anthropic.com/2026/msm/</guid>
       <pubDate>Thu, 07 May 2026 04:06:31 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 88/100<br/><b>Source:</b> r/artificial<br/><br/>Anthropic researchers introduce model spec midtraining, a new training stage between pretraining and fine-tuning for improved alignment.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Anthropic just partnered with SpaceX and doubled Claude Code rate limits effective today</title>
-      <link>https://www.reddit.com/r/artificial/comments/1t5l92i/anthropic_just_partnered_with_spacex_and_doubled/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t5l92i/anthropic_just_partnered_with_spacex_and_doubled/</guid>
-      <pubDate>Wed, 06 May 2026 18:20:46 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 86/100<br/><b>Source:</b> r/artificial<br/><br/>Anthropic&apos;s SpaceX partnership and Claude Code rate limit doubling announced.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 88/100<br/><b>Source:</b> r/artificial<br/><br/>Anthropic researchers introduce &apos;model spec midtraining,&apos; a new training stage to improve alignment generalization.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>AlphaEvolve: Gemini-powered coding agent scaling impact across fields</title>
@@ -37,7 +21,7 @@
       <guid isPermaLink="true">https://deepmind.google/blog/alphaevolve-impact/</guid>
       <pubDate>Thu, 07 May 2026 15:02:20 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Google DeepMind releases AlphaEvolve, a Gemini-powered coding agent with broad applications across multiple fields.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>DeepMind releases AlphaEvolve, a Gemini-powered coding agent expanding to multiple application domains.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Learning the Integral of a Diffusion Model</title>
@@ -45,55 +29,7 @@
       <guid isPermaLink="true">https://sander.ai/2026/05/06/flow-maps.html</guid>
       <pubDate>Wed, 06 May 2026 18:46:27 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Research on learning integral representations in diffusion models for improved flow-based generation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>New in Claude Managed Agents: dreaming, outcomes, multiagent orchestration, and webhooks.</title>
-      <link>https://v.redd.it/etgq2651vjzg1</link>
-      <guid isPermaLink="true">https://v.redd.it/etgq2651vjzg1</guid>
-      <pubDate>Wed, 06 May 2026 17:12:32 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 78/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Claude Managed Agents introduces new features including dreaming, outcomes optimization, multiagent orchestration, and webhooks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic)</title>
-      <link>https://ahk.cardor.dev</link>
-      <guid isPermaLink="true">https://ahk.cardor.dev</guid>
-      <pubDate>Thu, 07 May 2026 10:45:59 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Open-source scaffolding tool for multi-agent workflows supporting MCP and provider-agnostic architecture.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>ZAYA1-8B: An 8B Moe Model with 760M Active Params Matching DeepSeek-R1 on Math</title>
-      <link>https://firethering.com/zaya1-8b-open-source-math-coding-model/</link>
-      <guid isPermaLink="true">https://firethering.com/zaya1-8b-open-source-math-coding-model/</guid>
-      <pubDate>Thu, 07 May 2026 08:56:51 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Open-source ZAYA1-8B mixture-of-experts model achieves competitive mathematical reasoning performance with 760M active parameters.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Show HN: Tilde.run – Agent sandbox with a transactional, versioned filesystem</title>
-      <link>https://tilde.run/</link>
-      <guid isPermaLink="true">https://tilde.run/</guid>
-      <pubDate>Wed, 06 May 2026 15:58:34 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Open-source agent sandbox environment with transactional, versioned filesystem for testing.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Introducing ChatGPT Futures: Class of 2026</title>
-      <link>https://openai.com/index/introducing-chatgpt-futures-class-of-2026</link>
-      <guid isPermaLink="true">https://openai.com/index/introducing-chatgpt-futures-class-of-2026</guid>
-      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 75/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity <br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>ParoQuant: Pairwise Rotation Quantization for Efficient Reasoning LLM Inference</title>
-      <link>https://i.redd.it/9gim2lznimzg1.jpeg</link>
-      <guid isPermaLink="true">https://i.redd.it/9gim2lznimzg1.jpeg</guid>
-      <pubDate>Thu, 07 May 2026 02:07:48 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>ParoQuant presents pairwise rotation quantization technique for efficient inference in reasoning-focused LLMs.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Research on learning integral representations in diffusion models with potential efficiency gains.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Making LLM Training Faster with Unsloth and NVIDIA</title>
@@ -101,7 +37,39 @@
       <guid isPermaLink="true">https://unsloth.ai/blog/nvidia-collab</guid>
       <pubDate>Thu, 07 May 2026 07:15:11 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 72/100<br/><b>Source:</b> Hacker News<br/><br/>Unsloth and NVIDIA collaborate on optimization techniques for accelerating LLM training pipelines.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 78/100<br/><b>Source:</b> Hacker News<br/><br/>Unsloth and NVIDIA collaborate to accelerate LLM training efficiency.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic)</title>
+      <link>https://ahk.cardor.dev</link>
+      <guid isPermaLink="true">https://ahk.cardor.dev</guid>
+      <pubDate>Thu, 07 May 2026 10:45:59 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Open-source scaffolding toolkit for multi-agent workflows supporting MCP and provider-agnostic architecture.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>ZAYA1-8B: An 8B Moe Model with 760M Active Params Matching DeepSeek-R1 on Math</title>
+      <link>https://firethering.com/zaya1-8b-open-source-math-coding-model/</link>
+      <guid isPermaLink="true">https://firethering.com/zaya1-8b-open-source-math-coding-model/</guid>
+      <pubDate>Thu, 07 May 2026 08:56:51 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>ZAYA1-8B open-source MoE model with 760M active parameters matches DeepSeek-R1 on math tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>ParoQuant: Pairwise Rotation Quantization for Efficient Reasoning LLM Inference</title>
+      <link>https://i.redd.it/9gim2lznimzg1.jpeg</link>
+      <guid isPermaLink="true">https://i.redd.it/9gim2lznimzg1.jpeg</guid>
+      <pubDate>Thu, 07 May 2026 02:07:48 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>ParoQuant introduces pairwise rotation quantization technique for efficient reasoning LLM inference.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>New in Claude Managed Agents: dreaming, outcomes, multiagent orchestration, and webhooks.</title>
+      <link>https://v.redd.it/etgq2651vjzg1</link>
+      <guid isPermaLink="true">https://v.redd.it/etgq2651vjzg1</guid>
+      <pubDate>Wed, 06 May 2026 17:12:32 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 72/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Claude Managed Agents announces new features including dreaming, outcomes, and webhook support.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Show HN: Agent-skills-eval – Test whether Agent Skills improve outputs</title>
@@ -112,28 +80,12 @@
       <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Community tool for evaluating whether agent skills improve model outputs.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Model automatically developed by the AIBuildAI Agent ranked among top 5.7% out of 3,219 human teams in the Kaggle TGS Salt Identification Challenge [P]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1t5i56v/model_automatically_developed_by_the_aibuildai/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1t5i56v/model_automatically_developed_by_the_aibuildai/</guid>
-      <pubDate>Wed, 06 May 2026 16:35:41 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/MachineLearning<br/><br/>AI-built model from AIBuildAI Agent ranks in top 5.7% of human teams on Kaggle Salt Identification Challenge.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
       <title>I analyzed 922 agentic task trace and found the secret weapon of DeepSeek v4</title>
       <link>https://www.reddit.com/r/LocalLLaMA/comments/1t5lywi/i_analyzed_922_agentic_task_trace_and_found_the/</link>
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t5lywi/i_analyzed_922_agentic_task_trace_and_found_the/</guid>
       <pubDate>Wed, 06 May 2026 18:46:20 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Analysis of 922 agentic task traces to identify performance characteristics of DeepSeek v4.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Pre-Deployment AI Evaluations</title>
-      <link>https://www.reddit.com/r/artificial/comments/1t6al9u/predeployment_ai_evaluations/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t6al9u/predeployment_ai_evaluations/</guid>
-      <pubDate>Thu, 07 May 2026 13:28:57 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Analysis of agentic task traces claiming insights into DeepSeek v4 performance.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>The GB10 Solution Atlas is now open source, the inference engine made for the community with breakneck inference speeds (Qwen3.6-35B-FP8 100+ tok/s)</title>
@@ -141,7 +93,15 @@
       <guid isPermaLink="true">https://v.redd.it/yl2mm4ohvkzg1</guid>
       <pubDate>Wed, 06 May 2026 20:36:19 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>GB10 Solution Atlas, an open-source inference engine, released with high throughput performance on quantized models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>GB10 Solution Atlas inference engine released open-source with high throughput speeds.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Introducing ChatGPT Futures: Class of 2026</title>
+      <link>https://openai.com/index/introducing-chatgpt-futures-class-of-2026</link>
+      <guid isPermaLink="true">https://openai.com/index/introducing-chatgpt-futures-class-of-2026</guid>
+      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces ChatGPT Futures program targeting the graduating class of 2026.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Weights &amp; Biases New Master Service Agreement Questions [D]</title>
@@ -152,6 +112,14 @@
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
+      <title>ECCV reviewer wants me to compare and contrast to my own paper. [D]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1t6e4i7/eccv_reviewer_wants_me_to_compare_and_contrast_to/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1t6e4i7/eccv_reviewer_wants_me_to_compare_and_contrast_to/</guid>
+      <pubDate>Thu, 07 May 2026 15:36:41 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
       <title>Dataset of 150k+ stool images and not sure how to fully use it [D]</title>
       <link>https://www.reddit.com/r/MachineLearning/comments/1t5vy2i/dataset_of_150k_stool_images_and_not_sure_how_to/</link>
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1t5vy2i/dataset_of_150k_stool_images_and_not_sure_how_to/</guid>
@@ -160,12 +128,44 @@
       <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>ECCV reviewer wants me to compare and contrast to my own paper. [D]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1t6e4i7/eccv_reviewer_wants_me_to_compare_and_contrast_to/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1t6e4i7/eccv_reviewer_wants_me_to_compare_and_contrast_to/</guid>
-      <pubDate>Thu, 07 May 2026 15:36:41 +0000</pubDate>
+      <title>Any tool that tells you the cheapest setup needed to run a model? I want to know the cheapest setup that can realistically run Qwen 3.6 27B at decent speeds.</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t617sw/any_tool_that_tells_you_the_cheapest_setup_needed/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t617sw/any_tool_that_tells_you_the_cheapest_setup_needed/</guid>
+      <pubDate>Thu, 07 May 2026 05:26:43 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>AI uses less water than the public thinks, Job Postings for Software Engineers Are Rapidly Rising and many other AI links from Hacker News</title>
+      <link>https://www.reddit.com/r/artificial/comments/1t6c3tr/ai_uses_less_water_than_the_public_thinks_job/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t6c3tr/ai_uses_less_water_than_the_public_thinks_job/</guid>
+      <pubDate>Thu, 07 May 2026 14:25:45 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>I built an opensource tool for managing parallel agents</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1t68de9/i_built_an_opensource_tool_for_managing_parallel/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/OpenAI/comments/1t68de9/i_built_an_opensource_tool_for_managing_parallel/</guid>
+      <pubDate>Thu, 07 May 2026 11:58:16 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>China’s Moonshot AI raises $2B at $20B valuation as demand for open source AI skyrockets</title>
+      <link>https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/</guid>
+      <pubDate>Thu, 07 May 2026 13:44:25 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 65/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Moonshot&apos;s annualized recurring revenue topped $200 million in April, driven by rapid growth in paid subscriptions and API usage.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Pre-Deployment AI Evaluations</title>
+      <link>https://www.reddit.com/r/artificial/comments/1t6al9u/predeployment_ai_evaluations/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t6al9u/predeployment_ai_evaluations/</guid>
+      <pubDate>Thu, 07 May 2026 13:28:57 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 64/100<br/><b>Source:</b> r/artificial<br/><br/>Discussion of pre-deployment evaluation methodologies for AI systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
