@@ -5,16 +5,8 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 May 2026 23:20:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 00:40:28 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Advancing voice intelligence with new models in the API</title>
-      <link>https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api</link>
-      <guid isPermaLink="true">https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api</guid>
-      <pubDate>Thu, 07 May 2026 10:00:00 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 94/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI releases new voice intelligence models in API.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
     <item>
       <title>Natural Language Autoencoders: Turning Claude&apos;s Thoughts into Text</title>
       <link>https://www.anthropic.com/research/natural-language-autoencoders</link>
@@ -29,7 +21,7 @@
       <guid isPermaLink="true">https://deepmind.google/blog/alphaevolve-impact/</guid>
       <pubDate>Thu, 07 May 2026 15:02:20 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>Google DeepMind announces AlphaEvolve, a Gemini-powered coding agent for cross-domain applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>Google DeepMind announces AlphaEvolve, a Gemini-powered coding agent with broad applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Anthropic researchers detail “model spec midtraining”, which adds a stage between pretraining and fine-tuning to improve generalization from alignment training</title>
@@ -37,7 +29,15 @@
       <guid isPermaLink="true">https://alignment.anthropic.com/2026/msm/</guid>
       <pubDate>Thu, 07 May 2026 04:06:31 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 88/100<br/><b>Source:</b> r/artificial<br/><br/>Anthropic researchers introduce model spec midtraining technique to improve alignment generalization.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 88/100<br/><b>Source:</b> r/artificial<br/><br/>Anthropic researchers introduce model spec midtraining, a new stage between pretraining and fine-tuning for improved alignment.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Advancing voice intelligence with new models in the API</title>
+      <link>https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api</link>
+      <guid isPermaLink="true">https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api</guid>
+      <pubDate>Thu, 07 May 2026 10:00:00 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 88/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI releases new voice intelligence models in the API.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber</title>
@@ -45,7 +45,15 @@
       <guid isPermaLink="true">https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber</guid>
       <pubDate>Thu, 07 May 2026 13:00:00 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 88/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces GPT-5.5 and GPT-5.5-Cyber models with trusted access for cybersecurity.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 82/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI releases GPT-5.5 and GPT-5.5-Cyber with trusted access for cybersecurity.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Simplex rethinks software development with Codex</title>
+      <link>https://openai.com/index/simplex</link>
+      <guid isPermaLink="true">https://openai.com/index/simplex</guid>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI case study: Simplex rethinks software development with Codex.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>We’re introducing three audio models in the API that unlock a new class of voice apps for developers.</title>
@@ -53,7 +61,15 @@
       <guid isPermaLink="true">https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api/</guid>
       <pubDate>Thu, 07 May 2026 17:32:51 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/openai<br/><br/>OpenAI introduces three new audio models enabling voice application development.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/openai<br/><br/>OpenAI announces three audio models enabling new voice applications for developers.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Parloa builds service agents customers want to talk to</title>
+      <link>https://openai.com/index/parloa</link>
+      <guid isPermaLink="true">https://openai.com/index/parloa</guid>
+      <pubDate>Thu, 07 May 2026 11:00:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI case study: Parloa builds conversational service agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Making LLM Training Faster with Unsloth and NVIDIA</title>
@@ -61,23 +77,7 @@
       <guid isPermaLink="true">https://unsloth.ai/blog/nvidia-collab</guid>
       <pubDate>Thu, 07 May 2026 07:15:11 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Unsloth announces collaboration with NVIDIA to accelerate LLM training.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Introducing ChatGPT Futures: Class of 2026</title>
-      <link>https://openai.com/index/introducing-chatgpt-futures-class-of-2026</link>
-      <guid isPermaLink="true">https://openai.com/index/introducing-chatgpt-futures-class-of-2026</guid>
-      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 75/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity <br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Uber uses OpenAI to help people earn smarter and book faster</title>
-      <link>https://openai.com/index/uber</link>
-      <guid isPermaLink="true">https://openai.com/index/uber</guid>
-      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 75/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Unsloth and NVIDIA collaboration accelerates LLM training.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>ParoQuant: Pairwise Rotation Quantization for Efficient Reasoning LLM Inference</title>
@@ -85,15 +85,7 @@
       <guid isPermaLink="true">https://i.redd.it/9gim2lznimzg1.jpeg</guid>
       <pubDate>Thu, 07 May 2026 02:07:48 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Research on ParoQuant, a pairwise rotation quantization method for efficient reasoning LLM inference.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>AI slop is killing online communities</title>
-      <link>https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/</link>
-      <guid isPermaLink="true">https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/</guid>
-      <pubDate>Thu, 07 May 2026 18:46:25 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>ParoQuant introduces pairwise rotation quantization for efficient reasoning LLM inference.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>DeepSeek 4 Flash local inference engine for Metal</title>
@@ -101,7 +93,7 @@
       <guid isPermaLink="true">https://github.com/antirez/ds4</guid>
       <pubDate>Thu, 07 May 2026 15:40:24 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Community project for local DeepSeek inference optimization on Metal.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>DeepSeek 4 Flash inference optimization for Metal architecture.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic)</title>
@@ -117,7 +109,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t6n97x/1167_arcagi2_local_eval_on_a_single_4090_the/</guid>
       <pubDate>Thu, 07 May 2026 20:56:47 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Community project achieving ARC-AGI-2 score on consumer hardware.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>TOPAS recursive architecture achieves 11.67% on ARC-AGI-2 benchmark locally.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Pre-Deployment AI Evaluations</title>
@@ -126,6 +118,30 @@
       <pubDate>Thu, 07 May 2026 13:28:57 +0000</pubDate>
       <category>Research &amp; Papers</category>
       <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope</title>
+      <link>https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/</guid>
+      <pubDate>Thu, 07 May 2026 19:21:21 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Elon Musk&apos;s legal effort to dismantle OpenAI may hinge on how its for-profit subsidiary enhances or detracts from the frontier lab&apos;s founding mission of ensuring that humanity benefits from artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Introducing Trusted Contact in ChatGPT</title>
+      <link>https://openai.com/index/introducing-trusted-contact-in-chatgpt</link>
+      <guid isPermaLink="true">https://openai.com/index/introducing-trusted-contact-in-chatgpt</guid>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI introduces Trusted Contact feature in ChatGPT for account access.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Show HN: Stage CLI – An easier way of reading your AI generated changes locally</title>
+      <link>https://github.com/ReviewStage/stage-cli</link>
+      <guid isPermaLink="true">https://github.com/ReviewStage/stage-cli</guid>
+      <pubDate>Thu, 07 May 2026 15:38:36 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 65/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>ECCV reviewer wants me to compare and contrast to my own paper. [D]</title>
@@ -150,14 +166,6 @@
       <pubDate>Thu, 07 May 2026 16:54:57 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Any tool that tells you the cheapest setup needed to run a model? I want to know the cheapest setup that can realistically run Qwen 3.6 27B at decent speeds.</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t617sw/any_tool_that_tells_you_the_cheapest_setup_needed/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t617sw/any_tool_that_tells_you_the_cheapest_setup_needed/</guid>
-      <pubDate>Thu, 07 May 2026 05:26:43 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
