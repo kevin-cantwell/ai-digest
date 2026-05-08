@@ -5,23 +5,23 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 May 2026 13:35:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 14:38:24 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Claude Code CVE-2026-39861:sandbox escape via symlink</title>
+      <link>https://github.com/advisories/GHSA-vp62-r36r-9xqp</link>
+      <guid isPermaLink="true">https://github.com/advisories/GHSA-vp62-r36r-9xqp</guid>
+      <pubDate>Fri, 08 May 2026 02:39:55 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>Security vulnerability discovered in Claude Code involving sandbox escape via symlink exploitation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
     <item>
       <title>Natural Language Autoencoders: Turning Claude&apos;s Thoughts into Text</title>
       <link>https://www.anthropic.com/research/natural-language-autoencoders</link>
       <guid isPermaLink="true">https://www.anthropic.com/research/natural-language-autoencoders</guid>
       <pubDate>Thu, 07 May 2026 17:54:02 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic research on natural language autoencoders for interpreting model internals.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Advancing voice intelligence with new models in the API</title>
-      <link>https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api</link>
-      <guid isPermaLink="true">https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api</guid>
-      <pubDate>Thu, 07 May 2026 10:00:00 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 88/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI releases new voice intelligence models in their API.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic research on natural language autoencoders for interpreting model representations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>AlphaEvolve: Gemini-powered coding agent scaling impact across fields</title>
@@ -29,31 +29,15 @@
       <guid isPermaLink="true">https://deepmind.google/blog/alphaevolve-impact/</guid>
       <pubDate>Thu, 07 May 2026 15:02:20 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Google DeepMind announces AlphaEvolve, a Gemini-powered coding agent with multi-domain applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>Google DeepMind releases AlphaEvolve, a Gemini-powered coding agent for multi-domain applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber</title>
-      <link>https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber</link>
-      <guid isPermaLink="true">https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber</guid>
-      <pubDate>Thu, 07 May 2026 13:00:00 +0000</pubDate>
+      <title>Advancing voice intelligence with new models in the API</title>
+      <link>https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api</link>
+      <guid isPermaLink="true">https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api</guid>
+      <pubDate>Thu, 07 May 2026 10:00:00 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 82/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI introduces GPT-5.5 with specialized cybersecurity variant and trusted access features.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Simplex rethinks software development with Codex</title>
-      <link>https://openai.com/index/simplex</link>
-      <guid isPermaLink="true">https://openai.com/index/simplex</guid>
-      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces Simplex, a new approach to software development using Codex.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>[AINews] GPT-Realtime-2, -Translate, and -Whisper: new SOTA realtime voice APIs</title>
-      <link>https://www.latent.space/p/ainews-gpt-realtime-2-translate-and</link>
-      <guid isPermaLink="true">https://www.latent.space/p/ainews-gpt-realtime-2-translate-and</guid>
-      <pubDate>Fri, 08 May 2026 07:11:24 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 78/100<br/><b>Source:</b> Latent Space<br/><br/>New state-of-the-art realtime voice APIs for translation and speech recognition announced.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 88/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces new voice intelligence models and API availability.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>DeepSeek 4 Flash local inference engine for Metal</title>
@@ -61,7 +45,31 @@
       <guid isPermaLink="true">https://github.com/antirez/ds4</guid>
       <pubDate>Thu, 07 May 2026 15:40:24 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Local inference optimization for DeepSeek models on Apple Metal hardware.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>DeepSeek 4 Flash inference engine optimized for Apple Metal hardware acceleration.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber</title>
+      <link>https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber</link>
+      <guid isPermaLink="true">https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber</guid>
+      <pubDate>Thu, 07 May 2026 13:00:00 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 82/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI releases GPT-5.5 and GPT-5.5-Cyber with enhanced cybersecurity capabilities and trusted access.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Simplex rethinks software development with Codex</title>
+      <link>https://openai.com/index/simplex</link>
+      <guid isPermaLink="true">https://openai.com/index/simplex</guid>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI partners with Simplex to integrate Codex for accelerated software development.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>[AINews] GPT-Realtime-2, -Translate, and -Whisper: new SOTA realtime voice APIs</title>
+      <link>https://www.latent.space/p/ainews-gpt-realtime-2-translate-and</link>
+      <guid isPermaLink="true">https://www.latent.space/p/ainews-gpt-realtime-2-translate-and</guid>
+      <pubDate>Fri, 08 May 2026 07:11:24 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 78/100<br/><b>Source:</b> Latent Space<br/><br/>Latent Space reports new state-of-the-art realtime voice APIs including GPT-Realtime-2 and Whisper updates.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>We’re introducing three audio models in the API that unlock a new class of voice apps for developers.</title>
@@ -69,7 +77,7 @@
       <guid isPermaLink="true">https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api/</guid>
       <pubDate>Thu, 07 May 2026 17:32:51 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/openai<br/><br/>OpenAI announces three new audio models for API developers.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/openai<br/><br/>OpenAI announces three new audio models for voice application development via API.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Parloa builds service agents customers want to talk to</title>
@@ -77,31 +85,7 @@
       <guid isPermaLink="true">https://openai.com/index/parloa</guid>
       <pubDate>Thu, 07 May 2026 11:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Parloa develops conversational service agents integrated with OpenAI.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Testing ads in ChatGPT</title>
-      <link>https://openai.com/index/testing-ads-in-chatgpt</link>
-      <guid isPermaLink="true">https://openai.com/index/testing-ads-in-chatgpt</guid>
-      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI tests advertising integration within ChatGPT platform.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>11.67% ARC-AGI-2 Local Eval on a Single 4090: The TOPAS Recursive Architecture</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t6n97x/1167_arcagi2_local_eval_on_a_single_4090_the/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t6n97x/1167_arcagi2_local_eval_on_a_single_4090_the/</guid>
-      <pubDate>Thu, 07 May 2026 20:56:47 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>TOPAS recursive architecture achieving notable ARC-AGI-2 performance on consumer hardware.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>GPT-5.5 Price Increase: What It Costs</title>
-      <link>https://openrouter.ai/announcements/gpt55-cost-analysis</link>
-      <guid isPermaLink="true">https://openrouter.ai/announcements/gpt55-cost-analysis</guid>
-      <pubDate>Fri, 08 May 2026 01:02:28 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> Hacker News<br/><br/>Analysis of GPT-5.5 pricing changes across providers.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Parloa builds conversational service agents using OpenAI APIs.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Introducing Trusted Contact in ChatGPT</title>
@@ -109,7 +93,47 @@
       <guid isPermaLink="true">https://openai.com/index/introducing-trusted-contact-in-chatgpt</guid>
       <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI launches Trusted Contact feature in ChatGPT.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI introduces Trusted Contact feature for ChatGPT account security.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>11.67% ARC-AGI-2 Local Eval on a Single 4090: The TOPAS Recursive Architecture</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t6n97x/1167_arcagi2_local_eval_on_a_single_4090_the/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t6n97x/1167_arcagi2_local_eval_on_a_single_4090_the/</guid>
+      <pubDate>Thu, 07 May 2026 20:56:47 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Local ARC-AGI-2 evaluation results using TOPAS recursive architecture on consumer hardware.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>U.S. and China Pursue Guardrails to Stop AI Rivalry From Spiraling Into Crisis</title>
+      <link>https://www.wsj.com/world/china/u-s-and-china-pursue-guardrails-to-stop-ai-rivalry-from-spiraling-into-crisis-4c50bd70</link>
+      <guid isPermaLink="true">https://www.wsj.com/world/china/u-s-and-china-pursue-guardrails-to-stop-ai-rivalry-from-spiraling-into-crisis-4c50bd70</guid>
+      <pubDate>Fri, 08 May 2026 05:34:58 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope</title>
+      <link>https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/</guid>
+      <pubDate>Thu, 07 May 2026 19:21:21 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Elon Musk&apos;s legal effort to dismantle OpenAI may hinge on how its for-profit subsidiary enhances or detracts from the frontier lab&apos;s founding mission of ensuring that humanity benefits from artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Claude Status Update : Elevated errors across Claude Models on 2026-05-08T09:49:14.000Z</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1t73c6t/claude_status_update_elevated_errors_across/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1t73c6t/claude_status_update_elevated_errors_across/</guid>
+      <pubDate>Fri, 08 May 2026 09:55:08 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Service status update reporting elevated error rates across Claude models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Testing ads in ChatGPT</title>
+      <link>https://openai.com/index/testing-ads-in-chatgpt</link>
+      <guid isPermaLink="true">https://openai.com/index/testing-ads-in-chatgpt</guid>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI begins testing advertisements within ChatGPT platform.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Show HN: Stage CLI – An easier way of reading your AI generated changes locally</title>
@@ -140,30 +164,6 @@
       <link>https://www.reddit.com/r/MachineLearning/comments/1t72u1r/people_interested_in_continual_learning_researchr/</link>
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1t72u1r/people_interested_in_continual_learning_researchr/</guid>
       <pubDate>Fri, 08 May 2026 09:26:44 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>PyTorch reproduction of TensorFlow paper underperforms by 4 pp on DermaMNIST , what cross-framework issues should I check? [R]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1t6mxcp/pytorch_reproduction_of_tensorflow_paper/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1t6mxcp/pytorch_reproduction_of_tensorflow_paper/</guid>
-      <pubDate>Thu, 07 May 2026 20:44:29 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Diffusion for generating/editing ASTs? [D]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1t6hv55/diffusion_for_generatingediting_asts_d/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1t6hv55/diffusion_for_generatingediting_asts_d/</guid>
-      <pubDate>Thu, 07 May 2026 17:46:37 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>What should a PyTorch training end-of-run performance summary show? [D]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1t71y36/what_should_a_pytorch_training_endofrun/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1t71y36/what_should_a_pytorch_training_endofrun/</guid>
-      <pubDate>Fri, 08 May 2026 08:36:15 +0000</pubDate>
       <category>Research &amp; Papers</category>
       <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
