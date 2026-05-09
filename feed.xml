@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 May 2026 07:35:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 08:35:19 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Advancing voice intelligence with new models in the API</title>
@@ -16,12 +16,12 @@
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 88/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces new voice intelligence models available in their API.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>[AINews] GPT-Realtime-2, -Translate, and -Whisper: new SOTA realtime voice APIs</title>
-      <link>https://www.latent.space/p/ainews-gpt-realtime-2-translate-and</link>
-      <guid isPermaLink="true">https://www.latent.space/p/ainews-gpt-realtime-2-translate-and</guid>
-      <pubDate>Fri, 08 May 2026 07:11:24 +0000</pubDate>
+      <title>Teaching Claude Why</title>
+      <link>https://www.anthropic.com/research/teaching-claude-why</link>
+      <guid isPermaLink="true">https://www.anthropic.com/research/teaching-claude-why</guid>
+      <pubDate>Fri, 08 May 2026 17:59:41 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 84/100<br/><b>Source:</b> Latent Space<br/><br/>Announcement of new OpenAI realtime voice APIs including GPT-Realtime-2 and improved Whisper.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 84/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic research publication on methods for improving Claude&apos;s reasoning transparency.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Running Codex safely at OpenAI</title>
@@ -29,15 +29,23 @@
       <guid isPermaLink="true">https://openai.com/index/running-codex-safely</guid>
       <pubDate>Fri, 08 May 2026 12:30:00 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI blog post on safety practices for running Codex in production.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI publishes guidance on safety practices for running Codex.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Teaching Claude Why</title>
-      <link>https://www.anthropic.com/research/teaching-claude-why</link>
-      <guid isPermaLink="true">https://www.anthropic.com/research/teaching-claude-why</guid>
-      <pubDate>Fri, 08 May 2026 17:59:41 +0000</pubDate>
+      <title>DeepSeek V4 paper full version is out, FP4 QAT details and stability tricks [D]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1t7yrvr/deepseek_v4_paper_full_version_is_out_fp4_qat/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1t7yrvr/deepseek_v4_paper_full_version_is_out_fp4_qat/</guid>
+      <pubDate>Sat, 09 May 2026 08:10:03 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 78/100<br/><b>Source:</b> r/MachineLearning<br/><br/>DeepSeek releases full V4 paper detailing FP4 quantization and training techniques.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>[AINews] GPT-Realtime-2, -Translate, and -Whisper: new SOTA realtime voice APIs</title>
+      <link>https://www.latent.space/p/ainews-gpt-realtime-2-translate-and</link>
+      <guid isPermaLink="true">https://www.latent.space/p/ainews-gpt-realtime-2-translate-and</guid>
+      <pubDate>Fri, 08 May 2026 07:11:24 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 78/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic research on teaching Claude to explain its reasoning.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 78/100<br/><b>Source:</b> Latent Space<br/><br/>Latent Space reports on new OpenAI real-time voice APIs including translation and Whisper updates.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Show HN: Git for AI Agents</title>
@@ -48,12 +56,20 @@
       <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Open-source project introducing version control system designed for AI agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
+      <title>Embedding models for time series data [D]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1t7avgp/embedding_models_for_time_series_data_d/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1t7avgp/embedding_models_for_time_series_data_d/</guid>
+      <pubDate>Fri, 08 May 2026 15:13:56 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research discussion on embedding models designed for time series data.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
       <title>Parloa builds service agents customers want to talk to</title>
       <link>https://openai.com/index/parloa</link>
       <guid isPermaLink="true">https://openai.com/index/parloa</guid>
       <pubDate>Thu, 07 May 2026 11:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Case study of Parloa building customer service agents using OpenAI technology.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI case study on Parloa&apos;s service agent platform built with GPT models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Using Claude Code: The unreasonable effectiveness of HTML</title>
@@ -61,7 +77,7 @@
       <guid isPermaLink="true">https://twitter.com/trq212/status/2052809885763747935</guid>
       <pubDate>Sat, 09 May 2026 04:53:52 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>User shares experience with Claude Code&apos;s effectiveness using HTML for tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>User shares experience with Claude Code&apos;s HTML capabilities on Twitter.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope</title>
@@ -72,12 +88,36 @@
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Elon Musk&apos;s legal effort to dismantle OpenAI may hinge on how its for-profit subsidiary enhances or detracts from the frontier lab&apos;s founding mission of ensuring that humanity benefits from artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
+      <title>I built a benchmark for AI “memory” in coding agents. looking for others to beat it.</title>
+      <link>https://www.reddit.com/r/artificial/comments/1t7m8bg/i_built_a_benchmark_for_ai_memory_in_coding/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t7m8bg/i_built_a_benchmark_for_ai_memory_in_coding/</guid>
+      <pubDate>Fri, 08 May 2026 22:05:37 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/artificial<br/><br/>User presents benchmark tool measuring memory capabilities in coding agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
       <title>The ChatGPT Android app should soon allow users to remotely control Codex coding sessions on their PCs</title>
       <link>https://www.androidauthority.com/codex-smartphone-control-3665256/</link>
       <guid isPermaLink="true">https://www.androidauthority.com/codex-smartphone-control-3665256/</guid>
       <pubDate>Sat, 09 May 2026 01:43:39 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/openai<br/><br/>Unconfirmed report that ChatGPT Android app will enable remote PC coding control.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/openai<br/><br/>Speculation about ChatGPT Android app gaining remote PC control features.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Codex now works directly in Chrome on macOS and Windows.</title>
+      <link>https://v.redd.it/d84nkr3c600h1</link>
+      <guid isPermaLink="true">https://v.redd.it/d84nkr3c600h1</guid>
+      <pubDate>Sat, 09 May 2026 00:04:32 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/openai<br/><br/>Claim that Codex now works directly in Chrome browser on macOS and Windows.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>DS4: a DeepSeek 4 flash specific inference engine for 128gb MacBooks</title>
+      <link>https://github.com/antirez/ds4</link>
+      <guid isPermaLink="true">https://github.com/antirez/ds4</guid>
+      <pubDate>Fri, 08 May 2026 09:26:04 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Community-built inference engine optimizing DeepSeek 4 for MacBooks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>People Interested in Continual Learning Research[R]</title>
@@ -126,46 +166,6 @@
       <pubDate>Fri, 08 May 2026 14:30:37 +0000</pubDate>
       <category>Research &amp; Papers</category>
       <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>What is the next SOTA model you are excited about?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t7cf7r/what_is_the_next_sota_model_you_are_excited_about/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t7cf7r/what_is_the_next_sota_model_you_are_excited_about/</guid>
-      <pubDate>Fri, 08 May 2026 16:09:21 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Those of you who like Gemma4 models - how are you guys using them?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t7rco2/those_of_you_who_like_gemma4_models_how_are_you/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t7rco2/those_of_you_who_like_gemma4_models_how_are_you/</guid>
-      <pubDate>Sat, 09 May 2026 01:49:27 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>New AI model spots pancreatic cancer up to 3 years earlier than human doctors in test</title>
-      <link>https://www.livescience.com/health/cancer/new-ai-model-spots-pancreatic-cancer-up-to-3-years-earlier-than-human-doctors-in-test</link>
-      <guid isPermaLink="true">https://www.livescience.com/health/cancer/new-ai-model-spots-pancreatic-cancer-up-to-3-years-earlier-than-human-doctors-in-test</guid>
-      <pubDate>Fri, 08 May 2026 15:12:35 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>UC Berkeley AI Research Seminar: Supply Chain &amp; Manufacturing</title>
-      <link>https://www.reddit.com/r/artificial/comments/1t7agbe/uc_berkeley_ai_research_seminar_supply_chain/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t7agbe/uc_berkeley_ai_research_seminar_supply_chain/</guid>
-      <pubDate>Fri, 08 May 2026 14:59:28 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>OpenAI launches new voice intelligence features in its API</title>
-      <link>https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/</guid>
-      <pubDate>Thu, 07 May 2026 22:24:50 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 65/100<br/><b>Source:</b> TechCrunch AI<br/><br/>The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, including education and creator platforms.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
