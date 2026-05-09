@@ -5,15 +5,15 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 May 2026 18:21:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 19:26:18 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Codex now works directly in Chrome on macOS and Windows.</title>
-      <link>https://v.redd.it/d84nkr3c600h1</link>
-      <guid isPermaLink="true">https://v.redd.it/d84nkr3c600h1</guid>
-      <pubDate>Sat, 09 May 2026 00:04:32 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 86/100<br/><b>Source:</b> r/openai<br/><br/>OpenAI&apos;s Codex coding tool now available directly in Chrome browser on macOS and Windows.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>DeepSeek V4 paper full version is out, FP4 QAT details and stability tricks [D]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1t7yrvr/deepseek_v4_paper_full_version_is_out_fp4_qat/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1t7yrvr/deepseek_v4_paper_full_version_is_out_fp4_qat/</guid>
+      <pubDate>Sat, 09 May 2026 08:10:03 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 84/100<br/><b>Source:</b> r/MachineLearning<br/><br/>DeepSeek V4 research paper published with technical details on FP4 quantization and training stability.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>[AINews] GPT-Realtime-2, -Translate, and -Whisper: new SOTA realtime voice APIs</title>
@@ -21,7 +21,7 @@
       <guid isPermaLink="true">https://www.latent.space/p/ainews-gpt-realtime-2-translate-and</guid>
       <pubDate>Fri, 08 May 2026 07:11:24 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 84/100<br/><b>Source:</b> Latent Space<br/><br/>OpenAI releases GPT-Realtime-2, new translation, and Whisper voice API capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 84/100<br/><b>Source:</b> Latent Space<br/><br/>OpenAI releases new state-of-the-art realtime voice APIs for GPT including real-time translation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>We built and open-sourced Caliby: An embedded, high-performance vector database for AI Agents (Beats pgvector by 4x, outperforms FAISS on disk)</title>
@@ -29,7 +29,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t7vumj/we_built_and_opensourced_caliby_an_embedded/</guid>
       <pubDate>Sat, 09 May 2026 05:29:34 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Open-source vector database for AI agents released with claimed performance improvements over pgvector and FAISS.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Open-source vector database Caliby released with claimed 4x performance improvement over pgvector.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>The ChatGPT Android app should soon allow users to remotely control Codex coding sessions on their PCs</title>
@@ -37,15 +37,23 @@
       <guid isPermaLink="true">https://www.androidauthority.com/codex-smartphone-control-3665256/</guid>
       <pubDate>Sat, 09 May 2026 01:43:39 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/openai<br/><br/>ChatGPT Android app reportedly adding remote control capability for Codex sessions on desktop.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/openai<br/><br/>ChatGPT Android app expected to support remote control of Codex sessions on PCs.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>DeepSeek V4 paper full version is out, FP4 QAT details and stability tricks [D]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1t7yrvr/deepseek_v4_paper_full_version_is_out_fp4_qat/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1t7yrvr/deepseek_v4_paper_full_version_is_out_fp4_qat/</guid>
-      <pubDate>Sat, 09 May 2026 08:10:03 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 78/100<br/><b>Source:</b> r/MachineLearning<br/><br/>DeepSeek V4 research paper released with technical details on quantization and training stability.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Codex now works directly in Chrome on macOS and Windows.</title>
+      <link>https://v.redd.it/d84nkr3c600h1</link>
+      <guid isPermaLink="true">https://v.redd.it/d84nkr3c600h1</guid>
+      <pubDate>Sat, 09 May 2026 00:04:32 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/openai<br/><br/>Codex coding agent now available directly in Chrome browser on macOS and Windows.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>5 enterprise AI agent swarms (Lemonade, CrowdStrike, Siemens) reverse-engineered into runnable browser templates.</title>
+      <link>https://i.redd.it/biq1urb2440h1.png</link>
+      <guid isPermaLink="true">https://i.redd.it/biq1urb2440h1.png</guid>
+      <pubDate>Sat, 09 May 2026 13:19:58 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/artificial<br/><br/>Enterprise AI agent swarm architectures from major companies reverse-engineered into runnable templates.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>How OpenAI runs its Codex coding agent safely at scale</title>
@@ -53,7 +61,7 @@
       <guid isPermaLink="true">https://openai.com/index/running-codex-safely</guid>
       <pubDate>Sat, 09 May 2026 16:58:54 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/openai<br/><br/>Discussion of OpenAI&apos;s safety practices for running Codex agents at scale.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/openai<br/><br/>Overview of OpenAI&apos;s safety approaches for running Codex coding agents at scale.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Using Claude Code: The unreasonable effectiveness of HTML</title>
@@ -64,12 +72,12 @@
       <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>User shares observations about Claude Code&apos;s effectiveness with HTML-based approaches.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>5 enterprise AI agent swarms (Lemonade, CrowdStrike, Siemens) reverse-engineered into runnable browser templates.</title>
-      <link>https://i.redd.it/biq1urb2440h1.png</link>
-      <guid isPermaLink="true">https://i.redd.it/biq1urb2440h1.png</guid>
-      <pubDate>Sat, 09 May 2026 13:19:58 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/artificial<br/><br/>Reverse-engineered templates of enterprise AI agent swarms from major companies made available as runnable browser examples.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>I built a benchmark for AI “memory” in coding agents. looking for others to beat it.</title>
+      <link>https://www.reddit.com/r/artificial/comments/1t7m8bg/i_built_a_benchmark_for_ai_memory_in_coding/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t7m8bg/i_built_a_benchmark_for_ai_memory_in_coding/</guid>
+      <pubDate>Fri, 08 May 2026 22:05:37 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/artificial<br/><br/>Benchmark created to evaluate memory capabilities in coding agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>I got tired of the API bills for 100k+ context windows, so I built a persistent O(1) semantic memory state engine to compress history</title>
@@ -77,7 +85,7 @@
       <guid isPermaLink="true">https://i.redd.it/cgvg5ti9x30h1.png</guid>
       <pubDate>Sat, 09 May 2026 12:39:48 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/openai<br/><br/>Developer shares a semantic memory compression approach to reduce API costs for long-context LLM usage.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/openai<br/><br/>Personal project implementing O(1) semantic memory compression to reduce API costs for long-context windows.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>9070xt inference for q3 qwen 27B</title>
@@ -88,12 +96,12 @@
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Compiled every national AI strategy in Asia — Vietnam has the most comprehensive standalone law, Japan has no penalties, Korea just eliminated Naver from sovereign LLM competition for using Qwen weights</title>
-      <link>https://www.reddit.com/r/artificial/comments/1t7h9gt/compiled_every_national_ai_strategy_in_asia/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t7h9gt/compiled_every_national_ai_strategy_in_asia/</guid>
-      <pubDate>Fri, 08 May 2026 19:00:07 +0000</pubDate>
+      <title>After you’ve setup local models, where can you find interesting apps that can use them?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t8b4sr/after_youve_setup_local_models_where_can_you_find/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t8b4sr/after_youve_setup_local_models_where_can_you_find/</guid>
+      <pubDate>Sat, 09 May 2026 17:25:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>OpenAI launches new voice intelligence features in its API</title>
@@ -102,22 +110,6 @@
       <pubDate>Thu, 07 May 2026 22:24:50 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 65/100<br/><b>Source:</b> TechCrunch AI<br/><br/>The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, including education and creator platforms.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>We are hitting a wall trying to force transformers to do actual logic [D]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1t872cd/we_are_hitting_a_wall_trying_to_force/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1t872cd/we_are_hitting_a_wall_trying_to_force/</guid>
-      <pubDate>Sat, 09 May 2026 14:50:46 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Technical discussion of transformer model limitations in performing logical reasoning tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>I built a benchmark for AI “memory” in coding agents. looking for others to beat it.</title>
-      <link>https://www.reddit.com/r/artificial/comments/1t7m8bg/i_built_a_benchmark_for_ai_memory_in_coding/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t7m8bg/i_built_a_benchmark_for_ai_memory_in_coding/</guid>
-      <pubDate>Fri, 08 May 2026 22:05:37 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/artificial<br/><br/>User-created benchmark for testing AI agent memory capabilities in coding tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>I Will Never Use AI to Code</title>
@@ -140,6 +132,14 @@
       <link>https://www.reddit.com/r/LocalLLaMA/comments/1t88zvv/beellamacpp_advanced_dflash_turboquant_with/</link>
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t88zvv/beellamacpp_advanced_dflash_turboquant_with/</guid>
       <pubDate>Sat, 09 May 2026 16:05:05 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>How long for llama.cpp official support of MTP?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t7ur1f/how_long_for_llamacpp_official_support_of_mtp/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t7ur1f/how_long_for_llamacpp_official_support_of_mtp/</guid>
+      <pubDate>Sat, 09 May 2026 04:32:39 +0000</pubDate>
       <category>Industry News</category>
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
