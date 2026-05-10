@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 May 2026 12:21:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 13:32:33 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Exactly a year ago, I started working on an MCP server I launched on reddit that became by far my most active open source project!</title>
@@ -14,14 +14,6 @@
       <pubDate>Sat, 09 May 2026 22:08:54 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
       <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 100/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>What if Agentic AI security was a Non Issue?</title>
-      <link>https://i.redd.it/ibe0kpng290h1.png</link>
-      <guid isPermaLink="true">https://i.redd.it/ibe0kpng290h1.png</guid>
-      <pubDate>Sun, 10 May 2026 05:58:11 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 100/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>I put my SEO workflow to writing winning blog articles into a Claude Code skill so you don&apos;t have to figure it out yourself</title>
@@ -56,28 +48,28 @@
       <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 95/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
+      <title>Tojan in &quot;claude code&quot; google search first result</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1t95r0d/tojan_in_claude_code_google_search_first_result/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1t95r0d/tojan_in_claude_code_google_search_first_result/</guid>
+      <pubDate>Sun, 10 May 2026 12:34:33 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 95/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
       <title>NVIDIA AI Releases Star Elastic: One Checkpoint that Contains 30B, 23B, and 12B Reasoning Models with Zero-Shot Slicing</title>
       <link>https://www.reddit.com/r/LocalLLaMA/comments/1t8s83r/nvidia_ai_releases_star_elastic_one_checkpoint/</link>
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t8s83r/nvidia_ai_releases_star_elastic_one_checkpoint/</guid>
       <pubDate>Sun, 10 May 2026 00:48:04 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>NVIDIA releases Star Elastic, a single checkpoint containing multiple reasoning model sizes via zero-shot slicing.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>NVIDIA AI releases Star Elastic, enabling dynamic model slicing from single checkpoint across multiple sizes.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>I got tired of the API bills for 100k+ context windows, so I built a persistent O(1) semantic memory state engine to compress history</title>
-      <link>https://i.redd.it/cgvg5ti9x30h1.png</link>
-      <guid isPermaLink="true">https://i.redd.it/cgvg5ti9x30h1.png</guid>
-      <pubDate>Sat, 09 May 2026 12:39:48 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Does llama-swap actually work with mlx_lm.server / MLX models on macOS?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t89iyd/does_llamaswap_actually_work_with_mlx_lmserver/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t89iyd/does_llamaswap_actually_work_with_mlx_lmserver/</guid>
-      <pubDate>Sat, 09 May 2026 16:25:17 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 75/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>model: add sarvam_moe architecture support by sumitchatterjee13 · Pull Request #20275 · ggml-org/llama.cpp</title>
+      <link>https://github.com/ggml-org/llama.cpp/pull/20275</link>
+      <guid isPermaLink="true">https://github.com/ggml-org/llama.cpp/pull/20275</guid>
+      <pubDate>Sat, 09 May 2026 18:46:11 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 78/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>llama.cpp pull request adding support for Sarvam MOE model architecture.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Claude improved my agent harness by 40.7% overnight</title>
@@ -88,12 +80,20 @@
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 75/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>model: add sarvam_moe architecture support by sumitchatterjee13 · Pull Request #20275 · ggml-org/llama.cpp</title>
-      <link>https://github.com/ggml-org/llama.cpp/pull/20275</link>
-      <guid isPermaLink="true">https://github.com/ggml-org/llama.cpp/pull/20275</guid>
-      <pubDate>Sat, 09 May 2026 18:46:11 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 72/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>llama.cpp adds support for Sarvam mixture-of-experts architecture.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>NCCL-Free Tensor Parallelism on Dual Blackwell PCIe llama.cpp b9095 released!</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t96l6r/ncclfree_tensor_parallelism_on_dual_blackwell/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t96l6r/ncclfree_tensor_parallelism_on_dual_blackwell/</guid>
+      <pubDate>Sun, 10 May 2026 13:12:33 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 72/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>llama.cpp release enabling tensor parallelism without NCCL on dual Blackwell PCIe systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>We tried vectors, ASTs, and brute-force context stuffing for code retrieval. Graphs with LLM-generated semantics worked best. Here&apos;s what we learned.</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t95a56/we_tried_vectors_asts_and_bruteforce_context/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t95a56/we_tried_vectors_asts_and_bruteforce_context/</guid>
+      <pubDate>Sun, 10 May 2026 12:12:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Research findings comparing graph-based approaches with LLM-generated semantics for code retrieval.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Big AI Lobbyists: if you regulate us at all, we lose to China because they will never regulate ... Actual China: &quot;safety first, innovation second ... Development must be controllable and orderly.&quot;</title>
@@ -117,15 +117,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1t8f61o/llm_rankings_are_not_a_ladder_experimental/</guid>
       <pubDate>Sat, 09 May 2026 19:16:19 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research finding that LLM performance rankings are non-transitive across different benchmarks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>BeeLlama.cpp: advanced DFlash &amp; TurboQuant with support of reasoning and vision. Qwen 3.6 27B Q5 with 200k context on 3090, 2-3x faster than baseline (peak 135 tps!)</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t88zvv/beellamacpp_advanced_dflash_turboquant_with/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t88zvv/beellamacpp_advanced_dflash_turboquant_with/</guid>
-      <pubDate>Sat, 09 May 2026 16:05:05 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>BeeLlama.cpp optimization framework enables large context inference on consumer hardware with significant speed improvements.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research showing LLM performance rankings are not transitive, challenging benchmark validity assumptions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>What is an average publication outcome for an ML PhD? [D]</title>
@@ -140,6 +132,14 @@
       <link>https://www.reddit.com/r/LocalLLaMA/comments/1t8b4sr/after_youve_setup_local_models_where_can_you_find/</link>
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t8b4sr/after_youve_setup_local_models_where_can_you_find/</guid>
       <pubDate>Sat, 09 May 2026 17:25:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>9070xt inference for q3 qwen 27B</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t8ad37/9070xt_inference_for_q3_qwen_27b/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t8ad37/9070xt_inference_for_q3_qwen_27b/</guid>
+      <pubDate>Sat, 09 May 2026 16:56:58 +0000</pubDate>
       <category>Industry News</category>
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
