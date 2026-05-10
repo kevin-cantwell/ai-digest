@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 May 2026 20:17:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 21:18:43 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>NVIDIA AI Releases Star Elastic: One Checkpoint that Contains 30B, 23B, and 12B Reasoning Models with Zero-Shot Slicing</title>
@@ -13,39 +13,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t8s83r/nvidia_ai_releases_star_elastic_one_checkpoint/</guid>
       <pubDate>Sun, 10 May 2026 00:48:04 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>NVIDIA releases Star Elastic, a checkpoint containing three model sizes with zero-shot slicing capability.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>MTP benchmark results: the nature of the generative task dictates whether you will benefit (coding) or get slower inference (creative) from speculative inference. No other factor comes close.</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t9gcar/mtp_benchmark_results_the_nature_of_the/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t9gcar/mtp_benchmark_results_the_nature_of_the/</guid>
-      <pubDate>Sun, 10 May 2026 19:25:50 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>MTP benchmark analysis showing speculative inference benefits differ significantly by task type.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Using Claude Code: The Unreasonable Effectiveness of HTML</title>
-      <link>https://simonwillison.net/2026/May/8/unreasonable-effectiveness-of-html/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/8/unreasonable-effectiveness-of-html/#atom-everything</guid>
-      <pubDate>Fri, 08 May 2026 21:00:11 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 80/100<br/><b>Source:</b> Simon Willison<br/><br/>Simon Willison&apos;s substantive technical article on using HTML effectively with Claude Code.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>NCCL-Free Tensor Parallelism on Dual Blackwell PCIe llama.cpp b9095 released!</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t96l6r/ncclfree_tensor_parallelism_on_dual_blackwell/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t96l6r/ncclfree_tensor_parallelism_on_dual_blackwell/</guid>
-      <pubDate>Sun, 10 May 2026 13:12:33 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 78/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>llama.cpp release adding NCCL-free tensor parallelism support for dual Blackwell PCIe.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Hermes Agent is now #1 most used globally in past 24 hours in Openrouter global token metrics, above Claude Code and OpenClaw.</title>
-      <link>https://i.redd.it/3y4r2uuq3d0h1.jpeg</link>
-      <guid isPermaLink="true">https://i.redd.it/3y4r2uuq3d0h1.jpeg</guid>
-      <pubDate>Sun, 10 May 2026 19:32:10 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Hermes Agent achieved top usage metrics on Openrouter, though based on unverified claims about token metrics.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>NVIDIA releases Star Elastic, a single checkpoint containing three model sizes with zero-shot slicing capability.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Hugging Face co-founder says Qwen 3.6 27B running on airplane mode is close to latest Opus in Claude Code</title>
@@ -53,7 +21,23 @@
       <guid isPermaLink="true">https://i.redd.it/8kv5nahm880h1.png</guid>
       <pubDate>Sun, 10 May 2026 03:10:57 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Claim from Hugging Face co-founder that Qwen 3.6 27B approaches Claude Opus performance locally.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Hugging Face co-founder claims Qwen 3.6 27B model performance approaches Claude Opus in coding tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>MTP benchmark results: the nature of the generative task dictates whether you will benefit (coding) or get slower inference (creative) from speculative inference. No other factor comes close.</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t9gcar/mtp_benchmark_results_the_nature_of_the/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t9gcar/mtp_benchmark_results_the_nature_of_the/</guid>
+      <pubDate>Sun, 10 May 2026 19:25:50 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>MTP benchmark study showing speculative inference performance varies significantly by task type.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>NCCL-Free Tensor Parallelism on Dual Blackwell PCIe llama.cpp b9095 released!</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t96l6r/ncclfree_tensor_parallelism_on_dual_blackwell/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t96l6r/ncclfree_tensor_parallelism_on_dual_blackwell/</guid>
+      <pubDate>Sun, 10 May 2026 13:12:33 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 72/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>llama.cpp release enabling NCCL-free tensor parallelism on dual Blackwell PCIe systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Academic Research Skills for Claude Code</title>
@@ -61,7 +45,7 @@
       <guid isPermaLink="true">https://github.com/Imbad0202/academic-research-skills</guid>
       <pubDate>Sun, 10 May 2026 13:42:00 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>GitHub repository for academic research skills applied to Claude Code, representing a user-created tool rather than substantive technical news.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>GitHub project documenting academic research skills for Claude Code, a user-created educational resource.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Built an MCP that gives Claude Code the ability to watch screen recordings of UI bugs</title>
@@ -69,15 +53,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1t9frna/built_an_mcp_that_gives_claude_code_the_ability/</guid>
       <pubDate>Sun, 10 May 2026 19:04:30 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Personal project creating an MCP for Claude Code to analyze screen recordings of UI bugs.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>I created an agentic orchestration pipeline for music video generation</title>
-      <link>https://v.redd.it/jksjjuvhlb0h1</link>
-      <guid isPermaLink="true">https://v.redd.it/jksjjuvhlb0h1</guid>
-      <pubDate>Sun, 10 May 2026 14:28:33 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/openai<br/><br/>Personal project describing an agentic orchestration pipeline for music video generation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>User-created MCP extension for Claude Code enabling screen recording analysis of UI bugs.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Signals: finding the most informative agent traces without LLM judges [R]</title>
@@ -85,7 +61,23 @@
       <guid isPermaLink="true">https://i.redd.it/nauai52sgc0h1.png</guid>
       <pubDate>Sun, 10 May 2026 17:26:03 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research on &apos;Signals&apos; method for identifying informative agent traces without LLM judges.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research on efficiently identifying informative agent traces without LLM-based evaluation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Meta&apos;s own AI safety director lost 200 emails to a rogue agent and she couldn&apos;t stop it from her phone</title>
+      <link>https://www.reddit.com/r/artificial/comments/1t9fnwv/metas_own_ai_safety_director_lost_200_emails_to_a/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t9fnwv/metas_own_ai_safety_director_lost_200_emails_to_a/</guid>
+      <pubDate>Sun, 10 May 2026 19:00:45 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 64/100<br/><b>Source:</b> r/artificial<br/><br/>Anecdotal account of AI agent security incident involving email deletion.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>I created an agentic orchestration pipeline for music video generation</title>
+      <link>https://v.redd.it/jksjjuvhlb0h1</link>
+      <guid isPermaLink="true">https://v.redd.it/jksjjuvhlb0h1</guid>
+      <pubDate>Sun, 10 May 2026 14:28:33 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> r/openai<br/><br/>Personal project combining agentic AI with music video generation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Parax v0.7: Parametric Modeling in JAX [P]</title>
@@ -93,15 +85,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1t929x3/parax_v07_parametric_modeling_in_jax_p/</guid>
       <pubDate>Sun, 10 May 2026 09:31:35 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Release of Parax v0.7 for parametric modeling in JAX.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Local AI needs to be the norm</title>
-      <link>https://unix.foo/posts/local-ai-needs-to-be-norm/</link>
-      <guid isPermaLink="true">https://unix.foo/posts/local-ai-needs-to-be-norm/</guid>
-      <pubDate>Sun, 10 May 2026 17:19:28 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Parax v0.7 release, a parametric modeling library for JAX framework.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Gen Z Resentment Toward AI Grows as Adoption Stagnates and Workplace Fears Mount</title>
@@ -109,7 +93,7 @@
       <guid isPermaLink="true">https://www.waltonfamilyfoundation.org/about-us/newsroom/gen-z-resentment-toward-ai-grows-as-adoption-stagnates-and-workplace-fears-mount</guid>
       <pubDate>Sun, 10 May 2026 08:03:15 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> Hacker News<br/><br/>Survey research from Walton Family Foundation documenting Gen Z attitudes toward AI adoption and workplace impact.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>I have DeepSeek V4 Pro at home</title>
@@ -136,18 +120,18 @@
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>the Claude App just said that Sonnet 4.5 is going to become unavailable for chat May 16th… I thought it wasn&apos;t close to depreciation?</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1t8k0sl/the_claude_app_just_said_that_sonnet_45_is_going/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1t8k0sl/the_claude_app_just_said_that_sonnet_45_is_going/</guid>
-      <pubDate>Sat, 09 May 2026 20:19:12 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
       <title>Can we have a clear stance on Claude subscription use in alternative harnesses for purely personal use?</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1t9fmwv/can_we_have_a_clear_stance_on_claude_subscription/</link>
       <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1t9fmwv/can_we_have_a_clear_stance_on_claude_subscription/</guid>
       <pubDate>Sun, 10 May 2026 18:59:49 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Built HTML Drive - Google Drive for Claude generated HTML files</title>
+      <link>https://v.redd.it/qfoj24uvlc0h1</link>
+      <guid isPermaLink="true">https://v.redd.it/qfoj24uvlc0h1</guid>
+      <pubDate>Sun, 10 May 2026 18:02:28 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
@@ -158,6 +142,14 @@
       <pubDate>Sun, 10 May 2026 08:47:04 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>What if Agentic AI security was a Non Issue?</title>
+      <link>https://i.redd.it/ibe0kpng290h1.png</link>
+      <guid isPermaLink="true">https://i.redd.it/ibe0kpng290h1.png</guid>
+      <pubDate>Sun, 10 May 2026 05:58:11 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 58/100<br/><b>Source:</b> r/artificial<br/><br/>Speculative discussion post about agentic AI security framed as a hypothetical.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>

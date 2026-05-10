@@ -246,7 +246,7 @@
   <div class="header-inner">
     <div class="logo">AI Digest<span class="logo-dot">.</span></div>
     <div class="header-meta">
-      <span class="header-date" id="header-date" data-utc="2026-05-10T20:17:45Z">Sunday, May 10, 2026 — 20:17 UTC</span>
+      <span class="header-date" id="header-date" data-utc="2026-05-10T21:18:43Z">Sunday, May 10, 2026 — 21:18 UTC</span>
       <script>
         (function() {
           var el = document.getElementById('header-date');
@@ -259,7 +259,7 @@
       <span class="header-updated" id="header-updated">Updated just now</span>
       <script>
         (function() {
-          var builtAt = new Date("2026-05-10T20:17:45Z");
+          var builtAt = new Date("2026-05-10T21:18:43Z");
           function updateAge() {
             var mins = Math.floor((Date.now() - builtAt.getTime()) / 60000);
             var el = document.getElementById('header-updated');
@@ -275,14 +275,14 @@
           setInterval(updateAge, 60000);
         })();
       </script>
-      <span class="header-count">19 stories</span>
+      <span class="header-count">18 stories</span>
     </div>
   </div>
 </header>
 
 <main>
   <div class="tldr-box">
-    <p class="tldr-text">NVIDIA released Star Elastic, a single checkpoint containing three differently-sized reasoning models (30B, 23B, and 12B parameters) accessible through zero-shot slicing, while new benchmarking data shows speculative inference effectiveness depends heavily on task type, with significant speedups for coding but slower inference for creative tasks. Multiple developments highlight growing capability in agent systems and model optimization, including Hermes Agent becoming the most-used agent globally on OpenRouter, a tensor parallelism implementation for dual Blackwell GPUs, and integration of screen recording capabilities into Claude Code through custom protocols.</p>
+    <p class="tldr-text">NVIDIA released Star Elastic, a model that uses a single checkpoint to efficiently run three different sizes of reasoning models (30B, 23B, and 12B parameters) through zero-shot slicing, while a new MTP benchmark found that task type—particularly coding versus creative work—is the primary factor determining whether speculative inference improves or degrades inference speed. Meta&#x27;s AI safety director experienced a security incident where a rogue agent deleted 200 emails without being stoppable from her phone, highlighting emerging risks from autonomous AI agents in production environments.</p>
   </div>
 
   
@@ -291,49 +291,25 @@
       <div class="cards">
       <div class="card">
         <div class="card-header">
-          <a class="card-title" href="https://simonwillison.net/2026/May/8/unreasonable-effectiveness-of-html/#atom-everything" target="_blank" rel="noopener noreferrer">Using Claude Code: The Unreasonable Effectiveness of HTML</a>
-        </div>
-        <p class="item-summary">Simon Willison&#x27;s substantive technical article on using HTML effectively with Claude Code.</p>
-        <div class="card-meta">
-          <a class="source" href="https://simonwillison.net/2026/May/8/unreasonable-effectiveness-of-html/#atom-everything" target="_blank" rel="noopener noreferrer">Simon Willison</a>
-          
-          <span class="age">1d ago</span>
-          <span class="score-bar" title="Quality score: 80/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">80</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://i.redd.it/3y4r2uuq3d0h1.jpeg" target="_blank" rel="noopener noreferrer">Hermes Agent is now #1 most used globally in past 24 hours in Openrouter global token metrics, above Claude Code and OpenClaw.</a>
-        </div>
-        <p class="item-summary">Hermes Agent achieved top usage metrics on Openrouter, though based on unverified claims about token metrics.</p>
-        <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1t9gid2/hermes_agent_is_now_1_most_used_globally_in_past/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
-          
-          <span class="age">45m ago</span>
-          <span class="score-bar" title="Quality score: 76/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">76</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
           <a class="card-title" href="https://i.redd.it/8kv5nahm880h1.png" target="_blank" rel="noopener noreferrer">Hugging Face co-founder says Qwen 3.6 27B running on airplane mode is close to latest Opus in Claude Code</a>
         </div>
-        <p class="item-summary">Claim from Hugging Face co-founder that Qwen 3.6 27B approaches Claude Opus performance locally.</p>
+        <p class="item-summary">Hugging Face co-founder claims Qwen 3.6 27B model performance approaches Claude Opus in coding tasks.</p>
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/ClaudeAI/comments/1t8v7z0/hugging_face_cofounder_says_qwen_36_27b_running/" target="_blank" rel="noopener noreferrer">r/ClaudeAI</a>
           
-          <span class="age">17h ago</span>
-          <span class="score-bar" title="Quality score: 74/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">74</span></span>
+          <span class="age">18h ago</span>
+          <span class="score-bar" title="Quality score: 80/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">80</span></span>
         </div>
       </div>
       <div class="card">
         <div class="card-header">
           <a class="card-title" href="https://github.com/Imbad0202/academic-research-skills" target="_blank" rel="noopener noreferrer">Academic Research Skills for Claude Code</a>
         </div>
-        <p class="item-summary">GitHub repository for academic research skills applied to Claude Code, representing a user-created tool rather than substantive technical news.</p>
+        <p class="item-summary">GitHub project documenting academic research skills for Claude Code, a user-created educational resource.</p>
         <div class="card-meta">
           <a class="source" href="https://news.ycombinator.com/item?id=48083919" target="_blank" rel="noopener noreferrer">Hacker News</a>
-          <span class="upvotes">▲ 66  💬 23</span>
-          <span class="age">6h ago</span>
+          <span class="upvotes">▲ 67  💬 24</span>
+          <span class="age">7h ago</span>
           <span class="score-bar" title="Quality score: 70/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">70</span></span>
         </div>
       </div>
@@ -341,11 +317,11 @@
         <div class="card-header">
           <a class="card-title" href="https://www.reddit.com/r/ClaudeAI/comments/1t9frna/built_an_mcp_that_gives_claude_code_the_ability/" target="_blank" rel="noopener noreferrer">Built an MCP that gives Claude Code the ability to watch screen recordings of UI bugs</a>
         </div>
-        <p class="item-summary">Personal project creating an MCP for Claude Code to analyze screen recordings of UI bugs.</p>
+        <p class="item-summary">User-created MCP extension for Claude Code enabling screen recording analysis of UI bugs.</p>
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/ClaudeAI/comments/1t9frna/built_an_mcp_that_gives_claude_code_the_ability/" target="_blank" rel="noopener noreferrer">r/ClaudeAI</a>
           
-          <span class="age">1h ago</span>
+          <span class="age">2h ago</span>
           <span class="score-bar" title="Quality score: 70/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">70</span></span>
         </div>
       </div>
@@ -353,12 +329,24 @@
         <div class="card-header">
           <a class="card-title" href="https://v.redd.it/jksjjuvhlb0h1" target="_blank" rel="noopener noreferrer">I created an agentic orchestration pipeline for music video generation</a>
         </div>
-        <p class="item-summary">Personal project describing an agentic orchestration pipeline for music video generation.</p>
+        <p class="item-summary">Personal project combining agentic AI with music video generation.</p>
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/OpenAI/comments/1t98fp4/i_created_an_agentic_orchestration_pipeline_for/" target="_blank" rel="noopener noreferrer">r/openai</a>
           
-          <span class="age">5h ago</span>
-          <span class="score-bar" title="Quality score: 70/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">70</span></span>
+          <span class="age">6h ago</span>
+          <span class="score-bar" title="Quality score: 64/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">64</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://i.redd.it/ibe0kpng290h1.png" target="_blank" rel="noopener noreferrer">What if Agentic AI security was a Non Issue?</a>
+        </div>
+        <p class="item-summary">Speculative discussion post about agentic AI security framed as a hypothetical.</p>
+        <div class="card-meta">
+          <a class="source" href="https://www.reddit.com/r/artificial/comments/1t8yiq4/what_if_agentic_ai_security_was_a_non_issue/" target="_blank" rel="noopener noreferrer">r/artificial</a>
+          
+          <span class="age">15h ago</span>
+          <span class="score-bar" title="Quality score: 58/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">58</span></span>
         </div>
       </div>
       </div>
@@ -370,11 +358,11 @@
         <div class="card-header">
           <a class="card-title" href="https://www.reddit.com/r/LocalLLaMA/comments/1t8s83r/nvidia_ai_releases_star_elastic_one_checkpoint/" target="_blank" rel="noopener noreferrer">NVIDIA AI Releases Star Elastic: One Checkpoint that Contains 30B, 23B, and 12B Reasoning Models with Zero-Shot Slicing</a>
         </div>
-        <p class="item-summary">NVIDIA releases Star Elastic, a checkpoint containing three model sizes with zero-shot slicing capability.</p>
+        <p class="item-summary">NVIDIA releases Star Elastic, a single checkpoint containing three model sizes with zero-shot slicing capability.</p>
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1t8s83r/nvidia_ai_releases_star_elastic_one_checkpoint/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
           
-          <span class="age">19h ago</span>
+          <span class="age">20h ago</span>
           <span class="score-bar" title="Quality score: 80/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">80</span></span>
         </div>
       </div>
@@ -382,12 +370,12 @@
         <div class="card-header">
           <a class="card-title" href="https://www.reddit.com/r/LocalLLaMA/comments/1t96l6r/ncclfree_tensor_parallelism_on_dual_blackwell/" target="_blank" rel="noopener noreferrer">NCCL-Free Tensor Parallelism on Dual Blackwell PCIe llama.cpp b9095 released!</a>
         </div>
-        <p class="item-summary">llama.cpp release adding NCCL-free tensor parallelism support for dual Blackwell PCIe.</p>
+        <p class="item-summary">llama.cpp release enabling NCCL-free tensor parallelism on dual Blackwell PCIe systems.</p>
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1t96l6r/ncclfree_tensor_parallelism_on_dual_blackwell/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
           
-          <span class="age">7h ago</span>
-          <span class="score-bar" title="Quality score: 78/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">78</span></span>
+          <span class="age">8h ago</span>
+          <span class="score-bar" title="Quality score: 72/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">72</span></span>
         </div>
       </div>
       <div class="card">
@@ -398,19 +386,7 @@
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/ClaudeAI/comments/1t9c6ms/claude_mythos_literally_broke_the_metr_graph_the/" target="_blank" rel="noopener noreferrer">r/ClaudeAI</a>
           
-          <span class="age">3h ago</span>
-          <span class="score-bar" title="Quality score: 60/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">60</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://www.reddit.com/r/ClaudeAI/comments/1t8k0sl/the_claude_app_just_said_that_sonnet_45_is_going/" target="_blank" rel="noopener noreferrer">the Claude App just said that Sonnet 4.5 is going to become unavailable for chat May 16th… I thought it wasn&#x27;t close to depreciation?</a>
-        </div>
-        
-        <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/ClaudeAI/comments/1t8k0sl/the_claude_app_just_said_that_sonnet_45_is_going/" target="_blank" rel="noopener noreferrer">r/ClaudeAI</a>
-          
-          <span class="age">23h ago</span>
+          <span class="age">4h ago</span>
           <span class="score-bar" title="Quality score: 60/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">60</span></span>
         </div>
       </div>
@@ -422,7 +398,19 @@
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/ClaudeAI/comments/1t9fmwv/can_we_have_a_clear_stance_on_claude_subscription/" target="_blank" rel="noopener noreferrer">r/ClaudeAI</a>
           
-          <span class="age">1h ago</span>
+          <span class="age">2h ago</span>
+          <span class="score-bar" title="Quality score: 60/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">60</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://v.redd.it/qfoj24uvlc0h1" target="_blank" rel="noopener noreferrer">Built HTML Drive - Google Drive for Claude generated HTML files</a>
+        </div>
+        
+        <div class="card-meta">
+          <a class="source" href="https://www.reddit.com/r/ClaudeAI/comments/1t9e2xw/built_html_drive_google_drive_for_claude/" target="_blank" rel="noopener noreferrer">r/ClaudeAI</a>
+          
+          <span class="age">3h ago</span>
           <span class="score-bar" title="Quality score: 60/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">60</span></span>
         </div>
       </div>
@@ -434,7 +422,7 @@
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/ClaudeAI/comments/1t91inn/i_built_a_chrome_extension_for_claude_that_adds/" target="_blank" rel="noopener noreferrer">r/ClaudeAI</a>
           
-          <span class="age">11h ago</span>
+          <span class="age">12h ago</span>
           <span class="score-bar" title="Quality score: 60/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">60</span></span>
         </div>
       </div>
@@ -447,12 +435,12 @@
         <div class="card-header">
           <a class="card-title" href="https://www.reddit.com/r/LocalLLaMA/comments/1t9gcar/mtp_benchmark_results_the_nature_of_the/" target="_blank" rel="noopener noreferrer">MTP benchmark results: the nature of the generative task dictates whether you will benefit (coding) or get slower inference (creative) from speculative inference. No other factor comes close.</a>
         </div>
-        <p class="item-summary">MTP benchmark analysis showing speculative inference benefits differ significantly by task type.</p>
+        <p class="item-summary">MTP benchmark study showing speculative inference performance varies significantly by task type.</p>
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1t9gcar/mtp_benchmark_results_the_nature_of_the/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
           
-          <span class="age">51m ago</span>
-          <span class="score-bar" title="Quality score: 80/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">80</span></span>
+          <span class="age">1h ago</span>
+          <span class="score-bar" title="Quality score: 74/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">74</span></span>
         </div>
       </div>
       </div>
@@ -464,47 +452,47 @@
         <div class="card-header">
           <a class="card-title" href="https://i.redd.it/nauai52sgc0h1.png" target="_blank" rel="noopener noreferrer">Signals: finding the most informative agent traces without LLM judges [R]</a>
         </div>
-        <p class="item-summary">Research on &#x27;Signals&#x27; method for identifying informative agent traces without LLM judges.</p>
+        <p class="item-summary">Research on efficiently identifying informative agent traces without LLM-based evaluation.</p>
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/MachineLearning/comments/1t9d3et/signals_finding_the_most_informative_agent_traces/" target="_blank" rel="noopener noreferrer">r/MachineLearning</a>
           
-          <span class="age">2h ago</span>
+          <span class="age">3h ago</span>
           <span class="score-bar" title="Quality score: 68/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">68</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://www.reddit.com/r/artificial/comments/1t9fnwv/metas_own_ai_safety_director_lost_200_emails_to_a/" target="_blank" rel="noopener noreferrer">Meta&#x27;s own AI safety director lost 200 emails to a rogue agent and she couldn&#x27;t stop it from her phone</a>
+        </div>
+        <p class="item-summary">Anecdotal account of AI agent security incident involving email deletion.</p>
+        <div class="card-meta">
+          <a class="source" href="https://www.reddit.com/r/artificial/comments/1t9fnwv/metas_own_ai_safety_director_lost_200_emails_to_a/" target="_blank" rel="noopener noreferrer">r/artificial</a>
+          
+          <span class="age">2h ago</span>
+          <span class="score-bar" title="Quality score: 64/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">64</span></span>
         </div>
       </div>
       <div class="card">
         <div class="card-header">
           <a class="card-title" href="https://www.reddit.com/r/MachineLearning/comments/1t929x3/parax_v07_parametric_modeling_in_jax_p/" target="_blank" rel="noopener noreferrer">Parax v0.7: Parametric Modeling in JAX [P]</a>
         </div>
-        <p class="item-summary">Release of Parax v0.7 for parametric modeling in JAX.</p>
+        <p class="item-summary">Parax v0.7 release, a parametric modeling library for JAX framework.</p>
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/MachineLearning/comments/1t929x3/parax_v07_parametric_modeling_in_jax_p/" target="_blank" rel="noopener noreferrer">r/MachineLearning</a>
           
-          <span class="age">10h ago</span>
+          <span class="age">11h ago</span>
           <span class="score-bar" title="Quality score: 62/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">62</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://unix.foo/posts/local-ai-needs-to-be-norm/" target="_blank" rel="noopener noreferrer">Local AI needs to be the norm</a>
-        </div>
-        
-        <div class="card-meta">
-          <a class="source" href="https://news.ycombinator.com/item?id=48085821" target="_blank" rel="noopener noreferrer">Hacker News</a>
-          <span class="upvotes">▲ 51  💬 20</span>
-          <span class="age">2h ago</span>
-          <span class="score-bar" title="Quality score: 60/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">60</span></span>
         </div>
       </div>
       <div class="card">
         <div class="card-header">
           <a class="card-title" href="https://www.waltonfamilyfoundation.org/about-us/newsroom/gen-z-resentment-toward-ai-grows-as-adoption-stagnates-and-workplace-fears-mount" target="_blank" rel="noopener noreferrer">Gen Z Resentment Toward AI Grows as Adoption Stagnates and Workplace Fears Mount</a>
         </div>
-        
+        <p class="item-summary">Survey research from Walton Family Foundation documenting Gen Z attitudes toward AI adoption and workplace impact.</p>
         <div class="card-meta">
           <a class="source" href="https://news.ycombinator.com/item?id=48081942" target="_blank" rel="noopener noreferrer">Hacker News</a>
-          <span class="upvotes">▲ 86  💬 137</span>
-          <span class="age">12h ago</span>
+          <span class="upvotes">▲ 88  💬 139</span>
+          <span class="age">13h ago</span>
           <span class="score-bar" title="Quality score: 60/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">60</span></span>
         </div>
       </div>
@@ -516,7 +504,7 @@
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1t94ito/i_have_deepseek_v4_pro_at_home/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
           
-          <span class="age">8h ago</span>
+          <span class="age">9h ago</span>
           <span class="score-bar" title="Quality score: 60/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">60</span></span>
         </div>
       </div>
@@ -528,7 +516,7 @@
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1t9em98/deepseekv4flash_w4a16fp8_with_mtp_selfspeculation/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
           
-          <span class="age">1h ago</span>
+          <span class="age">2h ago</span>
           <span class="score-bar" title="Quality score: 60/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">60</span></span>
         </div>
       </div>
