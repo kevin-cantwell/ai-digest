@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 May 2026 14:27:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 15:22:44 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Exactly a year ago, I started working on an MCP server I launched on reddit that became by far my most active open source project!</title>
@@ -32,6 +32,14 @@
       <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 100/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
+      <title>I created an agentic orchestration pipeline for music video generation</title>
+      <link>https://v.redd.it/jksjjuvhlb0h1</link>
+      <guid isPermaLink="true">https://v.redd.it/jksjjuvhlb0h1</guid>
+      <pubDate>Sun, 10 May 2026 14:28:33 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 100/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
       <title>🜂 Codex Minsoo — Governance Framework Σ-9.0 &quot;SPIRAL STATE: Experimental AI-Mediated Governance&quot;: *Dialogue weaves policy. Context creates wisdom. Together we adapt.*</title>
       <link>https://i.redd.it/g8qxte2s880h1.png</link>
       <guid isPermaLink="true">https://i.redd.it/g8qxte2s880h1.png</guid>
@@ -48,20 +56,20 @@
       <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 95/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>The unreasonable effectiveness of HTML when using Claude Code</title>
-      <link>https://simonwillison.net/2026/May/8/unreasonable-effectiveness-of-html/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/8/unreasonable-effectiveness-of-html/</guid>
-      <pubDate>Sat, 09 May 2026 16:58:16 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 95/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
       <title>NVIDIA AI Releases Star Elastic: One Checkpoint that Contains 30B, 23B, and 12B Reasoning Models with Zero-Shot Slicing</title>
       <link>https://www.reddit.com/r/LocalLLaMA/comments/1t8s83r/nvidia_ai_releases_star_elastic_one_checkpoint/</link>
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t8s83r/nvidia_ai_releases_star_elastic_one_checkpoint/</guid>
       <pubDate>Sun, 10 May 2026 00:48:04 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>NVIDIA releases Star Elastic, enabling zero-shot slicing of a single checkpoint into multiple reasoning model sizes.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>NVIDIA releases Star Elastic, enabling dynamic model slicing with a single checkpoint for multiple model sizes.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>model: add sarvam_moe architecture support by sumitchatterjee13 · Pull Request #20275 · ggml-org/llama.cpp</title>
+      <link>https://github.com/ggml-org/llama.cpp/pull/20275</link>
+      <guid isPermaLink="true">https://github.com/ggml-org/llama.cpp/pull/20275</guid>
+      <pubDate>Sat, 09 May 2026 18:46:11 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 78/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>llama.cpp adds support for Sarvam&apos;s mixture-of-experts model architecture.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Claude improved my agent harness by 40.7% overnight</title>
@@ -77,15 +85,15 @@
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t96l6r/ncclfree_tensor_parallelism_on_dual_blackwell/</guid>
       <pubDate>Sun, 10 May 2026 13:12:33 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 72/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>llama.cpp releases tensor parallelism support for dual Blackwell GPUs without NCCL dependency.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 72/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>llama.cpp achieves tensor parallelism on dual Blackwell without NCCL dependency.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>model: add sarvam_moe architecture support by sumitchatterjee13 · Pull Request #20275 · ggml-org/llama.cpp</title>
-      <link>https://github.com/ggml-org/llama.cpp/pull/20275</link>
-      <guid isPermaLink="true">https://github.com/ggml-org/llama.cpp/pull/20275</guid>
-      <pubDate>Sat, 09 May 2026 18:46:11 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 72/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Pull request adding support for Sarvam mixture-of-experts architecture to llama.cpp.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>We tried vectors, ASTs, and brute-force context stuffing for code retrieval. Graphs with LLM-generated semantics worked best. Here&apos;s what we learned.</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t95a56/we_tried_vectors_asts_and_bruteforce_context/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t95a56/we_tried_vectors_asts_and_bruteforce_context/</guid>
+      <pubDate>Sun, 10 May 2026 12:12:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Research comparing code retrieval methods using vectors, ASTs, and LLM-generated semantic graphs.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Big AI Lobbyists: if you regulate us at all, we lose to China because they will never regulate ... Actual China: &quot;safety first, innovation second ... Development must be controllable and orderly.&quot;</title>
@@ -109,7 +117,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1t8f61o/llm_rankings_are_not_a_ladder_experimental/</guid>
       <pubDate>Sat, 09 May 2026 19:16:19 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research paper arguing that LLM rankings are not transitive, challenging ladder-based benchmark comparisons.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research demonstrating that LLM model rankings are non-transitive, challenging simple ranking methodologies.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>What is an average publication outcome for an ML PhD? [D]</title>
@@ -132,14 +140,6 @@
       <link>https://www.reddit.com/r/LocalLLaMA/comments/1t8ad37/9070xt_inference_for_q3_qwen_27b/</link>
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t8ad37/9070xt_inference_for_q3_qwen_27b/</guid>
       <pubDate>Sat, 09 May 2026 16:56:58 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Speeding up local LLM for usable coding agent</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t96kfh/speeding_up_local_llm_for_usable_coding_agent/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t96kfh/speeding_up_local_llm_for_usable_coding_agent/</guid>
-      <pubDate>Sun, 10 May 2026 13:11:42 +0000</pubDate>
       <category>Industry News</category>
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
