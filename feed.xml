@@ -5,55 +5,31 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 May 2026 19:34:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 20:36:43 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>The OpenAI Deployment Company</title>
-      <link>https://openai.com/index/openai-launches-the-deployment-company/</link>
-      <guid isPermaLink="true">https://openai.com/index/openai-launches-the-deployment-company/</guid>
-      <pubDate>Mon, 11 May 2026 13:10:55 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI announces new deployment-focused company division.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
     <item>
       <title>Interfaze: A new model architecture built for high accuracy at scale</title>
       <link>https://interfaze.ai/blog/interfaze-a-new-model-architecture-built-for-high-accuracy-at-scale</link>
       <guid isPermaLink="true">https://interfaze.ai/blog/interfaze-a-new-model-architecture-built-for-high-accuracy-at-scale</guid>
       <pubDate>Mon, 11 May 2026 16:22:31 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 74/100<br/><b>Source:</b> Hacker News<br/><br/>New model architecture announcement claiming improved accuracy at scale.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 78/100<br/><b>Source:</b> Hacker News<br/><br/>New model architecture announcement claiming improvements in accuracy and scale.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>CUDA-oxide: Nvidia&apos;s official Rust to CUDA compiler</title>
-      <link>https://nvlabs.github.io/cuda-oxide/index.html</link>
-      <guid isPermaLink="true">https://nvlabs.github.io/cuda-oxide/index.html</guid>
-      <pubDate>Mon, 11 May 2026 15:55:07 +0000</pubDate>
+      <title>The OpenAI Deployment Company</title>
+      <link>https://openai.com/index/openai-launches-the-deployment-company/</link>
+      <guid isPermaLink="true">https://openai.com/index/openai-launches-the-deployment-company/</guid>
+      <pubDate>Mon, 11 May 2026 13:10:55 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Nvidia releases official Rust-to-CUDA compiler tool.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI launches new deployment-focused business division for enterprise AI services.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Show HN: adamsreview – better multi-agent PR reviews for Claude Code</title>
-      <link>https://github.com/adamjgmiller/adamsreview</link>
-      <guid isPermaLink="true">https://github.com/adamjgmiller/adamsreview</guid>
-      <pubDate>Mon, 11 May 2026 02:06:29 +0000</pubDate>
+      <title>I gave a local AI agent system file access and a mechanical &quot;suffering&quot; metric. Scaling the model changed its behavior entirely</title>
+      <link>https://www.reddit.com/r/artificial/comments/1t9x50u/i_gave_a_local_ai_agent_system_file_access_and_a/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t9x50u/i_gave_a_local_ai_agent_system_file_access_and_a/</guid>
+      <pubDate>Mon, 11 May 2026 08:29:12 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Open-source tool for multi-agent PR reviews using Claude Code.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>AWS just gave AI agents their own wallets. Your agent can now pay for itself.</title>
-      <link>https://www.reddit.com/r/artificial/comments/1t9ybtb/aws_just_gave_ai_agents_their_own_wallets_your/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t9ybtb/aws_just_gave_ai_agents_their_own_wallets_your/</guid>
-      <pubDate>Mon, 11 May 2026 09:38:19 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/artificial<br/><br/>AWS announcement of autonomous financial capabilities for AI agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>I put Claude Code inside Obsidian as a plugin — full agentic vault access with a native UI bridge</title>
-      <link>https://i.redd.it/2ccl0d9a2e0h1.gif</link>
-      <guid isPermaLink="true">https://i.redd.it/2ccl0d9a2e0h1.gif</guid>
-      <pubDate>Sun, 10 May 2026 22:53:54 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Personal project integrating Claude Code as an Obsidian plugin.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/artificial<br/><br/>Anecdotal observation of behavioral changes in local AI agents at different scales, lacking rigorous methodology.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?</title>
@@ -61,15 +37,47 @@
       <guid isPermaLink="true">https://dunkels.com/adam/claude-user-space-ip-stack-ping/</guid>
       <pubDate>Sun, 10 May 2026 23:02:31 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> Hacker News<br/><br/>Technical experiment using Claude as a network protocol implementation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> Hacker News<br/><br/>Technical experiment implementing an IP stack within Claude&apos;s context, demonstrating novel capability.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Open Source Projects related to CNNs to Contribute To? [D]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1ta1sjz/open_source_projects_related_to_cnns_to/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1ta1sjz/open_source_projects_related_to_cnns_to/</guid>
-      <pubDate>Mon, 11 May 2026 12:26:52 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>CUDA-oxide: Nvidia&apos;s official Rust to CUDA compiler</title>
+      <link>https://nvlabs.github.io/cuda-oxide/index.html</link>
+      <guid isPermaLink="true">https://nvlabs.github.io/cuda-oxide/index.html</guid>
+      <pubDate>Mon, 11 May 2026 15:55:07 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Nvidia releases official Rust-to-CUDA compiler, significant developer tooling advancement.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Show HN: adamsreview – better multi-agent PR reviews for Claude Code</title>
+      <link>https://github.com/adamjgmiller/adamsreview</link>
+      <guid isPermaLink="true">https://github.com/adamjgmiller/adamsreview</guid>
+      <pubDate>Mon, 11 May 2026 02:06:29 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Open-source tool for multi-agent PR reviews with Claude Code, showing practical application development.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>AWS just gave AI agents their own wallets. Your agent can now pay for itself.</title>
+      <link>https://www.reddit.com/r/artificial/comments/1t9ybtb/aws_just_gave_ai_agents_their_own_wallets_your/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t9ybtb/aws_just_gave_ai_agents_their_own_wallets_your/</guid>
+      <pubDate>Mon, 11 May 2026 09:38:19 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/artificial<br/><br/>AWS introduces financial capabilities for AI agents, enabling autonomous spending.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>I put Claude Code inside Obsidian as a plugin — full agentic vault access with a native UI bridge</title>
+      <link>https://i.redd.it/2ccl0d9a2e0h1.gif</link>
+      <guid isPermaLink="true">https://i.redd.it/2ccl0d9a2e0h1.gif</guid>
+      <pubDate>Sun, 10 May 2026 22:53:54 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Personal project integrating Claude Code into Obsidian plugin, interesting but niche application.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>PhD students in ML, how many hours on average do you work? [D]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1t9mwqy/phd_students_in_ml_how_many_hours_on_average_do/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1t9mwqy/phd_students_in_ml_how_many_hours_on_average_do/</guid>
+      <pubDate>Sun, 10 May 2026 23:54:02 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Where are small Models like Qwen3 0.6B and Qwen3.5 0.8B used ? Huggingface shows 2.88 million downloads this month.[D]</title>
@@ -92,14 +100,6 @@
       <link>https://www.reddit.com/r/LocalLLaMA/comments/1taafs4/will_there_be_any_more_qwen36_series_models/</link>
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1taafs4/will_there_be_any_more_qwen36_series_models/</guid>
       <pubDate>Mon, 11 May 2026 17:37:30 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Gemma 4 running fully offline on WebGPU with Transformers.js, controlling Reachy Mini over WebSerial.</title>
-      <link>https://v.redd.it/bhbonxqfij0h1</link>
-      <guid isPermaLink="true">https://v.redd.it/bhbonxqfij0h1</guid>
-      <pubDate>Mon, 11 May 2026 17:10:18 +0000</pubDate>
       <category>Industry News</category>
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
@@ -128,20 +128,12 @@
       <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>I gave a local AI agent system file access and a mechanical &quot;suffering&quot; metric. Scaling the model changed its behavior entirely</title>
-      <link>https://www.reddit.com/r/artificial/comments/1t9x50u/i_gave_a_local_ai_agent_system_file_access_and_a/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t9x50u/i_gave_a_local_ai_agent_system_file_access_and_a/</guid>
-      <pubDate>Mon, 11 May 2026 08:29:12 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> r/artificial<br/><br/>Personal experiment with local AI agent behavior under different scaling conditions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
       <title>Sharing &quot;cull&quot; : my open-source dataset tool for image scraping &amp; classification &amp; captioning pipeline</title>
       <link>https://www.reddit.com/r/LocalLLaMA/comments/1t9jub0/sharing_cull_my_opensource_dataset_tool_for_image/</link>
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t9jub0/sharing_cull_my_opensource_dataset_tool_for_image/</guid>
       <pubDate>Sun, 10 May 2026 21:42:02 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Open-source dataset tool release for image processing and captioning.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Open-source dataset tool release for image processing pipeline.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>I built an open source hyperparameter search tool for diffusion fine-tunes- pick the winner based on scoring</title>
@@ -149,7 +141,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t9k8gy/i_built_an_open_source_hyperparameter_search_tool/</guid>
       <pubDate>Sun, 10 May 2026 21:58:12 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Open-source hyperparameter search tool for diffusion model fine-tuning.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Open-source hyperparameter optimization tool for diffusion model fine-tuning.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Why is opencode so slow in processing the prompt with llama server?</title>
@@ -166,6 +158,14 @@
       <pubDate>Mon, 11 May 2026 15:50:56 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>using Claude to close a &lt;div&gt;</title>
+      <link>https://v.redd.it/z5c42snzrh0h1</link>
+      <guid isPermaLink="true">https://v.redd.it/z5c42snzrh0h1</guid>
+      <pubDate>Mon, 11 May 2026 11:15:14 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
