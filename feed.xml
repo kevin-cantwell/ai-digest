@@ -5,15 +5,15 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 May 2026 16:59:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 17:45:22 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>MTP benchmark results: the nature of the generative task dictates whether you will benefit (coding) or get slower inference (creative) from speculative inference. No other factor comes close.</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t9gcar/mtp_benchmark_results_the_nature_of_the/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t9gcar/mtp_benchmark_results_the_nature_of_the/</guid>
-      <pubDate>Sun, 10 May 2026 19:25:50 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Benchmark analysis showing speculative inference performance varies by task type in generative models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>The OpenAI Deployment Company</title>
+      <link>https://openai.com/index/openai-launches-the-deployment-company/</link>
+      <guid isPermaLink="true">https://openai.com/index/openai-launches-the-deployment-company/</guid>
+      <pubDate>Mon, 11 May 2026 13:10:55 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI launches DeployCo, a new company to help businesses build with AI models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>OpenAI launches DeployCo to help businesses build around intelligence</title>
@@ -21,7 +21,23 @@
       <guid isPermaLink="true">https://openai.com/index/openai-launches-the-deployment-company</guid>
       <pubDate>Mon, 11 May 2026 06:00:00 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI launches DeployCo, a new service division to help enterprises build AI applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI launches DeployCo to help businesses build around AI intelligence.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>MTP benchmark results: the nature of the generative task dictates whether you will benefit (coding) or get slower inference (creative) from speculative inference. No other factor comes close.</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t9gcar/mtp_benchmark_results_the_nature_of_the/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t9gcar/mtp_benchmark_results_the_nature_of_the/</guid>
+      <pubDate>Sun, 10 May 2026 19:25:50 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Benchmark results showing speculative inference performance varies by task type.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>CUDA-oxide: Nvidia&apos;s official Rust to CUDA compiler</title>
+      <link>https://nvlabs.github.io/cuda-oxide/index.html</link>
+      <guid isPermaLink="true">https://nvlabs.github.io/cuda-oxide/index.html</guid>
+      <pubDate>Mon, 11 May 2026 15:55:07 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Nvidia releases CUDA-oxide, an official Rust-to-CUDA compiler.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Show HN: adamsreview – better multi-agent PR reviews for Claude Code</title>
@@ -29,7 +45,7 @@
       <guid isPermaLink="true">https://github.com/adamjgmiller/adamsreview</guid>
       <pubDate>Mon, 11 May 2026 02:06:29 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Developer shares a tool for multi-agent PR reviews with Claude Code on GitHub.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>A GitHub project offering multi-agent PR review tooling for Claude Code.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>I put Claude Code inside Obsidian as a plugin — full agentic vault access with a native UI bridge</title>
@@ -37,15 +53,7 @@
       <guid isPermaLink="true">https://i.redd.it/2ccl0d9a2e0h1.gif</guid>
       <pubDate>Sun, 10 May 2026 22:53:54 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Developer created a plugin integrating Claude Code into Obsidian with agentic vault access.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Built an MCP that gives Claude Code the ability to watch screen recordings of UI bugs</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1t9frna/built_an_mcp_that_gives_claude_code_the_ability/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1t9frna/built_an_mcp_that_gives_claude_code_the_ability/</guid>
-      <pubDate>Sun, 10 May 2026 19:04:30 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Developer built an MCP server enabling Claude Code to analyze screen recordings of UI bugs.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>A personal project integrating Claude Code as an Obsidian plugin with vault access.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?</title>
@@ -53,37 +61,13 @@
       <guid isPermaLink="true">https://dunkels.com/adam/claude-user-space-ip-stack-ping/</guid>
       <pubDate>Sun, 10 May 2026 23:02:31 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> Hacker News<br/><br/>Technical experiment measuring latency of Claude acting as a user-space IP stack.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Sharing &quot;cull&quot; : my open-source dataset tool for image scraping &amp; classification &amp; captioning pipeline</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t9jub0/sharing_cull_my_opensource_dataset_tool_for_image/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t9jub0/sharing_cull_my_opensource_dataset_tool_for_image/</guid>
-      <pubDate>Sun, 10 May 2026 21:42:02 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Developer shares an open-source tool for image dataset creation with scraping and captioning.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>I built an open source hyperparameter search tool for diffusion fine-tunes- pick the winner based on scoring</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t9k8gy/i_built_an_open_source_hyperparameter_search_tool/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t9k8gy/i_built_an_open_source_hyperparameter_search_tool/</guid>
-      <pubDate>Sun, 10 May 2026 21:58:12 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Open-source hyperparameter search tool for diffusion model fine-tuning with automated scoring.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> Hacker News<br/><br/>Technical experiment implementing an IP stack using Claude as a user space component.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>PhD students in ML, how many hours on average do you work? [D]</title>
       <link>https://www.reddit.com/r/MachineLearning/comments/1t9mwqy/phd_students_in_ml_how_many_hours_on_average_do/</link>
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1t9mwqy/phd_students_in_ml_how_many_hours_on_average_do/</guid>
       <pubDate>Sun, 10 May 2026 23:54:02 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Signals: finding the most informative agent traces without LLM judges [R]</title>
-      <link>https://i.redd.it/nauai52sgc0h1.png</link>
-      <guid isPermaLink="true">https://i.redd.it/nauai52sgc0h1.png</guid>
-      <pubDate>Sun, 10 May 2026 17:26:03 +0000</pubDate>
       <category>Industry News</category>
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
@@ -128,14 +112,6 @@
       <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Sam Altman Floats &apos;Goblin&apos; Name for OpenAI&apos;s Next AI Model</title>
-      <link>https://i.redd.it/5k8xmmoq8g0h1.png</link>
-      <guid isPermaLink="true">https://i.redd.it/5k8xmmoq8g0h1.png</guid>
-      <pubDate>Mon, 11 May 2026 06:05:52 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
       <title>Research: &quot;Chain of Babble&quot; Improves Reasoning on Complex Tasks</title>
       <link>https://mindgard.ai/blog/the-riddles-chatgpt-5-2-cant-solve-without-chain-of-babble</link>
       <guid isPermaLink="true">https://mindgard.ai/blog/the-riddles-chatgpt-5-2-cant-solve-without-chain-of-babble</guid>
@@ -152,20 +128,44 @@
       <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
+      <title>AWS just gave AI agents their own wallets. Your agent can now pay for itself.</title>
+      <link>https://www.reddit.com/r/artificial/comments/1t9ybtb/aws_just_gave_ai_agents_their_own_wallets_your/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t9ybtb/aws_just_gave_ai_agents_their_own_wallets_your/</guid>
+      <pubDate>Mon, 11 May 2026 09:38:19 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> r/artificial<br/><br/>Claim that AWS has given AI agents the ability to pay for services with wallets.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
       <title>I gave a local AI agent system file access and a mechanical &quot;suffering&quot; metric. Scaling the model changed its behavior entirely</title>
       <link>https://www.reddit.com/r/artificial/comments/1t9x50u/i_gave_a_local_ai_agent_system_file_access_and_a/</link>
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1t9x50u/i_gave_a_local_ai_agent_system_file_access_and_a/</guid>
       <pubDate>Mon, 11 May 2026 08:29:12 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> r/artificial<br/><br/>Personal experiment observing behavior changes in a local AI agent when given system access and a suffering metric.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> r/artificial<br/><br/>Personal anecdotal experiment about scaling effects on an AI agent&apos;s behavior with a suffering metric.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Claude Mythos Opens The Cybersecurity Pandora&apos;s box</title>
-      <link>https://shiftmag.dev/claude-mythos-opens-the-cybersecurity-pandoras-box-9622/</link>
-      <guid isPermaLink="true">https://shiftmag.dev/claude-mythos-opens-the-cybersecurity-pandoras-box-9622/</guid>
-      <pubDate>Mon, 11 May 2026 15:50:56 +0000</pubDate>
+      <title>Sharing &quot;cull&quot; : my open-source dataset tool for image scraping &amp; classification &amp; captioning pipeline</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t9jub0/sharing_cull_my_opensource_dataset_tool_for_image/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t9jub0/sharing_cull_my_opensource_dataset_tool_for_image/</guid>
+      <pubDate>Sun, 10 May 2026 21:42:02 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Open-source dataset tool for image scraping, classification, and captioning.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>I built an open source hyperparameter search tool for diffusion fine-tunes- pick the winner based on scoring</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1t9k8gy/i_built_an_open_source_hyperparameter_search_tool/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1t9k8gy/i_built_an_open_source_hyperparameter_search_tool/</guid>
+      <pubDate>Sun, 10 May 2026 21:58:12 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Open-source hyperparameter search tool for diffusion model fine-tuning.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Why is opencode so slow in processing the prompt with llama server?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1ta0pws/why_is_opencode_so_slow_in_processing_the_prompt/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1ta0pws/why_is_opencode_so_slow_in_processing_the_prompt/</guid>
+      <pubDate>Mon, 11 May 2026 11:40:12 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
