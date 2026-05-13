@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 May 2026 01:39:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 03:09:46 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model</title>
@@ -13,31 +13,7 @@
       <guid isPermaLink="true">https://github.com/cactus-compute/needle</guid>
       <pubDate>Tue, 12 May 2026 18:03:11 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>Needle project successfully distilled Gemini&apos;s tool-calling capabilities into a 26M parameter model, enabling efficient function calling on smaller models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>TabPFN-3 just released: a pre-trained tabular foundation model for up to 1M rows [R][N]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1tb3fh5/tabpfn3_just_released_a_pretrained_tabular/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1tb3fh5/tabpfn3_just_released_a_pretrained_tabular/</guid>
-      <pubDate>Tue, 12 May 2026 14:33:12 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 86/100<br/><b>Source:</b> r/MachineLearning<br/><br/>TabPFN-3 foundation model released for tabular data processing, supporting datasets up to 1M rows.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>What Parameter Golf taught us about AI-assisted research</title>
-      <link>https://openai.com/index/what-parameter-golf-taught-us</link>
-      <guid isPermaLink="true">https://openai.com/index/what-parameter-golf-taught-us</guid>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 84/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI research findings on parameter optimization (&apos;Parameter Golf&apos;) methodology for AI-assisted research.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Launch HN: Voker (YC S24) – Analytics for AI Agents</title>
-      <link>https://voker.ai</link>
-      <guid isPermaLink="true">https://voker.ai</guid>
-      <pubDate>Tue, 12 May 2026 15:45:20 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Voker (YC S24) launches analytics platform for monitoring and optimizing AI agent performance.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>Researchers distilled Gemini&apos;s tool-calling capabilities into a 26M parameter model, enabling efficient agentic functionality on smaller models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Show HN: Statewright – Visual state machines that make AI agents reliable</title>
@@ -45,15 +21,7 @@
       <guid isPermaLink="true">https://github.com/statewright/statewright</guid>
       <pubDate>Tue, 12 May 2026 14:24:55 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Statewright introduces visual state machine framework designed to improve reliability and determinism of AI agent behavior.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Agentic harness for theoretical physics research</title>
-      <link>https://i.redd.it/kfsrb0yppq0h1.jpeg</link>
-      <guid isPermaLink="true">https://i.redd.it/kfsrb0yppq0h1.jpeg</guid>
-      <pubDate>Tue, 12 May 2026 17:23:51 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Agentic framework developed for automating theoretical physics research workflows using AI agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Statewright introduces visual state machine tooling designed to improve reliability of AI agent behavior.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>PSA: If your project has an ANTHROPIC_API_KEY in any .env file, Claude Code will silently bill your API account instead of your Max plan — Anthropic calls it &quot;intentional functionality&quot;</title>
@@ -61,15 +29,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1tbaq2d/psa_if_your_project_has_an_anthropic_api_key_in/</guid>
       <pubDate>Tue, 12 May 2026 18:44:05 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>PSA documenting unintended behavior where Claude Code silently uses API credentials instead of Max plan billing.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Company behind GLiNER model released open source model for running LLM guardrail</title>
-      <link>https://pioneer.ai/blog/gliguard-16x-faster-safety-moderation-with-a-small-language-model</link>
-      <guid isPermaLink="true">https://pioneer.ai/blog/gliguard-16x-faster-safety-moderation-with-a-small-language-model</guid>
-      <pubDate>Tue, 12 May 2026 18:45:25 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 80/100<br/><b>Source:</b> Hacker News<br/><br/>GLiNER team releases GLiGuard, an open-source small language model for LLM safety moderation 16x faster than alternatives.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Report of Claude Code behavior change regarding API key billing and Anthropic&apos;s classification of it as intentional functionality.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Reimagining the mouse pointer for the AI era</title>
@@ -77,7 +37,15 @@
       <guid isPermaLink="true">https://deepmind.google/blog/ai-pointer/</guid>
       <pubDate>Tue, 12 May 2026 17:40:13 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 80/100<br/><b>Source:</b> Hacker News<br/><br/>DeepMind research on reimagining computer pointer interaction paradigms for AI-era interaction models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 80/100<br/><b>Source:</b> Hacker News<br/><br/>DeepMind research exploring pointer interface redesign for AI-era interaction paradigms.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>TabPFN-3 just released: a pre-trained tabular foundation model for up to 1M rows [R][N]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1tb3fh5/tabpfn3_just_released_a_pretrained_tabular/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1tb3fh5/tabpfn3_just_released_a_pretrained_tabular/</guid>
+      <pubDate>Tue, 12 May 2026 14:33:12 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/MachineLearning<br/><br/>TabPFN-3 pre-trained foundation model for tabular data released, scaling to 1M rows.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Needle: We Distilled Gemini Tool Calling Into a 26M Model</title>
@@ -85,15 +53,23 @@
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tb9b0r/needle_we_distilled_gemini_tool_calling_into_a/</guid>
       <pubDate>Tue, 12 May 2026 17:56:09 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 78/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Needle model distillation project achieving Gemini tool-calling in 26M parameters (cross-post from HN).<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 78/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Needle project distills Gemini tool-calling into 26M parameter model (duplicate of index 0 from different source).<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>AutoScout24 scales engineering with AI-powered workflows</title>
-      <link>https://openai.com/index/autoscout24</link>
-      <guid isPermaLink="true">https://openai.com/index/autoscout24</guid>
+      <title>What Parameter Golf taught us about AI-assisted research</title>
+      <link>https://openai.com/index/what-parameter-golf-taught-us</link>
+      <guid isPermaLink="true">https://openai.com/index/what-parameter-golf-taught-us</guid>
       <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI research insights on parameter optimization methodology for AI development.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Launch HN: Voker (YC S24) – Analytics for AI Agents</title>
+      <link>https://voker.ai</link>
+      <guid isPermaLink="true">https://voker.ai</guid>
+      <pubDate>Tue, 12 May 2026 15:45:20 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Case study of AutoScout24 scaling engineering operations using AI-powered workflow automation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Voker (YC S24) launches analytics platform for monitoring and improving AI agent performance.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Local LLM autocomplete + agentic coding on a single 16GB GPU + 64GB RAM</title>
@@ -101,7 +77,23 @@
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tb3zxp/local_llm_autocomplete_agentic_coding_on_a_single/</guid>
       <pubDate>Tue, 12 May 2026 14:53:30 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Technical demonstration of running local LLM autocomplete and agentic coding within constrained hardware resources (16GB GPU, 64GB RAM).<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Community member demonstrates running local LLM autocomplete and agentic coding on consumer hardware constraints.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Agentic harness for theoretical physics research</title>
+      <link>https://i.redd.it/kfsrb0yppq0h1.jpeg</link>
+      <guid isPermaLink="true">https://i.redd.it/kfsrb0yppq0h1.jpeg</guid>
+      <pubDate>Tue, 12 May 2026 17:23:51 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Agentic system applied to theoretical physics research workflows.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>OpenAI Campus Network: Student club interest form</title>
+      <link>https://openai.com/index/openai-campus-network-student-club-interest-form</link>
+      <guid isPermaLink="true">https://openai.com/index/openai-campus-network-student-club-interest-form</guid>
+      <pubDate>Mon, 11 May 2026 10:00:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 75/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>OpenAI launches DeployCo to help businesses build around intelligence</title>
@@ -112,12 +104,20 @@
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 75/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI launches DeployCo, a new enterprise deployment company built to help organizations bring frontier AI into production and turn it into measurable business impact.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>I got a real transformer language model running locally on a stock Game Boy Color!</title>
-      <link>https://i.redd.it/1hl9id7ghs0h1.jpeg</link>
-      <guid isPermaLink="true">https://i.redd.it/1hl9id7ghs0h1.jpeg</guid>
-      <pubDate>Tue, 12 May 2026 23:15:42 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Technical achievement of running a transformer language model on Game Boy Color hardware.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Company behind GLiNER model released open source model for running LLM guardrail</title>
+      <link>https://pioneer.ai/blog/gliguard-16x-faster-safety-moderation-with-a-small-language-model</link>
+      <guid isPermaLink="true">https://pioneer.ai/blog/gliguard-16x-faster-safety-moderation-with-a-small-language-model</guid>
+      <pubDate>Tue, 12 May 2026 18:45:25 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 74/100<br/><b>Source:</b> Hacker News<br/><br/>GLiNER team releases GLiGuard, an open-source small language model for 16x faster safety moderation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Claude Code just shipped a &quot;run until done&quot; mode. Upgrade to v2.1.139 for /goal.</title>
+      <link>https://i.redd.it/owl20behon0h1.png</link>
+      <guid isPermaLink="true">https://i.redd.it/owl20behon0h1.png</guid>
+      <pubDate>Tue, 12 May 2026 07:08:19 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Claude Code shipped &apos;run until done&apos; mode with /goal command in version update.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>MagicQuant (v2.0) - Hybrid Mixed GGUF Models + Unsloth Dynamic Learned Quant Configurations + Benchmark table with collapsed winners and more</title>
@@ -125,7 +125,15 @@
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tb3sja/magicquant_v20_hybrid_mixed_gguf_models_unsloth/</guid>
       <pubDate>Tue, 12 May 2026 14:46:20 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>MagicQuant v2.0 release introducing hybrid mixed GGUF quantization and dynamic learned configurations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>MagicQuant v2.0 released with hybrid mixed GGUF models and dynamic quantization configurations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Unitree GD01: China&apos;s $537k rideable transformer robot is now in production</title>
+      <link>https://gagadget.com/en/709729-unitree-gd01-chinas-537k-rideable-transformer-robot-is-now-in-production/</link>
+      <guid isPermaLink="true">https://gagadget.com/en/709729-unitree-gd01-chinas-537k-rideable-transformer-robot-is-now-in-production/</guid>
+      <pubDate>Tue, 12 May 2026 09:49:26 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>Unitree GD01 rideable transformer robot enters production; hardware application with AI components.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Arcadia, CA, Mayor Federally Charged with Acting as Illegal Agent of PRC, Pleads</title>
@@ -158,14 +166,6 @@
       <pubDate>Tue, 12 May 2026 08:38:11 +0000</pubDate>
       <category>Research &amp; Papers</category>
       <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Drastically improve prompt processing speed for --n-cpu-moe partially offloaded models</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tany5t/drastically_improve_prompt_processing_speed_for/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tany5t/drastically_improve_prompt_processing_speed_for/</guid>
-      <pubDate>Tue, 12 May 2026 02:12:28 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
