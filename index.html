@@ -246,7 +246,7 @@
   <div class="header-inner">
     <div class="logo">AI Digest<span class="logo-dot">.</span></div>
     <div class="header-meta">
-      <span class="header-date" id="header-date" data-utc="2026-05-13T00:44:00Z">Wednesday, May 13, 2026 — 00:44 UTC</span>
+      <span class="header-date" id="header-date" data-utc="2026-05-13T01:39:09Z">Wednesday, May 13, 2026 — 01:39 UTC</span>
       <script>
         (function() {
           var el = document.getElementById('header-date');
@@ -259,7 +259,7 @@
       <span class="header-updated" id="header-updated">Updated just now</span>
       <script>
         (function() {
-          var builtAt = new Date("2026-05-13T00:44:00Z");
+          var builtAt = new Date("2026-05-13T01:39:09Z");
           function updateAge() {
             var mins = Math.floor((Date.now() - builtAt.getTime()) / 60000);
             var el = document.getElementById('header-updated');
@@ -282,7 +282,7 @@
 
 <main>
   <div class="tldr-box">
-    <p class="tldr-text">Researchers have successfully distilled Google&#x27;s Gemini tool-calling capabilities into a 26-million parameter model, demonstrating that complex AI functionalities can be compressed into smaller, more efficient models. Google has integrated agentic AI features and new widget capabilities into Android, while Anthropic clarified that Claude Code will charge API keys directly when .env files contain API credentials, a policy the company describes as intentional functionality.</p>
+    <p class="tldr-text">Researchers have successfully distilled Google&#x27;s Gemini tool-calling capabilities into a 26-million parameter model, and TabPFN-3, a new tabular foundation model capable of handling datasets up to 1 million rows, has been released. Additionally, multiple developer tools for improving AI agent reliability and monitoring—including Statewright for state machine visualization and Voker for agent analytics—have emerged alongside an open-source LLM guardrail model.</p>
   </div>
 
   
@@ -291,25 +291,37 @@
       <div class="cards">
       <div class="card">
         <div class="card-header">
-          <a class="card-title" href="https://techcrunch.com/2026/05/12/google-brings-agentic-ai-and-vibe-coded-widgets-to-android/" target="_blank" rel="noopener noreferrer">Google brings agentic AI and vibe-coded widgets to Android</a>
+          <a class="card-title" href="https://voker.ai" target="_blank" rel="noopener noreferrer">Launch HN: Voker (YC S24) – Analytics for AI Agents</a>
         </div>
-        <p class="item-summary">Google announces agentic AI capabilities and new widget features for Android.</p>
+        <p class="item-summary">Voker (YC S24) launches analytics platform for monitoring and optimizing AI agent performance.</p>
         <div class="card-meta">
-          <a class="source" href="https://techcrunch.com/2026/05/12/google-brings-agentic-ai-and-vibe-coded-widgets-to-android/" target="_blank" rel="noopener noreferrer">TechCrunch AI</a>
-          
-          <span class="age">7h ago</span>
-          <span class="score-bar" title="Quality score: 88/100"><span class="bar-filled">█████████</span><span class="bar-empty">░</span> <span class="score-num">88</span></span>
+          <a class="source" href="https://news.ycombinator.com/item?id=48109962" target="_blank" rel="noopener noreferrer">Hacker News</a>
+          <span class="upvotes">▲ 37  💬 19</span>
+          <span class="age">9h ago</span>
+          <span class="score-bar" title="Quality score: 82/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">82</span></span>
         </div>
       </div>
       <div class="card">
         <div class="card-header">
           <a class="card-title" href="https://github.com/statewright/statewright" target="_blank" rel="noopener noreferrer">Show HN: Statewright – Visual state machines that make AI agents reliable</a>
         </div>
-        <p class="item-summary">Statewright introduces visual state machines designed to improve reliability of AI agents.</p>
+        <p class="item-summary">Statewright introduces visual state machine framework designed to improve reliability and determinism of AI agent behavior.</p>
         <div class="card-meta">
           <a class="source" href="https://news.ycombinator.com/item?id=48108778" target="_blank" rel="noopener noreferrer">Hacker News</a>
-          <span class="upvotes">▲ 67  💬 24</span>
-          <span class="age">10h ago</span>
+          <span class="upvotes">▲ 72  💬 24</span>
+          <span class="age">11h ago</span>
+          <span class="score-bar" title="Quality score: 82/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">82</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://i.redd.it/kfsrb0yppq0h1.jpeg" target="_blank" rel="noopener noreferrer">Agentic harness for theoretical physics research</a>
+        </div>
+        <p class="item-summary">Agentic framework developed for automating theoretical physics research workflows using AI agents.</p>
+        <div class="card-meta">
+          <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1tb8d57/agentic_harness_for_theoretical_physics_research/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
+          
+          <span class="age">8h ago</span>
           <span class="score-bar" title="Quality score: 82/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">82</span></span>
         </div>
       </div>
@@ -317,47 +329,35 @@
         <div class="card-header">
           <a class="card-title" href="https://www.reddit.com/r/ClaudeAI/comments/1tbaq2d/psa_if_your_project_has_an_anthropic_api_key_in/" target="_blank" rel="noopener noreferrer">PSA: If your project has an ANTHROPIC_API_KEY in any .env file, Claude Code will silently bill your API account instead of your Max plan — Anthropic calls it &quot;intentional functionality&quot;</a>
         </div>
-        <p class="item-summary">PSA about Claude Code&#x27;s billing behavior when API keys are present in project files.</p>
+        <p class="item-summary">PSA documenting unintended behavior where Claude Code silently uses API credentials instead of Max plan billing.</p>
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/ClaudeAI/comments/1tbaq2d/psa_if_your_project_has_an_anthropic_api_key_in/" target="_blank" rel="noopener noreferrer">r/ClaudeAI</a>
           
-          <span class="age">5h ago</span>
+          <span class="age">6h ago</span>
           <span class="score-bar" title="Quality score: 82/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">82</span></span>
         </div>
       </div>
       <div class="card">
         <div class="card-header">
-          <a class="card-title" href="https://voker.ai" target="_blank" rel="noopener noreferrer">Launch HN: Voker (YC S24) – Analytics for AI Agents</a>
+          <a class="card-title" href="https://openai.com/index/autoscout24" target="_blank" rel="noopener noreferrer">AutoScout24 scales engineering with AI-powered workflows</a>
         </div>
-        <p class="item-summary">Voker, a Y Combinator-backed startup, launches analytics platform for AI agents.</p>
+        <p class="item-summary">Case study of AutoScout24 scaling engineering operations using AI-powered workflow automation.</p>
         <div class="card-meta">
-          <a class="source" href="https://news.ycombinator.com/item?id=48109962" target="_blank" rel="noopener noreferrer">Hacker News</a>
-          <span class="upvotes">▲ 37  💬 19</span>
-          <span class="age">8h ago</span>
-          <span class="score-bar" title="Quality score: 76/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">76</span></span>
+          <a class="source" href="https://openai.com/index/autoscout24" target="_blank" rel="noopener noreferrer">OpenAI Blog</a>
+          
+          <span class="age">1d ago</span>
+          <span class="score-bar" title="Quality score: 78/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">78</span></span>
         </div>
       </div>
       <div class="card">
         <div class="card-header">
           <a class="card-title" href="https://www.reddit.com/r/LocalLLaMA/comments/1tb3zxp/local_llm_autocomplete_agentic_coding_on_a_single/" target="_blank" rel="noopener noreferrer">Local LLM autocomplete + agentic coding on a single 16GB GPU + 64GB RAM</a>
         </div>
-        <p class="item-summary">Community exploration of running local LLM autocomplete and agentic coding on modest hardware constraints.</p>
+        <p class="item-summary">Technical demonstration of running local LLM autocomplete and agentic coding within constrained hardware resources (16GB GPU, 64GB RAM).</p>
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1tb3zxp/local_llm_autocomplete_agentic_coding_on_a_single/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
           
-          <span class="age">9h ago</span>
-          <span class="score-bar" title="Quality score: 76/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">76</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://i.redd.it/kfsrb0yppq0h1.jpeg" target="_blank" rel="noopener noreferrer">Agentic harness for theoretical physics research</a>
-        </div>
-        <p class="item-summary">Development of an agentic system for theoretical physics research applications.</p>
-        <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1tb8d57/agentic_harness_for_theoretical_physics_research/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
-          
-          <span class="age">7h ago</span>
+          <span class="age">10h ago</span>
           <span class="score-bar" title="Quality score: 76/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">76</span></span>
         </div>
       </div>
@@ -370,47 +370,35 @@
         <div class="card-header">
           <a class="card-title" href="https://github.com/cactus-compute/needle" target="_blank" rel="noopener noreferrer">Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model</a>
         </div>
-        <p class="item-summary">Researchers distilled Gemini&#x27;s tool-calling capabilities into a 26M parameter model, demonstrating efficient capability transfer.</p>
+        <p class="item-summary">Needle project successfully distilled Gemini&#x27;s tool-calling capabilities into a 26M parameter model, enabling efficient function calling on smaller models.</p>
         <div class="card-meta">
           <a class="source" href="https://news.ycombinator.com/item?id=48111896" target="_blank" rel="noopener noreferrer">Hacker News</a>
-          <span class="upvotes">▲ 260  💬 94</span>
-          <span class="age">6h ago</span>
+          <span class="upvotes">▲ 272  💬 98</span>
+          <span class="age">7h ago</span>
           <span class="score-bar" title="Quality score: 88/100"><span class="bar-filled">█████████</span><span class="bar-empty">░</span> <span class="score-num">88</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://pioneer.ai/blog/gliguard-16x-faster-safety-moderation-with-a-small-language-model" target="_blank" rel="noopener noreferrer">Company behind GLiNER model released open source model for running LLM guardrail</a>
-        </div>
-        <p class="item-summary">Open-source GLiNER model team released GLiGuard, a smaller LLM guardrail model with 16x speedup.</p>
-        <div class="card-meta">
-          <a class="source" href="https://news.ycombinator.com/item?id=48112544" target="_blank" rel="noopener noreferrer">Hacker News</a>
-          <span class="upvotes">▲ 35</span>
-          <span class="age">5h ago</span>
-          <span class="score-bar" title="Quality score: 80/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">80</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://claude.com/blog/claude-platform-on-aws" target="_blank" rel="noopener noreferrer">Claude Platform on AWS</a>
-        </div>
-        <p class="item-summary">Claude API now available through AWS, expanding enterprise deployment options.</p>
-        <div class="card-meta">
-          <a class="source" href="https://news.ycombinator.com/item?id=48103042" target="_blank" rel="noopener noreferrer">Hacker News</a>
-          <span class="upvotes">▲ 218  💬 89</span>
-          <span class="age">23h ago</span>
-          <span class="score-bar" title="Quality score: 80/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">80</span></span>
         </div>
       </div>
       <div class="card">
         <div class="card-header">
           <a class="card-title" href="https://www.reddit.com/r/MachineLearning/comments/1tb3fh5/tabpfn3_just_released_a_pretrained_tabular/" target="_blank" rel="noopener noreferrer">TabPFN-3 just released: a pre-trained tabular foundation model for up to 1M rows [R][N]</a>
         </div>
-        <p class="item-summary">TabPFN-3, a pre-trained tabular foundation model, released supporting datasets up to 1M rows.</p>
+        <p class="item-summary">TabPFN-3 foundation model released for tabular data processing, supporting datasets up to 1M rows.</p>
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/MachineLearning/comments/1tb3fh5/tabpfn3_just_released_a_pretrained_tabular/" target="_blank" rel="noopener noreferrer">r/MachineLearning</a>
           
-          <span class="age">10h ago</span>
+          <span class="age">11h ago</span>
+          <span class="score-bar" title="Quality score: 86/100"><span class="bar-filled">█████████</span><span class="bar-empty">░</span> <span class="score-num">86</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://pioneer.ai/blog/gliguard-16x-faster-safety-moderation-with-a-small-language-model" target="_blank" rel="noopener noreferrer">Company behind GLiNER model released open source model for running LLM guardrail</a>
+        </div>
+        <p class="item-summary">GLiNER team releases GLiGuard, an open-source small language model for LLM safety moderation 16x faster than alternatives.</p>
+        <div class="card-meta">
+          <a class="source" href="https://news.ycombinator.com/item?id=48112544" target="_blank" rel="noopener noreferrer">Hacker News</a>
+          <span class="upvotes">▲ 35</span>
+          <span class="age">6h ago</span>
           <span class="score-bar" title="Quality score: 80/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">80</span></span>
         </div>
       </div>
@@ -418,23 +406,23 @@
         <div class="card-header">
           <a class="card-title" href="https://www.reddit.com/r/LocalLLaMA/comments/1tb9b0r/needle_we_distilled_gemini_tool_calling_into_a/" target="_blank" rel="noopener noreferrer">Needle: We Distilled Gemini Tool Calling Into a 26M Model</a>
         </div>
-        <p class="item-summary">Needle project distills Gemini tool-calling into a 26M parameter model (duplicate of index 0).</p>
+        <p class="item-summary">Needle model distillation project achieving Gemini tool-calling in 26M parameters (cross-post from HN).</p>
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1tb9b0r/needle_we_distilled_gemini_tool_calling_into_a/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
           
-          <span class="age">6h ago</span>
+          <span class="age">7h ago</span>
           <span class="score-bar" title="Quality score: 78/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">78</span></span>
         </div>
       </div>
       <div class="card">
         <div class="card-header">
-          <a class="card-title" href="https://www.reddit.com/r/OpenAI/comments/1tam2bb/openaigpt55pro_api_in3000_out18000/" target="_blank" rel="noopener noreferrer">openai/gpt-5.5-pro API In=$30.00 Out=$180.00</a>
+          <a class="card-title" href="https://openai.com/index/openai-launches-the-deployment-company" target="_blank" rel="noopener noreferrer">OpenAI launches DeployCo to help businesses build around intelligence</a>
         </div>
-        
+        <p class="item-summary">OpenAI launches DeployCo, a new enterprise deployment company built to help organizations bring frontier AI into production and turn it into measurable business impact.</p>
         <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/OpenAI/comments/1tam2bb/openaigpt55pro_api_in3000_out18000/" target="_blank" rel="noopener noreferrer">r/openai</a>
+          <a class="source" href="https://openai.com/index/openai-launches-the-deployment-company" target="_blank" rel="noopener noreferrer">OpenAI Blog</a>
           
-          <span class="age">23h ago</span>
+          <span class="age">1d ago</span>
           <span class="score-bar" title="Quality score: 75/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">75</span></span>
         </div>
       </div>
@@ -447,24 +435,36 @@
         <div class="card-header">
           <a class="card-title" href="https://openai.com/index/what-parameter-golf-taught-us" target="_blank" rel="noopener noreferrer">What Parameter Golf taught us about AI-assisted research</a>
         </div>
-        <p class="item-summary">OpenAI research article on lessons learned from parameter optimization experiments.</p>
+        <p class="item-summary">OpenAI research findings on parameter optimization (&#x27;Parameter Golf&#x27;) methodology for AI-assisted research.</p>
         <div class="card-meta">
           <a class="source" href="https://openai.com/index/what-parameter-golf-taught-us" target="_blank" rel="noopener noreferrer">OpenAI Blog</a>
           
           <span class="age">1d ago</span>
-          <span class="score-bar" title="Quality score: 78/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">78</span></span>
+          <span class="score-bar" title="Quality score: 84/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">84</span></span>
         </div>
       </div>
       <div class="card">
         <div class="card-header">
           <a class="card-title" href="https://www.reddit.com/r/LocalLLaMA/comments/1tb3sja/magicquant_v20_hybrid_mixed_gguf_models_unsloth/" target="_blank" rel="noopener noreferrer">MagicQuant (v2.0) - Hybrid Mixed GGUF Models + Unsloth Dynamic Learned Quant Configurations + Benchmark table with collapsed winners and more</a>
         </div>
-        <p class="item-summary">MagicQuant v2.0 introduces hybrid mixed GGUF models and dynamic quantization configurations.</p>
+        <p class="item-summary">MagicQuant v2.0 release introducing hybrid mixed GGUF quantization and dynamic learned configurations.</p>
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1tb3sja/magicquant_v20_hybrid_mixed_gguf_models_unsloth/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
           
-          <span class="age">9h ago</span>
+          <span class="age">10h ago</span>
           <span class="score-bar" title="Quality score: 68/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">68</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://www.reddit.com/r/MachineLearning/comments/1tavi6x/followup_on_the_translategemma_subtitle_benchmark/" target="_blank" rel="noopener noreferrer">Follow-up on the TranslateGemma subtitle benchmark: human review of segments rated &quot;clean&quot; by MetricX-24 and COMETKiwi [D]</a>
+        </div>
+        
+        <div class="card-meta">
+          <a class="source" href="https://www.reddit.com/r/MachineLearning/comments/1tavi6x/followup_on_the_translategemma_subtitle_benchmark/" target="_blank" rel="noopener noreferrer">r/MachineLearning</a>
+          
+          <span class="age">17h ago</span>
+          <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
         </div>
       </div>
       </div>
@@ -476,36 +476,24 @@
         <div class="card-header">
           <a class="card-title" href="https://deepmind.google/blog/ai-pointer/" target="_blank" rel="noopener noreferrer">Reimagining the mouse pointer for the AI era</a>
         </div>
-        <p class="item-summary">DeepMind research on reimagining pointer interaction for AI-era computing.</p>
+        <p class="item-summary">DeepMind research on reimagining computer pointer interaction paradigms for AI-era interaction models.</p>
         <div class="card-meta">
           <a class="source" href="https://news.ycombinator.com/item?id=48111581" target="_blank" rel="noopener noreferrer">Hacker News</a>
-          <span class="upvotes">▲ 124  💬 107</span>
+          <span class="upvotes">▲ 134  💬 114</span>
           <span class="age">7h ago</span>
           <span class="score-bar" title="Quality score: 80/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">80</span></span>
         </div>
       </div>
       <div class="card">
         <div class="card-header">
-          <a class="card-title" href="https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai" target="_blank" rel="noopener noreferrer">How enterprises are scaling AI</a>
+          <a class="card-title" href="https://i.redd.it/1hl9id7ghs0h1.jpeg" target="_blank" rel="noopener noreferrer">I got a real transformer language model running locally on a stock Game Boy Color!</a>
         </div>
-        <p class="item-summary">How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.</p>
+        <p class="item-summary">Technical achievement of running a transformer language model on Game Boy Color hardware.</p>
         <div class="card-meta">
-          <a class="source" href="https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai" target="_blank" rel="noopener noreferrer">OpenAI Blog</a>
+          <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1tbi2n3/i_got_a_real_transformer_language_model_running/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
           
-          <span class="age">1d ago</span>
-          <span class="score-bar" title="Quality score: 75/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">75</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://openai.com/index/openai-campus-network-student-club-interest-form" target="_blank" rel="noopener noreferrer">OpenAI Campus Network: Student club interest form</a>
-        </div>
-        <p class="item-summary">Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.</p>
-        <div class="card-meta">
-          <a class="source" href="https://openai.com/index/openai-campus-network-student-club-interest-form" target="_blank" rel="noopener noreferrer">OpenAI Blog</a>
-          
-          <span class="age">1d ago</span>
-          <span class="score-bar" title="Quality score: 75/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">75</span></span>
+          <span class="age">2h ago</span>
+          <span class="score-bar" title="Quality score: 68/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">68</span></span>
         </div>
       </div>
       <div class="card">
@@ -516,7 +504,7 @@
         <div class="card-meta">
           <a class="source" href="https://news.ycombinator.com/item?id=48104043" target="_blank" rel="noopener noreferrer">Hacker News</a>
           <span class="upvotes">▲ 35  💬 18</span>
-          <span class="age">20h ago</span>
+          <span class="age">21h ago</span>
           <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
         </div>
       </div>
@@ -528,7 +516,7 @@
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/MachineLearning/comments/1tavn2e/interaction_models_from_thinking_machines_lab_p/" target="_blank" rel="noopener noreferrer">r/MachineLearning</a>
           
-          <span class="age">15h ago</span>
+          <span class="age">16h ago</span>
           <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
         </div>
       </div>
@@ -540,7 +528,19 @@
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/MachineLearning/comments/1tb2na1/i_found_a_hidden_ratio_in_transformers_that/" target="_blank" rel="noopener noreferrer">r/MachineLearning</a>
           
-          <span class="age">10h ago</span>
+          <span class="age">11h ago</span>
+          <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://www.reddit.com/r/LocalLLaMA/comments/1tany5t/drastically_improve_prompt_processing_speed_for/" target="_blank" rel="noopener noreferrer">Drastically improve prompt processing speed for --n-cpu-moe partially offloaded models</a>
+        </div>
+        
+        <div class="card-meta">
+          <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1tany5t/drastically_improve_prompt_processing_speed_for/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
+          
+          <span class="age">23h ago</span>
           <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
         </div>
       </div>
