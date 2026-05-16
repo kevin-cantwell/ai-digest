@@ -5,16 +5,8 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 May 2026 09:33:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 10:29:19 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>OpenAI says Codex is coming to your phone</title>
-      <link>https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/</guid>
-      <pubDate>Thu, 14 May 2026 20:58:55 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 86/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI announces Codex mobile application coming to phones.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
     <item>
       <title>Show HN: Sx – an open-source package manager for AI skills, MCPs, and commands</title>
       <link>https://github.com/sleuth-io/sx</link>
@@ -24,12 +16,20 @@
       <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Open-source package manager for AI skills, MCPs, and commands released on GitHub.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
+      <title>OpenAI says Codex is coming to your phone</title>
+      <link>https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/</guid>
+      <pubDate>Thu, 14 May 2026 20:58:55 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 80/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI announces Codex mobile application coming to phones.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
       <title>I built a self-hosted open-source MCP server that gives any local LLM real financial data — SEC filings, 13F, insider &amp; congressional trades, short data, FRED</title>
       <link>https://v.redd.it/3es19kwb2c1h1</link>
       <guid isPermaLink="true">https://v.redd.it/3es19kwb2c1h1</guid>
       <pubDate>Fri, 15 May 2026 17:08:43 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Developer releases open-source MCP server providing financial data to local LLMs.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Open-source MCP server providing financial data integration for local LLMs.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Evaluated a RAG chatbot and the most expensive model was the worst performer. Notes on what actually moved the needle.</title>
@@ -37,7 +37,7 @@
       <guid isPermaLink="true">https://i.redd.it/oqftq95ama1h1.png</guid>
       <pubDate>Fri, 15 May 2026 12:24:59 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>User evaluation of RAG chatbot performance across different models with analysis of cost-effectiveness.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>User evaluation of RAG chatbot performance across different models with performance insights.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Orthrus: Memory-Efficient Parallel Token Generation via Dual-View Diffusion [R]</title>
@@ -45,7 +45,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1te2x04/orthrus_memoryefficient_parallel_token_generation/</guid>
       <pubDate>Fri, 15 May 2026 17:21:21 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research paper on Orthrus, a memory-efficient parallel token generation method.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research paper on Orthrus, memory-efficient parallel token generation via diffusion.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Frontier AI has broken the open CTF format</title>
@@ -53,7 +53,7 @@
       <guid isPermaLink="true">https://kabir.au/blog/the-ctf-scene-is-dead</guid>
       <pubDate>Sat, 16 May 2026 07:01:55 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Analysis of how frontier AI has disrupted competitive programming CTF competitions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Analysis of how frontier AI systems have disrupted competitive capture-the-flag competitions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>I built a free Google search MCP that actually works(searching, fetching, with PDF)</title>
@@ -61,7 +61,15 @@
       <guid isPermaLink="true">https://i.redd.it/ws36s8t5xa1h1.gif</guid>
       <pubDate>Fri, 15 May 2026 13:18:10 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Developer releases free Google search MCP with PDF fetching capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Open-source Google search MCP tool with search and PDF fetching capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Databricks brings GPT-5.5 to enterprise agent workflows</title>
+      <link>https://openai.com/index/databricks</link>
+      <guid isPermaLink="true">https://openai.com/index/databricks</guid>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Databricks integrates GPT-5.5 into enterprise agent workflows.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>[R] Which LLMs are actually best for bleeding-edge Linux/ML debugging workflows in 2026? [R]</title>
@@ -104,14 +112,6 @@
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Chatbotapp AI and the Truth About Using Multiple AI Models</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tds7n2/chatbotapp_ai_and_the_truth_about_using_multiple/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tds7n2/chatbotapp_ai_and_the_truth_about_using_multiple/</guid>
-      <pubDate>Fri, 15 May 2026 10:26:45 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
       <title>The Frontier-Only Narrative Is a Financing Story, Not an Architecture Story</title>
       <link>https://gsstk.gem98.com/en-US/blog/a0110-frontier-only-narrative-financing-not-architecture</link>
       <guid isPermaLink="true">https://gsstk.gem98.com/en-US/blog/a0110-frontier-only-narrative-financing-not-architecture</guid>
@@ -120,20 +120,20 @@
       <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
+      <title>Osaurus brings both local and cloud AI models to your Mac</title>
+      <link>https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/</guid>
+      <pubDate>Fri, 15 May 2026 12:19:48 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Osaurus￼ combines local and cloud AI models in a Mac app that keeps users’ memory, files, and tools on their own hardware.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
       <title>A working multi-agent architecture in large enterprises</title>
       <link>https://www.reddit.com/r/artificial/comments/1tedx7o/a_working_multiagent_architecture_in_large/</link>
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tedx7o/a_working_multiagent_architecture_in_large/</guid>
       <pubDate>Sat, 16 May 2026 00:18:23 +0000</pubDate>
       <category>Research &amp; Papers</category>
       <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/artificial<br/><br/>Discussion of multi-agent architecture implementation in large enterprises.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard</title>
-      <link>https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/</guid>
-      <pubDate>Thu, 14 May 2026 19:05:01 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Third-party tool for visualizing Claude Code usage statistics on desktop.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Dynamically allocating compute budget to hard set of problems and evolving the sections with Qwen-35B-A3B gets you near GPT-5.4-xHigh on HLE</title>
