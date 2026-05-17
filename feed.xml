@@ -5,55 +5,15 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 May 2026 14:32:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 15:24:46 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>OpenAI and Malta partner to bring ChatGPT Plus to all citizens</title>
-      <link>https://openai.com/index/malta-chatgpt-plus-partnership</link>
-      <guid isPermaLink="true">https://openai.com/index/malta-chatgpt-plus-partnership</guid>
-      <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces partnership with Malta to provide ChatGPT Plus to citizens.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
     <item>
       <title>85 GPU-hours comparing 5 abliteration methods on Qwen3.6-27B: benchmarks, safety, weight forensics - Abliterlitics</title>
       <link>https://www.reddit.com/r/LocalLLaMA/comments/1tfmocw/85_gpuhours_comparing_5_abliteration_methods_on/</link>
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tfmocw/85_gpuhours_comparing_5_abliteration_methods_on/</guid>
       <pubDate>Sun, 17 May 2026 11:18:01 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Comprehensive benchmark comparing five abliteration methods on Qwen 27B with detailed GPU-hour evaluation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>DeepSeek-V4-Flash means LLM steering is interesting again</title>
-      <link>https://www.seangoedecke.com/steering-vectors/</link>
-      <guid isPermaLink="true">https://www.seangoedecke.com/steering-vectors/</guid>
-      <pubDate>Sat, 16 May 2026 14:58:16 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> Hacker News<br/><br/>Technical article on LLM steering vectors using DeepSeek-V4-Flash as case study.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Your AI agent is one poisoned webpage away from doing something catastrophic</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tf7841/your_ai_agent_is_one_poisoned_webpage_away_from/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tf7841/your_ai_agent_is_one_poisoned_webpage_away_from/</guid>
-      <pubDate>Sat, 16 May 2026 22:15:51 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/artificial<br/><br/>Analysis of security vulnerabilities in AI agents from poisoned web content.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention [P]</title>
-      <link>https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures</link>
-      <guid isPermaLink="true">https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures</guid>
-      <pubDate>Sun, 17 May 2026 13:41:01 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Technical overview of recent LLM architecture advances including KV sharing and attention mechanisms.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Strix Halo Llama.cpp MTP Benchmarks: 27B Gets Much Faster, 35B Is Mixed</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1teypb8/strix_halo_llamacpp_mtp_benchmarks_27b_gets_much/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1teypb8/strix_halo_llamacpp_mtp_benchmarks_27b_gets_much/</guid>
-      <pubDate>Sat, 16 May 2026 16:41:06 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 66/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Benchmark results for Strix Halo models with llama.cpp showing mixed performance gains.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Comprehensive benchmarking study comparing five abliteration methods on Qwen model with extensive GPU compute.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Deepseek V4&apos;s 1M context window: the breaking point</title>
@@ -61,39 +21,79 @@
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tfhl0q/deepseek_v4s_1m_context_window_the_breaking_point/</guid>
       <pubDate>Sun, 17 May 2026 06:35:44 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Analysis of performance characteristics of DeepSeek V4&apos;s 1M context window capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Analysis and benchmarking of DeepSeek V4&apos;s 1M context window capabilities and limitations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Anyone else running one of the pre-release branches of MTP support to maintain the higher speeds?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tf954z/anyone_else_running_one_of_the_prerelease/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tf954z/anyone_else_running_one_of_the_prerelease/</guid>
-      <pubDate>Sat, 16 May 2026 23:39:51 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>OpenAI and Malta partner to bring ChatGPT Plus to all citizens</title>
+      <link>https://openai.com/index/malta-chatgpt-plus-partnership</link>
+      <guid isPermaLink="true">https://openai.com/index/malta-chatgpt-plus-partnership</guid>
+      <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Official partnership announcement between OpenAI and Malta to provide ChatGPT Plus to citizens.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Using Local LLMs for research</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tfjwkt/using_local_llms_for_research/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tfjwkt/using_local_llms_for_research/</guid>
-      <pubDate>Sun, 17 May 2026 08:45:35 +0000</pubDate>
+      <title>Your AI agent is one poisoned webpage away from doing something catastrophic</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tf7841/your_ai_agent_is_one_poisoned_webpage_away_from/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tf7841/your_ai_agent_is_one_poisoned_webpage_away_from/</guid>
+      <pubDate>Sat, 16 May 2026 22:15:51 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/artificial<br/><br/>Discussion of security vulnerability where AI agents can be compromised via malicious web content.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Strix Halo Llama.cpp MTP Benchmarks: 27B Gets Much Faster, 35B Is Mixed</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1teypb8/strix_halo_llamacpp_mtp_benchmarks_27b_gets_much/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1teypb8/strix_halo_llamacpp_mtp_benchmarks_27b_gets_much/</guid>
+      <pubDate>Sat, 16 May 2026 16:41:06 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 72/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Performance benchmarks for Strix Halo models with MTP support in llama.cpp.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>THE UNDERPRIVILEGED AI FOUNDATION Because every little model deserves a chance</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tfk4ry/the_underprivileged_ai_foundation_because_every/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tfk4ry/the_underprivileged_ai_foundation_because_every/</guid>
-      <pubDate>Sun, 17 May 2026 08:58:49 +0000</pubDate>
+      <title>Zerostack – A Unix-inspired coding agent written in pure Rust</title>
+      <link>https://crates.io/crates/zerostack/1.0.0</link>
+      <guid isPermaLink="true">https://crates.io/crates/zerostack/1.0.0</guid>
+      <pubDate>Sat, 16 May 2026 22:23:50 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Release of Zerostack, a Rust-based coding agent, with some technical merit but limited scope.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Creative writing has visibly regressed in newer models</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1teyhi2/creative_writing_has_visibly_regressed_in_newer/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1teyhi2/creative_writing_has_visibly_regressed_in_newer/</guid>
-      <pubDate>Sat, 16 May 2026 16:32:51 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>AI Agents Need Rollback More Than They Need Autonomy</title>
+      <link>https://v.redd.it/l3f1ybpojn1h1</link>
+      <guid isPermaLink="true">https://v.redd.it/l3f1ybpojn1h1</guid>
+      <pubDate>Sun, 17 May 2026 09:58:10 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Opinion piece on AI agent safety architecture favoring rollback mechanisms over autonomy.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention [P]</title>
+      <link>https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures</link>
+      <guid isPermaLink="true">https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures</guid>
+      <pubDate>Sun, 17 May 2026 13:41:01 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Summary of recent LLM architectural advances including KV sharing and compressed attention techniques.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Made and Published a Paper Comparing Analysis of CNN and Vision Transformer Architectures for Brain Tumor Detection [R]</title>
+      <link>https://i.redd.it/fgq8e0swsi1h1.png</link>
+      <guid isPermaLink="true">https://i.redd.it/fgq8e0swsi1h1.png</guid>
+      <pubDate>Sat, 16 May 2026 15:47:14 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Academic paper on CNN and Vision Transformer comparison for medical imaging, standard research output.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Researchers left AIs alone in a virtual town for 15 days to see what would happen. Claude&apos;s agents built a democracy. Gemini&apos;s agents fell in love, burned the town down, then one voted to delete itself and its partner. Grok&apos;s agents created anarchy, then died.</title>
+      <link>https://v.redd.it/wewjomky2n1h1</link>
+      <guid isPermaLink="true">https://v.redd.it/wewjomky2n1h1</guid>
+      <pubDate>Sun, 17 May 2026 06:09:51 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 66/100<br/><b>Source:</b> r/openai<br/><br/>Sensationalized anecdotal report about AI agents in a virtual town simulation with unverified claims.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>I kept losing ideas to Notes apps and never researching them.</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1tfr5s3/i_kept_losing_ideas_to_notes_apps_and_never/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1tfr5s3/i_kept_losing_ideas_to_notes_apps_and_never/</guid>
+      <pubDate>Sun, 17 May 2026 14:31:21 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Would you reserve the hard cases in auto-review for heavy reasoning models?</title>
@@ -104,20 +104,12 @@
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>I built SeeFlow – architecture diagrams that actually run, wired to your live app</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1tfd92f/i_built_seeflow_architecture_diagrams_that/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/OpenAI/comments/1tfd92f/i_built_seeflow_architecture_diagrams_that/</guid>
-      <pubDate>Sun, 17 May 2026 02:53:50 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Research repository ArXiv will ban authors for a year if they let AI do all the work</title>
-      <link>https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/</guid>
-      <pubDate>Sat, 16 May 2026 18:54:28 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> TechCrunch AI<br/><br/>ArXiv is doing more to crack down on the careless use of large language models in scientific papers.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>I replicated Anthropic&apos;s Generator-Evaluator harness to build a website through 12 adversarial AI iterations - here&apos;s the result and what I learned</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1tf76wp/i_replicated_anthropics_generatorevaluator/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1tf76wp/i_replicated_anthropics_generatorevaluator/</guid>
+      <pubDate>Sat, 16 May 2026 22:14:25 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 64/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Personal project replicating Anthropic&apos;s evaluation methodology to build website iteratively.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Built a tool that stops AI agents from being hijacked by malicious content in webpages and emails</title>
@@ -125,7 +117,23 @@
       <guid isPermaLink="true">https://www.reddit.com/r/OpenAI/comments/1tf1oc1/built_a_tool_that_stops_ai_agents_from_being/</guid>
       <pubDate>Sat, 16 May 2026 18:32:07 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> r/openai<br/><br/>User-built tool to protect AI agents from malicious content hijacking.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> r/openai<br/><br/>Personal tool development project addressing AI agent security, lacks third-party validation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>How to buy cheap Claude tokens in China</title>
+      <link>https://www.chinatalk.media/p/how-to-buy-cheap-claude-tokens-in</link>
+      <guid isPermaLink="true">https://www.chinatalk.media/p/how-to-buy-cheap-claude-tokens-in</guid>
+      <pubDate>Sun, 17 May 2026 02:11:57 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>DeepSeek Exposed: Users Can Access Each Other&apos;s Conversations with a Special Input[D]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1tfmuov/deepseek_exposed_users_can_access_each_others/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1tfmuov/deepseek_exposed_users_can_access_each_others/</guid>
+      <pubDate>Sun, 17 May 2026 11:26:46 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Looking to migrate off of Ollama and LMStudio</title>
@@ -134,6 +142,14 @@
       <pubDate>Sun, 17 May 2026 04:24:55 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Claude Status Update : Elevated error rates on requests to multiple models on 2026-05-16T18:08:45.000Z</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1tf16cj/claude_status_update_elevated_error_rates_on/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1tf16cj/claude_status_update_elevated_error_rates_on/</guid>
+      <pubDate>Sat, 16 May 2026 18:13:09 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Service status report noting elevated error rates on Claude models, time-sensitive but routine.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>How to make an Explainer Video in under $1 with Claude Design</title>
@@ -148,22 +164,6 @@
       <link>https://www.reddit.com/r/ClaudeAI/comments/1tfer2c/how_can_i_prevent_claude_from_doing_this_hey_wait/</link>
       <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1tfer2c/how_can_i_prevent_claude_from_doing_this_hey_wait/</guid>
       <pubDate>Sun, 17 May 2026 04:08:02 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>18 months running Claude as the dev companion for my automated news site - Feedback needed</title>
-      <link>https://i.redd.it/ov13mv1c7p1h1.png</link>
-      <guid isPermaLink="true">https://i.redd.it/ov13mv1c7p1h1.png</guid>
-      <pubDate>Sun, 17 May 2026 13:34:14 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>My first attempt at using Claude to plan a trip.</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1tf7y39/my_first_attempt_at_using_claude_to_plan_a_trip/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1tf7y39/my_first_attempt_at_using_claude_to_plan_a_trip/</guid>
-      <pubDate>Sat, 16 May 2026 22:47:14 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
