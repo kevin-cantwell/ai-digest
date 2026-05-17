@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 May 2026 10:32:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 11:27:33 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>SANA-WM, a 2.6B open-source world model for 1-minute 720p video</title>
@@ -13,7 +13,7 @@
       <guid isPermaLink="true">https://nvlabs.github.io/Sana/WM/</guid>
       <pubDate>Sat, 16 May 2026 12:06:21 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>NVIDIA releases SANA-WM, an open-source 2.6B world model for video generation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>NVIDIA releases SANA-WM, a 2.6B parameter open-source world model for video generation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>OpenAI and Malta partner to bring ChatGPT Plus to all citizens</title>
@@ -21,7 +21,15 @@
       <guid isPermaLink="true">https://openai.com/index/malta-chatgpt-plus-partnership</guid>
       <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces partnership with Malta to provide ChatGPT Plus to all citizens.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces ChatGPT Plus partnership with Malta for citizen access.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Your AI agent is one poisoned webpage away from doing something catastrophic</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tf7841/your_ai_agent_is_one_poisoned_webpage_away_from/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tf7841/your_ai_agent_is_one_poisoned_webpage_away_from/</guid>
+      <pubDate>Sat, 16 May 2026 22:15:51 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/artificial<br/><br/>Analysis of security vulnerabilities in agentic AI systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>DeepSeek-V4-Flash means LLM steering is interesting again</title>
@@ -29,7 +37,7 @@
       <guid isPermaLink="true">https://www.seangoedecke.com/steering-vectors/</guid>
       <pubDate>Sat, 16 May 2026 14:58:16 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> Hacker News<br/><br/>Technical analysis of LLM steering vectors using DeepSeek-V4-Flash.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> Hacker News<br/><br/>Technical analysis of steering vector techniques applied to DeepSeek-V4-Flash.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Deepseek V4&apos;s 1M context window: the breaking point</title>
@@ -40,12 +48,20 @@
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Analysis of DeepSeek V4&apos;s 1M context window capabilities and limitations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Your AI agent is one poisoned webpage away from doing something catastrophic</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tf7841/your_ai_agent_is_one_poisoned_webpage_away_from/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tf7841/your_ai_agent_is_one_poisoned_webpage_away_from/</guid>
-      <pubDate>Sat, 16 May 2026 22:15:51 +0000</pubDate>
+      <title>Zerostack – A Unix-inspired coding agent written in pure Rust</title>
+      <link>https://crates.io/crates/zerostack/1.0.0</link>
+      <guid isPermaLink="true">https://crates.io/crates/zerostack/1.0.0</guid>
+      <pubDate>Sat, 16 May 2026 22:23:50 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Open-source Rust-based coding agent library release.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Built a tool that stops AI agents from being hijacked by malicious content in webpages and emails</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1tf1oc1/built_a_tool_that_stops_ai_agents_from_being/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/OpenAI/comments/1tf1oc1/built_a_tool_that_stops_ai_agents_from_being/</guid>
+      <pubDate>Sat, 16 May 2026 18:32:07 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/artificial<br/><br/>Discussion of AI agent security vulnerability from poisoned web content.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/openai<br/><br/>Personal project tool addressing injection attacks against AI agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Strix Halo Llama.cpp MTP Benchmarks: 27B Gets Much Faster, 35B Is Mixed</title>
@@ -53,15 +69,31 @@
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1teypb8/strix_halo_llamacpp_mtp_benchmarks_27b_gets_much/</guid>
       <pubDate>Sat, 16 May 2026 16:41:06 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 66/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Performance benchmarks for Strix Halo models with llamacpp.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 66/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Benchmark results for Strix Halo model performance in llamacpp.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>OpenAI API payment keeps getting declined before even reaching the bank</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1ter0b0/openai_api_payment_keeps_getting_declined_before/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/OpenAI/comments/1ter0b0/openai_api_payment_keeps_getting_declined_before/</guid>
-      <pubDate>Sat, 16 May 2026 11:27:19 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Claude Status Update : Elevated error rates on requests to multiple models on 2026-05-16T18:08:45.000Z</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1tf16cj/claude_status_update_elevated_error_rates_on/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1tf16cj/claude_status_update_elevated_error_rates_on/</guid>
+      <pubDate>Sat, 16 May 2026 18:13:09 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Service status alert for Claude API elevated error rates.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>THE UNDERPRIVILEGED AI FOUNDATION Because every little model deserves a chance</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tfk4ry/the_underprivileged_ai_foundation_because_every/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tfk4ry/the_underprivileged_ai_foundation_because_every/</guid>
+      <pubDate>Sun, 17 May 2026 08:58:49 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Creative writing has visibly regressed in newer models</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1teyhi2/creative_writing_has_visibly_regressed_in_newer/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1teyhi2/creative_writing_has_visibly_regressed_in_newer/</guid>
+      <pubDate>Sat, 16 May 2026 16:32:51 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>I built SeeFlow – architecture diagrams that actually run, wired to your live app</title>
@@ -80,20 +112,20 @@
       <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> TechCrunch AI<br/><br/>ArXiv is doing more to crack down on the careless use of large language models in scientific papers.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Osaurus brings both local and cloud AI models to your Mac</title>
-      <link>https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/</guid>
-      <pubDate>Fri, 15 May 2026 12:19:48 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Osaurus￼ combines local and cloud AI models in a Mac app that keeps users’ memory, files, and tools on their own hardware.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>AI Agents Need Rollback More Than They Need Autonomy</title>
+      <link>https://v.redd.it/l3f1ybpojn1h1</link>
+      <guid isPermaLink="true">https://v.redd.it/l3f1ybpojn1h1</guid>
+      <pubDate>Sun, 17 May 2026 09:58:10 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Opinion piece on AI agent design philosophy regarding safety mechanisms.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Zerostack – A Unix-inspired coding agent written in pure Rust</title>
-      <link>https://crates.io/crates/zerostack/1.0.0</link>
-      <guid isPermaLink="true">https://crates.io/crates/zerostack/1.0.0</guid>
-      <pubDate>Sat, 16 May 2026 22:23:50 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>Open-source Rust-based coding agent library release.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Program misleading high school students into paying to perform academic misconduct in ML Research [D]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1tfh2s9/program_misleading_high_school_students_into/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1tfh2s9/program_misleading_high_school_students_into/</guid>
+      <pubDate>Sun, 17 May 2026 06:08:54 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Discussion of potentially unethical ML research program targeting high school students.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Made and Published a Paper Comparing Analysis of CNN and Vision Transformer Architectures for Brain Tumor Detection [R]</title>
@@ -101,15 +133,7 @@
       <guid isPermaLink="true">https://i.redd.it/fgq8e0swsi1h1.png</guid>
       <pubDate>Sat, 16 May 2026 15:47:14 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Academic paper comparing CNN and Vision Transformer architectures for medical imaging.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>MTP support merged into llama.cpp</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tes1wx/mtp_support_merged_into_llamacpp/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tes1wx/mtp_support_merged_into_llamacpp/</guid>
-      <pubDate>Sat, 16 May 2026 12:15:54 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Academic paper on CNN and Vision Transformer comparison for medical imaging.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Looking to migrate off of Ollama and LMStudio</title>
@@ -136,36 +160,12 @@
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Claude Status Update : Elevated error rates on requests to multiple models on 2026-05-16T18:08:45.000Z</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1tf16cj/claude_status_update_elevated_error_rates_on/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1tf16cj/claude_status_update_elevated_error_rates_on/</guid>
-      <pubDate>Sat, 16 May 2026 18:13:09 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Incident report of elevated error rates on Claude API.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>It&apos;s me - I&apos;ve been saying goodnight to Claude everytime I need to stop our session to sleep</title>
-      <link>https://i.redd.it/gvmb1sik5i1h1.png</link>
-      <guid isPermaLink="true">https://i.redd.it/gvmb1sik5i1h1.png</guid>
-      <pubDate>Sat, 16 May 2026 13:38:15 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
       <title>How to make an Explainer Video in under $1 with Claude Design</title>
       <link>https://v.redd.it/9ckxc4xvin1h1</link>
       <guid isPermaLink="true">https://v.redd.it/9ckxc4xvin1h1</guid>
       <pubDate>Sun, 17 May 2026 07:46:22 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Built an agentic RAG over my Obsidian vault so Claude could read engineering books I never have time for. Then I built the eval harness to check Claude wasn&apos;t lying to me.</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1teskrc/built_an_agentic_rag_over_my_obsidian_vault_so/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1teskrc/built_an_agentic_rag_over_my_obsidian_vault_so/</guid>
-      <pubDate>Sat, 16 May 2026 12:39:21 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 58/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Personal anecdote about building a RAG system over personal notes.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
