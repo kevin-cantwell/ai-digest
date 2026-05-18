@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 May 2026 19:34:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 20:34:13 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Agent Terraform Skill for Codex (Agentic Skill)</title>
@@ -61,7 +61,15 @@
       <guid isPermaLink="true">https://www.anthropic.com/news/anthropic-acquires-stainless</guid>
       <pubDate>Mon, 18 May 2026 17:01:21 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 86/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic acquires Stainless, a company specializing in API infrastructure and code generation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 86/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic acquires Stainless, a notable acquisition in the AI tooling and infrastructure space.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Agora-1: The Multi-Agent World Model</title>
+      <link>https://odyssey.ml/introducing-agora-1</link>
+      <guid isPermaLink="true">https://odyssey.ml/introducing-agora-1</guid>
+      <pubDate>Mon, 18 May 2026 18:43:30 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 80/100<br/><b>Source:</b> Hacker News<br/><br/>Agora-1, a multi-agent world model, is introduced as a significant new AI research development.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Qwen cant wait to release 3.7 models</title>
@@ -88,12 +96,20 @@
       <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
+      <title>Cutoff dates of open source models</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tg9rcp/cutoff_dates_of_open_source_models/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tg9rcp/cutoff_dates_of_open_source_models/</guid>
+      <pubDate>Mon, 18 May 2026 02:48:12 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
       <title>could refusal layers be masking dialect-conditioned safety failures in MoE models [d]</title>
       <link>https://www.reddit.com/r/MachineLearning/comments/1tggu0j/could_refusal_layers_be_masking/</link>
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1tggu0j/could_refusal_layers_be_masking/</guid>
       <pubDate>Mon, 18 May 2026 08:58:39 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research discussion on potential safety vulnerabilities in mixture-of-experts models related to refusal layer effectiveness.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research discussion on whether refusal layers in MoE models may be masking dialect-conditioned safety failures.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Researchers Wanted Preschool Teachers to Wear Cameras to Train AI</title>
@@ -120,12 +136,12 @@
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 75/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Reviving PapersWithCode (by Hugging Face) [P]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1tgmwqr/reviving_paperswithcode_by_hugging_face_p/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1tgmwqr/reviving_paperswithcode_by_hugging_face_p/</guid>
-      <pubDate>Mon, 18 May 2026 13:37:11 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Hugging Face revives PapersWithCode, a platform linking academic papers with reproducible implementations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Rewriting model inference with CUDA kernels: the bottleneck was not just GEMM [P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1tgyx41/rewriting_model_inference_with_cuda_kernels_the/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1tgyx41/rewriting_model_inference_with_cuda_kernels_the/</guid>
+      <pubDate>Mon, 18 May 2026 19:46:23 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research on optimizing model inference through custom CUDA kernels identifies bottlenecks beyond GEMM operations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>I built a coding agent that gets 87% on benchmarks with a 4B parameter model, here&apos;s how</title>
@@ -133,7 +149,7 @@
       <guid isPermaLink="true">https://i.redd.it/ibtta0vvcu1h1.png</guid>
       <pubDate>Mon, 18 May 2026 06:38:11 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Developer achieves 87% benchmark performance on coding tasks using a 4-billion parameter local model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Developer achieves 87% benchmark performance on coding agents using a 4-billion parameter model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Elon Musk has lost his lawsuit against Sam Altman and OpenAI</title>
@@ -148,22 +164,6 @@
       <link>https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840</link>
       <guid isPermaLink="true">https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840</guid>
       <pubDate>Mon, 18 May 2026 12:49:54 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>AI eats the world (Spring 26) [pdf]</title>
-      <link>https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf</link>
-      <guid isPermaLink="true">https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf</guid>
-      <pubDate>Mon, 18 May 2026 12:49:28 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Eric Schmidt speech about AI booed during graduation</title>
-      <link>https://www.nbcnews.com/tech/tech-news/former-google-ceo-booed-graduation-speech-ai-rcna345585</link>
-      <guid isPermaLink="true">https://www.nbcnews.com/tech/tech-news/former-google-ceo-booed-graduation-speech-ai-rcna345585</guid>
-      <pubDate>Mon, 18 May 2026 10:50:25 +0000</pubDate>
       <category>Industry News</category>
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
