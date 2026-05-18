@@ -5,15 +5,23 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 May 2026 01:43:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 03:11:08 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>#1 on memory benchmark LongMemEval with Gemini Flash, not Pro [R]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1tfwd69/1_on_memory_benchmark_longmemeval_with_gemini/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1tfwd69/1_on_memory_benchmark_longmemeval_with_gemini/</guid>
+      <pubDate>Sun, 17 May 2026 17:44:31 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 86/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Google&apos;s Gemini Flash achieves top benchmark performance on LongMemEval memory evaluation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
     <item>
       <title>85 GPU-hours comparing 5 abliteration methods on Qwen3.6-27B: benchmarks, safety, weight forensics - Abliterlitics</title>
       <link>https://www.reddit.com/r/LocalLLaMA/comments/1tfmocw/85_gpuhours_comparing_5_abliteration_methods_on/</link>
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tfmocw/85_gpuhours_comparing_5_abliteration_methods_on/</guid>
       <pubDate>Sun, 17 May 2026 11:18:01 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Comprehensive empirical study comparing five abliteration methods on Qwen 27B with extensive GPU benchmarking.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Comprehensive experimental comparison of five abliteration methods on Qwen models with detailed benchmarking.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Publicis buys LiveRamp for $2.5 billion in agentic AI data play</title>
@@ -21,23 +29,15 @@
       <guid isPermaLink="true">http://ppc.land/publicis-buys-liveramp-for-2-5-billion-in-agentic-ai-data-play</guid>
       <pubDate>Sun, 17 May 2026 17:26:46 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/artificial<br/><br/>Publicis acquires LiveRamp for $2.5 billion to build agentic AI capabilities in data management.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/artificial<br/><br/>Publicis acquires LiveRamp for $2.5 billion in a strategic move to build agentic AI capabilities for data-driven marketing.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>#1 on memory benchmark LongMemEval with Gemini Flash, not Pro [R]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1tfwd69/1_on_memory_benchmark_longmemeval_with_gemini/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1tfwd69/1_on_memory_benchmark_longmemeval_with_gemini/</guid>
-      <pubDate>Sun, 17 May 2026 17:44:31 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Gemini Flash achieves top performance on LongMemEval memory benchmark, outperforming Gemini Pro.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Research repository ArXiv will ban authors for a year if they let AI do all the work</title>
-      <link>https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/</guid>
-      <pubDate>Sat, 16 May 2026 18:54:28 +0000</pubDate>
+      <title>Benchmarking vLLM vs SGLang vs llama.cpp on a mixed Blackwell/Ada cluster</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tg4mw0/benchmarking_vllm_vs_sglang_vs_llamacpp_on_a/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tg4mw0/benchmarking_vllm_vs_sglang_vs_llamacpp_on_a/</guid>
+      <pubDate>Sun, 17 May 2026 22:57:54 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> TechCrunch AI<br/><br/>ArXiv announces one-year ban for authors who use AI to write entire papers without proper attribution.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 78/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Benchmark comparison of vLLM, SGLang, and llama.cpp inference engines on Blackwell/Ada hardware.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention [P]</title>
@@ -45,7 +45,7 @@
       <guid isPermaLink="true">https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures</guid>
       <pubDate>Sun, 17 May 2026 13:41:01 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Survey of recent LLM architecture innovations including KV sharing, mHC, and compressed attention techniques.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research overview of recent LLM architectural advances including KV sharing and compressed attention techniques.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>MiroThinker-1.7, an open-weight deep research agent (Qwen3 MoE base) — mini is 30B/3B active, curious what tok/s people get on consumer hardware</title>
@@ -53,7 +53,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tfsmov/mirothinker17_an_openweight_deep_research_agent/</guid>
       <pubDate>Sun, 17 May 2026 15:26:43 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>MiroThinker-1.7, an open-weight deep research agent based on Qwen MoE, released for community testing.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Release of MiroThinker-1.7, an open-weight deep research agent based on Qwen3 MoE architecture.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Deepseek V4&apos;s 1M context window: the breaking point</title>
@@ -61,7 +61,23 @@
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tfhl0q/deepseek_v4s_1m_context_window_the_breaking_point/</guid>
       <pubDate>Sun, 17 May 2026 06:35:44 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Analysis of Deepseek V4&apos;s 1M context window capabilities and limitations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Analysis of DeepSeek V4&apos;s 1 million token context window capabilities and performance limits.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Research repository ArXiv will ban authors for a year if they let AI do all the work</title>
+      <link>https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/</guid>
+      <pubDate>Sat, 16 May 2026 18:54:28 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>ArXiv announces policy to ban authors for one year if AI generates entire research submissions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>AI Agents Need Rollback More Than They Need Autonomy</title>
+      <link>https://v.redd.it/l3f1ybpojn1h1</link>
+      <guid isPermaLink="true">https://v.redd.it/l3f1ybpojn1h1</guid>
+      <pubDate>Sun, 17 May 2026 09:58:10 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Opinion piece discussing rollback mechanisms as a design priority for AI agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Agent Terraform Skill for Codex (Agentic Skill)</title>
@@ -69,7 +85,7 @@
       <guid isPermaLink="true">https://github.com/LukasNiessen/terrashark</guid>
       <pubDate>Sun, 17 May 2026 22:28:31 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> r/openai<br/><br/>User shares a custom agentic skill built for Codex using Terraform.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> r/openai<br/><br/>Post about an agentic skill integration for Codex using Terraform.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>The AI water issue is fake</title>
@@ -78,14 +94,6 @@
       <pubDate>Sun, 17 May 2026 18:35:18 +0000</pubDate>
       <category>Industry News</category>
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>How to buy cheap Claude tokens in China</title>
-      <link>https://www.chinatalk.media/p/how-to-buy-cheap-claude-tokens-in</link>
-      <guid isPermaLink="true">https://www.chinatalk.media/p/how-to-buy-cheap-claude-tokens-in</guid>
-      <pubDate>Sun, 17 May 2026 02:11:57 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Testing llama.cpp MTP support on Qwen3.6 - RTX 5090</title>
@@ -148,6 +156,14 @@
       <link>https://i.redd.it/34zizv846q1h1.png</link>
       <guid isPermaLink="true">https://i.redd.it/34zizv846q1h1.png</guid>
       <pubDate>Sun, 17 May 2026 16:37:25 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Claude just hit me with the ‘W’Allah’ 😭 AI speaking in French banlieue slang now</title>
+      <link>https://i.redd.it/3du4iigsxp1h1.jpeg</link>
+      <guid isPermaLink="true">https://i.redd.it/3du4iigsxp1h1.jpeg</guid>
+      <pubDate>Sun, 17 May 2026 15:46:04 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
