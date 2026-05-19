@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 May 2026 01:42:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 03:10:03 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Use Case: How I chain ChatGPT+Agents+Codex workloads</title>
@@ -56,6 +56,14 @@
       <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 95/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
+      <title>Anthropic acquires Stainless</title>
+      <link>https://www.anthropic.com/news/anthropic-acquires-stainless</link>
+      <guid isPermaLink="true">https://www.anthropic.com/news/anthropic-acquires-stainless</guid>
+      <pubDate>Mon, 18 May 2026 17:01:21 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 86/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic acquires Stainless, a company specializing in API infrastructure and code generation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
       <title>Research on LLM alignment as latent discourse-level regimes vs. token-level filtering?</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1th4p22/research_on_llm_alignment_as_latent/</link>
       <guid isPermaLink="true">https://www.reddit.com/r/OpenAI/comments/1th4p22/research_on_llm_alignment_as_latent/</guid>
@@ -69,15 +77,7 @@
       <guid isPermaLink="true">https://odyssey.ml/introducing-agora-1</guid>
       <pubDate>Mon, 18 May 2026 18:43:30 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 84/100<br/><b>Source:</b> Hacker News<br/><br/>Agora-1, a multi-agent world model, is introduced.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Anthropic acquires Stainless</title>
-      <link>https://www.anthropic.com/news/anthropic-acquires-stainless</link>
-      <guid isPermaLink="true">https://www.anthropic.com/news/anthropic-acquires-stainless</guid>
-      <pubDate>Mon, 18 May 2026 17:01:21 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 80/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic acquires Stainless, a company specializing in API infrastructure.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 84/100<br/><b>Source:</b> Hacker News<br/><br/>Agora-1, a multi-agent world model, is introduced for simulating complex agent interactions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Qwen cant wait to release 3.7 models</title>
@@ -101,7 +101,7 @@
       <guid isPermaLink="true">https://modal.com/blog/truly-serverless-gpus</guid>
       <pubDate>Mon, 18 May 2026 17:56:26 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> Hacker News<br/><br/>Modal achieves 40x reduction in inference cold starts using LP, FUSE, checkpointing, and CUDA optimization techniques.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> Hacker News<br/><br/>Modal reports 40x reduction in inference cold starts using optimization techniques including CUDA-checkpoint.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>could refusal layers be masking dialect-conditioned safety failures in MoE models [d]</title>
@@ -109,7 +109,15 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1tggu0j/could_refusal_layers_be_masking/</guid>
       <pubDate>Mon, 18 May 2026 08:58:39 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research discusses whether refusal layers in MoE models may mask dialect-conditioned safety vulnerabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research explores whether refusal layers in MoE models may mask safety failures across different dialects.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>What political censorship looks like inside an LLM&apos;s weights (Qwen 3.5)</title>
+      <link>https://vas-blog.pages.dev/qwen-censorship/</link>
+      <guid isPermaLink="true">https://vas-blog.pages.dev/qwen-censorship/</guid>
+      <pubDate>Tue, 19 May 2026 00:16:31 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 75/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Researchers Wanted Preschool Teachers to Wear Cameras to Train AI</title>
@@ -149,7 +157,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1tgyx41/rewriting_model_inference_with_cuda_kernels_the/</guid>
       <pubDate>Mon, 18 May 2026 19:46:23 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research on optimizing model inference performance through CUDA kernel rewriting, identifying non-GEMM bottlenecks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research demonstrates CUDA kernel optimization beyond GEMM as a bottleneck in model inference.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>I built a coding agent that gets 87% on benchmarks with a 4B parameter model, here&apos;s how</title>
@@ -157,7 +165,7 @@
       <guid isPermaLink="true">https://i.redd.it/ibtta0vvcu1h1.png</guid>
       <pubDate>Mon, 18 May 2026 06:38:11 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Developer achieves 87% benchmark performance on a coding agent using a 4B parameter model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Developer achieves 87% benchmark performance on coding tasks using a 4B parameter agent model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
