@@ -5,15 +5,23 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 May 2026 05:23:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 07:16:45 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Agora-1: The Multi-Agent World Model</title>
+      <link>https://odyssey.ml/introducing-agora-1</link>
+      <guid isPermaLink="true">https://odyssey.ml/introducing-agora-1</guid>
+      <pubDate>Mon, 18 May 2026 18:43:30 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>Introduction of Agora-1, a multi-agent world model framework.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
     <item>
       <title>OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments</title>
       <link>https://openai.com/index/dell-codex-enterprise-partnership</link>
       <guid isPermaLink="true">https://openai.com/index/dell-codex-enterprise-partnership</guid>
       <pubDate>Mon, 18 May 2026 10:00:00 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 88/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI and Dell partnership announcement to deploy Codex in enterprise hybrid and on-premise environments.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 88/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI and Dell partnership to deploy Codex in enterprise hybrid and on-premise environments.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>SandboxAQ brings its drug discovery models to Claude — no PhD in computing required</title>
@@ -21,7 +29,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/</guid>
       <pubDate>Mon, 18 May 2026 21:29:31 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 88/100<br/><b>Source:</b> TechCrunch AI<br/><br/>SandboxAQ integrates drug discovery models into Claude, lowering barriers to scientific applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 88/100<br/><b>Source:</b> TechCrunch AI<br/><br/>SandboxAQ integrates drug discovery models into Claude for accessibility to non-technical users.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Anthropic acquires Stainless</title>
@@ -29,15 +37,7 @@
       <guid isPermaLink="true">https://www.anthropic.com/news/anthropic-acquires-stainless</guid>
       <pubDate>Mon, 18 May 2026 17:01:21 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 86/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic acquires Stainless, a software development platform company.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Agora-1: The Multi-Agent World Model</title>
-      <link>https://odyssey.ml/introducing-agora-1</link>
-      <guid isPermaLink="true">https://odyssey.ml/introducing-agora-1</guid>
-      <pubDate>Mon, 18 May 2026 18:43:30 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 84/100<br/><b>Source:</b> Hacker News<br/><br/>Research release of Agora-1, a multi-agent world model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 86/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic acquires Stainless, a developer tools company.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment</title>
@@ -45,23 +45,15 @@
       <guid isPermaLink="true">https://arxiv.org/abs/2601.10160</guid>
       <pubDate>Mon, 18 May 2026 21:29:13 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Research paper on how AI discourse about alignment may create self-fulfilling misalignment in model behavior.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Research paper on how AI alignment discourse may create self-fulfilling misalignment outcomes.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Is there any &lt;3B model with usable 200k+ context window?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1th8l5e/is_there_any_3b_model_with_usable_200k_context/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1th8l5e/is_there_any_3b_model_with_usable_200k_context/</guid>
-      <pubDate>Tue, 19 May 2026 01:51:54 +0000</pubDate>
+      <title>Rewriting model inference with CUDA kernels: the bottleneck was not just GEMM [P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1tgyx41/rewriting_model_inference_with_cuda_kernels_the/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1tgyx41/rewriting_model_inference_with_cuda_kernels_the/</guid>
+      <pubDate>Mon, 18 May 2026 19:46:23 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>What political censorship looks like inside an LLM&apos;s weights (Qwen 3.5)</title>
-      <link>https://vas-blog.pages.dev/qwen-censorship/</link>
-      <guid isPermaLink="true">https://vas-blog.pages.dev/qwen-censorship/</guid>
-      <pubDate>Tue, 19 May 2026 00:16:31 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 75/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Technical article on optimizing model inference performance with custom CUDA kernels.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Cutting inference cold starts by 40x with LP, FUSE, C/R, and CUDA-checkpoint</title>
@@ -69,15 +61,15 @@
       <guid isPermaLink="true">https://modal.com/blog/truly-serverless-gpus</guid>
       <pubDate>Mon, 18 May 2026 17:56:26 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 75/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> Hacker News<br/><br/>Technical article on reducing LLM inference cold starts by 40x through optimization techniques.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Researchers Wanted Preschool Teachers to Wear Cameras to Train AI</title>
-      <link>https://www.404media.co/researchers-wanted-preschool-teachers-to-wear-cameras-to-train-ai/</link>
-      <guid isPermaLink="true">https://www.404media.co/researchers-wanted-preschool-teachers-to-wear-cameras-to-train-ai/</guid>
-      <pubDate>Mon, 18 May 2026 13:26:34 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 75/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>could refusal layers be masking dialect-conditioned safety failures in MoE models [d]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1tggu0j/could_refusal_layers_be_masking/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1tggu0j/could_refusal_layers_be_masking/</guid>
+      <pubDate>Mon, 18 May 2026 08:58:39 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research discussion on whether refusal layers mask safety failures in mixture-of-experts models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Architecture advice: Real-time pipeline for YouTube Audio -&gt; Whisper -&gt; LLM -&gt; SSE (Sub-10s latency) [D]</title>
@@ -112,14 +104,6 @@
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 75/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Rewriting model inference with CUDA kernels: the bottleneck was not just GEMM [P]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1tgyx41/rewriting_model_inference_with_cuda_kernels_the/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1tgyx41/rewriting_model_inference_with_cuda_kernels_the/</guid>
-      <pubDate>Mon, 18 May 2026 19:46:23 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Technical research on optimizing LLM inference performance through CUDA kernel rewriting.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
       <title>Elon Musk has lost his lawsuit against Sam Altman and OpenAI</title>
       <link>https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/</link>
       <guid isPermaLink="true">https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/</guid>
@@ -128,28 +112,12 @@
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>EU AI Act enforcement starts in 75 days - affects any team building AI agents for European clients</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tgf0gm/eu_ai_act_enforcement_starts_in_75_days_affects/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tgf0gm/eu_ai_act_enforcement_starts_in_75_days_affects/</guid>
-      <pubDate>Mon, 18 May 2026 07:14:39 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/artificial<br/><br/>Alert about EU AI Act enforcement beginning in 75 days with implications for AI agent builders.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>I built a coding agent that gets 87% on benchmarks with a 4B parameter model, here&apos;s how</title>
-      <link>https://i.redd.it/ibtta0vvcu1h1.png</link>
-      <guid isPermaLink="true">https://i.redd.it/ibtta0vvcu1h1.png</guid>
-      <pubDate>Mon, 18 May 2026 06:38:11 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Technical achievement report: building a 4B parameter coding agent achieving 87% on benchmarks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
       <title>21 GPU&apos;s benchmarked running a small TTS model (vram peak: 5GB)</title>
       <link>https://i.redd.it/wizmc4kvuy1h1.png</link>
       <guid isPermaLink="true">https://i.redd.it/wizmc4kvuy1h1.png</guid>
       <pubDate>Mon, 18 May 2026 21:46:14 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Comparative benchmarking results for 21 GPUs running a small text-to-speech model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Benchmark results comparing 21 GPUs running a small text-to-speech model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Fast mode now defaults to Opus 4.7 in Claude Code.</title>
@@ -157,7 +125,15 @@
       <guid isPermaLink="true">https://i.redd.it/w4ge40acdy1h1.jpeg</guid>
       <pubDate>Mon, 18 May 2026 20:07:30 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Product update that Claude Code&apos;s fast mode now defaults to Opus 4.7.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Update that Claude Code&apos;s fast mode now defaults to Opus 4.7 model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>What political censorship looks like inside an LLM&apos;s weights (Qwen 3.5)</title>
+      <link>https://vas-blog.pages.dev/qwen-censorship/</link>
+      <guid isPermaLink="true">https://vas-blog.pages.dev/qwen-censorship/</guid>
+      <pubDate>Tue, 19 May 2026 00:16:31 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>Analysis of content filtering and censorship mechanisms in Qwen 3.5 model weights.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Reviving PapersWithCode (by Hugging Face) [P]</title>
@@ -166,6 +142,30 @@
       <pubDate>Mon, 18 May 2026 13:37:11 +0000</pubDate>
       <category>Research &amp; Papers</category>
       <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Released a free 9.8M doc Indic multilingual corpus — Hindi, Bengali, Tamil, Telugu + 7 more (CC0, HuggingFace) [P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1th4po3/released_a_free_98m_doc_indic_multilingual_corpus/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1th4po3/released_a_free_98m_doc_indic_multilingual_corpus/</guid>
+      <pubDate>Mon, 18 May 2026 23:09:33 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>No new paper under review in TMLR since May 09? [D]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1tgz13e/no_new_paper_under_review_in_tmlr_since_may_09_d/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1tgz13e/no_new_paper_under_review_in_tmlr_since_may_09_d/</guid>
+      <pubDate>Mon, 18 May 2026 19:50:08 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>What happens to local LLM if/when LLMs are no longer released for free?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tgmjq0/what_happens_to_local_llm_ifwhen_llms_are_no/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tgmjq0/what_happens_to_local_llm_ifwhen_llms_are_no/</guid>
+      <pubDate>Mon, 18 May 2026 13:23:56 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
