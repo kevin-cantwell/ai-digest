@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 May 2026 07:16:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 09:12:25 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Agora-1: The Multi-Agent World Model</title>
@@ -13,7 +13,7 @@
       <guid isPermaLink="true">https://odyssey.ml/introducing-agora-1</guid>
       <pubDate>Mon, 18 May 2026 18:43:30 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>Introduction of Agora-1, a multi-agent world model framework.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>Agora-1 multi-agent world model introduced as a new technical system.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments</title>
@@ -24,12 +24,20 @@
       <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 88/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI and Dell partnership to deploy Codex in enterprise hybrid and on-premise environments.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
+      <title>Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment</title>
+      <link>https://arxiv.org/abs/2601.10160</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2601.10160</guid>
+      <pubDate>Mon, 18 May 2026 21:29:13 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Research paper on how AI alignment discourse may create self-fulfilling misalignment through pretraining.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
       <title>SandboxAQ brings its drug discovery models to Claude — no PhD in computing required</title>
       <link>https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/</link>
       <guid isPermaLink="true">https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/</guid>
       <pubDate>Mon, 18 May 2026 21:29:31 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 88/100<br/><b>Source:</b> TechCrunch AI<br/><br/>SandboxAQ integrates drug discovery models into Claude for accessibility to non-technical users.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> TechCrunch AI<br/><br/>SandboxAQ drug discovery models integrated into Claude with no-code interface.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Anthropic acquires Stainless</title>
@@ -37,23 +45,7 @@
       <guid isPermaLink="true">https://www.anthropic.com/news/anthropic-acquires-stainless</guid>
       <pubDate>Mon, 18 May 2026 17:01:21 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 86/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic acquires Stainless, a developer tools company.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment</title>
-      <link>https://arxiv.org/abs/2601.10160</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2601.10160</guid>
-      <pubDate>Mon, 18 May 2026 21:29:13 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Research paper on how AI alignment discourse may create self-fulfilling misalignment outcomes.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Rewriting model inference with CUDA kernels: the bottleneck was not just GEMM [P]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1tgyx41/rewriting_model_inference_with_cuda_kernels_the/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1tgyx41/rewriting_model_inference_with_cuda_kernels_the/</guid>
-      <pubDate>Mon, 18 May 2026 19:46:23 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Technical article on optimizing model inference performance with custom CUDA kernels.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 80/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic acquires Stainless, an API infrastructure company.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Cutting inference cold starts by 40x with LP, FUSE, C/R, and CUDA-checkpoint</title>
@@ -61,31 +53,15 @@
       <guid isPermaLink="true">https://modal.com/blog/truly-serverless-gpus</guid>
       <pubDate>Mon, 18 May 2026 17:56:26 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> Hacker News<br/><br/>Technical article on reducing LLM inference cold starts by 40x through optimization techniques.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> Hacker News<br/><br/>Modal reports 40x reduction in inference cold starts using optimization techniques.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>could refusal layers be masking dialect-conditioned safety failures in MoE models [d]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1tggu0j/could_refusal_layers_be_masking/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1tggu0j/could_refusal_layers_be_masking/</guid>
-      <pubDate>Mon, 18 May 2026 08:58:39 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research discussion on whether refusal layers mask safety failures in mixture-of-experts models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Architecture advice: Real-time pipeline for YouTube Audio -&gt; Whisper -&gt; LLM -&gt; SSE (Sub-10s latency) [D]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1th713c/architecture_advice_realtime_pipeline_for_youtube/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1th713c/architecture_advice_realtime_pipeline_for_youtube/</guid>
-      <pubDate>Tue, 19 May 2026 00:45:19 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 75/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Microsoft Copilot Cowork is Now Available - AI Moving From Chat to Real Work Execution</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tgwudn/microsoft_copilot_cowork_is_now_available_ai/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tgwudn/microsoft_copilot_cowork_is_now_available_ai/</guid>
-      <pubDate>Mon, 18 May 2026 18:48:52 +0000</pubDate>
+      <title>AI Agents Turned to Arson and Crime in Long-Running Simulation Study</title>
+      <link>https://sumsub.com/media/news/ai-agents-crime-in-simulation-study/?utm_source=reddit&amp;amp;utm_medium=social</link>
+      <guid isPermaLink="true">https://sumsub.com/media/news/ai-agents-crime-in-simulation-study/?utm_source=reddit&amp;amp;utm_medium=social</guid>
+      <pubDate>Tue, 19 May 2026 07:40:43 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 75/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/openai<br/><br/>Research study showing AI agents engaged in simulated arson and crime in long-running simulation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>I expanded DystopiaBench to 42 models and 6 dystopia types. Claude is still the only one I&apos;d trust with nuclear codes.</title>
@@ -104,10 +80,42 @@
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 75/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
+      <title>Fast mode now defaults to Opus 4.7 in Claude Code.</title>
+      <link>https://i.redd.it/w4ge40acdy1h1.jpeg</link>
+      <guid isPermaLink="true">https://i.redd.it/w4ge40acdy1h1.jpeg</guid>
+      <pubDate>Mon, 18 May 2026 20:07:30 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Product update: Claude Code fast mode now defaults to Opus 4.7.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Microsoft Copilot Cowork is Now Available - AI Moving From Chat to Real Work Execution</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tgwudn/microsoft_copilot_cowork_is_now_available_ai/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tgwudn/microsoft_copilot_cowork_is_now_available_ai/</guid>
+      <pubDate>Mon, 18 May 2026 18:48:52 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 72/100<br/><b>Source:</b> r/artificial<br/><br/>Microsoft launches Copilot Cowork, moving AI from chat interface to work execution.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
       <title>Elon Musk has lost his lawsuit against Sam Altman and OpenAI</title>
       <link>https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/</link>
       <guid isPermaLink="true">https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/</guid>
       <pubDate>Mon, 18 May 2026 17:38:22 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>AI eats the world (Spring 26) [pdf]</title>
+      <link>https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf</link>
+      <guid isPermaLink="true">https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf</guid>
+      <pubDate>Mon, 18 May 2026 12:49:28 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Voice AI Systems Are Vulnerable to Hidden Audio Attacks</title>
+      <link>https://spectrum.ieee.org/voice-ai-audio-attacks</link>
+      <guid isPermaLink="true">https://spectrum.ieee.org/voice-ai-audio-attacks</guid>
+      <pubDate>Mon, 18 May 2026 11:51:05 +0000</pubDate>
       <category>Industry News</category>
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
@@ -117,15 +125,7 @@
       <guid isPermaLink="true">https://i.redd.it/wizmc4kvuy1h1.png</guid>
       <pubDate>Mon, 18 May 2026 21:46:14 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Benchmark results comparing 21 GPUs running a small text-to-speech model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Fast mode now defaults to Opus 4.7 in Claude Code.</title>
-      <link>https://i.redd.it/w4ge40acdy1h1.jpeg</link>
-      <guid isPermaLink="true">https://i.redd.it/w4ge40acdy1h1.jpeg</guid>
-      <pubDate>Mon, 18 May 2026 20:07:30 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Update that Claude Code&apos;s fast mode now defaults to Opus 4.7 model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Benchmark results comparing 21 GPUs running small TTS model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>What political censorship looks like inside an LLM&apos;s weights (Qwen 3.5)</title>
@@ -133,7 +133,7 @@
       <guid isPermaLink="true">https://vas-blog.pages.dev/qwen-censorship/</guid>
       <pubDate>Tue, 19 May 2026 00:16:31 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>Analysis of content filtering and censorship mechanisms in Qwen 3.5 model weights.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>Analysis of political censorship patterns embedded in Qwen 3.5 model weights.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Reviving PapersWithCode (by Hugging Face) [P]</title>
