@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 May 2026 09:09:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 11:03:42 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>I&apos;m running an agentic system with kobold.cpp as my backend. Am I losing performance?</title>
@@ -14,6 +14,14 @@
       <pubDate>Thu, 21 May 2026 14:23:21 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
       <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 100/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Which MCP servers are actually changing your Claude workflow? Sharing mine</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1tkec4e/which_mcp_servers_are_actually_changing_your/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1tkec4e/which_mcp_servers_are_actually_changing_your/</guid>
+      <pubDate>Fri, 22 May 2026 09:57:17 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 100/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>My LinkedIn network is about to be aggressively flooded with Claude Code certifications</title>
@@ -30,14 +38,6 @@
       <pubDate>Thu, 21 May 2026 13:47:16 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
       <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 95/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Anthropic officially launched 13+ FREE AI courses with certificates (Including Agentic AI and Claude Code!)</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1tjpfh8/anthropic_officially_launched_13_free_ai_courses/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1tjpfh8/anthropic_officially_launched_13_free_ai_courses/</guid>
-      <pubDate>Thu, 21 May 2026 16:16:09 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 88/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Anthropic launched 13 free AI courses with certificates covering agentic AI and Claude Code.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Samsung chip workers will get an average $340k bonus as AI profits soar</title>
@@ -69,7 +69,15 @@
       <guid isPermaLink="true">https://arxiv.org/abs/2605.19269</guid>
       <pubDate>Fri, 22 May 2026 04:54:33 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 84/100<br/><b>Source:</b> Hacker News<br/><br/>Research paper on CODA: optimizing transformer blocks as GEMM-epilogue programs for efficiency.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 84/100<br/><b>Source:</b> Hacker News<br/><br/>CODA paper describes method for rewriting transformer blocks as GEMM-epilogue programs for efficiency.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Anthropic officially launched 13+ FREE AI courses with certificates (Including Agentic AI and Claude Code!)</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1tjpfh8/anthropic_officially_launched_13_free_ai_courses/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1tjpfh8/anthropic_officially_launched_13_free_ai_courses/</guid>
+      <pubDate>Thu, 21 May 2026 16:16:09 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Anthropic launched 13 free AI courses with certificates covering agentic AI and Claude Code.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>One thing that&apos;s been bothering me lately: benchmark performance often tells me almost nothing about whether a workflow will survive production usage.[D]</title>
@@ -96,20 +104,12 @@
       <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Gemini randomly dumped its system prompt</title>
-      <link>https://gist.github.com/mkaramuk/44a44d83178e632ec0dd1f02186d822c</link>
-      <guid isPermaLink="true">https://gist.github.com/mkaramuk/44a44d83178e632ec0dd1f02186d822c</guid>
-      <pubDate>Thu, 21 May 2026 13:04:21 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Gemini unexpectedly exposed its system prompt in responses.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>OWASP published its first Top 10 for AI Agents. 88% of enterprises already had agent security incidents last year. Here&apos;s the breakdown.</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tjy19a/owasp_published_its_first_top_10_for_ai_agents_88/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tjy19a/owasp_published_its_first_top_10_for_ai_agents_88/</guid>
-      <pubDate>Thu, 21 May 2026 21:10:09 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/artificial<br/><br/>OWASP published first Top 10 for AI Agents with 88% of enterprises reporting security incidents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Show HN: Agent.email – sign up via curl, claim with a human OTP</title>
+      <link>https://news.ycombinator.com/item?id=48225596</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48225596</guid>
+      <pubDate>Thu, 21 May 2026 16:42:34 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 75/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Claude Status Update : Elevated error rate on multiple models on 2026-05-22T04:40:56.000Z</title>
@@ -120,20 +120,12 @@
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 75/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>AdventHealth advances whole-person care with OpenAI</title>
-      <link>https://openai.com/index/adventhealth</link>
-      <guid isPermaLink="true">https://openai.com/index/adventhealth</guid>
-      <pubDate>Thu, 21 May 2026 12:00:00 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>AdventHealth partnering with OpenAI to advance healthcare delivery with AI integration.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
       <title>We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks</title>
       <link>https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/</link>
       <guid isPermaLink="true">https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/</guid>
       <pubDate>Thu, 21 May 2026 19:46:42 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 72/100<br/><b>Source:</b> Google DeepMind<br/><br/>Google DeepMind launching accelerator program in Asia Pacific focused on environmental risks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 72/100<br/><b>Source:</b> Google DeepMind<br/><br/>Google DeepMind launching accelerator program in Asia Pacific for environmental risk solutions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>AI is just unauthorised plagiarism at a bigger scale</title>
@@ -152,20 +144,28 @@
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Throwing AI-generated walls of text into conversations</title>
-      <link>https://noslopgrenade.com/</link>
-      <guid isPermaLink="true">https://noslopgrenade.com/</guid>
-      <pubDate>Thu, 21 May 2026 09:31:15 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Gemini randomly dumped its system prompt</title>
+      <link>https://gist.github.com/mkaramuk/44a44d83178e632ec0dd1f02186d822c</link>
+      <guid isPermaLink="true">https://gist.github.com/mkaramuk/44a44d83178e632ec0dd1f02186d822c</guid>
+      <pubDate>Thu, 21 May 2026 13:04:21 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Gemini model accidentally exposed its system prompt in unintended disclosure.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>&apos;Am I OpenAI compatible&apos; - a tool and documentation for unified api signatures in open source AI.</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tjgceg/am_i_openai_compatible_a_tool_and_documentation/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tjgceg/am_i_openai_compatible_a_tool_and_documentation/</guid>
-      <pubDate>Thu, 21 May 2026 10:26:06 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Tool and documentation released for unified OpenAI-compatible API signatures in open source AI.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>I created an LLM post-training method called RPS. Preliminary results show that it improved Qwen3-8b&apos;s program synthesis reliability. [R]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1tjpivb/i_created_an_llm_posttraining_method_called_rps/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1tjpivb/i_created_an_llm_posttraining_method_called_rps/</guid>
+      <pubDate>Thu, 21 May 2026 16:19:20 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Researcher developed RPS post-training method showing improved program synthesis reliability on Qwen3-8b.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>AdventHealth advances whole-person care with OpenAI</title>
+      <link>https://openai.com/index/adventhealth</link>
+      <guid isPermaLink="true">https://openai.com/index/adventhealth</guid>
+      <pubDate>Thu, 21 May 2026 12:00:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> OpenAI Blog<br/><br/>AdventHealth partnership with OpenAI advances whole-person care implementation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
