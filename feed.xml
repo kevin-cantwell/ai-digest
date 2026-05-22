@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 May 2026 20:34:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 21:27:22 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs</title>
@@ -13,7 +13,7 @@
       <guid isPermaLink="true">https://arxiv.org/abs/2605.19269</guid>
       <pubDate>Fri, 22 May 2026 04:54:33 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 84/100<br/><b>Source:</b> Hacker News<br/><br/>Research paper on optimizing transformer blocks through GEMM-epilogue program compilation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 84/100<br/><b>Source:</b> Hacker News<br/><br/>Academic research on optimizing transformer architectures through GEMM-epilogue programs.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>DeepSeek is pushing forward with $10.29 billion financing round, with Liang Wenfeng committing to continue developing open-source AI models rather than pursuing short-term commercialization goals</title>
@@ -21,7 +21,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tkfvvj/deepseek_is_pushing_forward_with_1029_billion/</guid>
       <pubDate>Fri, 22 May 2026 11:14:57 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 72/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>DeepSeek secures $10.29 billion financing round while committing to open-source model development.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 78/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>DeepSeek secures $10.29 billion financing to continue open-source AI development.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>OpenAI named a Leader in enterprise coding agents by Gartner</title>
@@ -29,15 +29,7 @@
       <guid isPermaLink="true">https://openai.com/index/gartner-2026-agentic-coding-leader</guid>
       <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announcement of Gartner Leader recognition for enterprise coding agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>OWASP published its first Top 10 for AI Agents. 88% of enterprises already had agent security incidents last year. Here&apos;s the breakdown.</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tjy19a/owasp_published_its_first_top_10_for_ai_agents_88/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tjy19a/owasp_published_its_first_top_10_for_ai_agents_88/</guid>
-      <pubDate>Thu, 21 May 2026 21:10:09 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/artificial<br/><br/>OWASP releases first Top 10 for AI Agents with data showing 88% of enterprises experienced agent security incidents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI recognized as Gartner Leader in enterprise coding agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Google is pitching an AI agent ecosystem to consumers who may not buy it</title>
@@ -45,7 +37,15 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/</guid>
       <pubDate>Thu, 21 May 2026 13:52:23 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> TechCrunch AI<br/><br/>TechCrunch analysis of Google&apos;s AI agent ecosystem pitch to consumers.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Google pitching AI agent ecosystem to consumers amid adoption uncertainty.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Models.dev: open-source database of AI model specs, pricing, and capabilities</title>
+      <link>https://github.com/anomalyco/models.dev</link>
+      <guid isPermaLink="true">https://github.com/anomalyco/models.dev</guid>
+      <pubDate>Fri, 22 May 2026 20:26:07 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 74/100<br/><b>Source:</b> Hacker News<br/><br/>Open-source database cataloging AI model specifications, pricing, and capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>NuExtract3 released: open-weight 4B VLM for Markdown, OCR and structured extraction (self-hostable) [P]</title>
@@ -53,7 +53,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1tkejqr/nuextract3_released_openweight_4b_vlm_for/</guid>
       <pubDate>Fri, 22 May 2026 10:07:56 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Release of NuExtract3, a 4B parameter open-weight VLM for document extraction and OCR tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>NuExtract3 open-weight 4B vision-language model released for document extraction and OCR.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Open-source skill OS for codex/claude/gemini CLI (routing/optimizaiton + evals)</title>
@@ -61,7 +61,47 @@
       <guid isPermaLink="true">https://www.reddit.com/r/OpenAI/comments/1tk9477/opensource_skill_os_for_codexclaudegemini_cli/</guid>
       <pubDate>Fri, 22 May 2026 05:12:38 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/openai<br/><br/>Open-source CLI tool for routing and evaluating multiple LLMs.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/openai<br/><br/>Open-source CLI tool for routing and optimizing across multiple LLM providers.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark</title>
+      <link>https://modelrift.com/blog/openscad-llm-benchmark/</link>
+      <guid isPermaLink="true">https://modelrift.com/blog/openscad-llm-benchmark/</guid>
+      <pubDate>Fri, 22 May 2026 10:38:26 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Antigravity 2.0 achieves top performance on OpenSCAD architectural 3D LLM benchmark.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Self-improving agents on just ChatGPT (not Codex)</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1tknoy3/selfimproving_agents_on_just_chatgpt_not_codex/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/OpenAI/comments/1tknoy3/selfimproving_agents_on_just_chatgpt_not_codex/</guid>
+      <pubDate>Fri, 22 May 2026 16:15:47 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/openai<br/><br/>Reddit post about building self-improving agents using ChatGPT.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>OpenBMB presents the model BitCPM-CANN 1.58 bit</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tkjpsh/openbmb_presents_the_model_bitcpmcann_158_bit/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tkjpsh/openbmb_presents_the_model_bitcpmcann_158_bit/</guid>
+      <pubDate>Fri, 22 May 2026 13:55:02 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>OpenBMB releases BitCPM-CANN 1.58 bit quantized model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>I built an app with Claude Code that converts any text into high-quality audio. It works with PDFs, blog posts, Substack and Medium links, and even photos of text.</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1tkqevl/i_built_an_app_with_claude_code_that_converts_any/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1tkqevl/i_built_an_app_with_claude_code_that_converts_any/</guid>
+      <pubDate>Fri, 22 May 2026 17:50:14 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Individual built a text-to-audio application using Claude Code.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>AdventHealth advances whole-person care with OpenAI</title>
+      <link>https://openai.com/index/adventhealth</link>
+      <guid isPermaLink="true">https://openai.com/index/adventhealth</guid>
+      <pubDate>Thu, 21 May 2026 12:00:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> OpenAI Blog<br/><br/>AdventHealth healthcare organization implementing OpenAI technology for patient care.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks</title>
@@ -69,7 +109,7 @@
       <guid isPermaLink="true">https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/</guid>
       <pubDate>Thu, 21 May 2026 19:46:42 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> Google DeepMind<br/><br/>Google DeepMind launches accelerator program in Asia Pacific focused on environmental AI applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> Google DeepMind<br/><br/>Google DeepMind launching accelerator program in Asia Pacific for environmental AI applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>I ran a quantization shootout on Qwen3-Coder and the results are... interesting</title>
@@ -120,52 +160,12 @@
       <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Is an advanced model able to solve this ?</title>
-      <link>https://i.redd.it/ywmgd1iwkp2h1.jpeg</link>
-      <guid isPermaLink="true">https://i.redd.it/ywmgd1iwkp2h1.jpeg</guid>
-      <pubDate>Fri, 22 May 2026 15:38:00 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
       <title>A hacker group is poisoning open source code at an unprecedented scale</title>
       <link>https://arstechnica.com/information-technology/2026/05/a-hacker-group-is-poisoning-open-source-code-at-an-unprecedented-scale/</link>
       <guid isPermaLink="true">https://arstechnica.com/information-technology/2026/05/a-hacker-group-is-poisoning-open-source-code-at-an-unprecedented-scale/</guid>
       <pubDate>Fri, 22 May 2026 10:30:14 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
       <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 65/100<br/><b>Source:</b> Ars Technica<br/><br/>GitHub is just the latest victim of TeamPCP, a gang that has carried out a spree of software supply chain attacks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Datasette Agent</title>
-      <link>https://simonwillison.net/2026/May/21/datasette-agent/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/21/datasette-agent/#atom-everything</guid>
-      <pubDate>Thu, 21 May 2026 19:52:19 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> Simon Willison<br/><br/>We just announced the first release of Datasette Agent, a new extensible AI assistant for Datasette. I&apos;ve been working on my LLM Python library for just over three years now, and Datasette Agent repre<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>datasette-agent-sprites 0.1a0</title>
-      <link>https://simonwillison.net/2026/May/21/datasette-agent-sprites/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/21/datasette-agent-sprites/#atom-everything</guid>
-      <pubDate>Thu, 21 May 2026 18:21:07 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> Simon Willison<br/><br/>Release: datasette-agent-sprites 0.1a0 A Datasette Agent plugin for running commands in a Fly Sprites sandbox. Tags: sandboxing, datasette, fly, datasette-agent<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Giving Agents Computers — Ivan Burazin, Daytona</title>
-      <link>https://www.latent.space/p/daytona</link>
-      <guid isPermaLink="true">https://www.latent.space/p/daytona</guid>
-      <pubDate>Thu, 21 May 2026 20:37:40 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> Latent Space<br/><br/>We chat with Daytona&apos;s CEO about their insane 74% MoM Growth, 850K Daily Runs, Bare Metal Sandboxes, RL Evals, and the New Agent Cloud<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>I built an app with Claude Code that converts any text into high-quality audio. It works with PDFs, blog posts, Substack and Medium links, and even photos of text.</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1tkqevl/i_built_an_app_with_claude_code_that_converts_any/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1tkqevl/i_built_an_app_with_claude_code_that_converts_any/</guid>
-      <pubDate>Fri, 22 May 2026 17:50:14 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>User describes building a text-to-audio conversion app using Claude Code.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
