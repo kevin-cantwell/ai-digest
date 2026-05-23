@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 May 2026 22:19:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 23:20:53 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Apex-Testing: real-world, real repos, agentic coding benchmark (Update)</title>
@@ -13,23 +13,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tlh4vq/apextesting_realworld_real_repos_agentic_coding/</guid>
       <pubDate>Sat, 23 May 2026 13:54:08 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 88/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Apex-Testing introduces a real-world agentic coding benchmark using actual repositories for evaluating AI coding agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>How Virgin Atlantic ships faster with Codex</title>
-      <link>https://openai.com/index/virgin-atlantic</link>
-      <guid isPermaLink="true">https://openai.com/index/virgin-atlantic</guid>
-      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI published case study on Virgin Atlantic&apos;s use of Codex for operational improvements.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Benchmarked Needle 26M vs Qwen3-0.6B on CPU function calling, 50 queries across 5 difficulty tiers. The 23x smaller model wins on accuracy and is 4.4x faster.</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tljs5o/benchmarked_needle_26m_vs_qwen306b_on_cpu/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tljs5o/benchmarked_needle_26m_vs_qwen306b_on_cpu/</guid>
-      <pubDate>Sat, 23 May 2026 15:38:34 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Benchmark comparison showing smaller Needle 26M model outperforms Qwen3-0.6B on CPU function calling.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 88/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Apex-Testing introduces a real-world agentic coding benchmark using actual repositories for evaluating AI code agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>OpenAI named a Leader in enterprise coding agents by Gartner</title>
@@ -37,7 +21,23 @@
       <guid isPermaLink="true">https://openai.com/index/gartner-2026-agentic-coding-leader</guid>
       <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI recognized as Leader in Gartner&apos;s agentic coding evaluation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 84/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI recognized as Leader in enterprise coding agents by Gartner 2026 analysis.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>How Virgin Atlantic ships faster with Codex</title>
+      <link>https://openai.com/index/virgin-atlantic</link>
+      <guid isPermaLink="true">https://openai.com/index/virgin-atlantic</guid>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI case study on Virgin Atlantic&apos;s use of Codex for shipping optimization demonstrates enterprise application.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Benchmarked Needle 26M vs Qwen3-0.6B on CPU function calling, 50 queries across 5 difficulty tiers. The 23x smaller model wins on accuracy and is 4.4x faster.</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tljs5o/benchmarked_needle_26m_vs_qwen306b_on_cpu/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tljs5o/benchmarked_needle_26m_vs_qwen306b_on_cpu/</guid>
+      <pubDate>Sat, 23 May 2026 15:38:34 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Benchmark comparing Needle 26M vs Qwen3-0.6B shows smaller model outperforms on CPU function calling.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Microsoft reports AI is more expensive than paying human employees</title>
@@ -45,7 +45,7 @@
       <guid isPermaLink="true">https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/</guid>
       <pubDate>Sat, 23 May 2026 03:44:16 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Microsoft reports findings on AI operational costs compared to human employee expenses.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Microsoft reports significant cost challenges showing AI inference remains more expensive than human labor.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>AgentLantern: exposing the hidden graph of AI agent projects [P]</title>
@@ -53,23 +53,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1tlmw03/agentlantern_exposing_the_hidden_graph_of_ai/</guid>
       <pubDate>Sat, 23 May 2026 17:38:02 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/MachineLearning<br/><br/>AgentLantern project mapping the landscape of AI agent implementations and dependencies.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>The deployment funnel nobody talks about: 60% evaluate, 20% pilot, 5% ship. MIT tracked 300 real AI implementations against profit metrics.</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tky191/the_deployment_funnel_nobody_talks_about_60/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tky191/the_deployment_funnel_nobody_talks_about_60/</guid>
-      <pubDate>Fri, 22 May 2026 22:25:53 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/artificial<br/><br/>MIT study tracking 300 AI implementations showing deployment conversion funnel and profit metrics.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Built an intelligent web video editor for claude (and other agents) via MCP</title>
-      <link>https://v.redd.it/az5noaj8vr2h1</link>
-      <guid isPermaLink="true">https://v.redd.it/az5noaj8vr2h1</guid>
-      <pubDate>Fri, 22 May 2026 23:32:09 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Developer built a web video editor tool for Claude via Model Context Protocol, demonstrating MCP extensibility.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/MachineLearning<br/><br/>AgentLantern research project visualizes the landscape and relationships of AI agent projects.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Hebbian architecture AI model [R]</title>
@@ -77,7 +61,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1tlgcyf/hebbian_architecture_ai_model_r/</guid>
       <pubDate>Sat, 23 May 2026 13:21:11 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research paper on Hebbian architecture approach to AI model design.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research paper on Hebbian architecture AI model represents novel architectural approach.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>OpenAI&apos;s Codex is now smart enough to control your Mac even when it&apos;s locked</title>
@@ -85,7 +69,15 @@
       <guid isPermaLink="true">https://www.macworld.com/article/3147024/openai-codex-can-now-run-with-locked-macbooks.html</guid>
       <pubDate>Sat, 23 May 2026 17:09:06 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/openai<br/><br/>Claim about Codex capabilities for system control (needs verification of credibility).<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/openai<br/><br/>Report that Codex gained capability to control locked Mac systems; security and capability development interest.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Built an intelligent web video editor for claude (and other agents) via MCP</title>
+      <link>https://v.redd.it/az5noaj8vr2h1</link>
+      <guid isPermaLink="true">https://v.redd.it/az5noaj8vr2h1</guid>
+      <pubDate>Fri, 22 May 2026 23:32:09 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Developer built a web video editor tool for Claude agents via Model Context Protocol, a personal project.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>[AINews] All Model Labs are now Agent Labs</title>
@@ -93,15 +85,7 @@
       <guid isPermaLink="true">https://www.latent.space/p/ainews-all-model-labs-are-now-agent</guid>
       <pubDate>Sat, 23 May 2026 04:21:17 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> Latent Space<br/><br/>Model Labs rebranded to Agent Labs, reflecting industry shift toward agentic AI systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Four calls became one: letting the agent author tools mid-session</title>
-      <link>https://v.redd.it/udsn9kq94u2h1</link>
-      <guid isPermaLink="true">https://v.redd.it/udsn9kq94u2h1</guid>
-      <pubDate>Sat, 23 May 2026 06:57:08 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> Latent Space<br/><br/>Model Labs rebranded to Agent Labs indicating industry shift toward agentic AI focus.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>A hacker group is poisoning open source code at an unprecedented scale</title>
@@ -112,34 +96,42 @@
       <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 65/100<br/><b>Source:</b> Ars Technica<br/><br/>GitHub is just the latest victim of TeamPCP, a gang that has carried out a spree of software supply chain attacks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
+      <title>Is AI Profitable Yet?</title>
+      <link>https://isaiprofitable.com/</link>
+      <guid isPermaLink="true">https://isaiprofitable.com/</guid>
+      <pubDate>Sat, 23 May 2026 02:10:38 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>Analysis project examining profitability of AI services and business models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Alignment: Higher order prioritizing over constraints [R]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1tlg2ot/alignment_higher_order_prioritizing_over/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1tlg2ot/alignment_higher_order_prioritizing_over/</guid>
+      <pubDate>Sat, 23 May 2026 13:09:14 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 64/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research paper on AI alignment using higher-order prioritization mechanisms over constraints.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>After 6 months of running AI agents in production I think the framework you pick barely matters. The thing that kills them is something else.</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tlt8b9/after_6_months_of_running_ai_agents_in_production/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tlt8b9/after_6_months_of_running_ai_agents_in_production/</guid>
+      <pubDate>Sat, 23 May 2026 21:48:28 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> r/artificial<br/><br/>Opinion piece from production experience claiming framework choice matters less than other factors.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
       <title>I built a cognitive architecture where the AI has actual needs that drift between sessions — not prompt engineering, actual state variables</title>
       <link>https://www.reddit.com/r/artificial/comments/1tl0o5v/i_built_a_cognitive_architecture_where_the_ai_has/</link>
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tl0o5v/i_built_a_cognitive_architecture_where_the_ai_has/</guid>
       <pubDate>Sat, 23 May 2026 00:16:15 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/artificial<br/><br/>Developer describes cognitive architecture system with persistent state variables for AI sessions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>My experience using Claude code with Local Llm, and full guide on how to set it up</title>
-      <link>https://i.redd.it/fp6ew2griw2h1.jpeg</link>
-      <guid isPermaLink="true">https://i.redd.it/fp6ew2griw2h1.jpeg</guid>
-      <pubDate>Sat, 23 May 2026 14:58:46 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Personal anecdote and setup guide for using Claude Code with local LLMs.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/artificial<br/><br/>Developer created cognitive architecture with persistent state variables between AI sessions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Experimental &quot;Preserve Thinking&quot; Jinja Template for Gemma4 31B in llama.cpp</title>
       <link>https://www.reddit.com/r/LocalLLaMA/comments/1tl79da/experimental_preserve_thinking_jinja_template_for/</link>
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tl79da/experimental_preserve_thinking_jinja_template_for/</guid>
       <pubDate>Sat, 23 May 2026 05:21:42 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Llama.cpp VS LiteRT on a custom Xiaomi 12 Pro 24/7 Server (V2 Redesign)</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tlgxms/llamacpp_vs_litert_on_a_custom_xiaomi_12_pro_247/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tlgxms/llamacpp_vs_litert_on_a_custom_xiaomi_12_pro_247/</guid>
-      <pubDate>Sat, 23 May 2026 13:45:34 +0000</pubDate>
       <category>Industry News</category>
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
@@ -152,12 +144,12 @@
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>NVFP4 + MTP - voilà on llama.cpp</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tlohld/nvfp4_mtp_voilà_on_llamacpp/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tlohld/nvfp4_mtp_voilà_on_llamacpp/</guid>
-      <pubDate>Sat, 23 May 2026 18:39:22 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>llama.cpp server have built-in native tools (exec_shell, edit_file, etc.)</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tluma3/llamacpp_server_have_builtin_native_tools_exec/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tluma3/llamacpp_server_have_builtin_native_tools_exec/</guid>
+      <pubDate>Sat, 23 May 2026 22:48:30 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>I tested 200+ prompts across Gemini and Kimi — here&apos;s what actually works</title>
@@ -166,6 +158,14 @@
       <pubDate>Sat, 23 May 2026 19:44:32 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Claude is not having a good morning</title>
+      <link>https://i.redd.it/a795ky5ihx2h1.png</link>
+      <guid isPermaLink="true">https://i.redd.it/a795ky5ihx2h1.png</guid>
+      <pubDate>Sat, 23 May 2026 18:13:34 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
