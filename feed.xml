@@ -5,23 +5,15 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 May 2026 03:08:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 05:16:59 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs</title>
-      <link>https://arxiv.org/abs/2605.19269</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2605.19269</guid>
-      <pubDate>Fri, 22 May 2026 04:54:33 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>CODA proposes rewriting transformer blocks as GEMM-epilogue programs for potential efficiency improvements.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
     <item>
       <title>Models.dev: open-source database of AI model specs, pricing, and capabilities</title>
       <link>https://github.com/anomalyco/models.dev</link>
       <guid isPermaLink="true">https://github.com/anomalyco/models.dev</guid>
       <pubDate>Fri, 22 May 2026 20:26:07 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Models.dev is an open-source database cataloging AI model specifications, pricing, and capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Models.dev provides an open-source database cataloging AI model specifications, pricing, and capabilities for easier comparison and discovery.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Domain-Camouflaged Injection Attacks Evade Detection in Multi-Agent LLM Systems</title>
@@ -29,23 +21,7 @@
       <guid isPermaLink="true">https://arxiv.org/abs/2605.22001</guid>
       <pubDate>Fri, 22 May 2026 18:46:07 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 80/100<br/><b>Source:</b> Hacker News<br/><br/>Research paper describing domain-camouflaged injection attacks targeting multi-agent LLM systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>NuExtract3 released: open-weight 4B VLM for Markdown, OCR and structured extraction (self-hostable) [P]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1tkejqr/nuextract3_released_openweight_4b_vlm_for/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1tkejqr/nuextract3_released_openweight_4b_vlm_for/</guid>
-      <pubDate>Fri, 22 May 2026 10:07:56 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>NuExtract3, an open-weight 4B vision-language model for extraction tasks, released for self-hosting.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>DeepSeek is pushing forward with $10.29 billion financing round, with Liang Wenfeng committing to continue developing open-source AI models rather than pursuing short-term commercialization goals</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tkfvvj/deepseek_is_pushing_forward_with_1029_billion/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tkfvvj/deepseek_is_pushing_forward_with_1029_billion/</guid>
-      <pubDate>Fri, 22 May 2026 11:14:57 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 72/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>DeepSeek secures $10.29 billion financing to continue open-source AI model development.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 80/100<br/><b>Source:</b> Hacker News<br/><br/>Research paper describes domain-camouflaged injection attacks that evade detection in multi-agent LLM systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>OpenAI named a Leader in enterprise coding agents by Gartner</title>
@@ -53,15 +29,7 @@
       <guid isPermaLink="true">https://openai.com/index/gartner-2026-agentic-coding-leader</guid>
       <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI recognized by Gartner as a leader in enterprise coding agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Built an intelligent web video editor for claude (and other agents) via MCP</title>
-      <link>https://v.redd.it/az5noaj8vr2h1</link>
-      <guid isPermaLink="true">https://v.redd.it/az5noaj8vr2h1</guid>
-      <pubDate>Fri, 22 May 2026 23:32:09 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Individual built an MCP-based intelligent web video editor for Claude.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI recognized as a Leader in enterprise coding agents by Gartner.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>How Virgin Atlantic ships faster with Codex</title>
@@ -69,7 +37,23 @@
       <guid isPermaLink="true">https://openai.com/index/virgin-atlantic</guid>
       <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Case study of Virgin Atlantic using OpenAI&apos;s Codex for faster shipping operations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI case study on Virgin Atlantic&apos;s use of Codex for faster shipping operations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>DeepSeek is pushing forward with $10.29 billion financing round, with Liang Wenfeng committing to continue developing open-source AI models rather than pursuing short-term commercialization goals</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tkfvvj/deepseek_is_pushing_forward_with_1029_billion/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tkfvvj/deepseek_is_pushing_forward_with_1029_billion/</guid>
+      <pubDate>Fri, 22 May 2026 11:14:57 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 72/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>DeepSeek secures $10.29 billion financing while committing to open-source AI development over commercialization.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Built an intelligent web video editor for claude (and other agents) via MCP</title>
+      <link>https://v.redd.it/az5noaj8vr2h1</link>
+      <guid isPermaLink="true">https://v.redd.it/az5noaj8vr2h1</guid>
+      <pubDate>Fri, 22 May 2026 23:32:09 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Developer created an intelligent web video editor tool via MCP for Claude and other agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Google is pitching an AI agent ecosystem to consumers who may not buy it</title>
@@ -77,15 +61,15 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/</guid>
       <pubDate>Thu, 21 May 2026 13:52:23 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Analysis of Google&apos;s strategy pitching AI agent ecosystem to consumers.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> TechCrunch AI<br/><br/>TechCrunch analysis of Google&apos;s consumer-focused AI agent ecosystem strategy.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Open-source skill OS for codex/claude/gemini CLI (routing/optimizaiton + evals)</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1tk9477/opensource_skill_os_for_codexclaudegemini_cli/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/OpenAI/comments/1tk9477/opensource_skill_os_for_codexclaudegemini_cli/</guid>
-      <pubDate>Fri, 22 May 2026 05:12:38 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/openai<br/><br/>Open-source CLI skill operating system for routing across multiple AI coding models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>NuExtract3 released: open-weight 4B VLM for Markdown, OCR and structured extraction (self-hostable) [P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1tkejqr/nuextract3_released_openweight_4b_vlm_for/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1tkejqr/nuextract3_released_openweight_4b_vlm_for/</guid>
+      <pubDate>Fri, 22 May 2026 10:07:56 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>NuExtract3, an open-weight 4B vision-language model for Markdown extraction and OCR, released for self-hosting.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks</title>
@@ -93,23 +77,7 @@
       <guid isPermaLink="true">https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/</guid>
       <pubDate>Thu, 21 May 2026 19:46:42 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> Google DeepMind<br/><br/>Google DeepMind launches accelerator program in Asia Pacific for environmental AI solutions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>OpenBMB presents the model BitCPM-CANN 1.58 bit</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tkjpsh/openbmb_presents_the_model_bitcpmcann_158_bit/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tkjpsh/openbmb_presents_the_model_bitcpmcann_158_bit/</guid>
-      <pubDate>Fri, 22 May 2026 13:55:02 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>New Release of ROCm based MLX LLM Engine - lemon-mlx-engine</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tkbupt/new_release_of_rocm_based_mlx_llm_engine/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tkbupt/new_release_of_rocm_based_mlx_llm_engine/</guid>
-      <pubDate>Fri, 22 May 2026 07:38:05 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> Google DeepMind<br/><br/>Google DeepMind announces accelerator program in Asia Pacific focused on environmental risk mitigation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>I ran a quantization shootout on Qwen3-Coder and the results are... interesting</title>
@@ -120,28 +88,12 @@
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Vector Policy Optimization: Training for Diversity Improves Test-Time Search</title>
-      <link>https://arxiv.org/abs/2605.22817</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2605.22817</guid>
-      <pubDate>Fri, 22 May 2026 18:01:25 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
       <title>AI training is becoming the new coding revolution</title>
       <link>https://www.reddit.com/r/artificial/comments/1tke8wl/ai_training_is_becoming_the_new_coding_revolution/</link>
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tke8wl/ai_training_is_becoming_the_new_coding_revolution/</guid>
       <pubDate>Fri, 22 May 2026 09:52:36 +0000</pubDate>
       <category>Research &amp; Papers</category>
       <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Multi-agent AI systems are now automating scientific discovery and nobody seems ready</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tk6mjs/multiagent_ai_systems_are_now_automating/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tk6mjs/multiagent_ai_systems_are_now_automating/</guid>
-      <pubDate>Fri, 22 May 2026 03:12:11 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>I built a cognitive architecture where the AI has actual needs that drift between sessions — not prompt engineering, actual state variables</title>
@@ -152,20 +104,68 @@
       <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Most AI companies charge for training but a few are quietly giving it away for free</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tk8x50/most_ai_companies_charge_for_training_but_a_few/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tk8x50/most_ai_companies_charge_for_training_but_a_few/</guid>
-      <pubDate>Fri, 22 May 2026 05:02:43 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
       <title>How can we prevent AI models from cannibalizing themselves when human-generated data runs out? Scientists say they&apos;ve found the answer.</title>
       <link>https://www.livescience.com/technology/artificial-intelligence/how-can-we-prevent-ai-models-from-cannibalizing-themselves-when-human-generated-data-runs-out-scientists-say-theyve-found-the-answer</link>
       <guid isPermaLink="true">https://www.livescience.com/technology/artificial-intelligence/how-can-we-prevent-ai-models-from-cannibalizing-themselves-when-human-generated-data-runs-out-scientists-say-theyve-found-the-answer</guid>
       <pubDate>Fri, 22 May 2026 12:52:15 +0000</pubDate>
       <category>Industry News</category>
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Is an advanced model able to solve this ?</title>
+      <link>https://i.redd.it/ywmgd1iwkp2h1.jpeg</link>
+      <guid isPermaLink="true">https://i.redd.it/ywmgd1iwkp2h1.jpeg</guid>
+      <pubDate>Fri, 22 May 2026 15:38:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Proposing the &apos;Altman peak&apos; as a novel model to explain the non-linear effects of OpenAI workforce related consumption of welfare related goods and services on consumer token price and projected quota consumption rates.</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1tkmkof/proposing_the_altman_peak_as_a_novel_model_to/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/OpenAI/comments/1tkmkof/proposing_the_altman_peak_as_a_novel_model_to/</guid>
+      <pubDate>Fri, 22 May 2026 15:36:37 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>A hacker group is poisoning open source code at an unprecedented scale</title>
+      <link>https://arstechnica.com/information-technology/2026/05/a-hacker-group-is-poisoning-open-source-code-at-an-unprecedented-scale/</link>
+      <guid isPermaLink="true">https://arstechnica.com/information-technology/2026/05/a-hacker-group-is-poisoning-open-source-code-at-an-unprecedented-scale/</guid>
+      <pubDate>Fri, 22 May 2026 10:30:14 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 65/100<br/><b>Source:</b> Ars Technica<br/><br/>GitHub is just the latest victim of TeamPCP, a gang that has carried out a spree of software supply chain attacks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Datasette Agent</title>
+      <link>https://simonwillison.net/2026/May/21/datasette-agent/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/21/datasette-agent/#atom-everything</guid>
+      <pubDate>Thu, 21 May 2026 19:52:19 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> Simon Willison<br/><br/>We just announced the first release of Datasette Agent, a new extensible AI assistant for Datasette. I&apos;ve been working on my LLM Python library for just over three years now, and Datasette Agent repre<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>datasette-agent-sprites 0.1a0</title>
+      <link>https://simonwillison.net/2026/May/21/datasette-agent-sprites/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/21/datasette-agent-sprites/#atom-everything</guid>
+      <pubDate>Thu, 21 May 2026 18:21:07 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> Simon Willison<br/><br/>Release: datasette-agent-sprites 0.1a0 A Datasette Agent plugin for running commands in a Fly Sprites sandbox. Tags: sandboxing, datasette, fly, datasette-agent<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>datasette-agent-charts 0.1a2</title>
+      <link>https://simonwillison.net/2026/May/21/datasette-agent-charts/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/21/datasette-agent-charts/#atom-everything</guid>
+      <pubDate>Thu, 21 May 2026 15:15:58 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> Simon Willison<br/><br/>Release: datasette-agent-charts 0.1a2 &quot;View SQL query&quot; buttons below rendered charts. Tags: datasette, datasette-agent<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Giving Agents Computers — Ivan Burazin, Daytona</title>
+      <link>https://www.latent.space/p/daytona</link>
+      <guid isPermaLink="true">https://www.latent.space/p/daytona</guid>
+      <pubDate>Thu, 21 May 2026 20:37:40 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> Latent Space<br/><br/>We chat with Daytona&apos;s CEO about their insane 74% MoM Growth, 850K Daily Runs, Bare Metal Sandboxes, RL Evals, and the New Agent Cloud<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
