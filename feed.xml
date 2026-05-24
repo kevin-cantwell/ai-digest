@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 May 2026 14:32:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 15:26:46 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Benchmarked Needle 26M vs Qwen3-0.6B on CPU function calling, 50 queries across 5 difficulty tiers. The 23x smaller model wins on accuracy and is 4.4x faster.</title>
@@ -13,7 +13,15 @@
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tljs5o/benchmarked_needle_26m_vs_qwen306b_on_cpu/</guid>
       <pubDate>Sat, 23 May 2026 15:38:34 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Benchmark comparison showing smaller Qwen3 model outperforming larger Needle model on CPU function calling.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Benchmark comparison showing 23x smaller model outperforming larger model on CPU function calling.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost</title>
+      <link>https://esengine.github.io/DeepSeek-Reasonix/</link>
+      <guid isPermaLink="true">https://esengine.github.io/DeepSeek-Reasonix/</guid>
+      <pubDate>Sun, 24 May 2026 13:02:06 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>DeepSeek releases Reasonix, a native coding agent with prompt caching and cost optimization.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Claude Code has been writing every session to disk since day one. We indexed it.</title>
@@ -21,7 +29,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1tlu3np/claude_code_has_been_writing_every_session_to/</guid>
       <pubDate>Sat, 23 May 2026 22:25:33 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Report that Claude Code has been logging sessions to disk since launch.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Claude Code session history being written to disk and indexed, raising potential privacy implications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Mythos is being prepared for a release on Claude Code and Claude Security.</title>
@@ -29,7 +37,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1tlwg2f/mythos_is_being_prepared_for_a_release_on_claude/</guid>
       <pubDate>Sun, 24 May 2026 00:08:58 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Third-party tool preparation announcement for Claude Code and Claude Security integration.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Mythos framework being prepared for release on Claude Code and Claude Security.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>🚀 Skills for small businesses, officially released by Anthropic</title>
@@ -45,31 +53,15 @@
       <guid isPermaLink="true">https://www.latent.space/p/ainews-all-model-labs-are-now-agent</guid>
       <pubDate>Sat, 23 May 2026 04:21:17 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> Latent Space<br/><br/>Announcement that Model Labs have been rebranded to Agent Labs.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> Latent Space<br/><br/>All Model Labs rebranded to Agent Labs announcement.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Agent context window</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1tm32e4/agent_context_window/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/OpenAI/comments/1tm32e4/agent_context_window/</guid>
-      <pubDate>Sun, 24 May 2026 05:27:58 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI</title>
-      <link>https://fs.blog/knowledge-project-podcast/greg-brockman/</link>
-      <guid isPermaLink="true">https://fs.blog/knowledge-project-podcast/greg-brockman/</guid>
-      <pubDate>Sun, 24 May 2026 08:29:38 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>Interview with Greg Brockman discussing critical events in OpenAI&apos;s history.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Your AI agent is one tool call away from doing something you didn’t authorize. Here’s the fix.</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tm37ut/your_ai_agent_is_one_tool_call_away_from_doing/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tm37ut/your_ai_agent_is_one_tool_call_away_from_doing/</guid>
-      <pubDate>Sun, 24 May 2026 05:35:58 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> r/artificial<br/><br/>Discussion of tool call authorization risks in AI agents with proposed mitigations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>TTS Benchmark Comparison (all known TTS up until May 2026)</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tm0k2l/tts_benchmark_comparison_all_known_tts_up_until/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tm0k2l/tts_benchmark_comparison_all_known_tts_up_until/</guid>
+      <pubDate>Sun, 24 May 2026 03:21:29 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Comprehensive TTS benchmark comparison across known TTS systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Cache miss in Claude Code costs 12.5× more than a hit. Here are 5 things you do mid session that quietly trigger it</title>
@@ -77,7 +69,15 @@
       <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1tlzqpl/cache_miss_in_claude_code_costs_125_more_than_a/</guid>
       <pubDate>Sun, 24 May 2026 02:43:08 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Analysis of Claude Code prompt caching performance impacts and common miss triggers.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Technical analysis of Claude Code prompt caching miss costs and triggers.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>OpenAI&apos;s Codex is now smart enough to control your Mac even when it&apos;s locked</title>
+      <link>https://www.macworld.com/article/3147024/openai-codex-can-now-run-with-locked-macbooks.html</link>
+      <guid isPermaLink="true">https://www.macworld.com/article/3147024/openai-codex-can-now-run-with-locked-macbooks.html</guid>
+      <pubDate>Sat, 23 May 2026 17:09:06 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/openai<br/><br/>Claim about OpenAI Codex controlling locked Mac systems, credibility unclear.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>llama.cpp server have built-in native tools (exec_shell, edit_file, etc.)</title>
@@ -109,7 +109,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tlwoho/llampart_100_i_released_a_standalone_local_web_ui/</guid>
       <pubDate>Sun, 24 May 2026 00:19:41 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Release of llampart 1.0.0, a standalone local web UI for llama-server with new features.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Release of llampart 1.0.0, a local web UI for llama-server.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Elon, stop trying to make Grok happen. New data suggests government workers don’t like Elon Musk’s chatbot. Does anybody?</title>
@@ -152,20 +152,20 @@
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>After 6 months of running AI agents in production I think the framework you pick barely matters. The thing that kills them is something else.</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tlt8b9/after_6_months_of_running_ai_agents_in_production/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tlt8b9/after_6_months_of_running_ai_agents_in_production/</guid>
-      <pubDate>Sat, 23 May 2026 21:48:28 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 58/100<br/><b>Source:</b> r/artificial<br/><br/>Personal production experience and opinion about AI agent frameworks and failure modes.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>DeepSeek just popped the American AI bubble.</title>
+      <link>https://i.redd.it/wukg0iob513h1.jpeg</link>
+      <guid isPermaLink="true">https://i.redd.it/wukg0iob513h1.jpeg</guid>
+      <pubDate>Sun, 24 May 2026 06:32:07 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>PapersWithCode new features - week 1 [P]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1tmawv5/paperswithcode_new_features_week_1_p/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1tmawv5/paperswithcode_new_features_week_1_p/</guid>
-      <pubDate>Sun, 24 May 2026 12:31:12 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 56/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Announcement of new features added to PapersWithCode platform.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Your AI agent is one tool call away from doing something you didn’t authorize. Here’s the fix.</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tm37ut/your_ai_agent_is_one_tool_call_away_from_doing/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tm37ut/your_ai_agent_is_one_tool_call_away_from_doing/</guid>
+      <pubDate>Sun, 24 May 2026 05:35:58 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 58/100<br/><b>Source:</b> r/artificial<br/><br/>Discussion of tool call authorization risks in AI agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
