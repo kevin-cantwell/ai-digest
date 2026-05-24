@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="refresh" content="300">
-  <title>AI Digest — 2026-05-23</title>
+  <title>AI Digest — 2026-05-24</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
@@ -246,7 +246,7 @@
   <div class="header-inner">
     <div class="logo">AI Digest<span class="logo-dot">.</span></div>
     <div class="header-meta">
-      <span class="header-date" id="header-date" data-utc="2026-05-23T23:20:53Z">Saturday, May 23, 2026 — 23:20 UTC</span>
+      <span class="header-date" id="header-date" data-utc="2026-05-24T00:46:29Z">Sunday, May 24, 2026 — 00:46 UTC</span>
       <script>
         (function() {
           var el = document.getElementById('header-date');
@@ -259,7 +259,7 @@
       <span class="header-updated" id="header-updated">Updated just now</span>
       <script>
         (function() {
-          var builtAt = new Date("2026-05-23T23:20:53Z");
+          var builtAt = new Date("2026-05-24T00:46:29Z");
           function updateAge() {
             var mins = Math.floor((Date.now() - builtAt.getTime()) / 60000);
             var el = document.getElementById('header-updated');
@@ -282,7 +282,7 @@
 
 <main>
   <div class="tldr-box">
-    <p class="tldr-text">OpenAI&#x27;s coding agents are gaining enterprise adoption, with the company recognized as a Gartner Leader while demonstrations show practical applications like Virgin Atlantic improving shipping speed and Codex gaining extended capabilities on macOS. Meanwhile, smaller specialized models are proving competitive with larger ones—a 0.6B parameter model outperformed a 26M model on function calling tasks—while Microsoft warns that current AI deployment costs exceed human employee expenses in many scenarios.</p>
+    <p class="tldr-text">A smaller 0.6B parameter model outperformed a 26M model on CPU function calling with superior accuracy and 4.4x faster speed, demonstrating that model size is not the primary determinant of performance for certain tasks. Claude Code has been writing session data to disk since launch, which researchers have now indexed for analysis, raising questions about data persistence in AI development tools.</p>
   </div>
 
   
@@ -293,23 +293,11 @@
         <div class="card-header">
           <a class="card-title" href="https://www.reddit.com/r/LocalLLaMA/comments/1tlh4vq/apextesting_realworld_real_repos_agentic_coding/" target="_blank" rel="noopener noreferrer">Apex-Testing: real-world, real repos, agentic coding benchmark (Update)</a>
         </div>
-        <p class="item-summary">Apex-Testing introduces a real-world agentic coding benchmark using actual repositories for evaluating AI code agents.</p>
+        <p class="item-summary">Apex-Testing introduces a benchmark for evaluating agentic coding systems on real-world repositories.</p>
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1tlh4vq/apextesting_realworld_real_repos_agentic_coding/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
           
-          <span class="age">9h ago</span>
-          <span class="score-bar" title="Quality score: 88/100"><span class="bar-filled">█████████</span><span class="bar-empty">░</span> <span class="score-num">88</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://openai.com/index/virgin-atlantic" target="_blank" rel="noopener noreferrer">How Virgin Atlantic ships faster with Codex</a>
-        </div>
-        <p class="item-summary">OpenAI case study on Virgin Atlantic&#x27;s use of Codex for shipping optimization demonstrates enterprise application.</p>
-        <div class="card-meta">
-          <a class="source" href="https://openai.com/index/virgin-atlantic" target="_blank" rel="noopener noreferrer">OpenAI Blog</a>
-          
-          <span class="age">1d ago</span>
+          <span class="age">10h ago</span>
           <span class="score-bar" title="Quality score: 82/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">82</span></span>
         </div>
       </div>
@@ -317,47 +305,35 @@
         <div class="card-header">
           <a class="card-title" href="https://www.reddit.com/r/MachineLearning/comments/1tlmw03/agentlantern_exposing_the_hidden_graph_of_ai/" target="_blank" rel="noopener noreferrer">AgentLantern: exposing the hidden graph of AI agent projects [P]</a>
         </div>
-        <p class="item-summary">AgentLantern research project visualizes the landscape and relationships of AI agent projects.</p>
+        <p class="item-summary">AgentLantern project mapping the landscape of AI agent projects.</p>
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/MachineLearning/comments/1tlmw03/agentlantern_exposing_the_hidden_graph_of_ai/" target="_blank" rel="noopener noreferrer">r/MachineLearning</a>
           
-          <span class="age">5h ago</span>
+          <span class="age">7h ago</span>
           <span class="score-bar" title="Quality score: 76/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">76</span></span>
         </div>
       </div>
       <div class="card">
         <div class="card-header">
-          <a class="card-title" href="https://www.macworld.com/article/3147024/openai-codex-can-now-run-with-locked-macbooks.html" target="_blank" rel="noopener noreferrer">OpenAI&#x27;s Codex is now smart enough to control your Mac even when it&#x27;s locked</a>
+          <a class="card-title" href="https://www.reddit.com/r/ClaudeAI/comments/1tlu3np/claude_code_has_been_writing_every_session_to/" target="_blank" rel="noopener noreferrer">Claude Code has been writing every session to disk since day one. We indexed it.</a>
         </div>
-        <p class="item-summary">Report that Codex gained capability to control locked Mac systems; security and capability development interest.</p>
+        <p class="item-summary">Report that Claude Code sessions have been written to disk and indexed; raises technical/privacy concerns.</p>
         <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/OpenAI/comments/1tlm4w4/openais_codex_is_now_smart_enough_to_control_your/" target="_blank" rel="noopener noreferrer">r/openai</a>
+          <a class="source" href="https://www.reddit.com/r/ClaudeAI/comments/1tlu3np/claude_code_has_been_writing_every_session_to/" target="_blank" rel="noopener noreferrer">r/ClaudeAI</a>
           
-          <span class="age">6h ago</span>
+          <span class="age">2h ago</span>
           <span class="score-bar" title="Quality score: 74/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">74</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://v.redd.it/az5noaj8vr2h1" target="_blank" rel="noopener noreferrer">Built an intelligent web video editor for claude (and other agents) via MCP</a>
-        </div>
-        <p class="item-summary">Developer built a web video editor tool for Claude agents via Model Context Protocol, a personal project.</p>
-        <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/ClaudeAI/comments/1tkzms4/built_an_intelligent_web_video_editor_for_claude/" target="_blank" rel="noopener noreferrer">r/ClaudeAI</a>
-          
-          <span class="age">23h ago</span>
-          <span class="score-bar" title="Quality score: 70/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">70</span></span>
         </div>
       </div>
       <div class="card">
         <div class="card-header">
           <a class="card-title" href="https://www.reddit.com/r/artificial/comments/1tlt8b9/after_6_months_of_running_ai_agents_in_production/" target="_blank" rel="noopener noreferrer">After 6 months of running AI agents in production I think the framework you pick barely matters. The thing that kills them is something else.</a>
         </div>
-        <p class="item-summary">Opinion piece from production experience claiming framework choice matters less than other factors.</p>
+        <p class="item-summary">Opinion piece on production AI agent frameworks based on personal experience.</p>
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/artificial/comments/1tlt8b9/after_6_months_of_running_ai_agents_in_production/" target="_blank" rel="noopener noreferrer">r/artificial</a>
           
-          <span class="age">1h ago</span>
+          <span class="age">2h ago</span>
           <span class="score-bar" title="Quality score: 64/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">64</span></span>
         </div>
       </div>
@@ -374,7 +350,7 @@
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1tlnqzj/run_chromes_tiny_gemma4_aka_gemini_nano_directly/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
           
-          <span class="age">5h ago</span>
+          <span class="age">6h ago</span>
           <span class="score-bar" title="Quality score: 60/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">60</span></span>
         </div>
       </div>
@@ -386,7 +362,7 @@
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/artificial/comments/1tlq5hg/i_tested_200_prompts_across_gemini_and_kimi_heres/" target="_blank" rel="noopener noreferrer">r/artificial</a>
           
-          <span class="age">3h ago</span>
+          <span class="age">5h ago</span>
           <span class="score-bar" title="Quality score: 60/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">60</span></span>
         </div>
       </div>
@@ -398,7 +374,43 @@
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/ClaudeAI/comments/1tlntio/claude_is_not_having_a_good_morning/" target="_blank" rel="noopener noreferrer">r/ClaudeAI</a>
           
-          <span class="age">5h ago</span>
+          <span class="age">6h ago</span>
+          <span class="score-bar" title="Quality score: 60/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">60</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://www.reddit.com/r/ClaudeAI/comments/1tlla7m/claude_saved_my_money_today/" target="_blank" rel="noopener noreferrer">Claude saved my money today</a>
+        </div>
+        
+        <div class="card-meta">
+          <a class="source" href="https://www.reddit.com/r/ClaudeAI/comments/1tlla7m/claude_saved_my_money_today/" target="_blank" rel="noopener noreferrer">r/ClaudeAI</a>
+          
+          <span class="age">8h ago</span>
+          <span class="score-bar" title="Quality score: 60/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">60</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://i.redd.it/8089qj915w2h1.jpeg" target="_blank" rel="noopener noreferrer">2 types of Claude users</a>
+        </div>
+        
+        <div class="card-meta">
+          <a class="source" href="https://www.reddit.com/r/ClaudeAI/comments/1tlgu4t/2_types_of_claude_users/" target="_blank" rel="noopener noreferrer">r/ClaudeAI</a>
+          
+          <span class="age">11h ago</span>
+          <span class="score-bar" title="Quality score: 60/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">60</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://www.reddit.com/r/ClaudeAI/comments/1tl6dm0/hardwon_notes_after_a_few_weeks_with_claude_design/" target="_blank" rel="noopener noreferrer">Hard-won notes after a few weeks with Claude Design</a>
+        </div>
+        
+        <div class="card-meta">
+          <a class="source" href="https://www.reddit.com/r/ClaudeAI/comments/1tl6dm0/hardwon_notes_after_a_few_weeks_with_claude_design/" target="_blank" rel="noopener noreferrer">r/ClaudeAI</a>
+          
+          <span class="age">20h ago</span>
           <span class="score-bar" title="Quality score: 60/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">60</span></span>
         </div>
       </div>
@@ -409,23 +421,23 @@
       <div class="cards">
       <div class="card">
         <div class="card-header">
-          <a class="card-title" href="https://www.reddit.com/r/LocalLLaMA/comments/1tljs5o/benchmarked_needle_26m_vs_qwen306b_on_cpu/" target="_blank" rel="noopener noreferrer">Benchmarked Needle 26M vs Qwen3-0.6B on CPU function calling, 50 queries across 5 difficulty tiers. The 23x smaller model wins on accuracy and is 4.4x faster.</a>
+          <a class="card-title" href="https://www.reddit.com/r/MachineLearning/comments/1tlgcyf/hebbian_architecture_ai_model_r/" target="_blank" rel="noopener noreferrer">Hebbian architecture AI model [R]</a>
         </div>
-        <p class="item-summary">Benchmark comparing Needle 26M vs Qwen3-0.6B shows smaller model outperforms on CPU function calling.</p>
+        <p class="item-summary">Research paper on Hebbian architecture for AI models.</p>
         <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1tljs5o/benchmarked_needle_26m_vs_qwen306b_on_cpu/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
+          <a class="source" href="https://www.reddit.com/r/MachineLearning/comments/1tlgcyf/hebbian_architecture_ai_model_r/" target="_blank" rel="noopener noreferrer">r/MachineLearning</a>
           
-          <span class="age">7h ago</span>
-          <span class="score-bar" title="Quality score: 80/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">80</span></span>
+          <span class="age">11h ago</span>
+          <span class="score-bar" title="Quality score: 74/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">74</span></span>
         </div>
       </div>
       <div class="card">
         <div class="card-header">
-          <a class="card-title" href="https://www.reddit.com/r/MachineLearning/comments/1tlgcyf/hebbian_architecture_ai_model_r/" target="_blank" rel="noopener noreferrer">Hebbian architecture AI model [R]</a>
+          <a class="card-title" href="https://www.reddit.com/r/LocalLLaMA/comments/1tljs5o/benchmarked_needle_26m_vs_qwen306b_on_cpu/" target="_blank" rel="noopener noreferrer">Benchmarked Needle 26M vs Qwen3-0.6B on CPU function calling, 50 queries across 5 difficulty tiers. The 23x smaller model wins on accuracy and is 4.4x faster.</a>
         </div>
-        <p class="item-summary">Research paper on Hebbian architecture AI model represents novel architectural approach.</p>
+        <p class="item-summary">Benchmark comparing small language models (Needle 26M vs Qwen3) on function calling performance.</p>
         <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/MachineLearning/comments/1tlgcyf/hebbian_architecture_ai_model_r/" target="_blank" rel="noopener noreferrer">r/MachineLearning</a>
+          <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1tljs5o/benchmarked_needle_26m_vs_qwen306b_on_cpu/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
           
           <span class="age">9h ago</span>
           <span class="score-bar" title="Quality score: 74/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">74</span></span>
@@ -433,13 +445,13 @@
       </div>
       <div class="card">
         <div class="card-header">
-          <a class="card-title" href="https://www.reddit.com/r/artificial/comments/1tl0o5v/i_built_a_cognitive_architecture_where_the_ai_has/" target="_blank" rel="noopener noreferrer">I built a cognitive architecture where the AI has actual needs that drift between sessions — not prompt engineering, actual state variables</a>
+          <a class="card-title" href="https://www.reddit.com/r/artificial/comments/1tlwgk8/where_should_durable_memory_live_in_a_multiagent/" target="_blank" rel="noopener noreferrer">Where should durable memory live in a multi-agent setup? A small research scaffold</a>
         </div>
-        <p class="item-summary">Developer created cognitive architecture with persistent state variables between AI sessions.</p>
+        <p class="item-summary">Discussion and research scaffold on memory architecture for multi-agent systems.</p>
         <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/artificial/comments/1tl0o5v/i_built_a_cognitive_architecture_where_the_ai_has/" target="_blank" rel="noopener noreferrer">r/artificial</a>
+          <a class="source" href="https://www.reddit.com/r/artificial/comments/1tlwgk8/where_should_durable_memory_live_in_a_multiagent/" target="_blank" rel="noopener noreferrer">r/artificial</a>
           
-          <span class="age">23h ago</span>
+          <span class="age">36m ago</span>
           <span class="score-bar" title="Quality score: 62/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">62</span></span>
         </div>
       </div>
@@ -450,25 +462,13 @@
       <div class="cards">
       <div class="card">
         <div class="card-header">
-          <a class="card-title" href="https://arstechnica.com/information-technology/2026/05/a-hacker-group-is-poisoning-open-source-code-at-an-unprecedented-scale/" target="_blank" rel="noopener noreferrer">A hacker group is poisoning open source code at an unprecedented scale</a>
-        </div>
-        <p class="item-summary">GitHub is just the latest victim of TeamPCP, a gang that has carried out a spree of software supply chain attacks.</p>
-        <div class="card-meta">
-          <a class="source" href="https://arstechnica.com/information-technology/2026/05/a-hacker-group-is-poisoning-open-source-code-at-an-unprecedented-scale/" target="_blank" rel="noopener noreferrer">Ars Technica</a>
-          
-          <span class="age">1d ago</span>
-          <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
           <a class="card-title" href="https://www.reddit.com/r/LocalLLaMA/comments/1tluma3/llamacpp_server_have_builtin_native_tools_exec/" target="_blank" rel="noopener noreferrer">llama.cpp server have built-in native tools (exec_shell, edit_file, etc.)</a>
         </div>
         
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1tluma3/llamacpp_server_have_builtin_native_tools_exec/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
           
-          <span class="age">32m ago</span>
+          <span class="age">1h ago</span>
           <span class="score-bar" title="Quality score: 60/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">60</span></span>
         </div>
       </div>
@@ -479,61 +479,25 @@
       <div class="cards">
       <div class="card">
         <div class="card-header">
-          <a class="card-title" href="https://openai.com/index/gartner-2026-agentic-coding-leader" target="_blank" rel="noopener noreferrer">OpenAI named a Leader in enterprise coding agents by Gartner</a>
-        </div>
-        <p class="item-summary">OpenAI recognized as Leader in enterprise coding agents by Gartner 2026 analysis.</p>
-        <div class="card-meta">
-          <a class="source" href="https://openai.com/index/gartner-2026-agentic-coding-leader" target="_blank" rel="noopener noreferrer">OpenAI Blog</a>
-          
-          <span class="age">1d ago</span>
-          <span class="score-bar" title="Quality score: 84/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">84</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/" target="_blank" rel="noopener noreferrer">Microsoft reports AI is more expensive than paying human employees</a>
-        </div>
-        <p class="item-summary">Microsoft reports significant cost challenges showing AI inference remains more expensive than human labor.</p>
-        <div class="card-meta">
-          <a class="source" href="https://news.ycombinator.com/item?id=48244434" target="_blank" rel="noopener noreferrer">Hacker News</a>
-          <span class="upvotes">▲ 218  💬 63</span>
-          <span class="age">19h ago</span>
-          <span class="score-bar" title="Quality score: 76/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">76</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
           <a class="card-title" href="https://www.latent.space/p/ainews-all-model-labs-are-now-agent" target="_blank" rel="noopener noreferrer">[AINews] All Model Labs are now Agent Labs</a>
         </div>
-        <p class="item-summary">Model Labs rebranded to Agent Labs indicating industry shift toward agentic AI focus.</p>
+        <p class="item-summary">Model Labs rebranded as Agent Labs; company product announcement.</p>
         <div class="card-meta">
           <a class="source" href="https://www.latent.space/p/ainews-all-model-labs-are-now-agent" target="_blank" rel="noopener noreferrer">Latent Space</a>
           
-          <span class="age">18h ago</span>
+          <span class="age">20h ago</span>
           <span class="score-bar" title="Quality score: 68/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">68</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://isaiprofitable.com/" target="_blank" rel="noopener noreferrer">Is AI Profitable Yet?</a>
-        </div>
-        <p class="item-summary">Analysis project examining profitability of AI services and business models.</p>
-        <div class="card-meta">
-          <a class="source" href="https://news.ycombinator.com/item?id=48243863" target="_blank" rel="noopener noreferrer">Hacker News</a>
-          <span class="upvotes">▲ 245  💬 191</span>
-          <span class="age">21h ago</span>
-          <span class="score-bar" title="Quality score: 64/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">64</span></span>
         </div>
       </div>
       <div class="card">
         <div class="card-header">
           <a class="card-title" href="https://www.reddit.com/r/MachineLearning/comments/1tlg2ot/alignment_higher_order_prioritizing_over/" target="_blank" rel="noopener noreferrer">Alignment: Higher order prioritizing over constraints [R]</a>
         </div>
-        <p class="item-summary">Research paper on AI alignment using higher-order prioritization mechanisms over constraints.</p>
+        <p class="item-summary">Research on AI alignment through higher-order constraint prioritization.</p>
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/MachineLearning/comments/1tlg2ot/alignment_higher_order_prioritizing_over/" target="_blank" rel="noopener noreferrer">r/MachineLearning</a>
           
-          <span class="age">10h ago</span>
+          <span class="age">11h ago</span>
           <span class="score-bar" title="Quality score: 64/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">64</span></span>
         </div>
       </div>
@@ -545,7 +509,43 @@
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1tl79da/experimental_preserve_thinking_jinja_template_for/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
           
-          <span class="age">17h ago</span>
+          <span class="age">19h ago</span>
+          <span class="score-bar" title="Quality score: 60/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">60</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://www.reddit.com/r/LocalLLaMA/comments/1tlohld/nvfp4_mtp_voilà_on_llamacpp/" target="_blank" rel="noopener noreferrer">NVFP4 + MTP - voilà on llama.cpp</a>
+        </div>
+        
+        <div class="card-meta">
+          <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1tlohld/nvfp4_mtp_voilà_on_llamacpp/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
+          
+          <span class="age">6h ago</span>
+          <span class="score-bar" title="Quality score: 60/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">60</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://www.reddit.com/r/LocalLLaMA/comments/1tlgxms/llamacpp_vs_litert_on_a_custom_xiaomi_12_pro_247/" target="_blank" rel="noopener noreferrer">Llama.cpp VS LiteRT on a custom Xiaomi 12 Pro 24/7 Server (V2 Redesign)</a>
+        </div>
+        
+        <div class="card-meta">
+          <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1tlgxms/llamacpp_vs_litert_on_a_custom_xiaomi_12_pro_247/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
+          
+          <span class="age">11h ago</span>
+          <span class="score-bar" title="Quality score: 60/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">60</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen" target="_blank" rel="noopener noreferrer">Elon, stop trying to make Grok happen. New data suggests government workers don’t like Elon Musk’s chatbot. Does anybody?</a>
+        </div>
+        
+        <div class="card-meta">
+          <a class="source" href="https://www.reddit.com/r/artificial/comments/1tlp9gz/elon_stop_trying_to_make_grok_happen_new_data/" target="_blank" rel="noopener noreferrer">r/artificial</a>
+          
+          <span class="age">5h ago</span>
           <span class="score-bar" title="Quality score: 60/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">60</span></span>
         </div>
       </div>
