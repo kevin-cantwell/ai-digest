@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 May 2026 11:30:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 12:26:03 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Apex-Testing: real-world, real repos, agentic coding benchmark (Update)</title>
@@ -13,7 +13,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tlh4vq/apextesting_realworld_real_repos_agentic_coding/</guid>
       <pubDate>Sat, 23 May 2026 13:54:08 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Apex-Testing introduces a benchmark for agentic coding systems using real-world repositories and codebases.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Apex-Testing introduces a benchmark for agentic coding systems using real-world repositories and code.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Benchmarked Needle 26M vs Qwen3-0.6B on CPU function calling, 50 queries across 5 difficulty tiers. The 23x smaller model wins on accuracy and is 4.4x faster.</title>
@@ -21,15 +21,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tljs5o/benchmarked_needle_26m_vs_qwen306b_on_cpu/</guid>
       <pubDate>Sat, 23 May 2026 15:38:34 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Benchmark comparison showing a smaller local model outperforming a larger model on function calling tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Claude Code has been writing every session to disk since day one. We indexed it.</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1tlu3np/claude_code_has_been_writing_every_session_to/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1tlu3np/claude_code_has_been_writing_every_session_to/</guid>
-      <pubDate>Sat, 23 May 2026 22:25:33 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Analysis of Claude Code&apos;s session history logging behavior and indexing.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Benchmark comparing Needle 26M vs Qwen3-0.6B on CPU function calling across difficulty tiers.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Mythos is being prepared for a release on Claude Code and Claude Security.</title>
@@ -37,23 +29,15 @@
       <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1tlwg2f/mythos_is_being_prepared_for_a_release_on_claude/</guid>
       <pubDate>Sun, 24 May 2026 00:08:58 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Mythos tool is being prepared for release on Claude Code and Claude Security platforms.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Mythos tool is being prepared for release on Claude Code and Claude Security platforms.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Hebbian architecture AI model [R]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1tlgcyf/hebbian_architecture_ai_model_r/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1tlgcyf/hebbian_architecture_ai_model_r/</guid>
-      <pubDate>Sat, 23 May 2026 13:21:11 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research discussion of Hebbian architecture approaches in AI models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Cache miss in Claude Code costs 12.5× more than a hit. Here are 5 things you do mid session that quietly trigger it</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1tlzqpl/cache_miss_in_claude_code_costs_125_more_than_a/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1tlzqpl/cache_miss_in_claude_code_costs_125_more_than_a/</guid>
-      <pubDate>Sun, 24 May 2026 02:43:08 +0000</pubDate>
+      <title>Claude Code has been writing every session to disk since day one. We indexed it.</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1tlu3np/claude_code_has_been_writing_every_session_to/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1tlu3np/claude_code_has_been_writing_every_session_to/</guid>
+      <pubDate>Sat, 23 May 2026 22:25:33 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Analysis of Claude Code&apos;s caching behavior and performance implications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Report that Claude Code has been writing sessions to disk since launch, with indexed analysis.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>[AINews] All Model Labs are now Agent Labs</title>
@@ -61,23 +45,7 @@
       <guid isPermaLink="true">https://www.latent.space/p/ainews-all-model-labs-are-now-agent</guid>
       <pubDate>Sat, 23 May 2026 04:21:17 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> Latent Space<br/><br/>Announcement that Model Labs are being rebranded as Agent Labs.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>llampart 1.0.0 - I released a standalone local web UI for llama-server with translations, extended settings and a polished conversation sidebar</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tlwoho/llampart_100_i_released_a_standalone_local_web_ui/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tlwoho/llampart_100_i_released_a_standalone_local_web_ui/</guid>
-      <pubDate>Sun, 24 May 2026 00:19:41 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Release of llampart 1.0.0, a standalone web UI for llama-server.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Your AI agent is one tool call away from doing something you didn’t authorize. Here’s the fix.</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tm37ut/your_ai_agent_is_one_tool_call_away_from_doing/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tm37ut/your_ai_agent_is_one_tool_call_away_from_doing/</guid>
-      <pubDate>Sun, 24 May 2026 05:35:58 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> r/artificial<br/><br/>Discussion of AI agent security risks and mitigation strategies for tool calls.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> Latent Space<br/><br/>Announcement that Model Labs has been rebranded or reorganized as Agent Labs.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>TTS Benchmark Comparison (all known TTS up until May 2026)</title>
@@ -85,7 +53,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tm0k2l/tts_benchmark_comparison_all_known_tts_up_until/</guid>
       <pubDate>Sun, 24 May 2026 03:21:29 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Comprehensive TTS benchmark comparison across known systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Comprehensive TTS benchmark comparison covering all known text-to-speech systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Where should durable memory live in a multi-agent setup? A small research scaffold</title>
@@ -93,7 +61,55 @@
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tlwgk8/where_should_durable_memory_live_in_a_multiagent/</guid>
       <pubDate>Sun, 24 May 2026 00:09:35 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/artificial<br/><br/>Research scaffold exploring memory architecture design for multi-agent systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/artificial<br/><br/>Research scaffold exploring memory architecture design for multi-agent systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>🚀 Skills for small businesses, officially released by Anthropic</title>
+      <link>https://i.redd.it/gi7erkyqh23h1.jpeg</link>
+      <guid isPermaLink="true">https://i.redd.it/gi7erkyqh23h1.jpeg</guid>
+      <pubDate>Sun, 24 May 2026 11:03:28 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Anthropic officially releases Skills for small businesses feature.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Cache miss in Claude Code costs 12.5× more than a hit. Here are 5 things you do mid session that quietly trigger it</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1tlzqpl/cache_miss_in_claude_code_costs_125_more_than_a/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1tlzqpl/cache_miss_in_claude_code_costs_125_more_than_a/</guid>
+      <pubDate>Sun, 24 May 2026 02:43:08 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Technical analysis of Claude Code cache performance costs and triggering factors.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>llampart 1.0.0 - I released a standalone local web UI for llama-server with translations, extended settings and a polished conversation sidebar</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tlwoho/llampart_100_i_released_a_standalone_local_web_ui/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tlwoho/llampart_100_i_released_a_standalone_local_web_ui/</guid>
+      <pubDate>Sun, 24 May 2026 00:19:41 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Release of llampart 1.0.0, a standalone local web UI for llama-server with extended features.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Your AI agent is one tool call away from doing something you didn’t authorize. Here’s the fix.</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tm37ut/your_ai_agent_is_one_tool_call_away_from_doing/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tm37ut/your_ai_agent_is_one_tool_call_away_from_doing/</guid>
+      <pubDate>Sun, 24 May 2026 05:35:58 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> r/artificial<br/><br/>Discussion of unauthorized tool call risks in AI agents and proposed mitigations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Deterministic multi-subagent orchestration - what&apos;s new in CC 2.1.146 (+4,755 tokens)</title>
+      <link>https://i.redd.it/4ptgd2yzyw2h1.png</link>
+      <guid isPermaLink="true">https://i.redd.it/4ptgd2yzyw2h1.png</guid>
+      <pubDate>Sat, 23 May 2026 16:30:18 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Feature update about deterministic multi-subagent orchestration in Claude Code version 2.1.146.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI</title>
+      <link>https://fs.blog/knowledge-project-podcast/greg-brockman/</link>
+      <guid isPermaLink="true">https://fs.blog/knowledge-project-podcast/greg-brockman/</guid>
+      <pubDate>Sun, 24 May 2026 08:29:38 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>llama.cpp server have built-in native tools (exec_shell, edit_file, etc.)</title>
@@ -148,22 +164,6 @@
       <link>https://i.redd.it/a795ky5ihx2h1.png</link>
       <guid isPermaLink="true">https://i.redd.it/a795ky5ihx2h1.png</guid>
       <pubDate>Sat, 23 May 2026 18:13:34 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Claude saved my money today</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1tlla7m/claude_saved_my_money_today/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1tlla7m/claude_saved_my_money_today/</guid>
-      <pubDate>Sat, 23 May 2026 16:36:14 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>2 types of Claude users</title>
-      <link>https://i.redd.it/8089qj915w2h1.jpeg</link>
-      <guid isPermaLink="true">https://i.redd.it/8089qj915w2h1.jpeg</guid>
-      <pubDate>Sat, 23 May 2026 13:41:30 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
