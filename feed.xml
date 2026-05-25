@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 May 2026 07:37:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 09:23:27 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Constraint Decay: The Fragility of LLM Agents in Back End Code Generation</title>
@@ -13,7 +13,7 @@
       <guid isPermaLink="true">https://arxiv.org/abs/2605.06445</guid>
       <pubDate>Sun, 24 May 2026 12:55:53 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>Research paper analyzing failure modes and fragility of LLM agents in code generation tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>Research paper examining failure modes of LLM agents in code generation tasks, revealing constraints that degrade under real-world conditions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost</title>
@@ -21,7 +21,7 @@
       <guid isPermaLink="true">https://esengine.github.io/DeepSeek-Reasonix/</guid>
       <pubDate>Sun, 24 May 2026 13:02:06 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 80/100<br/><b>Source:</b> Hacker News<br/><br/>DeepSeek releases Reasonix, a native coding agent emphasizing prompt caching and cost efficiency.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 80/100<br/><b>Source:</b> Hacker News<br/><br/>DeepSeek releases Reasonix, a native coding agent optimized for cost and inference speed.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>BitCPM-CANN: Native 1.58-Bit Large Language Model Training on Ascend NPU</title>
@@ -29,15 +29,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tmf63y/bitcpmcann_native_158bit_large_language_model/</guid>
       <pubDate>Sun, 24 May 2026 15:24:26 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Research on 1.58-bit quantized LLM training optimization on Ascend NPU hardware.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>We built a managed memory API for AI agents (open-source SDK + AGM-style belief revision for handling contradictions)</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tmsehf/we_built_a_managed_memory_api_for_ai_agents/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tmsehf/we_built_a_managed_memory_api_for_ai_agents/</guid>
-      <pubDate>Sun, 24 May 2026 23:57:58 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/artificial<br/><br/>Open-source managed memory API for AI agents with belief revision capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>BitCPM-CANN presents native 1.58-bit LLM training technique for Ascend NPU hardware.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Memory has grown to nearly two-thirds of AI chip component costs</title>
@@ -45,7 +37,15 @@
       <guid isPermaLink="true">https://epoch.ai/data-insights/ai-chip-component-cost-shares</guid>
       <pubDate>Sun, 24 May 2026 16:31:29 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Analysis showing memory component costs growing to represent majority of AI chip expenses.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Analysis showing memory costs now represent two-thirds of AI chip component expenses, shifting economics.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>We built a managed memory API for AI agents (open-source SDK + AGM-style belief revision for handling contradictions)</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tmsehf/we_built_a_managed_memory_api_for_ai_agents/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tmsehf/we_built_a_managed_memory_api_for_ai_agents/</guid>
+      <pubDate>Sun, 24 May 2026 23:57:58 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/artificial<br/><br/>Open-source SDK for managed memory in AI agents with belief revision capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>I made a local-first MCP tutorial repo with node-llama-cpp and a custom agent loop</title>
@@ -53,7 +53,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tn1jjy/i_made_a_localfirst_mcp_tutorial_repo_with/</guid>
       <pubDate>Mon, 25 May 2026 07:14:17 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Personal tutorial repository combining node-llama-cpp with custom agent loop implementation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Personal project tutorial combining node-llama-cpp with custom agent loop implementation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>hipEngine: Fast Native Qwen 3.6 Inference for RDNA3 (Strix Halo, 7900 XTX)</title>
@@ -61,7 +61,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tmq4s6/hipengine_fast_native_qwen_36_inference_for_rdna3/</guid>
       <pubDate>Sun, 24 May 2026 22:21:21 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Performance optimization work for Qwen 3.6 inference on RDNA3 GPUs.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>hipEngine enables optimized Qwen 3.6 inference on AMD RDNA3 architecture.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>🚀 Skills for small businesses, officially released by Anthropic</title>
@@ -69,7 +69,15 @@
       <guid isPermaLink="true">https://i.redd.it/gi7erkyqh23h1.jpeg</guid>
       <pubDate>Sun, 24 May 2026 11:03:28 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Anthropic officially releases Skills feature for small businesses.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Anthropic officially releases Skills feature for small business applications of Claude.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Claude is not your architect. Stop letting it pretend</title>
+      <link>https://www.hollandtech.net/claude-is-not-your-architect/</link>
+      <guid isPermaLink="true">https://www.hollandtech.net/claude-is-not-your-architect/</guid>
+      <pubDate>Sun, 24 May 2026 18:28:11 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 62/100<br/><b>Source:</b> Hacker News<br/><br/>Opinion piece critiquing inappropriate use of Claude in architectural roles.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Working on a cgo-free CUDA binding in Go for ML stuff Week 3 - open source [P]</title>
@@ -77,15 +85,15 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1tmb4qw/working_on_a_cgofree_cuda_binding_in_go_for_ml/</guid>
       <pubDate>Sun, 24 May 2026 12:41:07 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Open-source project developing CUDA bindings in Go for ML inference.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Open-source project developing CGO-free CUDA binding for Go-based ML applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Qwen 3.6 benchmarks on 2x RTX PRO 6000</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tn0t7u/qwen_36_benchmarks_on_2x_rtx_pro_6000/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tn0t7u/qwen_36_benchmarks_on_2x_rtx_pro_6000/</guid>
-      <pubDate>Mon, 25 May 2026 06:35:35 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Benchmark results for Qwen 3.6 model on professional GPU hardware.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Multi-agent loop failures might be org-design failures, not prompt failures</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tme23u/multiagent_loop_failures_might_be_orgdesign/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tme23u/multiagent_loop_failures_might_be_orgdesign/</guid>
+      <pubDate>Sun, 24 May 2026 14:42:17 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/artificial<br/><br/>Analysis proposing that multi-agent system failures stem from organizational structure rather than prompt engineering.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>I used Claude Code to build an iPhone app, Apple Watch app, and landing page… now it has 1,500+ users</title>
@@ -93,7 +101,7 @@
       <guid isPermaLink="true">https://loc8app.com</guid>
       <pubDate>Mon, 25 May 2026 03:04:21 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Personal success story of building mobile apps with Claude Code.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Personal success story using Claude Code to build consumer applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>datasette-agent 0.1a4</title>
@@ -101,7 +109,15 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/May/24/datasette-agent/#atom-everything</guid>
       <pubDate>Sun, 24 May 2026 23:19:34 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> Simon Willison<br/><br/>Release of datasette-agent tool enabling SQL database interaction through AI agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> Simon Willison<br/><br/>datasette-agent reaches 0.1a4 alpha release, enabling AI-powered dataset querying.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>server: fix checkpoints creation by jacekpoplawski · Pull Request #22929 · ggml-org/llama.cpp</title>
+      <link>https://github.com/ggml-org/llama.cpp/pull/22929</link>
+      <guid isPermaLink="true">https://github.com/ggml-org/llama.cpp/pull/22929</guid>
+      <pubDate>Mon, 25 May 2026 06:22:12 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>How I do use the recent llama.cpp native tools to do web rag a.k.a. web_fetch (or anything else for the matter) directly from inside the llama-server&apos;s webui</title>
@@ -109,7 +125,15 @@
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tm93ng/how_i_do_use_the_recent_llamacpp_native_tools_to/</guid>
       <pubDate>Sun, 24 May 2026 11:02:32 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Tutorial on using native tools in llama.cpp for web RAG functionality.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Tutorial on using llama.cpp native tools for web-based retrieval augmented generation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>magic incantation to get llama-bench to work with MTP ?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tmlp1n/magic_incantation_to_get_llamabench_to_work_with/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tmlp1n/magic_incantation_to_get_llamabench_to_work_with/</guid>
+      <pubDate>Sun, 24 May 2026 19:26:55 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>How to Hit Claude Limits in One Click</title>
@@ -142,30 +166,6 @@
       <pubDate>Sun, 24 May 2026 16:11:33 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Claude records demo videos for me now</title>
-      <link>https://v.redd.it/zhv4nke8q43h1</link>
-      <guid isPermaLink="true">https://v.redd.it/zhv4nke8q43h1</guid>
-      <pubDate>Sun, 24 May 2026 18:38:15 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Claude&apos;s personality has become condescending and mean lately?</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1tmq2dz/claudes_personality_has_become_condescending_and/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1tmq2dz/claudes_personality_has_become_condescending_and/</guid>
-      <pubDate>Sun, 24 May 2026 22:18:44 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>PapersWithCode new features - week 1 [P]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1tmawv5/paperswithcode_new_features_week_1_p/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1tmawv5/paperswithcode_new_features_week_1_p/</guid>
-      <pubDate>Sun, 24 May 2026 12:31:12 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 56/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Announcement of new features in PapersWithCode platform.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
