@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 May 2026 22:24:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 23:26:50 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>We built a managed memory API for AI agents (open-source SDK + AGM-style belief revision for handling contradictions)</title>
@@ -13,7 +13,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tmsehf/we_built_a_managed_memory_api_for_ai_agents/</guid>
       <pubDate>Sun, 24 May 2026 23:57:58 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/artificial<br/><br/>Release of open-source managed memory API for AI agents with belief revision capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/artificial<br/><br/>Open-source managed memory API for AI agents with belief revision capabilities for handling contradictions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership</title>
@@ -21,7 +21,7 @@
       <guid isPermaLink="true">https://openai.com/index/grupo-folha-grupo-uol-partnership</guid>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces strategic content partnership with Brazilian media groups.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces strategic content partnership with major Brazilian media groups.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Reconstructing the agent methodology: Decoupling decision-making and execution - open source [P]</title>
@@ -29,7 +29,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1tnfxsc/reconstructing_the_agent_methodology_decoupling/</guid>
       <pubDate>Mon, 25 May 2026 17:29:28 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research paper on decoupling decision-making and execution in agent methodology.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Open-source research on agent architecture decoupling decision-making from execution.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>NuExtract3 released: open-weight 4B VLM for Markdown, OCR and structured extraction (self-hostable)</title>
@@ -37,7 +37,15 @@
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tn8utn/nuextract3_released_openweight_4b_vlm_for/</guid>
       <pubDate>Mon, 25 May 2026 13:14:58 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Release of NuExtract3, open-weight 4B vision-language model for document extraction.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>NuExtract3, a 4B open-weight vision-language model for extraction tasks, released for self-hosting.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Building Conifer, an open-source local inference runtime (free + open source)</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tnnaa6/building_conifer_an_opensource_local_inference/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tnnaa6/building_conifer_an_opensource_local_inference/</guid>
+      <pubDate>Mon, 25 May 2026 21:59:09 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/artificial<br/><br/>Open-source local inference runtime called Conifer released for running models locally.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Claude Code malicious phishing site running Google Ads?</title>
@@ -45,7 +53,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1tn4gbx/claude_code_malicious_phishing_site_running/</guid>
       <pubDate>Mon, 25 May 2026 09:53:56 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Report of malicious phishing site potentially abusing Claude Code.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Report of a malicious phishing site potentially associated with Claude Code running Google Ads.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>AI agents need audit trails more than they need more autonomy</title>
@@ -53,7 +61,15 @@
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tnarvu/ai_agents_need_audit_trails_more_than_they_need/</guid>
       <pubDate>Mon, 25 May 2026 14:26:07 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/artificial<br/><br/>Opinion piece arguing that AI agents need audit trails before increased autonomy.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/artificial<br/><br/>Opinion piece arguing AI agents need audit trails prioritized over increased autonomy.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>73% of CISOs say they&apos;re not ready for the next major incident. Traditional IR playbooks don&apos;t cover AI agents. Here&apos;s what does.</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tnm3t4/73_of_cisos_say_theyre_not_ready_for_the_next/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tnm3t4/73_of_cisos_say_theyre_not_ready_for_the_next/</guid>
+      <pubDate>Mon, 25 May 2026 21:13:14 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/artificial<br/><br/>Security industry analysis claiming traditional incident response playbooks don&apos;t cover AI agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>OSCAR RotationZoo - Offline Spectral Covariance-Aware Rotation for 2-bit KV Cache Quantization</title>
@@ -61,7 +77,7 @@
       <guid isPermaLink="true">https://i.redd.it/x4a3z4dgs93h1.jpeg</guid>
       <pubDate>Mon, 25 May 2026 11:52:23 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Publication of OSCAR RotationZoo technique for 2-bit KV cache quantization in LLMs.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Research paper on OSCAR RotationZoo for 2-bit KV cache quantization in language models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Full Attention Strikes Back: Transferring Full Attention into Sparse within Hundred Training Steps</title>
@@ -69,7 +85,7 @@
       <guid isPermaLink="true">https://arxiv.org/abs/2605.16928</guid>
       <pubDate>Mon, 25 May 2026 15:03:11 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Research on converting full attention to sparse attention with minimal training steps.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Research on efficiently converting full attention mechanisms to sparse attention within minimal training steps.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>I used Claude Code to build an iPhone app, Apple Watch app, and landing page… now it has 1,500+ users</title>
@@ -77,7 +93,23 @@
       <guid isPermaLink="true">https://loc8app.com</guid>
       <pubDate>Mon, 25 May 2026 03:04:21 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Personal account of using Claude Code to build mobile and web apps that gained users.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Personal success story of using Claude Code to build multiple apps that gained user adoption.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>AI content detector based on Qwen 0.8b fine-tuned on Pangram dataset</title>
+      <link>https://v.redd.it/h0w2t67xkb3h1</link>
+      <guid isPermaLink="true">https://v.redd.it/h0w2t67xkb3h1</guid>
+      <pubDate>Mon, 25 May 2026 17:52:16 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Is there any case of a less quantised smaller model outperforming a more quantised larger model?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tnff26/is_there_any_case_of_a_less_quantised_smaller/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tnff26/is_there_any_case_of_a_less_quantised_smaller/</guid>
+      <pubDate>Mon, 25 May 2026 17:11:42 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Want Built a React-style looping agent with small LLMs (Qwen 3.5 9B / Gemma4) + LangGraph?</title>
@@ -125,7 +157,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1tnn89v/aiki_my_local_wikipedia_retrievalaugmented/</guid>
       <pubDate>Mon, 25 May 2026 21:56:57 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 64/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Release of local Wikipedia retrieval-augmented generation system.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 64/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research project presenting a local Wikipedia-based retrieval-augmented generation system.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Is Qwen3.6 current king for local agentic use?</title>
@@ -133,39 +165,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tnbz23/is_qwen36_current_king_for_local_agentic_use/</guid>
       <pubDate>Mon, 25 May 2026 15:09:33 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Discussion thread asking whether Qwen3.6 is the best local model for agentic applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>73% of CISOs say they&apos;re not ready for the next major incident. Traditional IR playbooks don&apos;t cover AI agents. Here&apos;s what does.</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tnm3t4/73_of_cisos_say_theyre_not_ready_for_the_next/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tnm3t4/73_of_cisos_say_theyre_not_ready_for_the_next/</guid>
-      <pubDate>Mon, 25 May 2026 21:13:14 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> r/artificial<br/><br/>Report citing CISO survey about incident response readiness for AI agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Call for Papers - Workshop on Unlearning and Model Editing U&amp;ME at ECCV 2026 [R]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1tn68gp/call_for_papers_workshop_on_unlearning_and_model/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1tn68gp/call_for_papers_workshop_on_unlearning_and_model/</guid>
-      <pubDate>Mon, 25 May 2026 11:22:43 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Call for papers for workshop on model unlearning and editing at ECCV 2026.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>server: fix checkpoints creation by jacekpoplawski · Pull Request #22929 · ggml-org/llama.cpp</title>
-      <link>https://github.com/ggml-org/llama.cpp/pull/22929</link>
-      <guid isPermaLink="true">https://github.com/ggml-org/llama.cpp/pull/22929</guid>
-      <pubDate>Mon, 25 May 2026 06:22:12 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>How I protect my health when using Claude (and how I didn&apos;t before)</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1tnhbp7/how_i_protect_my_health_when_using_claude_and_how/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1tnhbp7/how_i_protect_my_health_when_using_claude_and_how/</guid>
-      <pubDate>Mon, 25 May 2026 18:19:08 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Discussion thread asking whether Qwen3.6 is the best model for local agentic use cases.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
