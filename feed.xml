@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 May 2026 01:40:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 03:10:16 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Is Qwen3.6 current king for local agentic use?</title>
@@ -77,7 +77,7 @@
       <guid isPermaLink="true">https://openai.com/index/grupo-folha-grupo-uol-partnership</guid>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces strategic content partnership with Brazilian media groups Grupo Folha and Grupo UOL.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces strategic content partnership with major Brazilian media groups Grupo Folha and Grupo UOL.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>GPT Guesses Between 1 and 100</title>
@@ -109,7 +109,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1tnfxsc/reconstructing_the_agent_methodology_decoupling/</guid>
       <pubDate>Mon, 25 May 2026 17:29:28 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Open-source methodology for agent systems decoupling decision-making and execution components.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Open-source research on decoupling decision-making and execution in agent methodology.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>NuExtract3 released: open-weight 4B VLM for Markdown, OCR and structured extraction (self-hostable)</title>
@@ -117,7 +117,15 @@
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tn8utn/nuextract3_released_openweight_4b_vlm_for/</guid>
       <pubDate>Mon, 25 May 2026 13:14:58 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>NuExtract3, a 4B open-weight vision language model for structured data extraction, released.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>NuExtract3, an open-weight 4B VLM for Markdown, OCR, and structured extraction, is released.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>New local model reaching near frontier on PII removal at 9 ms CPU inference</title>
+      <link>https://screenpipe.github.io/screenleak/</link>
+      <guid isPermaLink="true">https://screenpipe.github.io/screenleak/</guid>
+      <pubDate>Tue, 26 May 2026 00:16:06 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>New local model achieves near-frontier performance on PII removal with 9ms CPU inference.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Building Conifer, an open-source local inference runtime (free + open source)</title>
@@ -125,7 +133,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tnnaa6/building_conifer_an_opensource_local_inference/</guid>
       <pubDate>Mon, 25 May 2026 21:59:09 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/artificial<br/><br/>Conifer, an open-source local inference runtime, released for deployment flexibility.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/artificial<br/><br/>Conifer, an open-source local inference runtime, is being built and released.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude</title>
@@ -152,20 +160,12 @@
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Pope Leo: opaque AI run by few firms risks &quot;New Forms of Dehumanization&quot;</title>
-      <link>https://variety.com/2026/biz/global/pope-leo-ai-encyclical-algorithms-threaten-dehumanisation-1236758186/</link>
-      <guid isPermaLink="true">https://variety.com/2026/biz/global/pope-leo-ai-encyclical-algorithms-threaten-dehumanisation-1236758186/</guid>
-      <pubDate>Mon, 25 May 2026 13:12:40 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
       <title>Full Attention Strikes Back: Transferring Full Attention into Sparse within Hundred Training Steps</title>
       <link>https://arxiv.org/abs/2605.16928</link>
       <guid isPermaLink="true">https://arxiv.org/abs/2605.16928</guid>
       <pubDate>Mon, 25 May 2026 15:03:11 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Research demonstrates efficient attention mechanism transfer method achieving sparse attention within minimal training steps.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Research on efficiently transferring full attention mechanisms to sparse attention within hundred training steps.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
