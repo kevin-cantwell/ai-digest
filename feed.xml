@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 May 2026 19:40:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 20:42:33 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>If you&apos;ve ever wondered how rigorous data analysis+social science research can look with AI, I&apos;ve finally launched a nice website for my open-source Claude Code researcher&apos;s toolkit: the Data Analyst Augmentation Framework! Equal parts interactive explainer on agentic orchestration + free tool</title>
@@ -69,7 +69,7 @@
       <guid isPermaLink="true">https://v.redd.it/2ltnmcnp2j3h1</guid>
       <pubDate>Tue, 26 May 2026 18:53:40 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>PrismML released Binary and Ternary Bonsai Image 4B, enabling 1-bit/ternary text-to-image diffusion transformers that run locally in browsers via WebGPU.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>PrismML released Binary and Ternary Bonsai Image 4B, 1-bit/ternary text-to-image diffusion transformers runnable locally on WebGPU.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>qwen 3.6 27B AR-&gt; Diffusion - local training on 5090</title>
@@ -80,20 +80,12 @@
       <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>New local model reaching near frontier on PII removal at 9 ms CPU inference</title>
-      <link>https://screenpipe.github.io/screenleak/</link>
-      <guid isPermaLink="true">https://screenpipe.github.io/screenleak/</guid>
-      <pubDate>Tue, 26 May 2026 00:16:06 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Building Conifer, an open-source local inference runtime (free + open source)</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tnnaa6/building_conifer_an_opensource_local_inference/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tnnaa6/building_conifer_an_opensource_local_inference/</guid>
-      <pubDate>Mon, 25 May 2026 21:59:09 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership</title>
+      <link>https://openai.com/index/grupo-folha-grupo-uol-partnership</link>
+      <guid isPermaLink="true">https://openai.com/index/grupo-folha-grupo-uol-partnership</guid>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces strategic content partnership with Grupo Folha and Grupo UOL.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>model : add support for talkie-1930-13b by niklassheth · Pull Request #22596 · ggml-org/llama.cpp</title>
@@ -112,12 +104,20 @@
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 75/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership</title>
-      <link>https://openai.com/index/grupo-folha-grupo-uol-partnership</link>
-      <guid isPermaLink="true">https://openai.com/index/grupo-folha-grupo-uol-partnership</guid>
-      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announced a strategic content partnership with Brazilian media groups Grupo Folha and Grupo UOL.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>New local model reaching near frontier on PII removal at 9 ms CPU inference</title>
+      <link>https://screenpipe.github.io/screenleak/</link>
+      <guid isPermaLink="true">https://screenpipe.github.io/screenleak/</guid>
+      <pubDate>Tue, 26 May 2026 00:16:06 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>New local model demonstrates near-frontier performance on PII removal with 9ms CPU inference.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Building Conifer, an open-source local inference runtime (free + open source)</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tnnaa6/building_conifer_an_opensource_local_inference/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tnnaa6/building_conifer_an_opensource_local_inference/</guid>
+      <pubDate>Mon, 25 May 2026 21:59:09 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/artificial<br/><br/>Conifer, an open-source local inference runtime, is being developed and released.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Outsourcing plus local AI will soon become more economical vs. frontier labs</title>
@@ -136,12 +136,20 @@
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Using AI to write better code more slowly</title>
-      <link>https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/</link>
-      <guid isPermaLink="true">https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/</guid>
-      <pubDate>Mon, 25 May 2026 23:16:59 +0000</pubDate>
+      <title>Aiki my local Wikipedia Retrieval-Augmented Generation system [R]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1tnn89v/aiki_my_local_wikipedia_retrievalaugmented/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1tnn89v/aiki_my_local_wikipedia_retrievalaugmented/</guid>
+      <pubDate>Mon, 25 May 2026 21:56:57 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>A rare look inside Qwen 3.7’s open source model release approval process:</title>
+      <link>https://i.redd.it/01aov0rxdj3h1.gif</link>
+      <guid isPermaLink="true">https://i.redd.it/01aov0rxdj3h1.gif</guid>
+      <pubDate>Tue, 26 May 2026 19:52:22 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Analysis of Qwen 3.7&apos;s open source model release approval process.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>[D] Where do you go for serious AI research discussion online? [D]</title>
@@ -158,14 +166,6 @@
       <pubDate>Tue, 26 May 2026 13:36:10 +0000</pubDate>
       <category>Research &amp; Papers</category>
       <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Anyone else dread keeping web, Android, and iOS releases in sync?</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1tnr1vf/anyone_else_dread_keeping_web_android_and_ios/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1tnr1vf/anyone_else_dread_keeping_web_android_and_ios/</guid>
-      <pubDate>Tue, 26 May 2026 00:37:17 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
