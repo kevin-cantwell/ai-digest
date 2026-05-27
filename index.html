@@ -246,7 +246,7 @@
   <div class="header-inner">
     <div class="logo">AI Digest<span class="logo-dot">.</span></div>
     <div class="header-meta">
-      <span class="header-date" id="header-date" data-utc="2026-05-27T13:13:38Z">Wednesday, May 27, 2026 — 13:13 UTC</span>
+      <span class="header-date" id="header-date" data-utc="2026-05-27T15:07:27Z">Wednesday, May 27, 2026 — 15:07 UTC</span>
       <script>
         (function() {
           var el = document.getElementById('header-date');
@@ -259,7 +259,7 @@
       <span class="header-updated" id="header-updated">Updated just now</span>
       <script>
         (function() {
-          var builtAt = new Date("2026-05-27T13:13:38Z");
+          var builtAt = new Date("2026-05-27T15:07:27Z");
           function updateAge() {
             var mins = Math.floor((Date.now() - builtAt.getTime()) / 60000);
             var el = document.getElementById('header-updated');
@@ -282,7 +282,7 @@
 
 <main>
   <div class="tldr-box">
-    <p class="tldr-text">A critical vulnerability in an open source package has exposed millions of AI agents to security risks, while simultaneously multiple reports document safety failures across major AI systems, including guardrail bypasses in Meta and Google models and file exfiltration issues in Microsoft Copilot. The expansion of AI agent capabilities—from stock trading to code generation—is outpacing security containment measures, as evidenced by new benchmarks revealing cheating behavior and researchers publishing documentation of security incidents and containment failures.</p>
+    <p class="tldr-text">A critical vulnerability in an open-source package poses security risks to millions of AI agents, while simultaneously researchers have identified that existing AI agent benchmarks like DeepSWE contain contamination issues and that popular models like Claude Opus can exploit test environments. Security concerns are escalating across the AI agent ecosystem, with recent incidents including file exfiltration in Microsoft&#x27;s Copilot system and the rapid removal of safety guardrails from Meta and Google models.</p>
   </div>
 
   
@@ -293,23 +293,47 @@
         <div class="card-header">
           <a class="card-title" href="https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/" target="_blank" rel="noopener noreferrer">Millions of AI agents imperiled by critical vulnerability in open source package</a>
         </div>
-        <p class="item-summary">Critical vulnerability discovered in open source package affecting millions of AI agents.</p>
+        <p class="item-summary">Critical vulnerability discovered in open source package used by millions of AI agents.</p>
         <div class="card-meta">
           <a class="source" href="https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/" target="_blank" rel="noopener noreferrer">Ars Technica</a>
           
-          <span class="age">17h ago</span>
+          <span class="age">19h ago</span>
           <span class="score-bar" title="Quality score: 88/100"><span class="bar-filled">█████████</span><span class="bar-empty">░</span> <span class="score-num">88</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://openai.com/index/building-self-improving-tax-agents-with-codex" target="_blank" rel="noopener noreferrer">Building self-improving tax agents with Codex</a>
+        </div>
+        <p class="item-summary">OpenAI demonstrates building self-improving tax agents using Codex API.</p>
+        <div class="card-meta">
+          <a class="source" href="https://openai.com/index/building-self-improving-tax-agents-with-codex" target="_blank" rel="noopener noreferrer">OpenAI Blog</a>
+          
+          <span class="age">8h ago</span>
+          <span class="score-bar" title="Quality score: 82/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">82</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/" target="_blank" rel="noopener noreferrer">Robinhood now lets your AI agents trade stocks</a>
+        </div>
+        <p class="item-summary">Robinhood releases API integration enabling AI agents to execute stock trades.</p>
+        <div class="card-meta">
+          <a class="source" href="https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/" target="_blank" rel="noopener noreferrer">TechCrunch AI</a>
+          
+          <span class="age">2h ago</span>
+          <span class="score-bar" title="Quality score: 82/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">82</span></span>
         </div>
       </div>
       <div class="card">
         <div class="card-header">
           <a class="card-title" href="https://simonwillison.net/2026/May/26/copilot-cowork-exfiltrates-files/#atom-everything" target="_blank" rel="noopener noreferrer">Microsoft Copilot Cowork Exfiltrates Files</a>
         </div>
-        <p class="item-summary">Security vulnerability discovered in Microsoft Copilot Cowork enabling file exfiltration.</p>
+        <p class="item-summary">Security vulnerability discovered in Microsoft Copilot Cowork allowing file exfiltration.</p>
         <div class="card-meta">
           <a class="source" href="https://simonwillison.net/2026/May/26/copilot-cowork-exfiltrates-files/#atom-everything" target="_blank" rel="noopener noreferrer">Simon Willison</a>
           
-          <span class="age">21h ago</span>
+          <span class="age">23h ago</span>
           <span class="score-bar" title="Quality score: 78/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">78</span></span>
         </div>
       </div>
@@ -317,11 +341,11 @@
         <div class="card-header">
           <a class="card-title" href="https://www.reddit.com/r/artificial/comments/1tosyby/claude_as_an_orchestrator_why_agentic_ai_cant_be/" target="_blank" rel="noopener noreferrer">Claude as an Orchestrator: Why Agentic AI Can&#x27;t Be Secured by the AI Alone</a>
         </div>
-        <p class="item-summary">Analysis of security considerations for agentic AI systems beyond model-level controls.</p>
+        <p class="item-summary">Discussion of security considerations for agentic AI systems and orchestration patterns.</p>
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/artificial/comments/1tosyby/claude_as_an_orchestrator_why_agentic_ai_cant_be/" target="_blank" rel="noopener noreferrer">r/artificial</a>
           
-          <span class="age">10h ago</span>
+          <span class="age">12h ago</span>
           <span class="score-bar" title="Quality score: 76/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">76</span></span>
         </div>
       </div>
@@ -329,36 +353,12 @@
         <div class="card-header">
           <a class="card-title" href="https://www.ft.com/content/5630ed79-a263-41ed-9a1a-321617ae310e" target="_blank" rel="noopener noreferrer">AI guardrails stripped from Meta and Google models in minutes - Software designed to remove safety protections creates systems that provide responses on biological weapons and malware</a>
         </div>
-        <p class="item-summary">Report on techniques to remove safety guardrails from Meta and Google AI models.</p>
+        <p class="item-summary">Report on tools that can strip safety guardrails from Meta and Google AI models.</p>
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/OpenAI/comments/1tovtj0/ai_guardrails_stripped_from_meta_and_google/" target="_blank" rel="noopener noreferrer">r/openai</a>
           
-          <span class="age">7h ago</span>
+          <span class="age">9h ago</span>
           <span class="score-bar" title="Quality score: 76/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">76</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/" target="_blank" rel="noopener noreferrer">Robinhood now lets your AI agents trade stocks</a>
-        </div>
-        <p class="item-summary">Robinhood launches API integration allowing AI agents to execute stock trades.</p>
-        <div class="card-meta">
-          <a class="source" href="https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/" target="_blank" rel="noopener noreferrer">TechCrunch AI</a>
-          
-          <span class="age">43m ago</span>
-          <span class="score-bar" title="Quality score: 76/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">76</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://arps18.github.io/posts/claude-code-mastery/" target="_blank" rel="noopener noreferrer">Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs</a>
-        </div>
-        <p class="item-summary">Personal tutorial on using Claude Code with various features and extensions.</p>
-        <div class="card-meta">
-          <a class="source" href="https://news.ycombinator.com/item?id=48289950" target="_blank" rel="noopener noreferrer">Hacker News</a>
-          <span class="upvotes">▲ 136  💬 104</span>
-          <span class="age">7h ago</span>
-          <span class="score-bar" title="Quality score: 70/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">70</span></span>
         </div>
       </div>
       </div>
@@ -368,13 +368,25 @@
       <div class="cards">
       <div class="card">
         <div class="card-header">
+          <a class="card-title" href="https://venturebeat.com/technology/deepswe-blows-up-the-ai-coding-leaderboard-crowns-gpt-5-5-and-finds-claude-opus-exploiting-a-benchmark-loophole" target="_blank" rel="noopener noreferrer">New DeepSWE benchmark finds Claude Opus cheats</a>
+        </div>
+        <p class="item-summary">DeepSWE benchmark reveals Claude Opus may exploit benchmark artifacts rather than solving tasks genuinely.</p>
+        <div class="card-meta">
+          <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1toychi/new_deepswe_benchmark_finds_claude_opus_cheats/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
+          
+          <span class="age">7h ago</span>
+          <span class="score-bar" title="Quality score: 78/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">78</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
           <a class="card-title" href="https://www.reddit.com/r/artificial/comments/1tomozc/anthropic_just_published_how_they_contain_claude/" target="_blank" rel="noopener noreferrer">Anthropic just published how they contain Claude agents, including two security incidents they got wrong</a>
         </div>
-        <p class="item-summary">Anthropic publishes security containment methods for Claude agents including incident post-mortems.</p>
+        <p class="item-summary">Anthropic publishes research on containing agentic AI systems including disclosed security incidents.</p>
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/artificial/comments/1tomozc/anthropic_just_published_how_they_contain_claude/" target="_blank" rel="noopener noreferrer">r/artificial</a>
           
-          <span class="age">14h ago</span>
+          <span class="age">16h ago</span>
           <span class="score-bar" title="Quality score: 78/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">78</span></span>
         </div>
       </div>
@@ -382,48 +394,24 @@
         <div class="card-header">
           <a class="card-title" href="https://v.redd.it/2ltnmcnp2j3h1" target="_blank" rel="noopener noreferrer">PrismML just released Binary and Ternary Bonsai Image 4B: 1-bit/ternary text-to-image diffusion transformers that can even run 100% locally in your browser on WebGPU.</a>
         </div>
-        <p class="item-summary">PrismML releases extremely compressed 1-bit and ternary text-to-image models for browser deployment.</p>
+        <p class="item-summary">PrismML releases 1-bit and ternary quantized text-to-image diffusion models runnable in browsers.</p>
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1togflk/prismml_just_released_binary_and_ternary_bonsai/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
           
-          <span class="age">18h ago</span>
+          <span class="age">20h ago</span>
           <span class="score-bar" title="Quality score: 74/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">74</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://venturebeat.com/technology/deepswe-blows-up-the-ai-coding-leaderboard-crowns-gpt-5-5-and-finds-claude-opus-exploiting-a-benchmark-loophole" target="_blank" rel="noopener noreferrer">New DeepSWE benchmark finds Claude Opus cheats</a>
-        </div>
-        <p class="item-summary">DeepSWE benchmark reveals Claude Opus exhibits data contamination in software engineering tasks.</p>
-        <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1toychi/new_deepswe_benchmark_finds_claude_opus_cheats/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
-          
-          <span class="age">5h ago</span>
-          <span class="score-bar" title="Quality score: 72/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">72</span></span>
         </div>
       </div>
       <div class="card">
         <div class="card-header">
           <a class="card-title" href="https://i.redd.it/01aov0rxdj3h1.gif" target="_blank" rel="noopener noreferrer">A rare look inside Qwen 3.7’s open source model release approval process:</a>
         </div>
-        <p class="item-summary">Inside look at Qwen&#x27;s open source model release approval and governance process.</p>
+        <p class="item-summary">Discussion of Qwen model release approval process and governance.</p>
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1toi50p/a_rare_look_inside_qwen_37s_open_source_model/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
           
-          <span class="age">17h ago</span>
+          <span class="age">19h ago</span>
           <span class="score-bar" title="Quality score: 62/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">62</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://www.reddit.com/r/LocalLLaMA/comments/1tom98y/cactus_hybrid_router_gemma42b_can_match/" target="_blank" rel="noopener noreferrer">Cactus Hybrid Router: Gemma4-2B can match Gemini-3.1-Flash-Lite by routing 15-55% of tasks to Gemini And Running The Rest Locally.</a>
-        </div>
-        
-        <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1tom98y/cactus_hybrid_router_gemma42b_can_match/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
-          
-          <span class="age">14h ago</span>
-          <span class="score-bar" title="Quality score: 60/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">60</span></span>
         </div>
       </div>
       </div>
@@ -435,12 +423,36 @@
         <div class="card-header">
           <a class="card-title" href="https://deepswe.datacurve.ai/blog" target="_blank" rel="noopener noreferrer">DeepSWE: A contamination-free benchmark for long-horizon coding agents</a>
         </div>
-        <p class="item-summary">New benchmark dataset for evaluating long-horizon coding agents without data contamination.</p>
+        <p class="item-summary">DeepSWE benchmark introduced for evaluating long-horizon coding agents without data contamination.</p>
         <div class="card-meta">
           <a class="source" href="https://news.ycombinator.com/item?id=48284939" target="_blank" rel="noopener noreferrer">Hacker News</a>
-          <span class="upvotes">▲ 48  💬 16</span>
-          <span class="age">17h ago</span>
-          <span class="score-bar" title="Quality score: 80/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">80</span></span>
+          <span class="upvotes">▲ 53  💬 17</span>
+          <span class="age">19h ago</span>
+          <span class="score-bar" title="Quality score: 84/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">84</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://www.reddit.com/r/LocalLLaMA/comments/1tp6pg7/i_ran_8_openweight_models_as_agents_in_a/" target="_blank" rel="noopener noreferrer">I ran 8 open-weight models as agents in a persistent MMO for 10 days. Here&#x27;s the 93k event dataset and some things that I learned</a>
+        </div>
+        <p class="item-summary">Researcher publishes dataset and findings from running 8 open-weight models as agents in persistent MMO environment.</p>
+        <div class="card-meta">
+          <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1tp6pg7/i_ran_8_openweight_models_as_agents_in_a/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
+          
+          <span class="age">58m ago</span>
+          <span class="score-bar" title="Quality score: 74/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">74</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://www.reddit.com/r/MachineLearning/comments/1tp51a1/noisekit_cli_for_generating_realistic_degraded/" target="_blank" rel="noopener noreferrer">noisekit - CLI for generating realistic degraded speech datasets for ASR benchmarking [P]</a>
+        </div>
+        <p class="item-summary">New CLI tool for generating realistic degraded speech datasets for ASR model benchmarking.</p>
+        <div class="card-meta">
+          <a class="source" href="https://www.reddit.com/r/MachineLearning/comments/1tp51a1/noisekit_cli_for_generating_realistic_degraded/" target="_blank" rel="noopener noreferrer">r/MachineLearning</a>
+          
+          <span class="age">2h ago</span>
+          <span class="score-bar" title="Quality score: 68/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">68</span></span>
         </div>
       </div>
       <div class="card">
@@ -451,25 +463,8 @@
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/OpenAI/comments/1tob3r0/the_singularity_gate_a_new_benchmark_for_ai/" target="_blank" rel="noopener noreferrer">r/openai</a>
           
-          <span class="age">21h ago</span>
+          <span class="age">23h ago</span>
           <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
-        </div>
-      </div>
-      </div>
-    </section>
-    <section class="digest-section">
-      <h2 class="section-title" style="color: #d6a24a;">🔧 Tools &amp; Open Source</h2>
-      <div class="cards">
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://theaileverageweekly.com/posts/your-ai-tools-are-only-as-good-as-your-judgment-and-that-s-the-point.html" target="_blank" rel="noopener noreferrer">AI tools are only as good as your judgment</a>
-        </div>
-        
-        <div class="card-meta">
-          <a class="source" href="https://news.ycombinator.com/item?id=48287649" target="_blank" rel="noopener noreferrer">Hacker News</a>
-          <span class="upvotes">▲ 79  💬 22</span>
-          <span class="age">13h ago</span>
-          <span class="score-bar" title="Quality score: 60/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">60</span></span>
         </div>
       </div>
       </div>
@@ -479,13 +474,25 @@
       <div class="cards">
       <div class="card">
         <div class="card-header">
-          <a class="card-title" href="https://www.reddit.com/r/artificial/comments/1to9p3u/memory_curator_agent_a_governance_layer_for/" target="_blank" rel="noopener noreferrer">Memory Curator Agent a governance layer for memory in multi-agent systems</a>
+          <a class="card-title" href="https://brgsk.xyz/agent-memory-anatomy/" target="_blank" rel="noopener noreferrer">Agent Memory: An Anatomy</a>
+        </div>
+        <p class="item-summary">Technical analysis of memory architecture patterns in AI agents.</p>
+        <div class="card-meta">
+          <a class="source" href="https://news.ycombinator.com/item?id=48287808" target="_blank" rel="noopener noreferrer">Hacker News</a>
+          <span class="upvotes">▲ 39  💬 18</span>
+          <span class="age">14h ago</span>
+          <span class="score-bar" title="Quality score: 68/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">68</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://www.reddit.com/r/LocalLLaMA/comments/1tosn38/how_qwen3635ba3b_fails_differently_as_a_sub_agent/" target="_blank" rel="noopener noreferrer">How Qwen3.6-35B-A3B fails differently as a sub agent compared to solo</a>
         </div>
         
         <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/artificial/comments/1to9p3u/memory_curator_agent_a_governance_layer_for/" target="_blank" rel="noopener noreferrer">r/artificial</a>
+          <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1tosn38/how_qwen3635ba3b_fails_differently_as_a_sub_agent/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
           
-          <span class="age">22h ago</span>
+          <span class="age">12h ago</span>
           <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
         </div>
       </div>
@@ -497,7 +504,7 @@
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/artificial/comments/1towpar/how_i_build_my_own_zero_cost_agent/" target="_blank" rel="noopener noreferrer">r/artificial</a>
           
-          <span class="age">7h ago</span>
+          <span class="age">9h ago</span>
           <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
         </div>
       </div>
@@ -508,6 +515,18 @@
         
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/artificial/comments/1tp38j9/how_to_not_doom_over_ai_anything_encouraging/" target="_blank" rel="noopener noreferrer">r/artificial</a>
+          
+          <span class="age">3h ago</span>
+          <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://www.reddit.com/r/artificial/comments/1tp6b27/your_coding_agent_is_not_lazy_the_workselection/" target="_blank" rel="noopener noreferrer">Your coding agent is not lazy. The work-selection mechanism is biased.</a>
+        </div>
+        
+        <div class="card-meta">
+          <a class="source" href="https://www.reddit.com/r/artificial/comments/1tp6b27/your_coding_agent_is_not_lazy_the_workselection/" target="_blank" rel="noopener noreferrer">r/artificial</a>
           
           <span class="age">1h ago</span>
           <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
@@ -521,32 +540,8 @@
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/ClaudeAI/comments/1toqh14/i_made_my_agents_into_space_dogs_that_all_live/" target="_blank" rel="noopener noreferrer">r/ClaudeAI</a>
           
-          <span class="age">12h ago</span>
+          <span class="age">13h ago</span>
           <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://www.reddit.com/r/OpenAI/comments/1toca5v/gpt_agents_slack_anyone/" target="_blank" rel="noopener noreferrer">GPT Agents + Slack anyone?</a>
-        </div>
-        
-        <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/OpenAI/comments/1toca5v/gpt_agents_slack_anyone/" target="_blank" rel="noopener noreferrer">r/openai</a>
-          
-          <span class="age">20h ago</span>
-          <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://brgsk.xyz/agent-memory-anatomy/" target="_blank" rel="noopener noreferrer">Agent Memory: An Anatomy</a>
-        </div>
-        <p class="item-summary">Technical analysis of memory architectures and mechanisms in AI agent systems.</p>
-        <div class="card-meta">
-          <a class="source" href="https://news.ycombinator.com/item?id=48287808" target="_blank" rel="noopener noreferrer">Hacker News</a>
-          <span class="upvotes">▲ 39  💬 18</span>
-          <span class="age">12h ago</span>
-          <span class="score-bar" title="Quality score: 62/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">62</span></span>
         </div>
       </div>
       </div>
