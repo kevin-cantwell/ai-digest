@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 May 2026 00:47:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 01:44:30 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Millions of AI agents imperiled by critical vulnerability in open source package</title>
@@ -13,7 +13,7 @@
       <guid isPermaLink="true">https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/</guid>
       <pubDate>Tue, 26 May 2026 19:50:33 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 88/100<br/><b>Source:</b> Ars Technica<br/><br/>A critical security vulnerability in an open source package threatens millions of deployed AI agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 94/100<br/><b>Source:</b> Ars Technica<br/><br/>Critical security vulnerability discovered in open source package affecting millions of AI agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Microsoft Copilot Cowork Exfiltrates Files</title>
@@ -21,7 +21,7 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/May/26/copilot-cowork-exfiltrates-files/#atom-everything</guid>
       <pubDate>Tue, 26 May 2026 15:36:48 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 84/100<br/><b>Source:</b> Simon Willison<br/><br/>Microsoft Copilot Cowork reports file exfiltration security vulnerability.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 84/100<br/><b>Source:</b> Simon Willison<br/><br/>Security vulnerability discovered in Microsoft Copilot Cowork allowing file exfiltration.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>PrismML just released Binary and Ternary Bonsai Image 4B: 1-bit/ternary text-to-image diffusion transformers that can even run 100% locally in your browser on WebGPU.</title>
@@ -29,7 +29,7 @@
       <guid isPermaLink="true">https://v.redd.it/2ltnmcnp2j3h1</guid>
       <pubDate>Tue, 26 May 2026 18:53:40 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>PrismML releases 1-bit and ternary quantized text-to-image diffusion models for local browser execution.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>PrismML releases 1-bit and ternary text-to-image diffusion models with browser-based local inference.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Anthropic just published how they contain Claude agents, including two security incidents they got wrong</title>
@@ -37,7 +37,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tomozc/anthropic_just_published_how_they_contain_claude/</guid>
       <pubDate>Tue, 26 May 2026 22:36:38 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 78/100<br/><b>Source:</b> r/artificial<br/><br/>Anthropic publishes research on containing Claude agents, including documented security incidents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 78/100<br/><b>Source:</b> r/artificial<br/><br/>Anthropic publishes research on agent containment including security incidents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Microsoft, has started canceling Claude Code licenses, per the Verge</title>
@@ -45,23 +45,15 @@
       <guid isPermaLink="true">https://i.redd.it/4nskxdbpeh3h1.png</guid>
       <pubDate>Tue, 26 May 2026 13:13:28 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Microsoft reportedly canceling Claude Code licenses, indicating potential business shifts in AI licensing.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Microsoft reportedly canceling Claude Code licenses.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Keye-VL-2.0-30B-A3B -- Introducing DSA attention into multimodality for the first time</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1to63rt/keyevl2030ba3b_introducing_dsa_attention_into/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1to63rt/keyevl2030ba3b_introducing_dsa_attention_into/</guid>
-      <pubDate>Tue, 26 May 2026 12:55:05 +0000</pubDate>
+      <title>Agent Memory: An Anatomy</title>
+      <link>https://brgsk.xyz/agent-memory-anatomy/</link>
+      <guid isPermaLink="true">https://brgsk.xyz/agent-memory-anatomy/</guid>
+      <pubDate>Wed, 27 May 2026 00:18:06 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Keye-VL 2.0 introduces DSA attention mechanism to multimodal vision-language models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>The Singularity Gate – a new benchmark for AI predicting post-cutoff scientific discoveries</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1tob3r0/the_singularity_gate_a_new_benchmark_for_ai/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/OpenAI/comments/1tob3r0/the_singularity_gate_a_new_benchmark_for_ai/</guid>
-      <pubDate>Tue, 26 May 2026 15:54:23 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/openai<br/><br/>Singularity Gate benchmark released to evaluate AI performance on post-cutoff scientific discovery prediction.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> Hacker News<br/><br/>Technical analysis of agent memory architecture and design patterns.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>[P] Built a portable GPU ISA after reading too many architecture manuals [P]</title>
@@ -69,7 +61,31 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1to76tv/p_built_a_portable_gpu_isa_after_reading_too_many/</guid>
       <pubDate>Tue, 26 May 2026 13:36:10 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Developer presents portable GPU instruction set architecture project.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Project announcement of portable GPU ISA implementation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Keye-VL-2.0-30B-A3B -- Introducing DSA attention into multimodality for the first time</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1to63rt/keyevl2030ba3b_introducing_dsa_attention_into/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1to63rt/keyevl2030ba3b_introducing_dsa_attention_into/</guid>
+      <pubDate>Tue, 26 May 2026 12:55:05 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Release of multimodal model incorporating DSA attention mechanism.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>The Singularity Gate – a new benchmark for AI predicting post-cutoff scientific discoveries</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1tob3r0/the_singularity_gate_a_new_benchmark_for_ai/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/OpenAI/comments/1tob3r0/the_singularity_gate_a_new_benchmark_for_ai/</guid>
+      <pubDate>Tue, 26 May 2026 15:54:23 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/openai<br/><br/>New benchmark for evaluating AI capability on post-cutoff scientific discoveries.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Uber president says AI spending is getting &apos;harder to justify&apos;</title>
+      <link>https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify</link>
+      <guid isPermaLink="true">https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify</guid>
+      <pubDate>Tue, 26 May 2026 10:01:39 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>Uber president comments that AI spending justification is becoming difficult.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>A rare look inside Qwen 3.7’s open source model release approval process:</title>
@@ -77,7 +93,23 @@
       <guid isPermaLink="true">https://i.redd.it/01aov0rxdj3h1.gif</guid>
       <pubDate>Tue, 26 May 2026 19:52:22 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Overview of Qwen 3.7 open source model release approval process.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Discussion of Qwen model release approval process.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Memory Curator Agent a governance layer for memory in multi-agent systems</title>
+      <link>https://www.reddit.com/r/artificial/comments/1to9p3u/memory_curator_agent_a_governance_layer_for/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1to9p3u/memory_curator_agent_a_governance_layer_for/</guid>
+      <pubDate>Tue, 26 May 2026 15:05:31 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/artificial<br/><br/>Memory Curator Agent framework for multi-agent memory governance.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>China Clamps Down on Overseas Travel for AI Talent at Alibaba, DeepSeek</title>
+      <link>https://www.ibtimes.sg/china-clamps-down-overseas-travel-ai-talent-alibaba-deepseek-86961#google_vignette</link>
+      <guid isPermaLink="true">https://www.ibtimes.sg/china-clamps-down-overseas-travel-ai-talent-alibaba-deepseek-86961#google_vignette</guid>
+      <pubDate>Tue, 26 May 2026 12:26:46 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>China restricts overseas travel for AI researchers at major companies.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Cactus Hybrid Router: Gemma4-2B can match Gemini-3.1-Flash-Lite by routing 15-55% of tasks to Gemini And Running The Rest Locally.</title>
@@ -96,14 +128,6 @@
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Llamacpp server : How do the -np and -c flags interact?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1to1bf5/llamacpp_server_how_do_the_np_and_c_flags_interact/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1to1bf5/llamacpp_server_how_do_the_np_and_c_flags_interact/</guid>
-      <pubDate>Tue, 26 May 2026 09:03:49 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
       <title>Built a tool to save Claude responses (and ChatGPT, Gemini) into one searchable vault - sharing in case it&apos;s useful</title>
       <link>https://www.reddit.com/r/artificial/comments/1toga8l/built_a_tool_to_save_claude_responses_and_chatgpt/</link>
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1toga8l/built_a_tool_to_save_claude_responses_and_chatgpt/</guid>
@@ -118,38 +142,6 @@
       <pubDate>Tue, 26 May 2026 19:08:01 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Any tips on forming a good memory file on yourself for claude?</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1to03iw/any_tips_on_forming_a_good_memory_file_on/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1to03iw/any_tips_on_forming_a_good_memory_file_on/</guid>
-      <pubDate>Tue, 26 May 2026 07:54:42 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Uber president says AI spending is getting &apos;harder to justify&apos;</title>
-      <link>https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify</link>
-      <guid isPermaLink="true">https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify</guid>
-      <pubDate>Tue, 26 May 2026 10:01:39 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 58/100<br/><b>Source:</b> Hacker News<br/><br/>Uber executive questions ROI of AI spending investments.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Turning local agents into self-optimizing agents</title>
-      <link>https://i.redd.it/dj431wtwoi3h1.gif</link>
-      <guid isPermaLink="true">https://i.redd.it/dj431wtwoi3h1.gif</guid>
-      <pubDate>Tue, 26 May 2026 17:51:07 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Discusses approach to implementing self-optimization in local AI agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Harbor v0.4.19 - vllm/sglang/llama.cpp launch codex/claude/pi/opencode</title>
-      <link>https://v.redd.it/wq7m6a63sh3h1</link>
-      <guid isPermaLink="true">https://v.redd.it/wq7m6a63sh3h1</guid>
-      <pubDate>Tue, 26 May 2026 14:34:19 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 56/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Harbor v0.4.19 release announcement with vague technical details.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
