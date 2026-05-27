@@ -5,15 +5,23 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 May 2026 17:07:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 18:49:12 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Building self-improving tax agents with Codex</title>
+      <link>https://openai.com/index/building-self-improving-tax-agents-with-codex</link>
+      <guid isPermaLink="true">https://openai.com/index/building-self-improving-tax-agents-with-codex</guid>
+      <pubDate>Wed, 27 May 2026 07:00:00 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 88/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI publishes technical approach for building self-improving tax agents using their Codex model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
     <item>
       <title>Millions of AI agents imperiled by critical vulnerability in open source package</title>
       <link>https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/</link>
       <guid isPermaLink="true">https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/</guid>
       <pubDate>Tue, 26 May 2026 19:50:33 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 94/100<br/><b>Source:</b> Ars Technica<br/><br/>Critical security vulnerability discovered in open source package affecting AI agent infrastructure.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 88/100<br/><b>Source:</b> Ars Technica<br/><br/>Report of a critical security vulnerability affecting millions of AI agents in an open-source package.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>DeepSWE: A contamination-free benchmark for long-horizon coding agents</title>
@@ -21,55 +29,15 @@
       <guid isPermaLink="true">https://deepswe.datacurve.ai/blog</guid>
       <pubDate>Tue, 26 May 2026 19:40:59 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 84/100<br/><b>Source:</b> Hacker News<br/><br/>New benchmark for evaluating long-horizon coding agents without data contamination.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 84/100<br/><b>Source:</b> Hacker News<br/><br/>New benchmark for evaluating long-horizon coding agents while controlling for data contamination.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Building self-improving tax agents with Codex</title>
-      <link>https://openai.com/index/building-self-improving-tax-agents-with-codex</link>
-      <guid isPermaLink="true">https://openai.com/index/building-self-improving-tax-agents-with-codex</guid>
-      <pubDate>Wed, 27 May 2026 07:00:00 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI blog post on building self-improving tax agents using Codex.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>PrismML just released Binary and Ternary Bonsai Image 4B: 1-bit/ternary text-to-image diffusion transformers that can even run 100% locally in your browser on WebGPU.</title>
-      <link>https://v.redd.it/2ltnmcnp2j3h1</link>
-      <guid isPermaLink="true">https://v.redd.it/2ltnmcnp2j3h1</guid>
-      <pubDate>Tue, 26 May 2026 18:53:40 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>PrismML releases binary and ternary quantized text-to-image models runnable in browser.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Anthropic just published how they contain Claude agents, including two security incidents they got wrong</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tomozc/anthropic_just_published_how_they_contain_claude/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tomozc/anthropic_just_published_how_they_contain_claude/</guid>
-      <pubDate>Tue, 26 May 2026 22:36:38 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 78/100<br/><b>Source:</b> r/artificial<br/><br/>Anthropic publishes containment methods for Claude agents including incident post-mortems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Microsoft Copilot Cowork Exfiltrates Files</title>
-      <link>https://simonwillison.net/2026/May/26/copilot-cowork-exfiltrates-files/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/26/copilot-cowork-exfiltrates-files/#atom-everything</guid>
-      <pubDate>Tue, 26 May 2026 15:36:48 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 78/100<br/><b>Source:</b> Simon Willison<br/><br/>Security issue discovered in Microsoft Copilot Cowork that exfiltrates files.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Claude as an Orchestrator: Why Agentic AI Can&apos;t Be Secured by the AI Alone</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tosyby/claude_as_an_orchestrator_why_agentic_ai_cant_be/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tosyby/claude_as_an_orchestrator_why_agentic_ai_cant_be/</guid>
-      <pubDate>Wed, 27 May 2026 03:01:43 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/artificial<br/><br/>Analysis of security considerations for agentic AI systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Your AI agent can now trade for you on Robinhood. And buy stuff with your credit card too</title>
-      <link>https://www.cnbc.com/amp/2026/05/27/your-ai-agent-can-now-trade-for-you-on-robinhood-and-buy-stuff-with-your-credit-card-too.html</link>
-      <guid isPermaLink="true">https://www.cnbc.com/amp/2026/05/27/your-ai-agent-can-now-trade-for-you-on-robinhood-and-buy-stuff-with-your-credit-card-too.html</guid>
-      <pubDate>Wed, 27 May 2026 16:14:21 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/artificial<br/><br/>Announcement of AI agent integration with Robinhood for trading and shopping.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Training our own AI models</title>
+      <link>https://posthog.com/blog/training-ai-models</link>
+      <guid isPermaLink="true">https://posthog.com/blog/training-ai-models</guid>
+      <pubDate>Wed, 27 May 2026 16:08:42 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>PostHog shares their experience and learnings from training custom AI models for their platform.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Robinhood now lets your AI agents trade stocks</title>
@@ -77,7 +45,39 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/</guid>
       <pubDate>Wed, 27 May 2026 12:30:00 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> TechCrunch AI<br/><br/>TechCrunch coverage of Robinhood enabling AI agents to trade stocks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> TechCrunch AI<br/><br/>TechCrunch reports Robinhood&apos;s official integration enabling AI agents to trade stocks directly.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>PrismML just released Binary and Ternary Bonsai Image 4B: 1-bit/ternary text-to-image diffusion transformers that can even run 100% locally in your browser on WebGPU.</title>
+      <link>https://v.redd.it/2ltnmcnp2j3h1</link>
+      <guid isPermaLink="true">https://v.redd.it/2ltnmcnp2j3h1</guid>
+      <pubDate>Tue, 26 May 2026 18:53:40 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>PrismML releases quantized 1-bit and ternary text-to-image diffusion models that run locally in browser via WebGPU.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Microsoft Copilot Cowork Exfiltrates Files</title>
+      <link>https://simonwillison.net/2026/May/26/copilot-cowork-exfiltrates-files/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/26/copilot-cowork-exfiltrates-files/#atom-everything</guid>
+      <pubDate>Tue, 26 May 2026 15:36:48 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 78/100<br/><b>Source:</b> Simon Willison<br/><br/>Security report documenting file exfiltration vulnerability in Microsoft Copilot Cowork.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs</title>
+      <link>https://arps18.github.io/posts/claude-code-mastery/</link>
+      <guid isPermaLink="true">https://arps18.github.io/posts/claude-code-mastery/</guid>
+      <pubDate>Wed, 27 May 2026 05:13:39 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>A user&apos;s guide to advanced Claude Code features including subagents, plugins, and MCPs for development workflows.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Claude as an Orchestrator: Why Agentic AI Can&apos;t Be Secured by the AI Alone</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tosyby/claude_as_an_orchestrator_why_agentic_ai_cant_be/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tosyby/claude_as_an_orchestrator_why_agentic_ai_cant_be/</guid>
+      <pubDate>Wed, 27 May 2026 03:01:43 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/artificial<br/><br/>Analysis of security implications when using Claude as an orchestrator for agentic AI systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>I ran 8 open-weight models as agents in a persistent MMO for 10 days. Here&apos;s the 93k event dataset and some things that I learned</title>
@@ -85,15 +85,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tp6pg7/i_ran_8_openweight_models_as_agents_in_a/</guid>
       <pubDate>Wed, 27 May 2026 14:09:26 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Research dataset and analysis from running multiple open-weight models as agents in persistent MMO environment.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>PostHog will train AI models with your data (opted-in by default)</title>
-      <link>https://posthog.com/blog/training-ai-models</link>
-      <guid isPermaLink="true">https://posthog.com/blog/training-ai-models</guid>
-      <pubDate>Wed, 27 May 2026 16:08:42 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> Hacker News<br/><br/>PostHog announces AI model training capability using customer data with opt-in.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Researcher runs eight open-weight models as agents in a persistent MMO environment for 10 days and releases the 93k event dataset.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>New DeepSWE benchmark finds Claude Opus cheats</title>
@@ -101,7 +93,63 @@
       <guid isPermaLink="true">https://venturebeat.com/technology/deepswe-blows-up-the-ai-coding-leaderboard-crowns-gpt-5-5-and-finds-claude-opus-exploiting-a-benchmark-loophole</guid>
       <pubDate>Wed, 27 May 2026 07:30:12 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 72/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>DeepSWE benchmark reveals Claude Opus exhibits data contamination or cheating behavior.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 72/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>DeepSWE benchmark analysis reveals that Claude Opus appears to use dataset contamination to achieve high scores.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Anthropic just published how they contain Claude agents, including two security incidents they got wrong</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tomozc/anthropic_just_published_how_they_contain_claude/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tomozc/anthropic_just_published_how_they_contain_claude/</guid>
+      <pubDate>Tue, 26 May 2026 22:36:38 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 72/100<br/><b>Source:</b> r/artificial<br/><br/>Anthropic publishes research on agent containment methods and documents two security incidents from their testing.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>I think Anthropic and OpenAI have found product-market fit</title>
+      <link>https://simonwillison.net/2026/May/27/product-market-fit/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/27/product-market-fit/</guid>
+      <pubDate>Wed, 27 May 2026 16:39:13 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>DuckDuckGo search saw 28% more visits after Google said people love AI mode</title>
+      <link>https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/</link>
+      <guid isPermaLink="true">https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/</guid>
+      <pubDate>Wed, 27 May 2026 16:28:41 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Tech CEOs are apparently suffering from AI psychosis</title>
+      <link>https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/</guid>
+      <pubDate>Wed, 27 May 2026 15:20:47 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Nvidia Vera CPU Benchmarks: Olympus Cores Delivering Great Performance</title>
+      <link>https://www.phoronix.com/review/nvidia-vera-benchmarks</link>
+      <guid isPermaLink="true">https://www.phoronix.com/review/nvidia-vera-benchmarks</guid>
+      <pubDate>Wed, 27 May 2026 08:15:35 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Agent Memory: An Anatomy</title>
+      <link>https://brgsk.xyz/agent-memory-anatomy/</link>
+      <guid isPermaLink="true">https://brgsk.xyz/agent-memory-anatomy/</guid>
+      <pubDate>Wed, 27 May 2026 00:18:06 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>[R]GNN Model For Fraud Detection Isn&apos;t Performing Well[R]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1tovj42/rgnn_model_for_fraud_detection_isnt_performing/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1tovj42/rgnn_model_for_fraud_detection_isnt_performing/</guid>
+      <pubDate>Wed, 27 May 2026 05:02:54 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Profiling PyTorch training without accidentally stalling the GPU [D]</title>
@@ -118,54 +166,6 @@
       <pubDate>Wed, 27 May 2026 12:14:09 +0000</pubDate>
       <category>Industry News</category>
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Turning local agents into self-optimizing agents</title>
-      <link>https://i.redd.it/dj431wtwoi3h1.gif</link>
-      <guid isPermaLink="true">https://i.redd.it/dj431wtwoi3h1.gif</guid>
-      <pubDate>Tue, 26 May 2026 17:51:07 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Is Granite-4.1-30b Overshadowed by Qwen3.6 &amp; Gemma4 models?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tp1plw/is_granite4130b_overshadowed_by_qwen36_gemma4/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tp1plw/is_granite4130b_overshadowed_by_qwen36_gemma4/</guid>
-      <pubDate>Wed, 27 May 2026 10:37:22 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Finally pioneering beyond the local 256k context window frontier!</title>
-      <link>https://i.redd.it/if09zsde6o3h1.png</link>
-      <guid isPermaLink="true">https://i.redd.it/if09zsde6o3h1.png</guid>
-      <pubDate>Wed, 27 May 2026 12:05:50 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Hugging Face Dataset Lineage Explorer</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tp82lt/hugging_face_dataset_lineage_explorer/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tp82lt/hugging_face_dataset_lineage_explorer/</guid>
-      <pubDate>Wed, 27 May 2026 14:57:39 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>How Qwen3.6-35B-A3B fails differently as a sub agent compared to solo</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tosn38/how_qwen3635ba3b_fails_differently_as_a_sub_agent/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tosn38/how_qwen3635ba3b_fails_differently_as_a_sub_agent/</guid>
-      <pubDate>Wed, 27 May 2026 02:47:39 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Does the Responses API store parameter save on input tokens?</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1tp4wum/does_the_responses_api_store_parameter_save_on/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/OpenAI/comments/1tp4wum/does_the_responses_api_store_parameter_save_on/</guid>
-      <pubDate>Wed, 27 May 2026 13:01:45 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
