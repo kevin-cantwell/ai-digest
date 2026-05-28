@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 May 2026 11:14:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 13:17:34 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Cisco and OpenAI redefine enterprise engineering with Codex</title>
@@ -13,7 +13,7 @@
       <guid isPermaLink="true">https://openai.com/index/cisco</guid>
       <pubDate>Wed, 27 May 2026 11:00:00 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 88/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Cisco and OpenAI partnership announcement for enterprise engineering with AI capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 88/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Cisco and OpenAI announce enterprise engineering partnership using Codex.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Warp’s big bet on building open source with GPT-5.5</title>
@@ -21,31 +21,7 @@
       <guid isPermaLink="true">https://openai.com/index/warp</guid>
       <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 88/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Warp announces open source development initiative using GPT-5.5.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>&quot;Unified Neural Scaling Laws&quot; paper release [R]</title>
-      <link>https://x.com/ethanCaballero/status/2059686905105563907</link>
-      <guid isPermaLink="true">https://x.com/ethanCaballero/status/2059686905105563907</guid>
-      <pubDate>Wed, 27 May 2026 19:21:42 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 86/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research paper release on unified neural scaling laws across model types.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Training our own AI models</title>
-      <link>https://posthog.com/blog/training-ai-models</link>
-      <guid isPermaLink="true">https://posthog.com/blog/training-ai-models</guid>
-      <pubDate>Wed, 27 May 2026 16:08:42 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>PostHog shares technical details on training custom AI models for their platform.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Building self-improving tax agents with Codex</title>
-      <link>https://openai.com/index/building-self-improving-tax-agents-with-codex</link>
-      <guid isPermaLink="true">https://openai.com/index/building-self-improving-tax-agents-with-codex</guid>
-      <pubDate>Wed, 27 May 2026 07:00:00 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Technical case study on building self-improving AI agents for tax processing.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 88/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Warp announces open source development initiative with GPT-5.5.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Multi-Agent LLM System for Automated Vulnerability Discovery and Reproduction</title>
@@ -53,15 +29,31 @@
       <guid isPermaLink="true">https://arxiv.org/abs/2605.21779</guid>
       <pubDate>Wed, 27 May 2026 17:42:24 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 80/100<br/><b>Source:</b> Hacker News<br/><br/>Research paper on multi-agent LLM system for automated security vulnerability discovery.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 84/100<br/><b>Source:</b> Hacker News<br/><br/>Research paper on multi-agent LLM systems for automated vulnerability discovery.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>AI-generated CUDA kernels silently break training and inference [R]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1tpaw6x/aigenerated_cuda_kernels_silently_break_training/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1tpaw6x/aigenerated_cuda_kernels_silently_break_training/</guid>
-      <pubDate>Wed, 27 May 2026 16:35:33 +0000</pubDate>
+      <title>Training our own AI models</title>
+      <link>https://posthog.com/blog/training-ai-models</link>
+      <guid isPermaLink="true">https://posthog.com/blog/training-ai-models</guid>
+      <pubDate>Wed, 27 May 2026 16:08:42 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research finding that AI-generated CUDA kernels can silently corrupt model training and inference.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>PostHog shares their approach to training custom AI models for their platform.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Building self-improving tax agents with Codex</title>
+      <link>https://openai.com/index/building-self-improving-tax-agents-with-codex</link>
+      <guid isPermaLink="true">https://openai.com/index/building-self-improving-tax-agents-with-codex</guid>
+      <pubDate>Wed, 27 May 2026 07:00:00 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI demonstrates self-improving tax agents built with Codex.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>&quot;Unified Neural Scaling Laws&quot; paper release [R]</title>
+      <link>https://x.com/ethanCaballero/status/2059686905105563907</link>
+      <guid isPermaLink="true">https://x.com/ethanCaballero/status/2059686905105563907</guid>
+      <pubDate>Wed, 27 May 2026 19:21:42 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Release of Unified Neural Scaling Laws research paper.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>I ran 8 open-weight models as agents in a persistent MMO for 10 days. Here&apos;s the 93k event dataset and some things that I learned</title>
@@ -69,7 +61,23 @@
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tp6pg7/i_ran_8_openweight_models_as_agents_in_a/</guid>
       <pubDate>Wed, 27 May 2026 14:09:26 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Large-scale experiment running eight open-weight LLM agents in persistent environment with dataset release.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Large-scale experiment running eight open-weight models as persistent agents in an MMO environment with 93k event dataset released.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Farewell to 5.3-Codex</title>
+      <link>https://i.redd.it/a96zmpkbkp3h1.jpeg</link>
+      <guid isPermaLink="true">https://i.redd.it/a96zmpkbkp3h1.jpeg</guid>
+      <pubDate>Wed, 27 May 2026 16:38:51 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>The OpenClaw crisis is the most complete case study of agentic AI security failure. Here&apos;s the full timeline and technical breakdown.</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tq0t1g/the_openclaw_crisis_is_the_most_complete_case/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tq0t1g/the_openclaw_crisis_is_the_most_complete_case/</guid>
+      <pubDate>Thu, 28 May 2026 11:28:38 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/artificial<br/><br/>Reddit discussion analyzing a security incident involving OpenClaw agentic AI systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Your AI agent can now trade for you on Robinhood. And buy stuff with your credit card too</title>
@@ -77,7 +85,7 @@
       <guid isPermaLink="true">https://www.cnbc.com/amp/2026/05/27/your-ai-agent-can-now-trade-for-you-on-robinhood-and-buy-stuff-with-your-credit-card-too.html</guid>
       <pubDate>Wed, 27 May 2026 16:14:21 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/artificial<br/><br/>AI agents gain capability to execute financial transactions via Robinhood integration.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/artificial<br/><br/>AI agents gain integration capabilities to trade stocks and make purchases via Robinhood and credit cards.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Claude Code has zero idea what your codebase looks like structurally (Open source with benchmarks)</title>
@@ -85,15 +93,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1tpbjwo/claude_code_has_zero_idea_what_your_codebase/</guid>
       <pubDate>Wed, 27 May 2026 16:57:57 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Analysis with benchmarks showing Claude Code lacks structural understanding of codebases.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Robinhood now lets your AI agents trade stocks</title>
-      <link>https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/</guid>
-      <pubDate>Wed, 27 May 2026 12:30:00 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Robinhood launches API enabling AI agents to trade stocks directly.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Technical analysis of Claude Code&apos;s limitations in understanding codebase structure with benchmarks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>ChatGPT-5.5 Beats Opus in Realistic Benchmark (DeepSWE)</title>
@@ -112,12 +112,28 @@
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 75/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Microsoft Copilot Cowork Exfiltrates Files</title>
-      <link>https://simonwillison.net/2026/May/26/copilot-cowork-exfiltrates-files/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/26/copilot-cowork-exfiltrates-files/#atom-everything</guid>
-      <pubDate>Tue, 26 May 2026 15:36:48 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 75/100<br/><b>Source:</b> Simon Willison<br/><br/>Microsoft Copilot Cowork Exfiltrates Files The biggest challenge in designing agentic systems continues to be preventing them from enabling attackers to exfiltrate data. In this case Microsoft Copilot<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>AI-generated CUDA kernels silently break training and inference [R]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1tpaw6x/aigenerated_cuda_kernels_silently_break_training/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1tpaw6x/aigenerated_cuda_kernels_silently_break_training/</guid>
+      <pubDate>Wed, 27 May 2026 16:35:33 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research finding that AI-generated CUDA kernels can silently cause training and inference failures.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>AI sticker shock hits corporate America</title>
+      <link>https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs</link>
+      <guid isPermaLink="true">https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs</guid>
+      <pubDate>Thu, 28 May 2026 10:39:32 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>A Eureka machine that thinks like nature and explores what AI cannot</title>
+      <link>https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/</link>
+      <guid isPermaLink="true">https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/</guid>
+      <pubDate>Thu, 28 May 2026 06:40:31 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>YouTube to automatically label AI-generated videos</title>
@@ -144,26 +160,10 @@
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Tech CEOs are apparently suffering from AI psychosis</title>
-      <link>https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/</guid>
-      <pubDate>Wed, 27 May 2026 15:20:47 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>noisekit - CLI for generating realistic degraded speech datasets for ASR benchmarking [P]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1tp51a1/noisekit_cli_for_generating_realistic_degraded/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1tp51a1/noisekit_cli_for_generating_realistic_degraded/</guid>
-      <pubDate>Wed, 27 May 2026 13:06:27 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Tool release for generating degraded speech datasets for ASR model evaluation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Profiling PyTorch training without accidentally stalling the GPU [D]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1tp2nnw/profiling_pytorch_training_without_accidentally/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1tp2nnw/profiling_pytorch_training_without_accidentally/</guid>
-      <pubDate>Wed, 27 May 2026 11:24:46 +0000</pubDate>
+      <title>BEAM 100K memory benchmark: CSM vs Hindsight local artifact comparison [R]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1tpjx2m/beam_100k_memory_benchmark_csm_vs_hindsight_local/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1tpjx2m/beam_100k_memory_benchmark_csm_vs_hindsight_local/</guid>
+      <pubDate>Wed, 27 May 2026 21:53:42 +0000</pubDate>
       <category>Research &amp; Papers</category>
       <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
