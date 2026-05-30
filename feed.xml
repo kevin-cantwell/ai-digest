@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 May 2026 05:19:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 07:03:36 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Researchers at MIT documented 30 AI agents major labs are deploying. Only 4 had public docs saying what the agent does, what it can&apos;t do, and what happens if it breaks.</title>
@@ -13,7 +13,15 @@
       <guid isPermaLink="true">https://arxiv.org/abs/2602.17753</guid>
       <pubDate>Fri, 29 May 2026 19:06:07 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 88/100<br/><b>Source:</b> r/artificial<br/><br/>MIT research documents transparency gaps in 30 AI agents from major labs, finding only 4 with public documentation of capabilities and limitations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 88/100<br/><b>Source:</b> r/artificial<br/><br/>MIT researchers document transparency gaps in 30 AI agents deployed by major labs, finding only 4 with public documentation of capabilities and limitations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Anthropic releases Opus 4.8 with new ‘dynamic workflow’ tool</title>
+      <link>https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/</guid>
+      <pubDate>Thu, 28 May 2026 17:00:09 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 86/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic releases Opus 4.8 with dynamic workflow tool capability.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>[AINews] Anthropic raises $965B Series H, releases Opus 4.8 and Dynamic Workflows/ultracode</title>
@@ -21,7 +29,7 @@
       <guid isPermaLink="true">https://www.latent.space/p/ainews-anthropic-raises-965b-series</guid>
       <pubDate>Fri, 29 May 2026 02:07:24 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 86/100<br/><b>Source:</b> Latent Space<br/><br/>Anthropic raises $965B Series H and releases Opus 4.8 with dynamic workflows and ultracode features.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 86/100<br/><b>Source:</b> Latent Space<br/><br/>Anthropic announces major funding round and Opus 4.8 release with new workflow features.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA</title>
@@ -29,7 +37,7 @@
       <guid isPermaLink="true">https://github.com/jmaczan/tiny-vllm</guid>
       <pubDate>Fri, 29 May 2026 19:38:27 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Open-source C++ and CUDA-based LLM inference engine released on GitHub.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Open-source high-performance LLM inference engine released in C++ and CUDA.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Real-time LLM Inference on Standard GPUs: 3k tokens/s per request</title>
@@ -37,7 +45,7 @@
       <guid isPermaLink="true">https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/</guid>
       <pubDate>Fri, 29 May 2026 09:47:23 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Technical achievement of real-time LLM inference reaching 3,000 tokens/second per request on standard GPUs.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Technical achievement of 3,000 tokens/second LLM inference performance on standard GPUs.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>A shared playbook for trustworthy third party evaluations</title>
@@ -48,28 +56,12 @@
       <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 82/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI publishes framework for conducting trustworthy third-party AI evaluations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Anthropic releases Opus 4.8 with new ‘dynamic workflow’ tool</title>
-      <link>https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/</guid>
-      <pubDate>Thu, 28 May 2026 17:00:09 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 80/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic releases Opus 4.8 with dynamic workflow capabilities; significant product update.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
       <title>Liquid AI reveals 8B-A1B MoE trained on 38T</title>
       <link>https://www.liquid.ai/blog/lfm2-5-8b-a1b</link>
       <guid isPermaLink="true">https://www.liquid.ai/blog/lfm2-5-8b-a1b</guid>
       <pubDate>Fri, 29 May 2026 16:19:54 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Liquid AI releases 8B-A1B MoE model trained on 38 trillion tokens, significant model release.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Building a monokernel for LLM inference on AMD MI300X - up to 3,300 output tokens/s per request [P]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1tqvuz9/building_a_monokernel_for_llm_inference_on_amd/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1tqvuz9/building_a_monokernel_for_llm_inference_on_amd/</guid>
-      <pubDate>Fri, 29 May 2026 08:54:29 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Technical research on LLM inference kernel optimization achieving 3,300 tokens/second on AMD MI300X.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Liquid AI releases 8B-A1B MoE model trained on 38 trillion tokens.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>How Braintrust turns customer requests into code with Codex</title>
@@ -77,7 +69,7 @@
       <guid isPermaLink="true">https://openai.com/index/braintrust</guid>
       <pubDate>Fri, 29 May 2026 12:00:00 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Case study of Braintrust using OpenAI Codex for code generation; primarily promotional.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Case study of Braintrust using OpenAI&apos;s Codex for code generation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>How Endava builds an agentic organization with Codex</title>
@@ -85,31 +77,15 @@
       <guid isPermaLink="true">https://openai.com/index/endava</guid>
       <pubDate>Thu, 28 May 2026 12:00:00 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Case study of Endava deploying agentic systems with OpenAI Codex; primarily promotional.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Case study of Endava implementing agentic workflows with OpenAI&apos;s Codex.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Notes from the Mistral AI Now Summit</title>
-      <link>https://koenvangilst.nl/lab/mistral-ai-now-summit</link>
-      <guid isPermaLink="true">https://koenvangilst.nl/lab/mistral-ai-now-summit</guid>
-      <pubDate>Fri, 29 May 2026 16:22:01 +0000</pubDate>
+      <title>Building a monokernel for LLM inference on AMD MI300X - up to 3,300 output tokens/s per request [P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1tqvuz9/building_a_monokernel_for_llm_inference_on_amd/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1tqvuz9/building_a_monokernel_for_llm_inference_on_amd/</guid>
+      <pubDate>Fri, 29 May 2026 08:54:29 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> Hacker News<br/><br/>Conference notes summarizing announcements from Mistral AI&apos;s summit.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Show HN: AISlop, a CLI for catching AI generated code smells</title>
-      <link>https://github.com/scanaislop/aislop</link>
-      <guid isPermaLink="true">https://github.com/scanaislop/aislop</guid>
-      <pubDate>Fri, 29 May 2026 13:37:38 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>CLI tool released for detecting code quality issues in AI-generated code.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>I tested MTP on vLLM and llama.cpp for Gemma 4 &amp; Qwen 3.6 — 3.34x faster inference, here are my findings RTX 6000 PRO.</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1trf0r0/i_tested_mtp_on_vllm_and_llamacpp_for_gemma_4/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1trf0r0/i_tested_mtp_on_vllm_and_llamacpp_for_gemma_4/</guid>
-      <pubDate>Fri, 29 May 2026 20:42:18 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Benchmark comparison showing 3.34x inference speedup using MTP optimization on consumer GPUs.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research on custom monokernel achieving 3,300 tokens/second LLM inference on AMD MI300X.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Boston Children’s uses AI to unlock new diagnoses</title>
@@ -117,7 +93,31 @@
       <guid isPermaLink="true">https://openai.com/index/boston-childrens-hospital</guid>
       <pubDate>Fri, 29 May 2026 12:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Case study of Boston Children&apos;s Hospital using AI for medical diagnosis improvements.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Boston Children&apos;s Hospital uses AI to improve diagnostic accuracy for rare diseases.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Strengthening societal resilience with Rosalind Biodefense</title>
+      <link>https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense</link>
+      <guid isPermaLink="true">https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense</guid>
+      <pubDate>Fri, 29 May 2026 03:00:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI partners with Rosalind Biodefense on AI applications for biosecurity.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Notes from the Mistral AI Now Summit</title>
+      <link>https://koenvangilst.nl/lab/mistral-ai-now-summit</link>
+      <guid isPermaLink="true">https://koenvangilst.nl/lab/mistral-ai-now-summit</guid>
+      <pubDate>Fri, 29 May 2026 16:22:01 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> Hacker News<br/><br/>Summary notes from Mistral AI&apos;s company summit with announcements and insights.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Show HN: AISlop, a CLI for catching AI generated code smells</title>
+      <link>https://github.com/scanaislop/aislop</link>
+      <guid isPermaLink="true">https://github.com/scanaislop/aislop</guid>
+      <pubDate>Fri, 29 May 2026 13:37:38 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>Open-source CLI tool for detecting code quality issues in AI-generated code.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Training AI chatbots to be warm and empathetic makes them less factually accurate</title>
@@ -158,6 +158,14 @@
       <pubDate>Fri, 29 May 2026 08:36:00 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Here&apos;s 100+ evals on Opus 4.8</title>
+      <link>https://i.redd.it/8w2ro772w44h1.png</link>
+      <guid isPermaLink="true">https://i.redd.it/8w2ro772w44h1.png</guid>
+      <pubDate>Fri, 29 May 2026 20:18:45 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>User shares evaluation results for Anthropic&apos;s Opus 4.8 model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
