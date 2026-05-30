@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 May 2026 09:39:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 10:35:58 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Researchers at MIT documented 30 AI agents major labs are deploying. Only 4 had public docs saying what the agent does, what it can&apos;t do, and what happens if it breaks.</title>
@@ -13,15 +13,7 @@
       <guid isPermaLink="true">https://arxiv.org/abs/2602.17753</guid>
       <pubDate>Fri, 29 May 2026 19:06:07 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 88/100<br/><b>Source:</b> r/artificial<br/><br/>MIT researchers document that most AI agents deployed by major labs lack public documentation on capabilities, limitations, and failure modes.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Anthropic releases Opus 4.8 with new ‘dynamic workflow’ tool</title>
-      <link>https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/</guid>
-      <pubDate>Thu, 28 May 2026 17:00:09 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 86/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic releases Claude Opus 4.8 with new dynamic workflow capability.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 88/100<br/><b>Source:</b> r/artificial<br/><br/>MIT researchers document transparency gaps in 30 AI agents deployed by major labs, finding only 4 with adequate public documentation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>[AINews] Anthropic raises $965B Series H, releases Opus 4.8 and Dynamic Workflows/ultracode</title>
@@ -29,7 +21,7 @@
       <guid isPermaLink="true">https://www.latent.space/p/ainews-anthropic-raises-965b-series</guid>
       <pubDate>Fri, 29 May 2026 02:07:24 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 86/100<br/><b>Source:</b> Latent Space<br/><br/>Anthropic announces major Series H funding round and releases Opus 4.8 with dynamic workflows.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 86/100<br/><b>Source:</b> Latent Space<br/><br/>Anthropic announces $965B Series H funding and releases Opus 4.8 with Dynamic Workflows feature.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA</title>
@@ -37,15 +29,7 @@
       <guid isPermaLink="true">https://github.com/jmaczan/tiny-vllm</guid>
       <pubDate>Fri, 29 May 2026 19:38:27 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Tiny-vLLM is a new high-performance LLM inference engine implementation in C++ and CUDA.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Real-time LLM Inference on Standard GPUs: 3k tokens/s per request</title>
-      <link>https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/</link>
-      <guid isPermaLink="true">https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/</guid>
-      <pubDate>Fri, 29 May 2026 09:47:23 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>New technique achieves 3000 tokens per second LLM inference throughput on standard GPUs.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Open-source LLM inference engine in C++ and CUDA released on GitHub.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>A shared playbook for trustworthy third party evaluations</title>
@@ -53,15 +37,7 @@
       <guid isPermaLink="true">https://openai.com/index/trustworthy-third-party-evaluations-foundations</guid>
       <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 82/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI publishes a framework for conducting trustworthy third-party evaluations of AI systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Boston Children’s uses AI to unlock new diagnoses</title>
-      <link>https://openai.com/index/boston-childrens-hospital</link>
-      <guid isPermaLink="true">https://openai.com/index/boston-childrens-hospital</guid>
-      <pubDate>Fri, 29 May 2026 12:00:00 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Boston Children&apos;s Hospital uses AI to improve diagnostic accuracy and unlock new disease discoveries.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 82/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI publishes framework for trustworthy third-party AI model evaluations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Liquid AI reveals 8B-A1B MoE trained on 38T</title>
@@ -72,12 +48,20 @@
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Liquid AI releases 8B-A1B mixture-of-experts model trained on 38 trillion tokens.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>I tested MTP on vLLM and llama.cpp for Gemma 4 &amp; Qwen 3.6 — 3.34x faster inference, here are my findings RTX 6000 PRO.</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1trf0r0/i_tested_mtp_on_vllm_and_llamacpp_for_gemma_4/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1trf0r0/i_tested_mtp_on_vllm_and_llamacpp_for_gemma_4/</guid>
-      <pubDate>Fri, 29 May 2026 20:42:18 +0000</pubDate>
+      <title>Notes from the Mistral AI Now Summit</title>
+      <link>https://koenvangilst.nl/lab/mistral-ai-now-summit</link>
+      <guid isPermaLink="true">https://koenvangilst.nl/lab/mistral-ai-now-summit</guid>
+      <pubDate>Fri, 29 May 2026 16:22:01 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Benchmark testing shows MTP technique achieves 3.34x faster inference on multiple model architectures.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> Hacker News<br/><br/>Summary notes from Mistral AI Now Summit covering company announcements and developments.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Boston Children’s uses AI to unlock new diagnoses</title>
+      <link>https://openai.com/index/boston-childrens-hospital</link>
+      <guid isPermaLink="true">https://openai.com/index/boston-childrens-hospital</guid>
+      <pubDate>Fri, 29 May 2026 12:00:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Boston Children&apos;s Hospital deploys AI to improve diagnostic capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Strengthening societal resilience with Rosalind Biodefense</title>
@@ -85,7 +69,7 @@
       <guid isPermaLink="true">https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense</guid>
       <pubDate>Fri, 29 May 2026 03:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Rosalind Biodefense demonstrates AI application for strengthening biosecurity and public health resilience.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI highlights Rosalind Biodefense application for strengthening societal resilience.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>How Braintrust turns customer requests into code with Codex</title>
@@ -93,7 +77,7 @@
       <guid isPermaLink="true">https://openai.com/index/braintrust</guid>
       <pubDate>Fri, 29 May 2026 12:00:00 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Braintrust uses OpenAI&apos;s Codex to convert customer requests into code.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Case study of Braintrust using OpenAI&apos;s Codex for code generation from customer requests.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>How Endava builds an agentic organization with Codex</title>
@@ -101,15 +85,15 @@
       <guid isPermaLink="true">https://openai.com/index/endava</guid>
       <pubDate>Thu, 28 May 2026 12:00:00 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Endava adopts OpenAI&apos;s Codex to build an agentic organization.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Case study of Endava implementing agentic workflows with OpenAI&apos;s Codex.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Notes from the Mistral AI Now Summit</title>
-      <link>https://koenvangilst.nl/lab/mistral-ai-now-summit</link>
-      <guid isPermaLink="true">https://koenvangilst.nl/lab/mistral-ai-now-summit</guid>
-      <pubDate>Fri, 29 May 2026 16:22:01 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> Hacker News<br/><br/>Notes and summaries from the Mistral AI Now Summit event.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Anthropic releases Opus 4.8 with new ‘dynamic workflow’ tool</title>
+      <link>https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/</guid>
+      <pubDate>Thu, 28 May 2026 17:00:09 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>TechCrunch reports Anthropic releasing Opus 4.8 with dynamic workflow tool.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Show HN: AISlop, a CLI for catching AI generated code smells</title>
@@ -117,15 +101,31 @@
       <guid isPermaLink="true">https://github.com/scanaislop/aislop</guid>
       <pubDate>Fri, 29 May 2026 13:37:38 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>New CLI tool designed to detect common quality issues in AI-generated code.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>Open-source CLI tool for detecting AI-generated code quality issues.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Unsloth Studio updated to support training with MLX on macs</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tr56t3/unsloth_studio_updated_to_support_training_with/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tr56t3/unsloth_studio_updated_to_support_training_with/</guid>
-      <pubDate>Fri, 29 May 2026 15:21:38 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>I tested MTP on vLLM and llama.cpp for Gemma 4 &amp; Qwen 3.6 — 3.34x faster inference, here are my findings RTX 6000 PRO.</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1trf0r0/i_tested_mtp_on_vllm_and_llamacpp_for_gemma_4/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1trf0r0/i_tested_mtp_on_vllm_and_llamacpp_for_gemma_4/</guid>
+      <pubDate>Fri, 29 May 2026 20:42:18 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Technical benchmark results showing 3.34x inference speedup using MTP on vLLM and llama.cpp.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>made a local voice AI for windows you can talk to in any language. open source, bring your own key</title>
+      <link>https://v.redd.it/bvsqn5c8984h1</link>
+      <guid isPermaLink="true">https://v.redd.it/bvsqn5c8984h1</guid>
+      <pubDate>Sat, 30 May 2026 07:36:07 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>I made an Epstein Files RAG</title>
+      <link>https://github.com/AbhisumatK/Epstein_Files_RAG</link>
+      <guid isPermaLink="true">https://github.com/AbhisumatK/Epstein_Files_RAG</guid>
+      <pubDate>Sat, 30 May 2026 04:44:50 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Training AI chatbots to be warm and empathetic makes them less factually accurate</title>
@@ -144,28 +144,28 @@
       <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Has AI actually reduced research time for you, or just moved that time into checking outputs?</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1tqximz/has_ai_actually_reduced_research_time_for_you_or/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/OpenAI/comments/1tqximz/has_ai_actually_reduced_research_time_for_you_or/</guid>
-      <pubDate>Fri, 29 May 2026 10:22:04 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>When you use AI to speed up research, how do you decide what still needs manual verification?</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1tqx82c/when_you_use_ai_to_speed_up_research_how_do_you/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/OpenAI/comments/1tqx82c/when_you_use_ai_to_speed_up_research_how_do_you/</guid>
-      <pubDate>Fri, 29 May 2026 10:08:06 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Rsync 3.4.3 has hundreds of Claude commits</title>
-      <link>https://mastodon.gamedev.place/@JeremiahFieldhaven/116654345332213390</link>
-      <guid isPermaLink="true">https://mastodon.gamedev.place/@JeremiahFieldhaven/116654345332213390</guid>
-      <pubDate>Sat, 30 May 2026 08:32:57 +0000</pubDate>
+      <title>Our timeline plays out like a classic horror flick. The next AI releases will skyrocket risks of bio-attacks, engineered pandemics and critical infrastructure hacking, according to the tech leaders who are building it as fast as they can. - Everything will feel normal until nothing does.</title>
+      <link>https://i.redd.it/vrc13r57f24h1.png</link>
+      <guid isPermaLink="true">https://i.redd.it/vrc13r57f24h1.png</guid>
+      <pubDate>Fri, 29 May 2026 11:53:52 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>Rsync 3.4.3 open-source project received significant code contributions generated by Claude.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>llama : website + unified `llama` binary · ggml-org/llama.cpp · Discussion #23875</title>
+      <link>https://github.com/ggml-org/llama.cpp/discussions/23875</link>
+      <guid isPermaLink="true">https://github.com/ggml-org/llama.cpp/discussions/23875</guid>
+      <pubDate>Fri, 29 May 2026 16:26:27 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Gemini core part 3</title>
+      <link>https://www.reddit.com/r/artificial/comments/1trudkx/gemini_core_part_3/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1trudkx/gemini_core_part_3/</guid>
+      <pubDate>Sat, 30 May 2026 08:41:56 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
