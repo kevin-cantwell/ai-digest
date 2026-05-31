@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 May 2026 10:40:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 11:33:54 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Best small model right now (~4B params) that is good with agentic tasks for personal assistant?</title>
@@ -22,14 +22,6 @@
       <pubDate>Sun, 31 May 2026 08:27:44 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
       <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 100/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>I built a tiny MCP server to use Reddit from Claude after Reddit blocked anonymous API access</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1tsis6e/i_built_a_tiny_mcp_server_to_use_reddit_from/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1tsis6e/i_built_a_tiny_mcp_server_to_use_reddit_from/</guid>
-      <pubDate>Sun, 31 May 2026 02:33:33 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 100/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Asked Claude Code for a &quot;deep search&quot; in ultracode mode — it spun up ~70 agents across a 4-phase pipeline on its own</title>
@@ -56,20 +48,20 @@
       <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 95/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
+      <title>&quot;Hand of to claude code&quot;... Failed to unzip = 10m tokens down the drain</title>
+      <link>https://i.redd.it/taytoj1p5b4h1.png</link>
+      <guid isPermaLink="true">https://i.redd.it/taytoj1p5b4h1.png</guid>
+      <pubDate>Sat, 30 May 2026 17:18:21 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 95/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
       <title>Rotary GPU: Exploring Local Execution for Large MoE Models Under Limited VRAM</title>
       <link>https://arxiv.org/abs/2605.29135</link>
       <guid isPermaLink="true">https://arxiv.org/abs/2605.29135</guid>
       <pubDate>Sat, 30 May 2026 21:05:40 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 80/100<br/><b>Source:</b> Hacker News<br/><br/>Research paper on Rotary GPU technique for executing large MoE models under limited VRAM constraints.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Is there a definitive way or cookie cutter way to benchmark variations of the same model for their KLD?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tsr1xk/is_there_a_definitive_way_or_cookie_cutter_way_to/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tsr1xk/is_there_a_definitive_way_or_cookie_cutter_way_to/</guid>
-      <pubDate>Sun, 31 May 2026 09:57:44 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 80/100<br/><b>Source:</b> Hacker News<br/><br/>Research paper on Rotary GPU technique for executing large MoE models with limited VRAM.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Are you tying your entire application architecture to a single API provider?</title>
@@ -85,7 +77,7 @@
       <guid isPermaLink="true">https://openai.com/index/boston-childrens-hospital</guid>
       <pubDate>Fri, 29 May 2026 12:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Boston Children&apos;s Hospital uses AI to unlock new medical diagnoses.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI case study on Boston Children&apos;s Hospital using AI to improve diagnostic accuracy.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>mudler/Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled-APEX-MTP-GGUF just released !</title>
@@ -125,15 +117,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tshkls/llama_surgery_continuous_sparsification_of/</guid>
       <pubDate>Sun, 31 May 2026 01:34:56 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 72/100<br/><b>Source:</b> r/artificial<br/><br/>Research on Llama Surgery method for continuous sparsification of pre-trained language models via differentiable topology.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Anthropic surpasses OpenAI to become most valuable AI startup</title>
-      <link>https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup</link>
-      <guid isPermaLink="true">https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup</guid>
-      <pubDate>Sat, 30 May 2026 13:56:34 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 72/100<br/><b>Source:</b> r/artificial<br/><br/>Research on Llama Surgery technique for continuous sparsification of pre-trained language models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Corporate America Is Starting to Ration AI as Cost Skyrockets</title>
@@ -141,7 +125,7 @@
       <guid isPermaLink="true">https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a</guid>
       <pubDate>Sat, 30 May 2026 12:17:33 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Report on corporate cost-cutting measures as AI inference and API expenses escalate.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Benchmarked inference engines for M1 Max 64gb-results &amp; analysis</title>
@@ -149,7 +133,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tsh5i6/benchmarked_inference_engines_for_m1_max/</guid>
       <pubDate>Sun, 31 May 2026 01:14:27 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Benchmark comparison of inference engines for M1 Max hardware with analysis.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Benchmark comparison of inference engines on Apple M1 Max hardware.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Robot foundation models keep hiding behind fine-tuning numbers. Wall-OSS-0.5 is trying a different approach</title>
@@ -157,7 +141,23 @@
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tsnsta/robot_foundation_models_keep_hiding_behind/</guid>
       <pubDate>Sun, 31 May 2026 06:50:49 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/artificial<br/><br/>Wall-OSS-0.5 robot foundation model takes different approach beyond fine-tuning metrics.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/artificial<br/><br/>Wall-OSS-0.5 robot foundation model attempts transparent evaluation approach beyond fine-tuning metrics.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Bayesian Opt. GPs vs Linear models and Neural Networks for parameter optimizations [R]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1tsi17b/bayesian_opt_gps_vs_linear_models_and_neural/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1tsi17b/bayesian_opt_gps_vs_linear_models_and_neural/</guid>
+      <pubDate>Sun, 31 May 2026 01:57:20 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Workshop submission for main conference paper under review [D]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1ts2m9n/workshop_submission_for_main_conference_paper/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1ts2m9n/workshop_submission_for_main_conference_paper/</guid>
+      <pubDate>Sat, 30 May 2026 15:14:36 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
