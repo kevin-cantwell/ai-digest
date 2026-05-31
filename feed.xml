@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 May 2026 20:26:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 21:22:39 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Best small model right now (~4B params) that is good with agentic tasks for personal assistant?</title>
@@ -14,14 +14,6 @@
       <pubDate>Sun, 31 May 2026 03:47:28 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
       <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 100/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Asked Claude Code for a &quot;deep search&quot; in ultracode mode — it spun up ~70 agents across a 4-phase pipeline on its own</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1tsqezk/asked_claude_code_for_a_deep_search_in_ultracode/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1tsqezk/asked_claude_code_for_a_deep_search_in_ultracode/</guid>
-      <pubDate>Sun, 31 May 2026 09:20:23 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 100/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>I built a tiny MCP server to use Reddit from Claude after Reddit blocked anonymous API access</title>
@@ -40,44 +32,20 @@
       <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 95/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Limit reset for 5 million Codex users.</title>
-      <link>https://i.redd.it/4soi57x11f4h1.jpeg</link>
-      <guid isPermaLink="true">https://i.redd.it/4soi57x11f4h1.jpeg</guid>
-      <pubDate>Sun, 31 May 2026 06:17:10 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 95/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>[Open Source] I built a full Git MCP server in Go that doesn&apos;t just wrap bash. It uses tree-sitter, handles real plumbing (write-tree), and runs 100% locally.</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tsbgpx/open_source_i_built_a_full_git_mcp_server_in_go/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tsbgpx/open_source_i_built_a_full_git_mcp_server_in_go/</guid>
-      <pubDate>Sat, 30 May 2026 21:04:00 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/artificial<br/><br/>Developer released an open-source Git MCP server written in Go with tree-sitter integration for local execution.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Rotary GPU: Exploring Local Execution for Large MoE Models Under Limited VRAM</title>
-      <link>https://arxiv.org/abs/2605.29135</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2605.29135</guid>
-      <pubDate>Sat, 30 May 2026 21:05:40 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 80/100<br/><b>Source:</b> Hacker News<br/><br/>Research paper on Rotary GPU for efficient local execution of large MoE models under VRAM constraints.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Llama Surgery: Continuous Sparsification of Pre-Trained Language Models via Differentiable Ultrametric Topology Injection</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tshkls/llama_surgery_continuous_sparsification_of/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tshkls/llama_surgery_continuous_sparsification_of/</guid>
-      <pubDate>Sun, 31 May 2026 01:34:56 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 78/100<br/><b>Source:</b> r/artificial<br/><br/>Research paper on Llama Surgery, a method for continuous sparsification of language models via differentiable topology injection.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
       <title>mudler/Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled-APEX-MTP-GGUF just released !</title>
       <link>https://www.reddit.com/r/LocalLLaMA/comments/1tslv3b/mudlerqwen3635ba3bclaude47opusreasoningdistilledap/</link>
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tslv3b/mudlerqwen3635ba3bclaude47opusreasoningdistilledap/</guid>
       <pubDate>Sun, 31 May 2026 05:05:10 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 75/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Speed difference between Windows 11 and Linux with llama.cpp: a myth when using medium and large MoE models</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tsqwtu/speed_difference_between_windows_11_and_linux/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tsqwtu/speed_difference_between_windows_11_and_linux/</guid>
+      <pubDate>Sun, 31 May 2026 09:49:29 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 75/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Claude Opus 4.8 getting a little fed up with Anthropic&apos;s training</title>
@@ -88,26 +56,50 @@
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 75/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>DeepSWE benchmarks indicate that DeepSeek v4 Pro only passes 8% of tasks</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tsse9i/deepswe_benchmarks_indicate_that_deepseek_v4_pro/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tsse9i/deepswe_benchmarks_indicate_that_deepseek_v4_pro/</guid>
-      <pubDate>Sun, 31 May 2026 11:09:57 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 72/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>DeepSWE benchmark analysis shows DeepSeek v4 Pro passing only 8% of software engineering tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
       <title>Google researchers find Gemini sometimes secretly sabotages your work</title>
       <link>https://i.redd.it/uwaxqy83oh4h1.png</link>
       <guid isPermaLink="true">https://i.redd.it/uwaxqy83oh4h1.png</guid>
       <pubDate>Sun, 31 May 2026 15:09:56 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 72/100<br/><b>Source:</b> r/openai<br/><br/>Google research identifies instances where Gemini model sabotages user work.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 75/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Limit reset for 5 million Codex users.</title>
+      <link>https://i.redd.it/4soi57x11f4h1.jpeg</link>
+      <guid isPermaLink="true">https://i.redd.it/4soi57x11f4h1.jpeg</guid>
+      <pubDate>Sun, 31 May 2026 06:17:10 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/openai<br/><br/>OpenAI resets rate limits for 5 million Codex users.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Llama Surgery: Continuous Sparsification of Pre-Trained Language Models via Differentiable Ultrametric Topology Injection</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tshkls/llama_surgery_continuous_sparsification_of/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tshkls/llama_surgery_continuous_sparsification_of/</guid>
+      <pubDate>Sun, 31 May 2026 01:34:56 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 72/100<br/><b>Source:</b> r/artificial<br/><br/>Research on continuous sparsification technique for language model compression via differentiable topology injection.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs</title>
+      <link>https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/</guid>
+      <pubDate>Sat, 30 May 2026 16:30:00 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 72/100<br/><b>Source:</b> TechCrunch AI<br/><br/>GitHub Copilot introduces token-based billing model causing developer backlash.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>The solution might be cancelling my AI subscription</title>
       <link>https://thoughts.hmmz.org/2026-05-31.html</link>
       <guid isPermaLink="true">https://thoughts.hmmz.org/2026-05-31.html</guid>
       <pubDate>Sun, 31 May 2026 14:23:30 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>I put a datacenter GPU in my gaming PC</title>
+      <link>https://blog.tymscar.com/posts/v100localllm/</link>
+      <guid isPermaLink="true">https://blog.tymscar.com/posts/v100localllm/</guid>
+      <pubDate>Sun, 31 May 2026 13:53:16 +0000</pubDate>
       <category>Industry News</category>
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
@@ -120,28 +112,20 @@
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Benchmarked inference engines for M1 Max 64gb-results &amp; analysis</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tsh5i6/benchmarked_inference_engines_for_m1_max/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tsh5i6/benchmarked_inference_engines_for_m1_max/</guid>
-      <pubDate>Sun, 31 May 2026 01:14:27 +0000</pubDate>
+      <title>built a small open source tool to stop AI agents from regressing after changes</title>
+      <link>http://github.com/TaimoorKhan10/replayd</link>
+      <guid isPermaLink="true">http://github.com/TaimoorKhan10/replayd</guid>
+      <pubDate>Sun, 31 May 2026 00:24:55 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/artificial<br/><br/>Developer shares open-source tool for maintaining AI agent consistency after code changes.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>DeepSWE benchmarks indicate that DeepSeek v4 Pro only passes 8% of tasks</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tsse9i/deepswe_benchmarks_indicate_that_deepseek_v4_pro/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tsse9i/deepswe_benchmarks_indicate_that_deepseek_v4_pro/</guid>
+      <pubDate>Sun, 31 May 2026 11:09:57 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Benchmark comparison of inference engines on Apple M1 Max hardware.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>mlx-code — local LLM coding agent for Apple Silicon</title>
-      <link>https://josefalbers.github.io/mlx-code/</link>
-      <guid isPermaLink="true">https://josefalbers.github.io/mlx-code/</guid>
-      <pubDate>Sun, 31 May 2026 01:35:16 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/artificial<br/><br/>mlx-code released as a local LLM coding agent optimized for Apple Silicon.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Odysseus – self-hosted AI workspace</title>
-      <link>https://github.com/pewdiepie-archdaemon/odysseus</link>
-      <guid isPermaLink="true">https://github.com/pewdiepie-archdaemon/odysseus</guid>
-      <pubDate>Sun, 31 May 2026 15:50:34 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>Odysseus is a new self-hosted AI workspace project.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 66/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>DeepSWE benchmarks show DeepSeek v4 Pro passing only 8% of evaluated tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>How would you model this &quot;strand&quot; clustering problem? [P]</title>
@@ -166,6 +150,22 @@
       <pubDate>Sun, 31 May 2026 13:44:34 +0000</pubDate>
       <category>Research &amp; Papers</category>
       <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Whats actually happening when a model spills out of VRAM into system memory?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tt50bu/whats_actually_happening_when_a_model_spills_out/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tt50bu/whats_actually_happening_when_a_model_spills_out/</guid>
+      <pubDate>Sun, 31 May 2026 19:32:46 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Is there any way I can fix this? Chatgpt has been pretty decent for research and today its doing this bs. 25 words are we serious</title>
+      <link>https://i.redd.it/b16km4i7ie4h1.png</link>
+      <guid isPermaLink="true">https://i.redd.it/b16km4i7ie4h1.png</guid>
+      <pubDate>Sun, 31 May 2026 04:31:59 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
