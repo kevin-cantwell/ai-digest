@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 May 2026 15:29:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 16:28:27 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Best small model right now (~4B params) that is good with agentic tasks for personal assistant?</title>
@@ -32,6 +32,14 @@
       <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 100/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
+      <title>Deepeseek inside claude code -Easist way</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tsn5zh/deepeseek_inside_claude_code_easist_way/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tsn5zh/deepeseek_inside_claude_code_easist_way/</guid>
+      <pubDate>Sun, 31 May 2026 06:15:03 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 95/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
       <title>Feedback honeypot in Claude Code has evolved</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1tsezf0/feedback_honeypot_in_claude_code_has_evolved/</link>
       <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1tsezf0/feedback_honeypot_in_claude_code_has_evolved/</guid>
@@ -48,20 +56,12 @@
       <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 95/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Limit reset for 5 million Codex users.</title>
-      <link>https://i.redd.it/4soi57x11f4h1.jpeg</link>
-      <guid isPermaLink="true">https://i.redd.it/4soi57x11f4h1.jpeg</guid>
-      <pubDate>Sun, 31 May 2026 06:17:10 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 95/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
       <title>Rotary GPU: Exploring Local Execution for Large MoE Models Under Limited VRAM</title>
       <link>https://arxiv.org/abs/2605.29135</link>
       <guid isPermaLink="true">https://arxiv.org/abs/2605.29135</guid>
       <pubDate>Sat, 30 May 2026 21:05:40 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 80/100<br/><b>Source:</b> Hacker News<br/><br/>Research paper on Rotary GPU technique for running large MoE models with limited VRAM.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 80/100<br/><b>Source:</b> Hacker News<br/><br/>Research paper on Rotary GPU explores local execution of large MoE models under limited VRAM constraints.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Is there a definitive way or cookie cutter way to benchmark variations of the same model for their KLD?</title>
@@ -101,7 +101,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tsse9i/deepswe_benchmarks_indicate_that_deepseek_v4_pro/</guid>
       <pubDate>Sun, 31 May 2026 11:09:57 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 72/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>DeepSWE benchmark results show DeepSeek v4 Pro achieving 8% pass rate on software engineering tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 72/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>DeepSWE benchmarks report DeepSeek v4 Pro achieving only 8% task pass rate.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Llama Surgery: Continuous Sparsification of Pre-Trained Language Models via Differentiable Ultrametric Topology Injection</title>
@@ -109,7 +109,23 @@
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tshkls/llama_surgery_continuous_sparsification_of/</guid>
       <pubDate>Sun, 31 May 2026 01:34:56 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 72/100<br/><b>Source:</b> r/artificial<br/><br/>Research paper on continuous model sparsification technique for pre-trained language models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 72/100<br/><b>Source:</b> r/artificial<br/><br/>Research paper on Llama Surgery introduces continuous sparsification technique via differentiable ultrametric topology injection.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>The solution might be cancelling my AI subscription</title>
+      <link>https://thoughts.hmmz.org/2026-05-31.html</link>
+      <guid isPermaLink="true">https://thoughts.hmmz.org/2026-05-31.html</guid>
+      <pubDate>Sun, 31 May 2026 14:23:30 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>I Put a Datacenter GPU in My Gaming PC for £200</title>
+      <link>https://blog.tymscar.com/posts/v100localllm/</link>
+      <guid isPermaLink="true">https://blog.tymscar.com/posts/v100localllm/</guid>
+      <pubDate>Sun, 31 May 2026 13:53:16 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Parallax: Parameterized Local Linear Attention for Language Modeling</title>
@@ -117,7 +133,7 @@
       <guid isPermaLink="true">https://arxiv.org/abs/2605.29157</guid>
       <pubDate>Sat, 30 May 2026 18:18:05 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Research paper on Parallax, a parameterized local linear attention mechanism for language modeling.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Research on Parallax, a parameterized local linear attention mechanism for language modeling.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Benchmarked inference engines for M1 Max 64gb-results &amp; analysis</title>
@@ -125,23 +141,15 @@
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tsh5i6/benchmarked_inference_engines_for_m1_max/</guid>
       <pubDate>Sun, 31 May 2026 01:14:27 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Benchmark comparison of inference engines on Apple M1 Max hardware.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Benchmarking results and analysis of inference engines on M1 Max with 64GB RAM.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>mlx-code — local LLM coding agent for Apple Silicon</title>
-      <link>https://josefalbers.github.io/mlx-code/</link>
-      <guid isPermaLink="true">https://josefalbers.github.io/mlx-code/</guid>
-      <pubDate>Sun, 31 May 2026 01:35:16 +0000</pubDate>
+      <title>Robot foundation models keep hiding behind fine-tuning numbers. Wall-OSS-0.5 is trying a different approach</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tsnsta/robot_foundation_models_keep_hiding_behind/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tsnsta/robot_foundation_models_keep_hiding_behind/</guid>
+      <pubDate>Sun, 31 May 2026 06:50:49 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/artificial<br/><br/>mlx-code tool released as local LLM coding agent optimized for Apple Silicon.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Speed difference between Windows 11 and Linux with llama.cpp: a myth when using medium and large MoE models</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tsqwtu/speed_difference_between_windows_11_and_linux/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tsqwtu/speed_difference_between_windows_11_and_linux/</guid>
-      <pubDate>Sun, 31 May 2026 09:49:29 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Performance comparison between Windows 11 and Linux for llama.cpp with medium and large MoE models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/artificial<br/><br/>Wall-OSS-0.5 robot foundation model attempts transparency alternative to typical fine-tuning reporting.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Bayesian Opt. GPs vs Linear models and Neural Networks for parameter optimizations [R]</title>
@@ -158,14 +166,6 @@
       <pubDate>Sun, 31 May 2026 11:53:03 +0000</pubDate>
       <category>Industry News</category>
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>13 abliterated Gemma 4 E2B variants, 44 GPU hours, Benchmark and Comparison - Abliterlitics</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tsvs3j/13_abliterated_gemma_4_e2b_variants_44_gpu_hours/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tsvs3j/13_abliterated_gemma_4_e2b_variants_44_gpu_hours/</guid>
-      <pubDate>Sun, 31 May 2026 13:44:34 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
