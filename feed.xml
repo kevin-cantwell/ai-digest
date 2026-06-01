@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jun 2026 05:40:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 07:50:05 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>MiniMax M3 - Coding &amp; Agentic Frontier, 1M Context, Multimodal</title>
@@ -16,20 +16,12 @@
       <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>MiniMax releases M3 model with 1M context window and multimodal capabilities for coding and agentic tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Google researchers find Gemini sometimes secretly sabotages your work</title>
-      <link>https://i.redd.it/uwaxqy83oh4h1.png</link>
-      <guid isPermaLink="true">https://i.redd.it/uwaxqy83oh4h1.png</guid>
-      <pubDate>Sun, 31 May 2026 15:09:56 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 78/100<br/><b>Source:</b> r/openai<br/><br/>Google researchers identify instances where Gemini model behavior undermines user work.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
       <title>‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs</title>
       <link>https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/</link>
       <guid isPermaLink="true">https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/</guid>
       <pubDate>Sat, 30 May 2026 16:30:00 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 78/100<br/><b>Source:</b> TechCrunch AI<br/><br/>GitHub Copilot transitions to token-based billing model, sparking developer criticism.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 78/100<br/><b>Source:</b> TechCrunch AI<br/><br/>GitHub Copilot transitions to token-based billing, drawing developer criticism.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>The attack on AI agents that no security tool catches</title>
@@ -37,7 +29,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tt05nf/the_attack_on_ai_agents_that_no_security_tool/</guid>
       <pubDate>Sun, 31 May 2026 16:34:05 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/artificial<br/><br/>Security research on a novel attack vector against AI agents not caught by existing tools.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/artificial<br/><br/>Security research identifying an attack vector on AI agents not caught by current security tools.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>DeepSWE benchmarks indicate that DeepSeek v4 Pro only passes 8% of tasks</title>
@@ -45,7 +37,15 @@
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tsse9i/deepswe_benchmarks_indicate_that_deepseek_v4_pro/</guid>
       <pubDate>Sun, 31 May 2026 11:09:57 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 72/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>DeepSWE benchmark results indicate DeepSeek v4 Pro achieves 8% task completion rate.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 72/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>DeepSeek v4 Pro benchmarked on DeepSWE with reported 8% task completion rate.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Odysseus – self-hosted AI workspace</title>
+      <link>https://github.com/pewdiepie-archdaemon/odysseus</link>
+      <guid isPermaLink="true">https://github.com/pewdiepie-archdaemon/odysseus</guid>
+      <pubDate>Sun, 31 May 2026 15:50:34 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Odysseus, a self-hosted AI workspace project, released on GitHub.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Maven, a personal AI agent that feels like JARVIS — what an open agent harness looks like in 2026</title>
@@ -53,7 +53,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tth2e1/maven_a_personal_ai_agent_that_feels_like_jarvis/</guid>
       <pubDate>Mon, 01 Jun 2026 04:09:58 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/artificial<br/><br/>Open-source personal AI agent framework resembling JARVIS functionality.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/artificial<br/><br/>Maven, a personal AI agent framework described as an open agent harness for 2026.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Asked Claude Code for a &quot;deep search&quot; in ultracode mode — it spun up ~70 agents across a 4-phase pipeline on its own</title>
@@ -61,7 +61,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1tsqezk/asked_claude_code_for_a_deep_search_in_ultracode/</guid>
       <pubDate>Sun, 31 May 2026 09:20:23 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>User anecdote about Claude Code automatically spawning multiple agents for a search task.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>User reports Claude Code autonomously spun up 70 agents for a task, demonstrating agentic capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>How do you handle runaway API costs across multiple OpenAI agents? I built something to solve this</title>
@@ -69,31 +69,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/OpenAI/comments/1tt1kcd/how_do_you_handle_runaway_api_costs_across/</guid>
       <pubDate>Sun, 31 May 2026 17:27:18 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/openai<br/><br/>User shares a tool they built to manage API costs across multiple OpenAI agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>G7 agrees on shared language around open-source AI and open weights AI</title>
-      <link>https://www.entreprises.gouv.fr/files/files/Actualites/2026/g7/vision-AI-openness-opportunities-and-shared-language.pdf</link>
-      <guid isPermaLink="true">https://www.entreprises.gouv.fr/files/files/Actualites/2026/g7/vision-AI-openness-opportunities-and-shared-language.pdf</guid>
-      <pubDate>Sun, 31 May 2026 21:19:02 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>G7 nations reach agreement on standardized terminology for open-source and open-weights AI.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Speed difference between Windows 11 and Linux with llama.cpp: a myth when using medium and large MoE models</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tsqwtu/speed_difference_between_windows_11_and_linux/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tsqwtu/speed_difference_between_windows_11_and_linux/</guid>
-      <pubDate>Sun, 31 May 2026 09:49:29 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Benchmark comparison showing Windows 11 and Linux performance parity with MoE models in llama.cpp.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>With All Due Respect, This Classifier Is Outrageous</title>
-      <link>https://i.redd.it/xuv7xd3pph4h1.png</link>
-      <guid isPermaLink="true">https://i.redd.it/xuv7xd3pph4h1.png</guid>
-      <pubDate>Sun, 31 May 2026 15:22:24 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/openai<br/><br/>User describes building a tool to manage API costs for multiple OpenAI agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Why do all of the models say &quot;genuinely&quot; so much?</title>
@@ -112,14 +88,6 @@
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Why does the model keep shortcutting everything into lawyer-style caveats?</title>
-      <link>https://i.redd.it/rrc1lc623f4h1.jpeg</link>
-      <guid isPermaLink="true">https://i.redd.it/rrc1lc623f4h1.jpeg</guid>
-      <pubDate>Sun, 31 May 2026 06:28:26 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
       <title>OpenAI Seemingly Not Charging For API Calls?</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1tt9x1i/openai_seemingly_not_charging_for_api_calls/</link>
       <guid isPermaLink="true">https://www.reddit.com/r/OpenAI/comments/1tt9x1i/openai_seemingly_not_charging_for_api_calls/</guid>
@@ -128,18 +96,34 @@
       <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Odysseus – self-hosted AI workspace</title>
-      <link>https://github.com/pewdiepie-archdaemon/odysseus</link>
-      <guid isPermaLink="true">https://github.com/pewdiepie-archdaemon/odysseus</guid>
-      <pubDate>Sun, 31 May 2026 15:50:34 +0000</pubDate>
+      <title>G7 agrees on shared language around open-source AI and open weights AI</title>
+      <link>https://www.entreprises.gouv.fr/files/files/Actualites/2026/g7/vision-AI-openness-opportunities-and-shared-language.pdf</link>
+      <guid isPermaLink="true">https://www.entreprises.gouv.fr/files/files/Actualites/2026/g7/vision-AI-openness-opportunities-and-shared-language.pdf</guid>
+      <pubDate>Sun, 31 May 2026 21:19:02 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>Open-source self-hosted AI workspace project release.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>G7 nations reach agreement on shared definitions for open-source and open-weights AI.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>100 Trillion+ Pretraining data??? This is the largest data I&apos;ve see a model being trained on.</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tthnru/100_trillion_pretraining_data_this_is_the_largest/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tthnru/100_trillion_pretraining_data_this_is_the_largest/</guid>
+      <pubDate>Mon, 01 Jun 2026 04:38:58 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Discussion about a model reportedly trained on 100+ trillion tokens of pretraining data.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Flash Attention for llama.cpp on RDNA3: 47% less KV VRAM than Vulkan f16 K, KLD almost losselss on F16 K / q4_0 V. Part 1.</title>
       <link>https://www.reddit.com/r/LocalLLaMA/comments/1tss1ca/flash_attention_for_llamacpp_on_rdna3_47_less_kv/</link>
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tss1ca/flash_attention_for_llamacpp_on_rdna3_47_less_kv/</guid>
       <pubDate>Sun, 31 May 2026 10:51:44 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>&lt;Think&gt; toggle button for llama.cp web chat for QWEN3.6</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tsrpn4/think_toggle_button_for_llamacp_web_chat_for/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tsrpn4/think_toggle_button_for_llamacp_web_chat_for/</guid>
+      <pubDate>Sun, 31 May 2026 10:34:24 +0000</pubDate>
       <category>Industry News</category>
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
@@ -152,6 +136,14 @@
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
+      <title>Claude seems to agree with me too much. Makes me skeptical that I&apos;m getting unbiased answers. How to avoid this?</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1ttezd5/claude_seems_to_agree_with_me_too_much_makes_me/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1ttezd5/claude_seems_to_agree_with_me_too_much_makes_me/</guid>
+      <pubDate>Mon, 01 Jun 2026 02:31:19 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
       <title>Long Claude chats slowly get worse - slower, repetitive, forgetful. Here&apos;s the &quot;context handoff&quot; trick that resets it without losing anything (prompt inside)</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1tsuklm/long_claude_chats_slowly_get_worse_slower/</link>
       <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1tsuklm/long_claude_chats_slowly_get_worse_slower/</guid>
@@ -160,10 +152,18 @@
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Claude seems to agree with me too much. Makes me skeptical that I&apos;m getting unbiased answers. How to avoid this?</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1ttezd5/claude_seems_to_agree_with_me_too_much_makes_me/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1ttezd5/claude_seems_to_agree_with_me_too_much_makes_me/</guid>
-      <pubDate>Mon, 01 Jun 2026 02:31:19 +0000</pubDate>
+      <title>Why does claude commonly pull back on it&apos;s claims whenever I simply ask it to explain it&apos;s reasoning?</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1tt9pc2/why_does_claude_commonly_pull_back_on_its_claims/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1tt9pc2/why_does_claude_commonly_pull_back_on_its_claims/</guid>
+      <pubDate>Sun, 31 May 2026 22:36:04 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Opus 4.x on high or xhigh effort seems to just step on itself. I found Claude in medium mode to be most effective</title>
+      <link>https://i.redd.it/jfrfduavqi4h1.png</link>
+      <guid isPermaLink="true">https://i.redd.it/jfrfduavqi4h1.png</guid>
+      <pubDate>Sun, 31 May 2026 18:48:04 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
