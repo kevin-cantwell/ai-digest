@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Jun 2026 19:43:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 20:44:36 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>The ways we contain Claude across products</title>
@@ -13,7 +13,7 @@
       <guid isPermaLink="true">https://www.anthropic.com/engineering/how-we-contain-claude</guid>
       <pubDate>Thu, 04 Jun 2026 00:27:52 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic publishes technical engineering details on containment and safety mechanisms for Claude across products.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic publishes technical details on containment and safety mechanisms for Claude across products.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>When AI Builds Itself: Our progress toward recursive self-improvement</title>
@@ -21,7 +21,7 @@
       <guid isPermaLink="true">https://www.anthropic.com/institute/recursive-self-improvement</guid>
       <pubDate>Thu, 04 Jun 2026 16:20:17 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic publishes research on progress toward recursive self-improvement in AI systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 86/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic publishes research on progress toward recursive self-improvement in AI systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>We built a source-available LLM reliability library (free for research / personal / internal eval) that can cut inference cost by half at matched quality, and you adopt it by changing one import [P] [R]</title>
@@ -29,7 +29,15 @@
       <guid isPermaLink="true">https://i.redd.it/gezadp4rpa5h1.png</guid>
       <pubDate>Thu, 04 Jun 2026 16:51:29 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Researchers release a source-available LLM reliability library claiming 50% inference cost reduction at matched quality.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Source-available LLM reliability library released that reduces inference costs by 50% at matched quality.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Introducing new capabilities to GPT-Rosalind</title>
+      <link>https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind</link>
+      <guid isPermaLink="true">https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind</guid>
+      <pubDate>Wed, 03 Jun 2026 13:15:00 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces new capabilities for GPT-Rosalind.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Show HN: Boxes.dev: ditch localhost; run Claude Code and Codex in the cloud</title>
@@ -37,15 +45,7 @@
       <guid isPermaLink="true">https://boxes.dev</guid>
       <pubDate>Thu, 04 Jun 2026 14:38:35 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Boxes.dev launches a cloud platform to run Claude Code and Codex without local development environments.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>I tested GPT-5.5 vs Opus 4.8 on agentic terminal coding (Terminal-Bench 2.1)</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1twmqxk/i_tested_gpt55_vs_opus_48_on_agentic_terminal/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1twmqxk/i_tested_gpt55_vs_opus_48_on_agentic_terminal/</guid>
-      <pubDate>Thu, 04 Jun 2026 12:51:25 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Benchmark comparison of GPT-5.5 vs Claude Opus 4.8 on terminal coding tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Boxes.dev enables running Claude Code and Codex in cloud environments instead of localhost.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Beyond Safety Through Filtering: Toward Responsible Training on Human Distress</title>
@@ -53,7 +53,7 @@
       <guid isPermaLink="true">https://open.substack.com/pub/compliancearchitecture/p/beyond-safety-through-filtering-toward?r=6se3l0&amp;amp;utm_medium=ios</guid>
       <pubDate>Thu, 04 Jun 2026 12:48:47 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/openai<br/><br/>Research on responsible AI training approaches for handling human distress content.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/openai<br/><br/>Research on responsible AI training approaches regarding handling human distress data.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>How Endava is redesigning software delivery around AI agents</title>
@@ -61,7 +61,7 @@
       <guid isPermaLink="true">https://openai.com/index/endava-frontiers</guid>
       <pubDate>Thu, 04 Jun 2026 12:00:00 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Case study of enterprise software delivery company redesigning workflow around AI agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Case study on how Endava is redesigning software delivery around AI agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>How Wasmer used Codex to build a Node.js runtime for the edge</title>
@@ -69,7 +69,7 @@
       <guid isPermaLink="true">https://openai.com/index/wasmer</guid>
       <pubDate>Wed, 03 Jun 2026 12:00:00 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Case study of Wasmer using Codex to build a Node.js runtime for edge computing.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Case study on Wasmer using Codex to build a Node.js runtime for edge computing.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Apple approves Poke as the first AI agent on its Messages for Business platform</title>
@@ -85,23 +85,23 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/</guid>
       <pubDate>Wed, 03 Jun 2026 13:40:00 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Meta&apos;s AI agent for WhatsApp Business reaches global availability.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Meta&apos;s AI agent for WhatsApp Business becomes globally available.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Introducing new capabilities to GPT-Rosalind</title>
-      <link>https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind</link>
-      <guid isPermaLink="true">https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind</guid>
-      <pubDate>Wed, 03 Jun 2026 13:15:00 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces new capabilities for GPT-Rosalind, a molecular biology research model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Coralogix raises $200M on bet that someone needs to watch the AI agents</title>
+      <link>https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/</guid>
+      <pubDate>Wed, 03 Jun 2026 13:02:51 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Coralogix raises $200M to build monitoring and observability infrastructure for AI agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>A blueprint for democratic governance of frontier AI</title>
-      <link>https://openai.com/index/frontier-safety-blueprint</link>
-      <guid isPermaLink="true">https://openai.com/index/frontier-safety-blueprint</guid>
-      <pubDate>Wed, 03 Jun 2026 10:00:00 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI publishes framework for democratic governance structures for frontier AI development.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes</title>
+      <link>https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html</link>
+      <guid isPermaLink="true">https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html</guid>
+      <pubDate>Thu, 04 Jun 2026 00:18:02 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Safety Protocols with 4.8</title>
@@ -120,12 +120,20 @@
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite,petgraph)</title>
-      <link>https://github.com/zaydmulani09/mnemo</link>
-      <guid isPermaLink="true">https://github.com/zaydmulani09/mnemo</guid>
-      <pubDate>Wed, 03 Jun 2026 20:32:10 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>Mnemo, an open-source local-first memory layer for LLMs built with Rust and SQLite.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Reality: The Final Eval — Lukas Petersson and Axel Backlund of Andon Labs</title>
+      <link>https://www.latent.space/p/andon</link>
+      <guid isPermaLink="true">https://www.latent.space/p/andon</guid>
+      <pubDate>Thu, 04 Jun 2026 20:39:18 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Latent Space<br/><br/>We talk with the VendingBench authors on evaling Claudes from Haiku to Mythos, and how they build leading, and lasting, frontier evals from scratch.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>An open-source agent architecture that solves the memory problem</title>
+      <link>https://www.reddit.com/r/artificial/comments/1twmhya/an_opensource_agent_architecture_that_solves_the/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1twmhya/an_opensource_agent_architecture_that_solves_the/</guid>
+      <pubDate>Thu, 04 Jun 2026 12:40:55 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/artificial<br/><br/>Open-source agent architecture released that addresses memory management in AI agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Claude&apos;s referral traffic grew 386% in 4 months—but the more interesting story is what people are using it for (new research, 101K sites)</title>
@@ -133,7 +141,15 @@
       <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1twhqty/claudes_referral_traffic_grew_386_in_4_monthsbut/</guid>
       <pubDate>Thu, 04 Jun 2026 08:42:58 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 66/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Report on Claude&apos;s traffic growth and analysis of use case distribution across websites.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 66/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Data showing Claude&apos;s referral traffic grew 386% in 4 months with analysis of usage patterns.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Anthropic&apos;s open-source framework for AI-powered vulnerability discovery</title>
+      <link>https://github.com/anthropics/defending-code-reference-harness</link>
+      <guid isPermaLink="true">https://github.com/anthropics/defending-code-reference-harness</guid>
+      <pubDate>Thu, 04 Jun 2026 20:11:20 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 65/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>On-policy distillation: one of the hottest terms on PapersWithCode [R]</title>
@@ -144,28 +160,12 @@
       <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>First paper acceptance (ICML Workshop), should I attend? [D]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1tw0j33/first_paper_acceptance_icml_workshop_should_i/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1tw0j33/first_paper_acceptance_icml_workshop_should_i/</guid>
-      <pubDate>Wed, 03 Jun 2026 19:48:47 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
       <title>KVarN: Variance-Normalized KV-Cache Quantization [R]</title>
       <link>https://www.reddit.com/r/MachineLearning/comments/1twnj5r/kvarn_variancenormalized_kvcache_quantization_r/</link>
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1twnj5r/kvarn_variancenormalized_kvcache_quantization_r/</guid>
       <pubDate>Thu, 04 Jun 2026 13:21:59 +0000</pubDate>
       <category>Industry News</category>
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>How do ML researchers actually use AI tools to improve their writing? [D]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1twtpmb/how_do_ml_researchers_actually_use_ai_tools_to/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1twtpmb/how_do_ml_researchers_actually_use_ai_tools_to/</guid>
-      <pubDate>Thu, 04 Jun 2026 17:02:53 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
