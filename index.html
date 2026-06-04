@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="refresh" content="300">
-  <title>AI Digest — 2026-06-03</title>
+  <title>AI Digest — 2026-06-04</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
@@ -246,7 +246,7 @@
   <div class="header-inner">
     <div class="logo">AI Digest<span class="logo-dot">.</span></div>
     <div class="header-meta">
-      <span class="header-date" id="header-date" data-utc="2026-06-03T23:34:27Z">Wednesday, June 3, 2026 — 23:34 UTC</span>
+      <span class="header-date" id="header-date" data-utc="2026-06-04T00:57:39Z">Thursday, June 4, 2026 — 00:57 UTC</span>
       <script>
         (function() {
           var el = document.getElementById('header-date');
@@ -259,7 +259,7 @@
       <span class="header-updated" id="header-updated">Updated just now</span>
       <script>
         (function() {
-          var builtAt = new Date("2026-06-03T23:34:27Z");
+          var builtAt = new Date("2026-06-04T00:57:39Z");
           function updateAge() {
             var mins = Math.floor((Date.now() - builtAt.getTime()) / 60000);
             var el = document.getElementById('header-updated');
@@ -282,49 +282,13 @@
 
 <main>
   <div class="tldr-box">
-    <p class="tldr-text">Researchers identified a critical capability transition in AI models around 3.5B parameters where reasoning and truthfulness shift from competing to cooperating, with findings suggesting this transition may be engineered. Meanwhile, new multimodal and text-to-image models (Gemma 4 12B and Ideogram 4.0) continue advancing open-weight AI, while security concerns mount with demonstrated AI worm vulnerabilities and mathematician warnings about AI&#x27;s rapid advancement.</p>
+    <p class="tldr-text">Google released Gemma 4 12B, a unified multimodal encoder-free model, while Ideogram launched an open-weight 9.3B text-to-image model, representing continued progress in efficient multimodal AI systems. Researchers identified a critical scaling threshold at 3.5B parameters where reasoning and truthfulness capabilities transition from competing to cooperating, with published findings and falsifiable predictions about this phenomenon.</p>
   </div>
 
   
     <section class="digest-section">
       <h2 class="section-title" style="color: #4ade80;">⚡ Developer Tools &amp; Agentic AI</h2>
       <div class="cards">
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://openai.com/index/wasmer" target="_blank" rel="noopener noreferrer">How Wasmer used Codex to build a Node.js runtime for the edge</a>
-        </div>
-        <p class="item-summary">Wasmer used OpenAI&#x27;s Codex to build a Node.js runtime for edge computing environments.</p>
-        <div class="card-meta">
-          <a class="source" href="https://openai.com/index/wasmer" target="_blank" rel="noopener noreferrer">OpenAI Blog</a>
-          
-          <span class="age">11h ago</span>
-          <span class="score-bar" title="Quality score: 82/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">82</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/" target="_blank" rel="noopener noreferrer">Meta’s AI agent for WhatsApp Business is now available globally</a>
-        </div>
-        <p class="item-summary">Meta launches AI agent for WhatsApp Business globally.</p>
-        <div class="card-meta">
-          <a class="source" href="https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/" target="_blank" rel="noopener noreferrer">TechCrunch AI</a>
-          
-          <span class="age">9h ago</span>
-          <span class="score-bar" title="Quality score: 82/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">82</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/" target="_blank" rel="noopener noreferrer">Microsoft offers devs a better way to control AI agent behavior</a>
-        </div>
-        <p class="item-summary">Microsoft introduces tools for developers to better control AI agent behavior.</p>
-        <div class="card-meta">
-          <a class="source" href="https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/" target="_blank" rel="noopener noreferrer">TechCrunch AI</a>
-          
-          <span class="age">1d ago</span>
-          <span class="score-bar" title="Quality score: 82/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">82</span></span>
-        </div>
-      </div>
       <div class="card">
         <div class="card-header">
           <a class="card-title" href="https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/" target="_blank" rel="noopener noreferrer">OpenAI launches new Codex tools for white-collar work</a>
@@ -339,26 +303,62 @@
       </div>
       <div class="card">
         <div class="card-header">
-          <a class="card-title" href="https://globalgpt.online/microsoft-assert-open-source-ai-agent-testing-framework" target="_blank" rel="noopener noreferrer">Microsoft ASSERT: Test AI Agents with Plain Text Specs</a>
+          <a class="card-title" href="https://openai.com/index/wasmer" target="_blank" rel="noopener noreferrer">How Wasmer used Codex to build a Node.js runtime for the edge</a>
         </div>
-        <p class="item-summary">Microsoft releases ASSERT, a framework for testing AI agents with plain text specifications.</p>
+        <p class="item-summary">Case study of Wasmer using Codex to build a Node.js runtime for edge computing.</p>
         <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/artificial/comments/1tvq6ot/microsoft_assert_test_ai_agents_with_plain_text/" target="_blank" rel="noopener noreferrer">r/artificial</a>
+          <a class="source" href="https://openai.com/index/wasmer" target="_blank" rel="noopener noreferrer">OpenAI Blog</a>
           
-          <span class="age">9h ago</span>
+          <span class="age">12h ago</span>
           <span class="score-bar" title="Quality score: 76/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">76</span></span>
         </div>
       </div>
       <div class="card">
         <div class="card-header">
-          <a class="card-title" href="https://openai.com/index/codex-for-every-role-tool-workflow" target="_blank" rel="noopener noreferrer">Codex for every role, tool, and workflow</a>
+          <a class="card-title" href="https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/" target="_blank" rel="noopener noreferrer">Meta’s AI agent for WhatsApp Business is now available globally</a>
         </div>
-        <p class="item-summary">OpenAI announces Codex expansion across multiple roles and workflows.</p>
+        <p class="item-summary">Meta&#x27;s AI agent for WhatsApp Business becomes available globally.</p>
         <div class="card-meta">
-          <a class="source" href="https://openai.com/index/codex-for-every-role-tool-workflow" target="_blank" rel="noopener noreferrer">OpenAI Blog</a>
+          <a class="source" href="https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/" target="_blank" rel="noopener noreferrer">TechCrunch AI</a>
           
-          <span class="age">1d ago</span>
+          <span class="age">11h ago</span>
           <span class="score-bar" title="Quality score: 76/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">76</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://simonwillison.net/2026/Jun/3/uber-caps-usage/#atom-everything" target="_blank" rel="noopener noreferrer">Uber Caps Usage of AI Tools Like Claude Code to Manage Costs</a>
+        </div>
+        <p class="item-summary">Uber implements cost controls on Claude Code and similar AI tool usage.</p>
+        <div class="card-meta">
+          <a class="source" href="https://simonwillison.net/2026/Jun/3/uber-caps-usage/#atom-everything" target="_blank" rel="noopener noreferrer">Simon Willison</a>
+          
+          <span class="age">12h ago</span>
+          <span class="score-bar" title="Quality score: 74/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">74</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://globalgpt.online/microsoft-assert-open-source-ai-agent-testing-framework" target="_blank" rel="noopener noreferrer">Microsoft ASSERT: Test AI Agents with Plain Text Specs</a>
+        </div>
+        <p class="item-summary">Microsoft introduces ASSERT, a testing framework for AI agents using plain text specifications.</p>
+        <div class="card-meta">
+          <a class="source" href="https://www.reddit.com/r/artificial/comments/1tvq6ot/microsoft_assert_test_ai_agents_with_plain_text/" target="_blank" rel="noopener noreferrer">r/artificial</a>
+          
+          <span class="age">10h ago</span>
+          <span class="score-bar" title="Quality score: 70/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">70</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://i.redd.it/q3furnio455h1.jpeg" target="_blank" rel="noopener noreferrer">I built Composer: a real-time markdown editor where your Claude Code agent edits the doc alongside you</a>
+        </div>
+        <p class="item-summary">Individual developer built a real-time markdown editor with Claude Code integration.</p>
+        <div class="card-meta">
+          <a class="source" href="https://www.reddit.com/r/ClaudeAI/comments/1tw49jb/i_built_composer_a_realtime_markdown_editor_where/" target="_blank" rel="noopener noreferrer">r/ClaudeAI</a>
+          
+          <span class="age">2h ago</span>
+          <span class="score-bar" title="Quality score: 70/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">70</span></span>
         </div>
       </div>
       </div>
@@ -370,11 +370,11 @@
         <div class="card-header">
           <a class="card-title" href="https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind" target="_blank" rel="noopener noreferrer">Introducing new capabilities to GPT-Rosalind</a>
         </div>
-        <p class="item-summary">OpenAI announces new capabilities for GPT-Rosalind, likely scientific AI model.</p>
+        <p class="item-summary">OpenAI announces new capabilities for GPT-Rosalind, a molecular biology research model.</p>
         <div class="card-meta">
           <a class="source" href="https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind" target="_blank" rel="noopener noreferrer">OpenAI Blog</a>
           
-          <span class="age">10h ago</span>
+          <span class="age">11h ago</span>
           <span class="score-bar" title="Quality score: 72/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">72</span></span>
         </div>
       </div>
@@ -387,24 +387,24 @@
         <div class="card-header">
           <a class="card-title" href="https://i.redd.it/wgddk465935h1.png" target="_blank" rel="noopener noreferrer">We measured how AI capabilities INTERACT as models scale. Below 3.5B, reasoning and truthfulness fight. Above it, they cooperate. The transition is engineerable. (2 papers + interactive dashboard + 7 falsifiable predictions)</a>
         </div>
-        <p class="item-summary">Research showing measurable interactions between AI capabilities as models scale, with engineerable transitions.</p>
+        <p class="item-summary">Research findings on how AI capabilities interact during model scaling with predictions and dashboard.</p>
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/artificial/comments/1tvtbs7/we_measured_how_ai_capabilities_interact_as/" target="_blank" rel="noopener noreferrer">r/artificial</a>
           
-          <span class="age">7h ago</span>
-          <span class="score-bar" title="Quality score: 86/100"><span class="bar-filled">█████████</span><span class="bar-empty">░</span> <span class="score-num">86</span></span>
+          <span class="age">9h ago</span>
+          <span class="score-bar" title="Quality score: 80/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">80</span></span>
         </div>
       </div>
       <div class="card">
         <div class="card-header">
           <a class="card-title" href="https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device" target="_blank" rel="noopener noreferrer">U of T researchers demonstrate AI worm could target any online device</a>
         </div>
-        <p class="item-summary">University of Toronto researchers demonstrate AI worm capable of targeting networked devices.</p>
+        <p class="item-summary">University of Toronto researchers demonstrate an AI worm capable of targeting connected devices.</p>
         <div class="card-meta">
           <a class="source" href="https://news.ycombinator.com/item?id=48379664" target="_blank" rel="noopener noreferrer">Hacker News</a>
-          <span class="upvotes">▲ 132  💬 43</span>
-          <span class="age">19h ago</span>
-          <span class="score-bar" title="Quality score: 82/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">82</span></span>
+          <span class="upvotes">▲ 132  💬 45</span>
+          <span class="age">21h ago</span>
+          <span class="score-bar" title="Quality score: 76/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">76</span></span>
         </div>
       </div>
       <div class="card">
@@ -415,7 +415,7 @@
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/MachineLearning/comments/1tvameq/minimax_dropped_a_new_attention_architecture_n/" target="_blank" rel="noopener noreferrer">r/MachineLearning</a>
           
-          <span class="age">22h ago</span>
+          <span class="age">23h ago</span>
           <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
         </div>
       </div>
@@ -427,7 +427,31 @@
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/MachineLearning/comments/1tvw6sc/analysis_of_alphazero_training_data_d/" target="_blank" rel="noopener noreferrer">r/MachineLearning</a>
           
-          <span class="age">6h ago</span>
+          <span class="age">7h ago</span>
+          <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://www.reddit.com/r/MachineLearning/comments/1tw0j33/first_paper_acceptance_icml_workshop_should_i/" target="_blank" rel="noopener noreferrer">First paper acceptance (ICML Workshop), should I attend? [D]</a>
+        </div>
+        
+        <div class="card-meta">
+          <a class="source" href="https://www.reddit.com/r/MachineLearning/comments/1tw0j33/first_paper_acceptance_icml_workshop_should_i/" target="_blank" rel="noopener noreferrer">r/MachineLearning</a>
+          
+          <span class="age">5h ago</span>
+          <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://hermes-agent.nousresearch.com/desktop" target="_blank" rel="noopener noreferrer">Nous Research — Hermes Desktop</a>
+        </div>
+        
+        <div class="card-meta">
+          <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1tve7qu/nous_research_hermes_desktop/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
+          
+          <span class="age">20h ago</span>
           <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
         </div>
       </div>
@@ -443,8 +467,8 @@
         <p class="item-summary">Ideogram releases Ideogram 4.0, an open-weight 9.3B text-to-image model.</p>
         <div class="card-meta">
           <a class="source" href="https://news.ycombinator.com/item?id=48385829" target="_blank" rel="noopener noreferrer">Hacker News</a>
-          <span class="upvotes">▲ 35  💬 6</span>
-          <span class="age">7h ago</span>
+          <span class="upvotes">▲ 35  💬 7</span>
+          <span class="age">8h ago</span>
           <span class="score-bar" title="Quality score: 80/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">80</span></span>
         </div>
       </div>
@@ -452,11 +476,11 @@
         <div class="card-header">
           <a class="card-title" href="https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground" target="_blank" rel="noopener noreferrer">Mathematicians issue warning as AI rapidly gains ground</a>
         </div>
-        <p class="item-summary">Mathematicians issue warning about rapid AI advancement in mathematical capabilities.</p>
+        <p class="item-summary">Mathematicians warn about AI gaining ground in mathematical research and discovery.</p>
         <div class="card-meta">
           <a class="source" href="https://news.ycombinator.com/item?id=48382052" target="_blank" rel="noopener noreferrer">Hacker News</a>
-          <span class="upvotes">▲ 154  💬 195</span>
-          <span class="age">13h ago</span>
+          <span class="upvotes">▲ 165  💬 215</span>
+          <span class="age">14h ago</span>
           <span class="score-bar" title="Quality score: 76/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">76</span></span>
         </div>
       </div>
@@ -467,21 +491,9 @@
         
         <div class="card-meta">
           <a class="source" href="https://news.ycombinator.com/item?id=48383056" target="_blank" rel="noopener noreferrer">Hacker News</a>
-          <span class="upvotes">▲ 331  💬 415</span>
-          <span class="age">11h ago</span>
+          <span class="upvotes">▲ 354  💬 451</span>
+          <span class="age">12h ago</span>
           <span class="score-bar" title="Quality score: 70/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">70</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://openai.com/index/frontier-safety-blueprint" target="_blank" rel="noopener noreferrer">A blueprint for democratic governance of frontier AI</a>
-        </div>
-        <p class="item-summary">OpenAI publishes blueprint for democratic governance approaches to frontier AI.</p>
-        <div class="card-meta">
-          <a class="source" href="https://openai.com/index/frontier-safety-blueprint" target="_blank" rel="noopener noreferrer">OpenAI Blog</a>
-          
-          <span class="age">13h ago</span>
-          <span class="score-bar" title="Quality score: 66/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">66</span></span>
         </div>
       </div>
       </div>
@@ -493,11 +505,11 @@
         <div class="card-header">
           <a class="card-title" href="https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/" target="_blank" rel="noopener noreferrer">Gemma 4 12B: A unified, encoder-free multimodal model</a>
         </div>
-        <p class="item-summary">Google releases Gemma 4 12B, a unified multimodal encoder-free model for developers.</p>
+        <p class="item-summary">Google releases Gemma 4 12B, a new unified encoder-free multimodal model for developers.</p>
         <div class="card-meta">
           <a class="source" href="https://news.ycombinator.com/item?id=48385906" target="_blank" rel="noopener noreferrer">Hacker News</a>
-          <span class="upvotes">▲ 630  💬 256</span>
-          <span class="age">7h ago</span>
+          <span class="upvotes">▲ 662  💬 285</span>
+          <span class="age">8h ago</span>
           <span class="score-bar" title="Quality score: 88/100"><span class="bar-filled">█████████</span><span class="bar-empty">░</span> <span class="score-num">88</span></span>
         </div>
       </div>
@@ -505,36 +517,12 @@
         <div class="card-header">
           <a class="card-title" href="https://openai.com/index/travelers" target="_blank" rel="noopener noreferrer">Travelers deploys AI-powered claims countrywide with OpenAI</a>
         </div>
-        <p class="item-summary">Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.</p>
+        <p class="item-summary">Travelers Insurance deploys AI-powered claims processing nationwide using OpenAI technology.</p>
         <div class="card-meta">
           <a class="source" href="https://openai.com/index/travelers" target="_blank" rel="noopener noreferrer">OpenAI Blog</a>
           
           <span class="age">1d ago</span>
-          <span class="score-bar" title="Quality score: 75/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">75</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://www.reddit.com/r/LocalLLaMA/comments/1tvfldm/mellum_granite_embedding_models_are_ready_on/" target="_blank" rel="noopener noreferrer">Mellum &amp; Granite Embedding models are ready on llama.cpp</a>
-        </div>
-        <p class="item-summary">Mellum and Granite embedding models become available on llama.cpp.</p>
-        <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1tvfldm/mellum_granite_embedding_models_are_ready_on/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
-          
-          <span class="age">18h ago</span>
           <span class="score-bar" title="Quality score: 72/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">72</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building" target="_blank" rel="noopener noreferrer">32GB of DDR5 now costs $375 – AI shortage continues to squeeze PC building</a>
-        </div>
-        
-        <div class="card-meta">
-          <a class="source" href="https://news.ycombinator.com/item?id=48383241" target="_blank" rel="noopener noreferrer">Hacker News</a>
-          <span class="upvotes">▲ 367  💬 335</span>
-          <span class="age">10h ago</span>
-          <span class="score-bar" title="Quality score: 70/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">70</span></span>
         </div>
       </div>
       <div class="card">
@@ -545,8 +533,20 @@
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/ClaudeAI/comments/1tw402l/safety_protocols_with_48/" target="_blank" rel="noopener noreferrer">r/ClaudeAI</a>
           
-          <span class="age">1h ago</span>
+          <span class="age">3h ago</span>
           <span class="score-bar" title="Quality score: 70/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">70</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://i.redd.it/xayblit1d45h1.png" target="_blank" rel="noopener noreferrer">More Gemma 4 models incoming</a>
+        </div>
+        
+        <div class="card-meta">
+          <a class="source" href="https://www.reddit.com/r/LocalLLaMA/comments/1tvzzml/more_gemma_4_models_incoming/" target="_blank" rel="noopener noreferrer">r/LocalLLaMA</a>
+          
+          <span class="age">5h ago</span>
+          <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
         </div>
       </div>
       </div>
