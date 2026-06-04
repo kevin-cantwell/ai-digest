@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Jun 2026 00:57:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 01:59:36 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Gemma 4 12B: A unified, encoder-free multimodal model</title>
@@ -13,7 +13,31 @@
       <guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/</guid>
       <pubDate>Wed, 03 Jun 2026 16:04:42 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>Google releases Gemma 4 12B, a new unified encoder-free multimodal model for developers.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>Google releases Gemma 4 12B, a unified encoder-free multimodal model for developers.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>The ways we contain Claude across products</title>
+      <link>https://www.anthropic.com/engineering/how-we-contain-claude</link>
+      <guid isPermaLink="true">https://www.anthropic.com/engineering/how-we-contain-claude</guid>
+      <pubDate>Thu, 04 Jun 2026 00:27:52 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic publishes technical documentation on containment strategies for Claude across products.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>U of T researchers demonstrate AI worm could target any online device</title>
+      <link>https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device</link>
+      <guid isPermaLink="true">https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device</guid>
+      <pubDate>Wed, 03 Jun 2026 03:47:21 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>University of Toronto researchers demonstrate proof-of-concept AI worm that could target networked devices.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>How Wasmer used Codex to build a Node.js runtime for the edge</title>
+      <link>https://openai.com/index/wasmer</link>
+      <guid isPermaLink="true">https://openai.com/index/wasmer</guid>
+      <pubDate>Wed, 03 Jun 2026 12:00:00 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Wasmer used OpenAI&apos;s Codex to build a Node.js runtime for edge computing.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Show HN: Ideogram 4.0 – open-weight 9.3B text-to-image model</title>
@@ -21,7 +45,7 @@
       <guid isPermaLink="true">https://github.com/ideogram-oss/ideogram4</guid>
       <pubDate>Wed, 03 Jun 2026 16:00:09 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 80/100<br/><b>Source:</b> Hacker News<br/><br/>Ideogram releases Ideogram 4.0, an open-weight 9.3B text-to-image model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 80/100<br/><b>Source:</b> Hacker News<br/><br/>Ideogram releases Ideogram 4.0, an open-weight 9.3B parameter text-to-image model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>We measured how AI capabilities INTERACT as models scale. Below 3.5B, reasoning and truthfulness fight. Above it, they cooperate. The transition is engineerable. (2 papers + interactive dashboard + 7 falsifiable predictions)</title>
@@ -29,7 +53,7 @@
       <guid isPermaLink="true">https://i.redd.it/wgddk465935h1.png</guid>
       <pubDate>Wed, 03 Jun 2026 15:46:51 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/artificial<br/><br/>Research findings on how AI capabilities interact during model scaling with predictions and dashboard.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/artificial<br/><br/>Research study demonstrates how AI reasoning and truthfulness capabilities interact and transition at model scale thresholds.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>OpenAI launches new Codex tools for white-collar work</title>
@@ -40,68 +64,20 @@
       <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 80/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI launches new Codex tools targeting white-collar work applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Mathematicians issue warning as AI rapidly gains ground</title>
-      <link>https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground</link>
-      <guid isPermaLink="true">https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground</guid>
-      <pubDate>Wed, 03 Jun 2026 10:05:48 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Mathematicians warn about AI gaining ground in mathematical research and discovery.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>U of T researchers demonstrate AI worm could target any online device</title>
-      <link>https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device</link>
-      <guid isPermaLink="true">https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device</guid>
-      <pubDate>Wed, 03 Jun 2026 03:47:21 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>University of Toronto researchers demonstrate an AI worm capable of targeting connected devices.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>How Wasmer used Codex to build a Node.js runtime for the edge</title>
-      <link>https://openai.com/index/wasmer</link>
-      <guid isPermaLink="true">https://openai.com/index/wasmer</guid>
-      <pubDate>Wed, 03 Jun 2026 12:00:00 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Case study of Wasmer using Codex to build a Node.js runtime for edge computing.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Meta’s AI agent for WhatsApp Business is now available globally</title>
-      <link>https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/</guid>
-      <pubDate>Wed, 03 Jun 2026 13:40:00 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Meta&apos;s AI agent for WhatsApp Business becomes available globally.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Uber Caps Usage of AI Tools Like Claude Code to Manage Costs</title>
-      <link>https://simonwillison.net/2026/Jun/3/uber-caps-usage/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/3/uber-caps-usage/#atom-everything</guid>
-      <pubDate>Wed, 03 Jun 2026 12:01:27 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 74/100<br/><b>Source:</b> Simon Willison<br/><br/>Uber implements cost controls on Claude Code and similar AI tool usage.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
       <title>Introducing new capabilities to GPT-Rosalind</title>
       <link>https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind</link>
       <guid isPermaLink="true">https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind</guid>
       <pubDate>Wed, 03 Jun 2026 13:15:00 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces new capabilities for GPT-Rosalind, a molecular biology research model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces new capabilities for GPT-Rosalind, its AI model for scientific research.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Travelers deploys AI-powered claims countrywide with OpenAI</title>
-      <link>https://openai.com/index/travelers</link>
-      <guid isPermaLink="true">https://openai.com/index/travelers</guid>
-      <pubDate>Tue, 02 Jun 2026 12:00:00 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Travelers Insurance deploys AI-powered claims processing nationwide using OpenAI technology.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Uber&apos;s $1,500/month AI limit is a useful signal for AI tool pricing</title>
-      <link>https://simonwillison.net/2026/Jun/3/uber-caps-usage/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/3/uber-caps-usage/</guid>
-      <pubDate>Wed, 03 Jun 2026 12:25:14 +0000</pubDate>
+      <title>Mathematicians issue warning as AI rapidly gains ground</title>
+      <link>https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground</link>
+      <guid isPermaLink="true">https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground</guid>
+      <pubDate>Wed, 03 Jun 2026 10:05:48 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Mathematicians issue formal warning about rapid AI advancement in mathematical capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Microsoft ASSERT: Test AI Agents with Plain Text Specs</title>
@@ -109,31 +85,39 @@
       <guid isPermaLink="true">https://globalgpt.online/microsoft-assert-open-source-ai-agent-testing-framework</guid>
       <pubDate>Wed, 03 Jun 2026 13:58:42 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/artificial<br/><br/>Microsoft introduces ASSERT, a testing framework for AI agents using plain text specifications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/artificial<br/><br/>Microsoft releases ASSERT, a testing framework for AI agents using plain text specifications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Safety Protocols with 4.8</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1tw402l/safety_protocols_with_48/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1tw402l/safety_protocols_with_48/</guid>
-      <pubDate>Wed, 03 Jun 2026 21:54:58 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>I built Composer: a real-time markdown editor where your Claude Code agent edits the doc alongside you</title>
-      <link>https://i.redd.it/q3furnio455h1.jpeg</link>
-      <guid isPermaLink="true">https://i.redd.it/q3furnio455h1.jpeg</guid>
-      <pubDate>Wed, 03 Jun 2026 22:04:50 +0000</pubDate>
+      <title>Codex for every role, tool, and workflow</title>
+      <link>https://openai.com/index/codex-for-every-role-tool-workflow</link>
+      <guid isPermaLink="true">https://openai.com/index/codex-for-every-role-tool-workflow</guid>
+      <pubDate>Tue, 02 Jun 2026 09:00:00 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Individual developer built a real-time markdown editor with Claude Code integration.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces Codex expansion across multiple roles and workflows.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>MiniMax dropped a new attention architecture. [N]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1tvameq/minimax_dropped_a_new_attention_architecture_n/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1tvameq/minimax_dropped_a_new_attention_architecture_n/</guid>
-      <pubDate>Wed, 03 Jun 2026 01:26:40 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Codex is becoming a productivity tool for everyone</title>
+      <link>https://openai.com/index/codex-for-knowledge-work</link>
+      <guid isPermaLink="true">https://openai.com/index/codex-for-knowledge-work</guid>
+      <pubDate>Tue, 02 Jun 2026 02:00:00 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI positions Codex as a general productivity tool for knowledge work.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Meta’s AI agent for WhatsApp Business is now available globally</title>
+      <link>https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/</guid>
+      <pubDate>Wed, 03 Jun 2026 13:40:00 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Meta&apos;s AI agent for WhatsApp Business becomes globally available.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Travelers deploys AI-powered claims countrywide with OpenAI</title>
+      <link>https://openai.com/index/travelers</link>
+      <guid isPermaLink="true">https://openai.com/index/travelers</guid>
+      <pubDate>Tue, 02 Jun 2026 12:00:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Travelers Insurance deploys OpenAI-powered AI system for automated claims processing nationwide.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Analysis of AlphaZero training data [D]</title>
@@ -164,6 +148,22 @@
       <link>https://hermes-agent.nousresearch.com/desktop</link>
       <guid isPermaLink="true">https://hermes-agent.nousresearch.com/desktop</guid>
       <pubDate>Wed, 03 Jun 2026 04:06:22 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Microsoft Aion 1.0 Instruct and Aion 1.0 Plan models!</title>
+      <link>https://i.redd.it/nuy17exhvz4h1.png</link>
+      <guid isPermaLink="true">https://i.redd.it/nuy17exhvz4h1.png</guid>
+      <pubDate>Wed, 03 Jun 2026 04:23:32 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>gemma-4-12b-it vs Qwen3.5-9B on shared benchmarks: Qwen is overall winner beating gemma in 5/8 benchmarks despite a smaller footprint</title>
+      <link>https://i.redd.it/20s4116kg45h1.png</link>
+      <guid isPermaLink="true">https://i.redd.it/20s4116kg45h1.png</guid>
+      <pubDate>Wed, 03 Jun 2026 19:51:33 +0000</pubDate>
       <category>Research &amp; Papers</category>
       <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
