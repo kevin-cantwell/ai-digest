@@ -5,111 +5,39 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Jun 2026 23:24:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 00:51:24 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Trees to Flows and Back: Unifying Decision Trees and Diffusion Models</title>
-      <link>https://arxiv.org/abs/2605.00414</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2605.00414</guid>
-      <pubDate>Sat, 06 Jun 2026 12:59:59 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 86/100<br/><b>Source:</b> Hacker News<br/><br/>Research paper unifying decision trees and diffusion models into a single framework.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Anthropic details how it sandboxes and contains Claude across its products</title>
-      <link>https://www.anthropic.com/engineering/how-we-contain-claude</link>
-      <guid isPermaLink="true">https://www.anthropic.com/engineering/how-we-contain-claude</guid>
-      <pubDate>Sat, 06 Jun 2026 18:32:28 +0000</pubDate>
+      <title>Has anyone actually replaced Claude Code / Codex with local models on an Macbook Pro M5 Max 128GB?</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1typ9ld/has_anyone_actually_replaced_claude_code_codex/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1typ9ld/has_anyone_actually_replaced_claude_code_codex/</guid>
+      <pubDate>Sat, 06 Jun 2026 18:42:24 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Anthropic publishes technical details on how it sandboxes and contains Claude across products.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 100/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Meta Keeps Delaying the Release of Its New AI Model to Developers</title>
-      <link>https://www.wsj.com/tech/ai/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers-f8569c8c</link>
-      <guid isPermaLink="true">https://www.wsj.com/tech/ai/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers-f8569c8c</guid>
-      <pubDate>Sat, 06 Jun 2026 12:15:59 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 78/100<br/><b>Source:</b> Hacker News<br/><br/>Meta repeatedly delays release of new AI model to developers.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot</title>
-      <link>https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/</link>
-      <guid isPermaLink="true">https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/</guid>
-      <pubDate>Sat, 06 Jun 2026 18:35:27 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Meta confirms thousands of Instagram accounts hacked through exploitation of its AI chatbot.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Training-free graph SSL matches GCN with 5× fewer labels — live demo [P]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1tyovlr/trainingfree_graph_ssl_matches_gcn_with_5_fewer/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1tyovlr/trainingfree_graph_ssl_matches_gcn_with_5_fewer/</guid>
-      <pubDate>Sat, 06 Jun 2026 18:27:18 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research on training-free graph SSL achieving GCN performance with 5x fewer labels.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Domino: Decoupling Causal Modeling from Autoregressive Drafting in Speculative Decoding</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tyfqmp/domino_decoupling_causal_modeling_from/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tyfqmp/domino_decoupling_causal_modeling_from/</guid>
-      <pubDate>Sat, 06 Jun 2026 12:16:45 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Research paper on Domino method for decoupling causal modeling in speculative decoding.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Github Copilot finally supporting custom endpoints</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1ty68yx/github_copilot_finally_supporting_custom_endpoints/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1ty68yx/github_copilot_finally_supporting_custom_endpoints/</guid>
-      <pubDate>Sat, 06 Jun 2026 03:35:38 +0000</pubDate>
+      <title>Learn Agentic AI with quick, easy to run hands on labs, visual canvases and notebooks for free!</title>
+      <link>https://v.redd.it/ach4a57x2n5h1</link>
+      <guid isPermaLink="true">https://v.redd.it/ach4a57x2n5h1</guid>
+      <pubDate>Sat, 06 Jun 2026 10:39:56 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 72/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>GitHub Copilot adds support for custom endpoints.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 100/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Claude&apos;s new background tasks panel is exactly how agentic UIs should look</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1tyh46r/claudes_new_background_tasks_panel_is_exactly_how/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1tyh46r/claudes_new_background_tasks_panel_is_exactly_how/</guid>
-      <pubDate>Sat, 06 Jun 2026 13:20:13 +0000</pubDate>
+      <title>Built an open-source library for making Claude Code style terminal UIs in Python</title>
+      <link>https://v.redd.it/2mjfyhn9hq5h1</link>
+      <guid isPermaLink="true">https://v.redd.it/2mjfyhn9hq5h1</guid>
+      <pubDate>Sat, 06 Jun 2026 21:51:56 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Reddit discussion praising Claude&apos;s new background tasks UI design for agentic workflows.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 95/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Running Python code in a sandbox with MicroPython and WASM</title>
-      <link>https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/#atom-everything</guid>
-      <pubDate>Sat, 06 Jun 2026 03:53:34 +0000</pubDate>
+      <title>Sites in Codex is genuinely useful, but I think we&apos;ll look back on it as a transition phase</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1tyq2v3/sites_in_codex_is_genuinely_useful_but_i_think/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/OpenAI/comments/1tyq2v3/sites_in_codex_is_genuinely_useful_but_i_think/</guid>
+      <pubDate>Sat, 06 Jun 2026 19:13:56 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Simon Willison<br/><br/>Technical guide on running Python code in WebAssembly sandbox using MicroPython.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Universal Memory Protocol – a shared format for agent memory</title>
-      <link>https://universalmemoryprotocol.io/</link>
-      <guid isPermaLink="true">https://universalmemoryprotocol.io/</guid>
-      <pubDate>Sat, 06 Jun 2026 20:39:21 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> Hacker News<br/><br/>Universal Memory Protocol announced as shared format standard for agent memory.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>KV cache quant benchmarks: KVarN 6-bit matches q8_0, 4-bit matches q5_0. Massive!</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tyockn/kv_cache_quant_benchmarks_kvarn_6bit_matches_q8_0/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tyockn/kv_cache_quant_benchmarks_kvarn_6bit_matches_q8_0/</guid>
-      <pubDate>Sat, 06 Jun 2026 18:06:48 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>KV cache quantization benchmarks showing significant compression improvements.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>dvlt.cu: inference engine written from scratch in CUDA/C++ for NVIDIA&apos;s DVLT 3D transformer model</title>
-      <link>https://v.redd.it/stq8j168jq5h1</link>
-      <guid isPermaLink="true">https://v.redd.it/stq8j168jq5h1</guid>
-      <pubDate>Sat, 06 Jun 2026 22:04:08 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Open source CUDA/C++ inference engine implementation for NVIDIA&apos;s DVLT 3D transformer.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Council — a Mac app that puts one question to several AI models, has them critique each other blind, then shows where they disagree (free, open source)</title>
-      <link>http://github.com/albertofettucini/Council</link>
-      <guid isPermaLink="true">http://github.com/albertofettucini/Council</guid>
-      <pubDate>Sat, 06 Jun 2026 15:58:33 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/artificial<br/><br/>Free open source Mac app that queries multiple AI models and shows where they disagree.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 95/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Cohere&apos;s unreleased coding model (early access for localllama)</title>
@@ -117,23 +45,79 @@
       <guid isPermaLink="true">https://huggingface.co/CohereLabs/BLS-Mini-Code-1.0</guid>
       <pubDate>Sat, 06 Jun 2026 16:36:41 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Announcement of Cohere&apos;s unreleased coding model with early access.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 90/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Still Don’t Know What an Agent Is…</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1tymde5/still_dont_know_what_an_agent_is/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1tymde5/still_dont_know_what_an_agent_is/</guid>
-      <pubDate>Sat, 06 Jun 2026 16:51:06 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Research on opinion on GenAI</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1ty8luy/research_on_opinion_on_genai/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/OpenAI/comments/1ty8luy/research_on_opinion_on_genai/</guid>
-      <pubDate>Sat, 06 Jun 2026 05:36:21 +0000</pubDate>
+      <title>Trees to Flows and Back: Unifying Decision Trees and Diffusion Models</title>
+      <link>https://arxiv.org/abs/2605.00414</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2605.00414</guid>
+      <pubDate>Sat, 06 Jun 2026 12:59:59 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 86/100<br/><b>Source:</b> Hacker News<br/><br/>Research paper proposing a unified framework connecting decision trees and diffusion models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Anthropic details how it sandboxes and contains Claude across its products</title>
+      <link>https://www.anthropic.com/engineering/how-we-contain-claude</link>
+      <guid isPermaLink="true">https://www.anthropic.com/engineering/how-we-contain-claude</guid>
+      <pubDate>Sat, 06 Jun 2026 18:32:28 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 86/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Anthropic publicly details its sandboxing and containment mechanisms for Claude across products.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Running Python code in a sandbox with MicroPython and WASM</title>
+      <link>https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/#atom-everything</guid>
+      <pubDate>Sat, 06 Jun 2026 03:53:34 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 85/100<br/><b>Source:</b> Simon Willison<br/><br/>I&apos;ve been experimenting with different approaches to running code in a sandbox for several years now, but my latest attempt feels like it might finally have all of the characteristics I&apos;ve been lookin<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Does it make sense to use alternative quantizations of QAT models? [D]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1tyo8gf/does_it_make_sense_to_use_alternative/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1tyo8gf/does_it_make_sense_to_use_alternative/</guid>
+      <pubDate>Sat, 06 Jun 2026 18:02:28 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>My open source local multi agent harness went from 0 to 350 stars in one day here to tell that it’ll keep working after 15 June</title>
+      <link>https://i.redd.it/4lzk5fl2bm5h1.jpeg</link>
+      <guid isPermaLink="true">https://i.redd.it/4lzk5fl2bm5h1.jpeg</guid>
+      <pubDate>Sat, 06 Jun 2026 07:49:57 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Meta Keeps Delaying the Release of Its New AI Model to Developers</title>
+      <link>https://www.wsj.com/tech/ai/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers-f8569c8c</link>
+      <guid isPermaLink="true">https://www.wsj.com/tech/ai/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers-f8569c8c</guid>
+      <pubDate>Sat, 06 Jun 2026 12:15:59 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 78/100<br/><b>Source:</b> Hacker News<br/><br/>Meta repeatedly delays release of a new AI model to developers, per WSJ reporting.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>dvlt.cu: inference engine written from scratch in CUDA/C++ for NVIDIA&apos;s DVLT 3D transformer model</title>
+      <link>https://v.redd.it/stq8j168jq5h1</link>
+      <guid isPermaLink="true">https://v.redd.it/stq8j168jq5h1</guid>
+      <pubDate>Sat, 06 Jun 2026 22:04:08 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Open-source inference engine written from scratch in CUDA/C++ for NVIDIA&apos;s DVLT 3D transformer model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Domino: Decoupling Causal Modeling from Autoregressive Drafting in Speculative Decoding</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tyfqmp/domino_decoupling_causal_modeling_from/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tyfqmp/domino_decoupling_causal_modeling_from/</guid>
+      <pubDate>Sat, 06 Jun 2026 12:16:45 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Domino research decouples causal modeling from autoregressive drafting to improve speculative decoding.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot</title>
+      <link>https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/</link>
+      <guid isPermaLink="true">https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/</guid>
+      <pubDate>Sat, 06 Jun 2026 18:35:27 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Meta confirms thousands of Instagram accounts were compromised through exploitation of its AI chatbot.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Police in England and Wales told to halt AI use in court statements</title>
@@ -141,31 +125,47 @@
       <guid isPermaLink="true">https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241</guid>
       <pubDate>Sat, 06 Jun 2026 15:35:49 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>UK police told to halt use of AI in court statements.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>How difficult would it be to recreate GPT-4</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tyikt9/how_difficult_would_it_be_to_recreate_gpt4/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tyikt9/how_difficult_would_it_be_to_recreate_gpt4/</guid>
-      <pubDate>Sat, 06 Jun 2026 14:21:38 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Nvidia is proposing a beast of a CPU system for Windows PCs</title>
+      <link>https://twitter.com/lemire/status/2062880075117113739</link>
+      <guid isPermaLink="true">https://twitter.com/lemire/status/2062880075117113739</guid>
+      <pubDate>Sat, 06 Jun 2026 12:52:18 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Help my claude wont say uwu</title>
-      <link>https://i.redd.it/bh9xkpfj0o5h1.jpeg</link>
-      <guid isPermaLink="true">https://i.redd.it/bh9xkpfj0o5h1.jpeg</guid>
-      <pubDate>Sat, 06 Jun 2026 13:34:28 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Training-free graph SSL matches GCN with 5× fewer labels — live demo [P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1tyovlr/trainingfree_graph_ssl_matches_gcn_with_5_fewer/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1tyovlr/trainingfree_graph_ssl_matches_gcn_with_5_fewer/</guid>
+      <pubDate>Sat, 06 Jun 2026 18:27:18 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Training-free graph SSL method matches GCN performance with 5x fewer labels, with live demo.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>thank you claude how helpful you are indeed</title>
-      <link>https://i.redd.it/ovuvn2bykk5h1.png</link>
-      <guid isPermaLink="true">https://i.redd.it/ovuvn2bykk5h1.png</guid>
-      <pubDate>Sat, 06 Jun 2026 02:02:10 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>KV cache quant benchmarks: KVarN 6-bit matches q8_0, 4-bit matches q5_0. Massive!</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tyockn/kv_cache_quant_benchmarks_kvarn_6bit_matches_q8_0/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tyockn/kv_cache_quant_benchmarks_kvarn_6bit_matches_q8_0/</guid>
+      <pubDate>Sat, 06 Jun 2026 18:06:48 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>KV cache quantization benchmarks show KVarN achieving comparable performance to higher-bit alternatives.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Council — a Mac app that puts one question to several AI models, has them critique each other blind, then shows where they disagree (free, open source)</title>
+      <link>http://github.com/albertofettucini/Council</link>
+      <guid isPermaLink="true">http://github.com/albertofettucini/Council</guid>
+      <pubDate>Sat, 06 Jun 2026 15:58:33 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/artificial<br/><br/>Council is a free open-source Mac app that queries multiple AI models and identifies their disagreements.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Trump Orders Rapid AI Expansion Across US Military and Intelligence Agencies</title>
+      <link>https://www.ibtimes.sg/trump-orders-rapid-ai-expansion-across-us-military-intelligence-agencies-sweeping-national-87502</link>
+      <guid isPermaLink="true">https://www.ibtimes.sg/trump-orders-rapid-ai-expansion-across-us-military-intelligence-agencies-sweeping-national-87502</guid>
+      <pubDate>Sat, 06 Jun 2026 06:56:09 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
