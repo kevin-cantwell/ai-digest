@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Jun 2026 20:29:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 21:28:44 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Efficient and Training-Free Single-Image Diffusion Models</title>
@@ -13,7 +13,7 @@
       <guid isPermaLink="true">https://arxiv.org/abs/2606.04299</guid>
       <pubDate>Sun, 07 Jun 2026 09:43:45 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 86/100<br/><b>Source:</b> Hacker News<br/><br/>Research on efficient single-image diffusion models without training.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 86/100<br/><b>Source:</b> Hacker News<br/><br/>Research paper on efficient training-free single-image diffusion models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>dvlt.cu: inference engine written from scratch in CUDA/C++ for NVIDIA&apos;s DVLT 3D transformer model</title>
@@ -21,23 +21,7 @@
       <guid isPermaLink="true">https://v.redd.it/stq8j168jq5h1</guid>
       <pubDate>Sat, 06 Jun 2026 22:04:08 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Custom CUDA/C++ inference engine for NVIDIA&apos;s DVLT 3D transformer model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>How I built an AI email agent that processes 15,000 hotel guest emails per day. full architecture breakdown</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tz8vm2/how_i_built_an_ai_email_agent_that_processes/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tz8vm2/how_i_built_an_ai_email_agent_that_processes/</guid>
-      <pubDate>Sun, 07 Jun 2026 10:47:58 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/artificial<br/><br/>Architecture breakdown of production AI email processing agent handling 15,000 daily emails.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Built an open-source library for making Claude Code style terminal UIs in Python</title>
-      <link>https://v.redd.it/2mjfyhn9hq5h1</link>
-      <guid isPermaLink="true">https://v.redd.it/2mjfyhn9hq5h1</guid>
-      <pubDate>Sat, 06 Jun 2026 21:51:56 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Open-source library for terminal UI styling inspired by Claude Code.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Custom CUDA/C++ inference engine written for NVIDIA&apos;s DVLT 3D transformer model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>IntiDev AgentLoops: Feedback Loops for Agentic Workflows</title>
@@ -45,31 +29,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tyxxdo/intidev_agentloops_feedback_loops_for_agentic/</guid>
       <pubDate>Sun, 07 Jun 2026 00:53:24 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/artificial<br/><br/>IntiDev AgentLoops framework for feedback loops in agentic workflows.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Universal Memory Protocol – a shared format for agent memory</title>
-      <link>https://universalmemoryprotocol.io/</link>
-      <guid isPermaLink="true">https://universalmemoryprotocol.io/</guid>
-      <pubDate>Sat, 06 Jun 2026 20:39:21 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> Hacker News<br/><br/>Universal Memory Protocol specification for standardized agent memory format.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>2-bit QAT model releases</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tzlt37/2bit_qat_model_releases/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tzlt37/2bit_qat_model_releases/</guid>
-      <pubDate>Sun, 07 Jun 2026 19:38:31 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Release of 2-bit quantization-aware training model variants.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>llama.cpp Gemma4 MTP support merged!</title>
-      <link>https://github.com/ggml-org/llama.cpp/pull/23398</link>
-      <guid isPermaLink="true">https://github.com/ggml-org/llama.cpp/pull/23398</guid>
-      <pubDate>Sun, 07 Jun 2026 12:53:17 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>llama.cpp merges Gemma4 MTP optimization support.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/artificial<br/><br/>IntiDev introduces AgentLoops, a tool for managing feedback loops in agentic AI workflows.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Running Python code in a sandbox with MicroPython and WASM</title>
@@ -77,15 +37,47 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/#atom-everything</guid>
       <pubDate>Sat, 06 Jun 2026 03:53:34 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> Simon Willison<br/><br/>Technical article on running Python in WASM sandbox with MicroPython.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Simon Willison<br/><br/>Technical writeup on running Python in WASM sandbox using MicroPython.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Qwen 3.6 27B KV cache quant benchmarks: 75 pairs, q8/q6/q5/q4, KVarN, Turbo/TCQ</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tza4ji/qwen_36_27b_kv_cache_quant_benchmarks_75_pairs/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tza4ji/qwen_36_27b_kv_cache_quant_benchmarks_75_pairs/</guid>
-      <pubDate>Sun, 07 Jun 2026 11:54:15 +0000</pubDate>
+      <title>2-bit QAT model releases</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tzlt37/2bit_qat_model_releases/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tzlt37/2bit_qat_model_releases/</guid>
+      <pubDate>Sun, 07 Jun 2026 19:38:31 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Release announcements for 2-bit quantized aware training (QAT) models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>How I built an AI email agent that processes 15,000 hotel guest emails per day. full architecture breakdown</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tz8vm2/how_i_built_an_ai_email_agent_that_processes/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tz8vm2/how_i_built_an_ai_email_agent_that_processes/</guid>
+      <pubDate>Sun, 07 Jun 2026 10:47:58 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Benchmark data for Qwen 3.6 KV cache quantization variants.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/artificial<br/><br/>Technical case study on building an AI email agent processing 15,000 emails daily.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Built an open-source library for making Claude Code style terminal UIs in Python</title>
+      <link>https://v.redd.it/2mjfyhn9hq5h1</link>
+      <guid isPermaLink="true">https://v.redd.it/2mjfyhn9hq5h1</guid>
+      <pubDate>Sat, 06 Jun 2026 21:51:56 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Open-source Python library for creating Claude Code-style terminal UIs released.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>I built a Claude Code skill that stress-tests a pitch through 150 simulated tech personas. It was more useful than I expected.</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1tz6vuo/i_built_a_claude_code_skill_that_stresstests_a/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1tz6vuo/i_built_a_claude_code_skill_that_stresstests_a/</guid>
+      <pubDate>Sun, 07 Jun 2026 08:52:33 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Personal project using Claude Code to simulate tech personas for pitch evaluation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>I used codex to help design a PCB and do component selection</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1tzkado/i_used_codex_to_help_design_a_pcb_and_do/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/OpenAI/comments/1tzkado/i_used_codex_to_help_design_a_pcb_and_do/</guid>
+      <pubDate>Sun, 07 Jun 2026 18:41:40 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/openai<br/><br/>Personal anecdote about using Codex for PCB design assistance.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Anthropic/OpenAI may be spending more than $1000 for every $100 you pay them</title>
@@ -93,7 +85,15 @@
       <guid isPermaLink="true">https://ea.rna.nl/2026/06/07/anthropic-openai-may-be-spending-more-than-1000-for-every-100-you-pay-them/</guid>
       <pubDate>Sun, 07 Jun 2026 12:54:54 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> Hacker News<br/><br/>Analysis of AI company inference costs relative to user pricing.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> Hacker News<br/><br/>Analysis article estimating AI labs spend significantly more than revenue on model training.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>I can&apos;t wait for all the x250 sample distills of Mythos and GPT-5.6</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tyzh4f/i_cant_wait_for_all_the_x250_sample_distills_of/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tyzh4f/i_cant_wait_for_all_the_x250_sample_distills_of/</guid>
+      <pubDate>Sun, 07 Jun 2026 02:09:25 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Claude is the best AI, convince me otherwise.</title>
@@ -136,20 +136,20 @@
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Claude Mythos random message?</title>
-      <link>https://i.redd.it/georyb0p5t5h1.jpeg</link>
-      <guid isPermaLink="true">https://i.redd.it/georyb0p5t5h1.jpeg</guid>
-      <pubDate>Sun, 07 Jun 2026 06:52:16 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Qwen 3.6 27B KV cache quant benchmarks: 75 pairs, q8/q6/q5/q4, KVarN, Turbo/TCQ</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tza4ji/qwen_36_27b_kv_cache_quant_benchmarks_75_pairs/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tza4ji/qwen_36_27b_kv_cache_quant_benchmarks_75_pairs/</guid>
+      <pubDate>Sun, 07 Jun 2026 11:54:15 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 56/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Performance benchmarks for Qwen 3.6 27B with various quantization methods.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Are local models good enough to replace Claude/Codex solely for simple HTML tasks?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tyt63g/are_local_models_good_enough_to_replace/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tyt63g/are_local_models_good_enough_to_replace/</guid>
-      <pubDate>Sat, 06 Jun 2026 21:20:04 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 52/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Discussion thread asking whether local models are sufficient for basic HTML tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>llama.cpp Gemma4 MTP support merged!</title>
+      <link>https://github.com/ggml-org/llama.cpp/pull/23398</link>
+      <guid isPermaLink="true">https://github.com/ggml-org/llama.cpp/pull/23398</guid>
+      <pubDate>Sun, 07 Jun 2026 12:53:17 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 54/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Announcement that llama.cpp merged support for Gemma4 MTP (multi-token prediction).<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Human-Like Neural Nets by Catapulting</title>
@@ -160,12 +160,12 @@
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 50/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Another 1-click admin account takeover in pewdiepie&apos;s AI tool (language in video nsfw)</title>
-      <link>https://v.redd.it/z4k5twjx2q5h1</link>
-      <guid isPermaLink="true">https://v.redd.it/z4k5twjx2q5h1</guid>
-      <pubDate>Sat, 06 Jun 2026 20:32:52 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 50/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>You don&apos;t need a GPU to run gemma-4-26B-A4B</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tz5ffp/you_dont_need_a_gpu_to_run_gemma426ba4b/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tz5ffp/you_dont_need_a_gpu_to_run_gemma426ba4b/</guid>
+      <pubDate>Sun, 07 Jun 2026 07:24:27 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 50/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
