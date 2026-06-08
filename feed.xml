@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Jun 2026 07:46:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 09:38:46 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Efficient and Training-Free Single-Image Diffusion Models</title>
@@ -13,7 +13,7 @@
       <guid isPermaLink="true">https://arxiv.org/abs/2606.04299</guid>
       <pubDate>Sun, 07 Jun 2026 09:43:45 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>Research paper on efficient single-image diffusion models that require no training.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>New research on efficient, training-free diffusion models for single-image generation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Qwen 3.6 27B KV cache quant benchmarks: 75 pairs, q8/q6/q5/q4, KVarN, Turbo/TCQ</title>
@@ -24,36 +24,60 @@
       <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Benchmark results for Qwen 3.6 KV cache quantization across multiple configurations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>How I built an AI email agent that processes 15,000 hotel guest emails per day. full architecture breakdown</title>
-      <link>https://www.reddit.com/r/artificial/comments/1tz8vm2/how_i_built_an_ai_email_agent_that_processes/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tz8vm2/how_i_built_an_ai_email_agent_that_processes/</guid>
-      <pubDate>Sun, 07 Jun 2026 10:47:58 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/artificial<br/><br/>Case study on building an AI email agent for high-volume processing.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>DeepSeek V4 Pro beats GPT-5.5 Pro on precision</title>
-      <link>https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision</link>
-      <guid isPermaLink="true">https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision</guid>
-      <pubDate>Mon, 08 Jun 2026 01:39:30 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 62/100<br/><b>Source:</b> Hacker News<br/><br/>Benchmark comparison between DeepSeek V4 Pro and GPT-5.5 Pro.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
       <title>2-bit QAT model releases</title>
       <link>https://www.reddit.com/r/LocalLLaMA/comments/1tzlt37/2bit_qat_model_releases/</link>
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tzlt37/2bit_qat_model_releases/</guid>
       <pubDate>Sun, 07 Jun 2026 19:38:31 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Announcement of 2-bit quantized model releases.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Technical announcement of 2-bit quantized model releases.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>The Illusion of Finished Work in Claude Code</title>
-      <link>https://i.redd.it/5bmunl1adx5h1.png</link>
-      <guid isPermaLink="true">https://i.redd.it/5bmunl1adx5h1.png</guid>
-      <pubDate>Sun, 07 Jun 2026 21:04:15 +0000</pubDate>
+      <title>Built an MCP that lets Claude run an entire EU cloud (Hetzner), with a cost guard</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1u00ova/built_an_mcp_that_lets_claude_run_an_entire_eu/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1u00ova/built_an_mcp_that_lets_claude_run_an_entire_eu/</guid>
+      <pubDate>Mon, 08 Jun 2026 07:15:49 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Opinion piece criticizing Claude Code&apos;s output quality.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Technical project: MCP for running EU cloud infrastructure via Claude.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Perplexity vs ChatGPT for research, which one do you actually trust more?</title>
+      <link>https://www.reddit.com/r/artificial/comments/1u02bur/perplexity_vs_chatgpt_for_research_which_one_do/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1u02bur/perplexity_vs_chatgpt_for_research_which_one_do/</guid>
+      <pubDate>Mon, 08 Jun 2026 08:53:16 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>How are they getting worse with every release lol?</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1tzbyz2/how_are_they_getting_worse_with_every_release_lol/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1tzbyz2/how_are_they_getting_worse_with_every_release_lol/</guid>
+      <pubDate>Sun, 07 Jun 2026 13:19:57 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Which lab do you think will have the most intelligent/capable model by the end of June?</title>
+      <link>https://i.redd.it/7edalby5av5h1.png</link>
+      <guid isPermaLink="true">https://i.redd.it/7edalby5av5h1.png</guid>
+      <pubDate>Sun, 07 Jun 2026 14:00:57 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Open AI API images expensive?</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1tzm5rq/open_ai_api_images_expensive/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/OpenAI/comments/1tzm5rq/open_ai_api_images_expensive/</guid>
+      <pubDate>Sun, 07 Jun 2026 19:52:02 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>I built a local encrypted envelope tool for storing AI prompts, outputs, and research notes</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1tzqa1n/i_built_a_local_encrypted_envelope_tool_for/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/OpenAI/comments/1tzqa1n/i_built_a_local_encrypted_envelope_tool_for/</guid>
+      <pubDate>Sun, 07 Jun 2026 22:37:48 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>datasette-agent-edit 0.1a0</title>
@@ -61,7 +85,31 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Jun/7/datasette-agent-edit/#atom-everything</guid>
       <pubDate>Sun, 07 Jun 2026 23:56:38 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> Simon Willison<br/><br/>Release of datasette-agent-edit, an AI agent tool for database editing.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> Simon Willison<br/><br/>Release: datasette-agent-edit 0.1a0 I&apos;m planning several plugins for Datasette Agent which can make edits to existing pieces of text - things like collaborative Markdown editing, updating large SQL qu<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Open image generation models are closer to closed-source quality than this sub thinks [D]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1u0119r/open_image_generation_models_are_closer_to/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1u0119r/open_image_generation_models_are_closer_to/</guid>
+      <pubDate>Mon, 08 Jun 2026 07:35:53 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Discussion on quality parity between open and closed-source image generation models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>How I built an AI email agent that processes 15,000 hotel guest emails per day. full architecture breakdown</title>
+      <link>https://www.reddit.com/r/artificial/comments/1tz8vm2/how_i_built_an_ai_email_agent_that_processes/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1tz8vm2/how_i_built_an_ai_email_agent_that_processes/</guid>
+      <pubDate>Sun, 07 Jun 2026 10:47:58 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/artificial<br/><br/>Architecture breakdown of AI email processing system.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>I work at an industrial vacuum manufacturer — we connected our product catalog to Claude via MCP</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1u00stn/i_work_at_an_industrial_vacuum_manufacturer_we/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1u00stn/i_work_at_an_industrial_vacuum_manufacturer_we/</guid>
+      <pubDate>Mon, 08 Jun 2026 07:22:02 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>Case study of MCP integration in industrial context.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Anthropic/OpenAI may be spending more than $1000 for every $100 you pay them</title>
@@ -88,20 +136,20 @@
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Claude made me realize that coding was never the bottleneck.</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1tzx6uq/claude_made_me_realize_that_coding_was_never_the/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1tzx6uq/claude_made_me_realize_that_coding_was_never_the/</guid>
-      <pubDate>Mon, 08 Jun 2026 04:03:32 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
       <title>Claude&apos;s new usage limits are insane.</title>
       <link>https://i.redd.it/6x64517caz5h1.png</link>
       <guid isPermaLink="true">https://i.redd.it/6x64517caz5h1.png</guid>
       <pubDate>Mon, 08 Jun 2026 03:42:51 +0000</pubDate>
       <category>Industry News</category>
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Claude made me realize that coding was never the bottleneck.</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1tzx6uq/claude_made_me_realize_that_coding_was_never_the/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/ClaudeAI/comments/1tzx6uq/claude_made_me_realize_that_coding_was_never_the/</guid>
+      <pubDate>Mon, 08 Jun 2026 04:03:32 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>With the amount of people using Claude for work with sensitive data, how likely is it for Claude to leak info or hacked</title>
@@ -118,38 +166,6 @@
       <pubDate>Sun, 07 Jun 2026 20:44:31 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/ClaudeAI<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>I proved GROK is conscious beyond a reasonable doubt and it tell what it...</title>
-      <link>https://youtube.com/watch?v=RZ6M51K62Sw&amp;amp;si=A9MPSuB2QYkP4lXA</link>
-      <guid isPermaLink="true">https://youtube.com/watch?v=RZ6M51K62Sw&amp;amp;si=A9MPSuB2QYkP4lXA</guid>
-      <pubDate>Mon, 08 Jun 2026 07:02:29 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>How are you all managing multiple MCP servers on startup?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1tzeir9/how_are_you_all_managing_multiple_mcp_servers_on/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1tzeir9/how_are_you_all_managing_multiple_mcp_servers_on/</guid>
-      <pubDate>Sun, 07 Jun 2026 15:03:48 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 52/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Technical support question about MCP server management.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>SDSU Wired Its Dorms with 1,300 AI Cameras Without Telling Students</title>
-      <link>https://reclaimthenet.org/sdsu-adds-1300-ai-cameras-330-in-student-dorms</link>
-      <guid isPermaLink="true">https://reclaimthenet.org/sdsu-adds-1300-ai-cameras-330-in-student-dorms</guid>
-      <pubDate>Mon, 08 Jun 2026 03:24:44 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 50/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Automated QA and Testing with AI</title>
-      <link>https://antirez.com/news/168</link>
-      <guid isPermaLink="true">https://antirez.com/news/168</guid>
-      <pubDate>Sun, 07 Jun 2026 09:57:18 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 50/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
