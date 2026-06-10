@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Jun 2026 09:17:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 11:17:27 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>System Card: Claude Fable 5 and Claude Mythos 5 [pdf]</title>
@@ -13,7 +13,7 @@
       <guid isPermaLink="true">https://www-cdn.anthropic.com/d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf</guid>
       <pubDate>Tue, 09 Jun 2026 16:58:13 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 94/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic releases system card for Claude Fable 5 and Claude Mythos 5 detailing model capabilities and safety measures.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 94/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic releases system card for Claude Fable 5 and Claude Mythos 5 models documenting safety evaluations and capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Introducing Gemma 4 12B: a unified, encoder-free multimodal model</title>
@@ -21,7 +21,7 @@
       <guid isPermaLink="true">https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/</guid>
       <pubDate>Tue, 09 Jun 2026 14:10:19 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 94/100<br/><b>Source:</b> Google DeepMind<br/><br/>Google DeepMind introduces Gemma 4 12B, a unified encoder-free multimodal model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 94/100<br/><b>Source:</b> Google DeepMind<br/><br/>Google announces Gemma 4 12B, a unified encoder-free multimodal model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Claude Fable 5</title>
@@ -29,7 +29,15 @@
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-fable-5-mythos-5</guid>
       <pubDate>Tue, 09 Jun 2026 16:58:01 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 90/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic announces Claude Fable 5 and Claude Mythos 5 model releases.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 90/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic announces Claude Fable 5 and Mythos 5 release.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Anthropic just released Claude Fable 5 a Mythos-class model for general use, with safety classifiers that fall back to Opus 4.8 on ~5% of sessions</title>
+      <link>https://www.reddit.com/r/artificial/comments/1u1fpdg/anthropic_just_released_claude_fable_5_a/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1u1fpdg/anthropic_just_released_claude_fable_5_a/</guid>
+      <pubDate>Tue, 09 Jun 2026 19:47:55 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 88/100<br/><b>Source:</b> r/artificial<br/><br/>Anthropic releases Claude Fable 5 with integrated safety classifiers that escalate to Opus 4.8 on flagged requests.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Is Grep All You Need? How Agent Harnesses Reshape Agentic Search</title>
@@ -37,7 +45,7 @@
       <guid isPermaLink="true">https://arxiv.org/abs/2605.15184</guid>
       <pubDate>Tue, 09 Jun 2026 13:27:03 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Research paper exploring how agent harnesses reshape agentic search capabilities and the role of grep-like operations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Research paper examining how agent harnesses reshape agentic search capabilities and the role of grep-like tools.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Releasing Apodex-1.0 Smol Models (0.8B, 2B, 4B Open-Weights) optimized for Agentic Verification + AgentHarness Evals</title>
@@ -45,7 +53,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1u1p2me/releasing_apodex10_smol_models_08b_2b_4b/</guid>
       <pubDate>Wed, 10 Jun 2026 02:11:47 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Release of Apodex-1.0 small models (0.8B-4B parameters) optimized for agentic verification and evaluation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Release of Apodex-1.0 open-weight small models (0.8B-4B parameters) optimized for agentic verification tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Fluid, natural voice translation with Gemini 3.5 Live Translate</title>
@@ -53,7 +61,7 @@
       <guid isPermaLink="true">https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/</guid>
       <pubDate>Tue, 09 Jun 2026 15:16:25 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 82/100<br/><b>Source:</b> Google DeepMind<br/><br/>Google DeepMind announces Gemini 3.5 Live Translate with real-time voice translation capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 82/100<br/><b>Source:</b> Google DeepMind<br/><br/>Google announces Gemini 3.5 Live Translate with natural voice translation capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Confidential submission of draft S-1 to the SEC</title>
@@ -61,7 +69,55 @@
       <guid isPermaLink="true">https://openai.com/index/openai-submits-confidential-s-1</guid>
       <pubDate>Mon, 08 Jun 2026 14:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces confidential S-1 filing with the SEC for potential IPO.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI submits confidential S-1 filing to SEC for potential IPO.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>OpenAI ran a 44-day hiring competition. An autonomous AI agent beat everyone competitor.</title>
+      <link>https://v.redd.it/gj4csszc8a6h1</link>
+      <guid isPermaLink="true">https://v.redd.it/gj4csszc8a6h1</guid>
+      <pubDate>Tue, 09 Jun 2026 16:18:53 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/artificial<br/><br/>OpenAI&apos;s autonomous AI agent outperforms human competitors in 44-day hiring competition.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>How engineers at Nextdoor use Codex to build without limits</title>
+      <link>https://openai.com/index/nextdoor</link>
+      <guid isPermaLink="true">https://openai.com/index/nextdoor</guid>
+      <pubDate>Tue, 09 Jun 2026 12:00:00 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Case study of Nextdoor engineers using Codex for product development.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>What Codex unlocks for Notion</title>
+      <link>https://openai.com/index/notion</link>
+      <guid isPermaLink="true">https://openai.com/index/notion</guid>
+      <pubDate>Tue, 09 Jun 2026 10:00:00 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Case study of Notion integrating Codex for user-facing features.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>AWS Bedrock to require sharing data with Anthropic for Mythos and future models</title>
+      <link>https://news.ycombinator.com/item?id=48473166</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48473166</guid>
+      <pubDate>Wed, 10 Jun 2026 08:21:38 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> Hacker News<br/><br/>AWS Bedrock to require data sharing with Anthropic for Mythos and future models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Powering the future of robotics in Europe</title>
+      <link>https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/</link>
+      <guid isPermaLink="true">https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/</guid>
+      <pubDate>Tue, 09 Jun 2026 14:02:33 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> Google DeepMind<br/><br/>Google DeepMind announces robotics initiatives and partnerships in Europe.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks</title>
+      <link>https://aarushgupta.io/posts/kan-fpga/</link>
+      <guid isPermaLink="true">https://aarushgupta.io/posts/kan-fpga/</guid>
+      <pubDate>Tue, 09 Jun 2026 19:21:45 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Technical article on implementing Kolmogorov-Arnold Networks for fast machine learning on FPGAs.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Where is the AI jobs crisis?</title>
@@ -72,36 +128,12 @@
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>&apos;Sloppenheimer:&apos; Amazon employees mock the company&apos;s AI on Slack</title>
-      <link>https://www.404media.co/sloppenheimer-amazon-employees-mock-the-companys-ai-on-slack/</link>
-      <guid isPermaLink="true">https://www.404media.co/sloppenheimer-amazon-employees-mock-the-companys-ai-on-slack/</guid>
-      <pubDate>Tue, 09 Jun 2026 15:59:41 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
       <title>Control for agentic payments should start at infrastructure</title>
       <link>https://www.reddit.com/r/artificial/comments/1u1llsc/control_for_agentic_payments_should_start_at/</link>
       <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1u1llsc/control_for_agentic_payments_should_start_at/</guid>
       <pubDate>Tue, 09 Jun 2026 23:34:58 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/artificial<br/><br/>Discussion on infrastructure-level controls for agentic payment systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>OpenAI ran a 44-day hiring competition. An autonomous AI agent beat everyone competitor.</title>
-      <link>https://v.redd.it/gj4csszc8a6h1</link>
-      <guid isPermaLink="true">https://v.redd.it/gj4csszc8a6h1</guid>
-      <pubDate>Tue, 09 Jun 2026 16:18:53 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/artificial<br/><br/>Claim that an autonomous AI agent outperformed human competitors in OpenAI&apos;s 44-day hiring challenge.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Text-to-Speech (TTS) Benchmark Revamped with Objective Standards and Blind Voting (46 models and counting)</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1u19a8d/texttospeech_tts_benchmark_revamped_with/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1u19a8d/texttospeech_tts_benchmark_revamped_with/</guid>
-      <pubDate>Tue, 09 Jun 2026 16:02:37 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Announcement of revamped text-to-speech benchmark with objective standards and blind voting across 46 models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/artificial<br/><br/>Opinion piece discussing infrastructure-level controls for agentic payment systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Apple&apos;s New AI Models Are Built With Gemini but Designed for Privacy</title>
@@ -109,15 +141,15 @@
       <guid isPermaLink="true">https://www.cnet.com/tech/services-and-software/apple-intelligence-models-wwdc-2026</guid>
       <pubDate>Tue, 09 Jun 2026 14:47:23 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> r/artificial<br/><br/>Report on Apple developing AI models based on Gemini architecture with privacy-first design.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> r/artificial<br/><br/>Apple integrating Gemini-based models with privacy-preserving design.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Powering the future of robotics in Europe</title>
-      <link>https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/</link>
-      <guid isPermaLink="true">https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/</guid>
-      <pubDate>Tue, 09 Jun 2026 14:02:33 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> Google DeepMind<br/><br/>Google DeepMind announcement of robotics initiatives and expansion in Europe.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Introducing Papers Without Code [P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1u1wq0a/introducing_papers_without_code_p/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1u1wq0a/introducing_papers_without_code_p/</guid>
+      <pubDate>Wed, 10 Jun 2026 08:58:36 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>I Built Paper Deck: A Better Way to Discover AI/ML Papers [P]</title>
@@ -134,38 +166,6 @@
       <pubDate>Tue, 09 Jun 2026 11:29:15 +0000</pubDate>
       <category>Research &amp; Papers</category>
       <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Unsloth Gemma 4 QAT MTP assistant models now available</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1u19k2h/unsloth_gemma_4_qat_mtp_assistant_models_now/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1u19k2h/unsloth_gemma_4_qat_mtp_assistant_models_now/</guid>
-      <pubDate>Tue, 09 Jun 2026 16:12:02 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Apple announced new on device inference engine for Apple Silicon</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1u1516w/apple_announced_new_on_device_inference_engine/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1u1516w/apple_announced_new_on_device_inference_engine/</guid>
-      <pubDate>Tue, 09 Jun 2026 13:29:13 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Without open source LLMs, US AI companies could have already monopoled the technology</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1u1siyl/without_open_source_llms_us_ai_companies_could/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1u1siyl/without_open_source_llms_us_ai_companies_could/</guid>
-      <pubDate>Wed, 10 Jun 2026 05:00:42 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>OSCAR RotationZoo - Offline Spectral Covariance-Aware Rotation for 2-bit KV Cache Quantization</title>
-      <link>https://i.redd.it/zrjcdd7h0b6h1.png</link>
-      <guid isPermaLink="true">https://i.redd.it/zrjcdd7h0b6h1.png</guid>
-      <pubDate>Tue, 09 Jun 2026 19:00:42 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
