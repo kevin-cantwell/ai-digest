@@ -5,23 +5,23 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Jun 2026 22:38:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 23:33:14 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Introducing Gemma 4 12B: a unified, encoder-free multimodal model</title>
-      <link>https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/</link>
-      <guid isPermaLink="true">https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/</guid>
-      <pubDate>Tue, 09 Jun 2026 14:10:19 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 94/100<br/><b>Source:</b> Google DeepMind<br/><br/>Google DeepMind introduced Gemma 4 12B, a unified encoder-free multimodal model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
     <item>
       <title>Cohere released North Mini Code: It&apos;s first Open-Source Agentic Coding Model</title>
       <link>https://cohere.com/blog/north-mini-code</link>
       <guid isPermaLink="true">https://cohere.com/blog/north-mini-code</guid>
       <pubDate>Wed, 10 Jun 2026 11:18:53 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 88/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Cohere released North Mini Code, their first open-source agentic coding model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 88/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>Cohere released North Mini Code, its first open-source agentic coding model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Introducing Gemma 4 12B: a unified, encoder-free multimodal model</title>
+      <link>https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/</link>
+      <guid isPermaLink="true">https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/</guid>
+      <pubDate>Tue, 09 Jun 2026 14:10:19 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 88/100<br/><b>Source:</b> Google DeepMind<br/><br/>Google DeepMind introduced Gemma 4 12B, unified encoder-free multimodal model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Apache Burr: Build reliable AI agents and applications</title>
@@ -48,28 +48,36 @@
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 82/100<br/><b>Source:</b> Google DeepMind<br/><br/>Google DeepMind released Gemini 3.5 Live Translate with fluid natural voice translation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
+      <title>Cybersecurity researchers aren&apos;t happy about the guardrails on Anthropic&apos;s Fable</title>
+      <link>https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/</guid>
+      <pubDate>Wed, 10 Jun 2026 16:42:00 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 80/100<br/><b>Source:</b> Hacker News<br/><br/>Cybersecurity researchers express concerns about guardrails on Anthropic&apos;s Fable model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
       <title>Lua.ex: Sandboxed Lua 5.3 on the Beam, Built for AI Agents · Lua.ex</title>
       <link>https://deflua.com/</link>
       <guid isPermaLink="true">https://deflua.com/</guid>
       <pubDate>Wed, 10 Jun 2026 13:44:54 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Lua.ex provides sandboxed Lua 5.3 runtime designed for AI agent execution.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Lua.ex provides sandboxed Lua 5.3 runtime on Erlang/Elixir for AI agent development.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>AWS Bedrock to require sharing data with Anthropic for Mythos and future models</title>
-      <link>https://news.ycombinator.com/item?id=48473166</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48473166</guid>
-      <pubDate>Wed, 10 Jun 2026 08:21:38 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>AWS Bedrock requires data sharing with Anthropic for Mythos and future models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Access OpenAI models and Codex through your Oracle cloud commitment</title>
-      <link>https://openai.com/index/openai-on-oracle-cloud</link>
-      <guid isPermaLink="true">https://openai.com/index/openai-on-oracle-cloud</guid>
-      <pubDate>Wed, 10 Jun 2026 20:00:00 +0000</pubDate>
+      <title>How an astrophysicist uses Codex to help simulate black holes</title>
+      <link>https://openai.com/index/using-codex-to-simulate-black-holes</link>
+      <guid isPermaLink="true">https://openai.com/index/using-codex-to-simulate-black-holes</guid>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI models and Codex now accessible through Oracle Cloud commitments.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Case study of astrophysicist using Codex for black hole simulations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>From data to decisions: how LSEG is scaling trusted AI</title>
+      <link>https://openai.com/index/lseg</link>
+      <guid isPermaLink="true">https://openai.com/index/lseg</guid>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 75/100<br/><b>Source:</b> OpenAI Blog<br/><br/>See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Industrial policy for the Intelligence Age</title>
@@ -88,12 +96,28 @@
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 75/100<br/><b>Source:</b> Google DeepMind<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
+      <title>Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use</title>
+      <link>https://github.com/anthropics/claude-code/issues/29045</link>
+      <guid isPermaLink="true">https://github.com/anthropics/claude-code/issues/29045</guid>
+      <pubDate>Wed, 10 Jun 2026 17:11:56 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 74/100<br/><b>Source:</b> Hacker News<br/><br/>Technical issue: Claude Desktop spawns 1.8 GB Hyper-V VM on every launch.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Pyrecall open source tool for detecting catastrophic forgetting during LLM fine-tuning[P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1u2hjye/pyrecall_open_source_tool_for_detecting/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1u2hjye/pyrecall_open_source_tool_for_detecting/</guid>
+      <pubDate>Wed, 10 Jun 2026 22:49:52 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Pyrecall open-source tool released for detecting catastrophic forgetting in LLM fine-tuning.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
       <title>PRC-linked influence operations are targeting AI debates in the US</title>
       <link>https://openai.com/index/prc-linked-influence-operations-ai-debates</link>
       <guid isPermaLink="true">https://openai.com/index/prc-linked-influence-operations-ai-debates</guid>
       <pubDate>Wed, 10 Jun 2026 12:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI report on PRC-linked influence operations targeting AI policy debates.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI report on PRC-linked influence operations targeting AI policy debates in US.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Policy on the AI Exponential</title>
@@ -102,14 +126,6 @@
       <pubDate>Wed, 10 Jun 2026 18:36:04 +0000</pubDate>
       <category>Industry News</category>
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>I ran Fable 5 for half day and the guardrails are the real story</title>
-      <link>https://www.reddit.com/r/artificial/comments/1u28c7d/i_ran_fable_5_for_half_day_and_the_guardrails_are/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/artificial/comments/1u28c7d/i_ran_fable_5_for_half_day_and_the_guardrails_are/</guid>
-      <pubDate>Wed, 10 Jun 2026 17:09:49 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/artificial<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Anthropic&apos;s new model Fable will silently handicap work on LLMs [D]</title>
@@ -150,14 +166,6 @@
       <pubDate>Wed, 10 Jun 2026 04:02:25 +0000</pubDate>
       <category>Research &amp; Papers</category>
       <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Without open source LLMs, US AI companies could have already monopoled the technology</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1u1siyl/without_open_source_llms_us_ai_companies_could/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/comments/1u1siyl/without_open_source_llms_us_ai_companies_could/</guid>
-      <pubDate>Wed, 10 Jun 2026 05:00:42 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
