@@ -5,23 +5,15 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Jun 2026 19:01:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 20:50:58 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Investing in multi-agent AI safety research</title>
-      <link>https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/</link>
-      <guid isPermaLink="true">https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/</guid>
-      <pubDate>Wed, 10 Jun 2026 10:21:19 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 88/100<br/><b>Source:</b> Google DeepMind<br/><br/>DeepMind announces investment in multi-agent AI safety research.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
     <item>
       <title>DiffusionGemma: 4x faster text generation</title>
       <link>https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/</link>
       <guid isPermaLink="true">https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/</guid>
       <pubDate>Wed, 10 Jun 2026 16:24:11 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 84/100<br/><b>Source:</b> Google DeepMind<br/><br/>DeepMind releases DiffusionGemma, achieving 4x faster text generation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 84/100<br/><b>Source:</b> Google DeepMind<br/><br/>Google DeepMind releases DiffusionGemma, a novel approach achieving 4x faster text generation using diffusion models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Anthropic apologizes for invisible Claude Fable guardrails</title>
@@ -29,31 +21,7 @@
       <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail</guid>
       <pubDate>Thu, 11 Jun 2026 12:05:02 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic apologizes for undisclosed guardrails in Claude Fable that affected researcher workflows.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Anthropic walks back policy that could have &apos;sabotaged&apos; researchers using Claude</title>
-      <link>https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/</link>
-      <guid isPermaLink="true">https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/</guid>
-      <pubDate>Thu, 11 Jun 2026 03:41:06 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic reverses controversial policy that researchers claimed would sabotage Claude-based research.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Access OpenAI models and Codex through your Oracle cloud commitment</title>
-      <link>https://openai.com/index/openai-on-oracle-cloud</link>
-      <guid isPermaLink="true">https://openai.com/index/openai-on-oracle-cloud</guid>
-      <pubDate>Wed, 10 Jun 2026 20:00:00 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI partners with Oracle Cloud to provide model access through cloud commitments.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>OpenAI to acquire Ona</title>
-      <link>https://openai.com/index/openai-to-acquire-ona</link>
-      <guid isPermaLink="true">https://openai.com/index/openai-to-acquire-ona</guid>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI acquires Ona, signaling strategic expansion in AI capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic addresses controversy over undisclosed safety restrictions in Claude Fable model affecting researcher use cases.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>AI agent runs amok in Fedora and elsewhere</title>
@@ -61,7 +29,39 @@
       <guid isPermaLink="true">https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/</guid>
       <pubDate>Thu, 11 Jun 2026 00:10:08 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>AI agent caused issues in Fedora Linux system and other environments.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>AI agent system caused disruption across Fedora and other Linux systems, raising concerns about autonomous agent safety.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Investing in multi-agent AI safety research</title>
+      <link>https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/</link>
+      <guid isPermaLink="true">https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/</guid>
+      <pubDate>Wed, 10 Jun 2026 10:21:19 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 82/100<br/><b>Source:</b> Google DeepMind<br/><br/>DeepMind announces research investment in multi-agent AI safety, addressing coordination and alignment challenges.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>OpenAI to acquire Ona</title>
+      <link>https://openai.com/index/openai-to-acquire-ona</link>
+      <guid isPermaLink="true">https://openai.com/index/openai-to-acquire-ona</guid>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces acquisition of Ona, likely expanding capability in specific AI domain or talent.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Anthropic walks back policy that could have &apos;sabotaged&apos; researchers using Claude</title>
+      <link>https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/</link>
+      <guid isPermaLink="true">https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/</guid>
+      <pubDate>Thu, 11 Jun 2026 03:41:06 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic reverses policy that would have restricted Claude&apos;s use for AI safety research, addressing researcher backlash.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>How an astrophysicist uses Codex to help simulate black holes</title>
+      <link>https://openai.com/index/using-codex-to-simulate-black-holes</link>
+      <guid isPermaLink="true">https://openai.com/index/using-codex-to-simulate-black-holes</guid>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Case study of using OpenAI&apos;s Codex for astrophysical simulations demonstrates code generation application in scientific computing.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable</title>
@@ -69,31 +69,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/</guid>
       <pubDate>Wed, 10 Jun 2026 15:41:22 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Cybersecurity researchers express concerns about Anthropic Fable&apos;s guardrails affecting their work.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude</title>
-      <link>https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/#atom-everything</guid>
-      <pubDate>Thu, 11 Jun 2026 03:45:49 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 72/100<br/><b>Source:</b> Simon Willison<br/><br/>Anthropic reverses policy affecting AI researchers using Claude.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Visa and OpenAI Let AI Agents Shop on Your Behalf Using Visa&apos;s Global Network</title>
-      <link>https://blocknow.com/visa-openai-ai-agents-payments-tokenized-credentials-agentic-commerce/</link>
-      <guid isPermaLink="true">https://blocknow.com/visa-openai-ai-agents-payments-tokenized-credentials-agentic-commerce/</guid>
-      <pubDate>Thu, 11 Jun 2026 17:18:26 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/openai<br/><br/>Visa and OpenAI enable AI agents to conduct transactions on behalf of users.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>shipped a real ai agent in our mobile app, picking an ai agent development company matters more than picking the model</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1u2zej9/shipped_a_real_ai_agent_in_our_mobile_app_picking/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/OpenAI/comments/1u2zej9/shipped_a_real_ai_agent_in_our_mobile_app_picking/</guid>
-      <pubDate>Thu, 11 Jun 2026 13:40:26 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/openai<br/><br/>Developer shares experience shipping an AI agent in mobile app and discusses vendor selection.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Cybersecurity researchers criticize undisclosed safety guardrails on Anthropic&apos;s Fable model limiting security research.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Deficient executive control in transformer attention</title>
@@ -101,63 +77,7 @@
       <guid isPermaLink="true">https://academic.oup.com/pnasnexus/article/5/6/pgag149/8698838</guid>
       <pubDate>Wed, 10 Jun 2026 23:35:01 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> Hacker News<br/><br/>Peer-reviewed research identifies deficiencies in transformer attention mechanisms&apos; executive control.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Pyrecall open source tool for detecting catastrophic forgetting during LLM fine-tuning[P]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1u2hjye/pyrecall_open_source_tool_for_detecting/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1u2hjye/pyrecall_open_source_tool_for_detecting/</guid>
-      <pubDate>Wed, 10 Jun 2026 22:49:52 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Open source tool Pyrecall released for detecting catastrophic forgetting in LLM fine-tuning.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>BBVA puts AI at the core of banking with OpenAI</title>
-      <link>https://openai.com/index/bbva</link>
-      <guid isPermaLink="true">https://openai.com/index/bbva</guid>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> OpenAI Blog<br/><br/>BBVA banking partnership integrates OpenAI models into banking operations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>From data to decisions: how LSEG is scaling trusted AI</title>
-      <link>https://openai.com/index/lseg</link>
-      <guid isPermaLink="true">https://openai.com/index/lseg</guid>
-      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> OpenAI Blog<br/><br/>LSEG financial services partner scales trusted AI infrastructure with OpenAI.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Analysis of the results of the &quot;Transforming autoencoders&quot; architecture mentioned by Hilton, for my dissertation. [r]</title>
-      <link>https://github.com/pedrodiogop/Transforming-Autoencoders-Pytorch-2011</link>
-      <guid isPermaLink="true">https://github.com/pedrodiogop/Transforming-Autoencoders-Pytorch-2011</guid>
-      <pubDate>Wed, 10 Jun 2026 21:26:34 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>what is openai planning with the next release</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1u3268a/what_is_openai_planning_with_the_next_release/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/OpenAI/comments/1u3268a/what_is_openai_planning_with_the_next_release/</guid>
-      <pubDate>Thu, 11 Jun 2026 15:24:54 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/openai<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Locked in heated rivalry with researcher, Microsoft fixes 0-day they disclosed</title>
-      <link>https://arstechnica.com/security/2026/06/locked-in-heated-rivalry-with-researcher-microsoft-fixes-0-day-they-disclosed/</link>
-      <guid isPermaLink="true">https://arstechnica.com/security/2026/06/locked-in-heated-rivalry-with-researcher-microsoft-fixes-0-day-they-disclosed/</guid>
-      <pubDate>Tue, 09 Jun 2026 20:56:52 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> Ars Technica<br/><br/>A separate zero-day also disclosed by Nightmare Eclipse appears to be patched as well.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>How memory tools can make AI models worse</title>
-      <link>https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/</guid>
-      <pubDate>Wed, 10 Jun 2026 16:11:08 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 65/100<br/><b>Source:</b> TechCrunch AI<br/><br/>New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> Hacker News<br/><br/>Peer-reviewed research paper identifies deficiencies in transformer attention mechanisms&apos; executive control capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Decart’s new world model can simulate hours of photorealistic driving — with some caveats</title>
@@ -165,7 +85,87 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/06/10/decarts-new-world-model-can-simulate-hours-of-photorealistic-driving-with-some-caveats/</guid>
       <pubDate>Wed, 10 Jun 2026 13:07:56 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Decart is launching Oasis 3, a real-time world model that generates photorealistic driving environments for autonomous vehicle testing, now available via API for developers to build on.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Decart releases world model achieving photorealistic driving simulation for hours with identified limitations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude</title>
+      <link>https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/#atom-everything</guid>
+      <pubDate>Thu, 11 Jun 2026 03:45:49 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 72/100<br/><b>Source:</b> Simon Willison<br/><br/>Anthropic reverses safety policy affecting AI researcher use of Claude following community backlash.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Access OpenAI models and Codex through your Oracle cloud commitment</title>
+      <link>https://openai.com/index/openai-on-oracle-cloud</link>
+      <guid isPermaLink="true">https://openai.com/index/openai-on-oracle-cloud</guid>
+      <pubDate>Wed, 10 Jun 2026 20:00:00 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI models become available through Oracle Cloud infrastructure partnerships.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Pyrecall open source tool for detecting catastrophic forgetting during LLM fine-tuning[P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1u2hjye/pyrecall_open_source_tool_for_detecting/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1u2hjye/pyrecall_open_source_tool_for_detecting/</guid>
+      <pubDate>Wed, 10 Jun 2026 22:49:52 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Pyrecall open-source tool released for detecting catastrophic forgetting during large language model fine-tuning.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims</title>
+      <link>https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/</guid>
+      <pubDate>Wed, 10 Jun 2026 22:31:19 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Former xAI engineer files lawsuit claiming wrongful termination for raising safety concerns about Grok system.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>How memory tools can make AI models worse</title>
+      <link>https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/</guid>
+      <pubDate>Wed, 10 Jun 2026 16:11:08 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Technical analysis examining how memory augmentation tools can degrade AI model performance and reliability.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Supporting Europe’s work in ensuring a trustworthy AI ecosystem</title>
+      <link>https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem</link>
+      <guid isPermaLink="true">https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem</guid>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI outlines support for European AI Act compliance and trustworthy AI ecosystem development.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>datasette-agent 0.2a0</title>
+      <link>https://simonwillison.net/2026/Jun/10/datasette-agent/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/10/datasette-agent/#atom-everything</guid>
+      <pubDate>Wed, 10 Jun 2026 23:57:27 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> Simon Willison<br/><br/>Release: datasette-agent 0.2a0 Highlights from the release notes: Tools can now ask the user questions mid-execution. Tools that declare a context parameter receive a ToolContext object, and await con<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Jedify raises $24M to help companies arm AI agents with context on their business</title>
+      <link>https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/</guid>
+      <pubDate>Wed, 10 Jun 2026 13:33:09 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Jedify raises $24M funding to develop context-aware AI agent platforms for enterprise business applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>If Claude Fable stops helping you, you&apos;ll never know</title>
+      <link>https://simonwillison.net/2026/Jun/10/if-claude-fable-stops-helping-you/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/10/if-claude-fable-stops-helping-you/#atom-everything</guid>
+      <pubDate>Wed, 10 Jun 2026 00:37:25 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> Simon Willison<br/><br/>If Claude Fable stops helping you, you&amp;#x27;ll never know Jonathon Ready highlights one of the more eyebrow-raising details from the 319 page system card for Fable 5 and Mythos 5. Here&apos;s a longer exce<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Initial impressions of Claude Fable 5</title>
+      <link>https://simonwillison.net/2026/Jun/9/claude-fable-5/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/9/claude-fable-5/#atom-everything</guid>
+      <pubDate>Tue, 09 Jun 2026 23:59:54 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> Simon Willison<br/><br/>I didn&apos;t have early access to today&apos;s Claude Fable 5 release, but I&apos;ve spent the past ~5.5 hours putting it through its paces. My initial impressions are that this is something of a beast. It&apos;s slow, <br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
