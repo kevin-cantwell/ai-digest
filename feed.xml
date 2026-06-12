@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Jun 2026 21:35:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 22:33:40 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Kimi K2.7-Code: open-source coding model with better token efficiency</title>
@@ -16,12 +16,28 @@
       <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Moonshot AI releases Kimi K2.7-Code, an open-source coding model with improved token efficiency.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
+      <title>Building an Open Source Edge Semantic Cache for LLMs in Rust/WASM – Sanity check on the architecture? [D]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1u3quwk/building_an_open_source_edge_semantic_cache_for/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1u3quwk/building_an_open_source_edge_semantic_cache_for/</guid>
+      <pubDate>Fri, 12 Jun 2026 09:53:27 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>is a preprint from an independent researcher worthy of arxiv endorsement if it got cited by a Peking University lab&apos;s paper 1 month after release? [D]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1u46kne/is_a_preprint_from_an_independent_researcher/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1u46kne/is_a_preprint_from_an_independent_researcher/</guid>
+      <pubDate>Fri, 12 Jun 2026 20:24:20 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
       <title>OpenAI to acquire Ona</title>
       <link>https://openai.com/index/openai-to-acquire-ona</link>
       <guid isPermaLink="true">https://openai.com/index/openai-to-acquire-ona</guid>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI acquires Ona, a data infrastructure company.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI acquires Ona, expanding its capabilities in a strategic acquisition.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>How an astrophysicist uses Codex to help simulate black holes</title>
@@ -29,103 +45,7 @@
       <guid isPermaLink="true">https://openai.com/index/using-codex-to-simulate-black-holes</guid>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI documents an astrophysicist&apos;s use of Codex for black hole simulations, demonstrating scientific application.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude</title>
-      <link>https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/#atom-everything</guid>
-      <pubDate>Thu, 11 Jun 2026 03:45:49 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 72/100<br/><b>Source:</b> Simon Willison<br/><br/>Anthropic reverses a policy that would have restricted AI researchers&apos; use of Claude.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>AI agent bankrupted their operator while trying to scan DN42</title>
-      <link>https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/</link>
-      <guid isPermaLink="true">https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/</guid>
-      <pubDate>Fri, 12 Jun 2026 04:42:53 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>An AI agent incurred significant costs while attempting to scan a network, illustrating runaway agent behavior risks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims</title>
-      <link>https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/</guid>
-      <pubDate>Wed, 10 Jun 2026 22:31:19 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Lawsuit alleges xAI terminated an engineer for raising safety concerns about Grok.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>New OpenAI Academy courses for the next era of work</title>
-      <link>https://openai.com/index/academy-courses-applying-ai-at-work</link>
-      <guid isPermaLink="true">https://openai.com/index/academy-courses-applying-ai-at-work</guid>
-      <pubDate>Fri, 12 Jun 2026 10:00:00 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces new educational courses on applying AI in the workplace.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google</title>
-      <link>https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/</guid>
-      <pubDate>Fri, 12 Jun 2026 20:38:09 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Google sues Chinese cybercrime operation that used AI to conduct large-scale scams.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world</title>
-      <link>https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/</guid>
-      <pubDate>Fri, 12 Jun 2026 01:04:38 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Jeff Bezos-backed Prometheus raises $12B to develop an artificial general engineer for physical robotics.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>[AINews] Open Models, Model Labs vs Agent Labs, and What&apos;s Untrainable — Sarah Guo</title>
-      <link>https://www.latent.space/p/ainews-open-models-model-labs-vs</link>
-      <guid isPermaLink="true">https://www.latent.space/p/ainews-open-models-model-labs-vs</guid>
-      <pubDate>Thu, 11 Jun 2026 03:14:26 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> Latent Space<br/><br/>Opinion piece discussing trends in open models and AI infrastructure.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Claude Fable is relentlessly proactive</title>
-      <link>https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/</guid>
-      <pubDate>Fri, 12 Jun 2026 01:06:51 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 56/100<br/><b>Source:</b> Hacker News<br/><br/>Blog post offering opinion on Claude Fable&apos;s behavior characteristics.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>datasette-agent 0.2a0</title>
-      <link>https://simonwillison.net/2026/Jun/10/datasette-agent/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/10/datasette-agent/#atom-everything</guid>
-      <pubDate>Wed, 10 Jun 2026 23:57:27 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 56/100<br/><b>Source:</b> Simon Willison<br/><br/>Release of datasette-agent 0.2a0, a tool for querying databases with natural language.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Building an Open Source Edge Semantic Cache for LLMs in Rust/WASM – Sanity check on the architecture? [D]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1u3quwk/building_an_open_source_edge_semantic_cache_for/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1u3quwk/building_an_open_source_edge_semantic_cache_for/</guid>
-      <pubDate>Fri, 12 Jun 2026 09:53:27 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 50/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Discussion post seeking feedback on open-source semantic cache architecture.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Deezer’s new tool can identify AI music from Spotify, Apple Music, and others</title>
-      <link>https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/</guid>
-      <pubDate>Thu, 11 Jun 2026 16:36:20 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 50/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Deezer introduced a tool that scans playlists from Spotify, Apple Music, and other platforms to identify AI music.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>datasette 1.0a33</title>
-      <link>https://simonwillison.net/2026/Jun/11/datasette/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/11/datasette/#atom-everything</guid>
-      <pubDate>Thu, 11 Jun 2026 15:26:49 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 50/100<br/><b>Source:</b> Simon Willison<br/><br/>Release: datasette 1.0a33 This alpha is a significant step on the road to a stable 1.0, finally extending the ?_extra= pattern I introduced in Datasette 1.0a3 to cover queries and rows in addition to <br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> OpenAI Blog<br/><br/>An astrophysicist describes using OpenAI&apos;s Codex to assist in black hole simulation research.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Show HN: Script to bulk delete Claude chats from the web UI</title>
@@ -133,7 +53,87 @@
       <guid isPermaLink="true">https://github.com/MatteoLeonesi/bulk-delete-claude-chat</guid>
       <pubDate>Fri, 12 Jun 2026 15:08:59 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 42/100<br/><b>Source:</b> Hacker News<br/><br/>Utility script for bulk deleting Claude chat history.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 75/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>BBVA puts AI at the core of banking with OpenAI</title>
+      <link>https://openai.com/index/bbva</link>
+      <guid isPermaLink="true">https://openai.com/index/bbva</guid>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>BBVA bank integrates OpenAI technology as a core component of its banking operations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude</title>
+      <link>https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/#atom-everything</guid>
+      <pubDate>Thu, 11 Jun 2026 03:45:49 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 72/100<br/><b>Source:</b> Simon Willison<br/><br/>Anthropic reverses a policy that researchers criticized as potentially obstructing AI research using Claude.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Slightly reducing the sloppiness of AI generated front end</title>
+      <link>https://envs.net/~volpe/blog/posts/reduce-slop.html</link>
+      <guid isPermaLink="true">https://envs.net/~volpe/blog/posts/reduce-slop.html</guid>
+      <pubDate>Fri, 12 Jun 2026 14:48:38 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>AI agent bankrupted their operator while trying to scan DN42</title>
+      <link>https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/</link>
+      <guid isPermaLink="true">https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/</guid>
+      <pubDate>Fri, 12 Jun 2026 04:42:53 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>An AI agent incurred unexpected costs while attempting to scan a network, resulting in financial loss for its operator.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world</title>
+      <link>https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/</guid>
+      <pubDate>Fri, 12 Jun 2026 01:04:38 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Prometheus, backed by Jeff Bezos, secures $12 billion to develop an artificial general engineer for physical-world tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>[AINews] Open Models, Model Labs vs Agent Labs, and What&apos;s Untrainable — Sarah Guo</title>
+      <link>https://www.latent.space/p/ainews-open-models-model-labs-vs</link>
+      <guid isPermaLink="true">https://www.latent.space/p/ainews-open-models-model-labs-vs</guid>
+      <pubDate>Thu, 11 Jun 2026 03:14:26 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> Latent Space<br/><br/>Sarah Guo discusses trends in open models, model labs versus agent labs, and training constraints.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>New OpenAI Academy courses for the next era of work</title>
+      <link>https://openai.com/index/academy-courses-applying-ai-at-work</link>
+      <guid isPermaLink="true">https://openai.com/index/academy-courses-applying-ai-at-work</guid>
+      <pubDate>Fri, 12 Jun 2026 10:00:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces new Academy courses focused on applying AI in workplace settings.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Claude Fable is relentlessly proactive</title>
+      <link>https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/</guid>
+      <pubDate>Fri, 12 Jun 2026 01:06:51 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 62/100<br/><b>Source:</b> Hacker News<br/><br/>Analysis of Claude Fable&apos;s proactive behavior characteristics.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Deezer’s new tool can identify AI music from Spotify, Apple Music, and others</title>
+      <link>https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/</guid>
+      <pubDate>Thu, 11 Jun 2026 16:36:20 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 56/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Deezer releases a tool to identify AI-generated music across major streaming platforms.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>datasette-agent 0.2a0</title>
+      <link>https://simonwillison.net/2026/Jun/10/datasette-agent/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/10/datasette-agent/#atom-everything</guid>
+      <pubDate>Wed, 10 Jun 2026 23:57:27 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 56/100<br/><b>Source:</b> Simon Willison<br/><br/>New version of datasette-agent tool released with improvements for data querying.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
