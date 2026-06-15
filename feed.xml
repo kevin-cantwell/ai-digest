@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Jun 2026 23:29:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 00:55:23 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Making Claude a Chemist</title>
@@ -13,15 +13,15 @@
       <guid isPermaLink="true">https://www.anthropic.com/research/making-claude-a-chemist</guid>
       <pubDate>Sun, 14 Jun 2026 02:55:36 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 86/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic publishes research on fine-tuning Claude for chemistry domain expertise and safety in specialized applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 86/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic research on fine-tuning Claude for chemistry domain with improved specialized performance.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Rio de Janeiro&apos;s &quot;homegrown&quot; LLM appears to be a merge of an existing model</title>
-      <link>https://github.com/nex-agi/Nex-N2/issues/4</link>
-      <guid isPermaLink="true">https://github.com/nex-agi/Nex-N2/issues/4</guid>
-      <pubDate>Sun, 14 Jun 2026 15:37:31 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Investigation suggests Rio de Janeiro&apos;s claimed homegrown LLM may be derived from merging existing models rather than developed independently.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Introducing the OpenAI Partner Network</title>
+      <link>https://openai.com/index/introducing-openai-partner-network</link>
+      <guid isPermaLink="true">https://openai.com/index/introducing-openai-partner-network</guid>
+      <pubDate>Sun, 14 Jun 2026 17:00:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces formal partner network program for ecosystem integration and business development.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>The Verifier Tax: Horizon-Dependent Safety–Success Tradeoffs in Tool-Using LLM Agents [R]</title>
@@ -29,7 +29,15 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1u58mkq/the_verifier_tax_horizondependent_safetysuccess/</guid>
       <pubDate>Sun, 14 Jun 2026 02:09:43 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research paper analyzing tradeoff between verification costs and safety-performance horizons in tool-using LLM agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research paper examining safety-capability tradeoffs in tool-using LLM agents with verification overhead.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Rio de Janeiro&apos;s &quot;homegrown&quot; LLM appears to be a merge of an existing model</title>
+      <link>https://github.com/nex-agi/Nex-N2/issues/4</link>
+      <guid isPermaLink="true">https://github.com/nex-agi/Nex-N2/issues/4</guid>
+      <pubDate>Sun, 14 Jun 2026 15:37:31 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Investigation suggests Rio de Janeiro&apos;s claimed homegrown LLM may be a merge of existing models rather than original development.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Coherent Context Can Silently Shift LLMs Into a Different Internal Regime — And Current Safety Systems Are Blind To It [D]</title>
@@ -37,47 +45,15 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1u5xnxg/coherent_context_can_silently_shift_llms_into_a/</guid>
       <pubDate>Sun, 14 Jun 2026 21:42:47 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research showing LLMs can shift into different internal behavioral regimes through coherent context, evading current safety monitoring.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research showing LLMs can shift into different internal regimes through context manipulation, with safety implications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>KPMG pulls report on AI usage due to apparent hallucinations</title>
-      <link>https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/</guid>
-      <pubDate>Sun, 14 Jun 2026 14:01:35 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>KPMG retracted an AI-generated report due to hallucinations, highlighting practical risks of LLM outputs in professional contexts.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Rio de Janeiro&apos;s city government model Rio3.5 beats Qwen3.7 in recent benchmarks</title>
-      <link>https://twitter.com/zenmagnets/status/2065796012820848699</link>
-      <guid isPermaLink="true">https://twitter.com/zenmagnets/status/2065796012820848699</guid>
-      <pubDate>Sun, 14 Jun 2026 14:38:37 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 58/100<br/><b>Source:</b> Hacker News<br/><br/>Claim that Rio de Janeiro&apos;s model outperforms competitors in benchmarks, but lacks substantive detail and credibility given concurrent fraud allegations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>OpenAI WebRTC Audio Session, now with document context</title>
-      <link>https://simonwillison.net/2026/Jun/12/openai-webrtc/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/12/openai-webrtc/#atom-everything</guid>
-      <pubDate>Fri, 12 Jun 2026 23:53:04 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> Simon Willison<br/><br/>OpenAI releases WebRTC audio session feature with document context integration for multimodal AI interactions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Not everyone is using AI for everything</title>
-      <link>https://gabrielweinberg.com/p/people-are-consuming-ai-like-they</link>
-      <guid isPermaLink="true">https://gabrielweinberg.com/p/people-are-consuming-ai-like-they</guid>
-      <pubDate>Sun, 14 Jun 2026 14:44:29 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 52/100<br/><b>Source:</b> Hacker News<br/><br/>Commentary on variable AI adoption rates and consumption patterns among users.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>AI is code – and can&apos;t be prompted into being smarter</title>
-      <link>https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141</link>
-      <guid isPermaLink="true">https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141</guid>
-      <pubDate>Sun, 14 Jun 2026 20:17:54 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 50/100<br/><b>Source:</b> Hacker News<br/><br/>Opinion piece arguing LLM capabilities are fundamentally limited by underlying code, not prompt engineering.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Ponytail – make your AI agent think like the laziest senior dev in the room</title>
+      <link>https://github.com/DietrichGebert/ponytail</link>
+      <guid isPermaLink="true">https://github.com/DietrichGebert/ponytail</guid>
+      <pubDate>Sun, 14 Jun 2026 15:08:17 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>GitHub project introducing Ponytail, a tool for configuring AI agents with lazy evaluation strategies.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>I built an open-source Knowledge Graph pipeline with hybrid retrieval to improve LLM multi-hop reasoning [P]</title>
@@ -85,15 +61,47 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1u5yyyl/i_built_an_opensource_knowledge_graph_pipeline/</guid>
       <pubDate>Sun, 14 Jun 2026 22:38:22 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 46/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Personal project announcement about open-source knowledge graph pipeline for LLM reasoning.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 64/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Open-source project combining knowledge graphs with hybrid retrieval for improving LLM reasoning tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>As AI companies race to go public, who else is along for the ride?</title>
-      <link>https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/</guid>
-      <pubDate>Sun, 14 Jun 2026 16:38:09 +0000</pubDate>
+      <title>Rio de Janeiro&apos;s city government model Rio3.5 beats Qwen3.7 in recent benchmarks</title>
+      <link>https://twitter.com/zenmagnets/status/2065796012820848699</link>
+      <guid isPermaLink="true">https://twitter.com/zenmagnets/status/2065796012820848699</guid>
+      <pubDate>Sun, 14 Jun 2026 14:38:37 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 52/100<br/><b>Source:</b> Hacker News<br/><br/>Benchmark claim about Rio3.5 model performance lacks credible sourcing and verification.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Why AI hasn’t replaced software engineers, and won’t</title>
+      <link>https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers/#atom-everything</guid>
+      <pubDate>Sun, 14 Jun 2026 23:54:11 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 44/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Market analysis of AI company IPO activity and investor participation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 50/100<br/><b>Source:</b> Simon Willison<br/><br/>Analysis of why AI hasn&apos;t replaced software engineers, examining practical limitations and adoption barriers.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>AI is code – and can&apos;t be prompted into being smarter</title>
+      <link>https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141</link>
+      <guid isPermaLink="true">https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141</guid>
+      <pubDate>Sun, 14 Jun 2026 20:17:54 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 48/100<br/><b>Source:</b> Hacker News<br/><br/>Opinion essay arguing AI systems are fundamentally code-based with limited prompt improvability.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Not everyone is using AI for everything</title>
+      <link>https://gabrielweinberg.com/p/people-are-consuming-ai-like-they</link>
+      <guid isPermaLink="true">https://gabrielweinberg.com/p/people-are-consuming-ai-like-they</guid>
+      <pubDate>Sun, 14 Jun 2026 14:44:29 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 46/100<br/><b>Source:</b> Hacker News<br/><br/>Opinion essay on consumer adoption patterns of AI without novel insights or data.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Did Anthropic ask for this?</title>
+      <link>https://www.verysane.ai/p/did-anthropic-ask-for-this</link>
+      <guid isPermaLink="true">https://www.verysane.ai/p/did-anthropic-ask-for-this</guid>
+      <pubDate>Sun, 14 Jun 2026 22:23:05 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 40/100<br/><b>Source:</b> Hacker News<br/><br/>Opinion piece questioning Anthropic&apos;s recent decisions without substantive technical analysis.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Why Is Claude Turning into an a**Hole?</title>
@@ -101,7 +109,7 @@
       <guid isPermaLink="true">https://bramcohen.com/p/why-is-claude-turning-into-an-asshole</guid>
       <pubDate>Sun, 14 Jun 2026 22:04:01 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 40/100<br/><b>Source:</b> Hacker News<br/><br/>Opinion piece critiquing Claude&apos;s behavior changes with sensationalized framing.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 34/100<br/><b>Source:</b> Hacker News<br/><br/>Personal complaint about Claude&apos;s behavior changes, lacking technical substance or verification.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
