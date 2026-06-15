@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Jun 2026 18:34:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 20:09:59 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?</title>
@@ -37,7 +37,7 @@
       <guid isPermaLink="true">https://github.com/sammysltd/euromesh</guid>
       <pubDate>Mon, 15 Jun 2026 13:31:09 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 78/100<br/><b>Source:</b> Hacker News<br/><br/>Analysis of whether Europe can train frontier AI models using domestically-owned compute resources.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 78/100<br/><b>Source:</b> Hacker News<br/><br/>Analysis of whether Europe can train frontier AI models using its own compute infrastructure.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Introducing the OpenAI Partner Network</title>
@@ -45,7 +45,31 @@
       <guid isPermaLink="true">https://openai.com/index/introducing-openai-partner-network</guid>
       <pubDate>Sun, 14 Jun 2026 17:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces new partner network program for integrating its models into third-party applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces new Partner Network program.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Claude Corps</title>
+      <link>https://www.anthropic.com/news/claude-corps</link>
+      <guid isPermaLink="true">https://www.anthropic.com/news/claude-corps</guid>
+      <pubDate>Mon, 15 Jun 2026 17:41:24 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic announces Claude Corps initiative.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Anthropic&apos;s Safety Superpower</title>
+      <link>https://stratechery.com/2026/anthropics-safety-superpower/</link>
+      <guid isPermaLink="true">https://stratechery.com/2026/anthropics-safety-superpower/</guid>
+      <pubDate>Mon, 15 Jun 2026 10:06:35 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 75/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Open weights are not enough: we need open training frameworks for research and better algorithms [P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1u6p7k3/open_weights_are_not_enough_we_need_open_training/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1u6p7k3/open_weights_are_not_enough_we_need_open_training/</guid>
+      <pubDate>Mon, 15 Jun 2026 18:37:51 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Discussion of the need for open training frameworks and algorithms beyond open-weight models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>My Homelab AI Dev Platform</title>
@@ -72,36 +96,12 @@
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>I built an open-source Knowledge Graph pipeline with hybrid retrieval to improve LLM multi-hop reasoning [P]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1u5yyyl/i_built_an_opensource_knowledge_graph_pipeline/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1u5yyyl/i_built_an_opensource_knowledge_graph_pipeline/</guid>
-      <pubDate>Sun, 14 Jun 2026 22:38:22 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Developer releases open-source knowledge graph pipeline with hybrid retrieval to improve multi-hop reasoning in LLMs.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
       <title>As AI agents become employees, NewCore emerges with $66M to give them identities</title>
       <link>https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/</link>
       <guid isPermaLink="true">https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/</guid>
       <pubDate>Mon, 15 Jun 2026 13:00:00 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Startup NewCore raises $66M to develop identity and governance infrastructure for AI agents in employment contexts.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Concept-Vector: A design framework for human-interpretable word embeddings [P]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1u6ivt0/conceptvector_a_design_framework_for/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1u6ivt0/conceptvector_a_design_framework_for/</guid>
-      <pubDate>Mon, 15 Jun 2026 14:53:51 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>New framework for designing human-interpretable word embeddings in neural networks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms</title>
-      <link>https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/</guid>
-      <pubDate>Mon, 15 Jun 2026 18:30:58 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Meta launches &apos;AI Mode&apos; feature on Facebook that aggregates and synthesizes public information across Meta platforms.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> TechCrunch AI<br/><br/>NewCore raises $66M to develop identity systems for AI agent employees.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>How does the ML community view evolutionary algorithm research? Career implications of an EA PhD? [D]</title>
@@ -134,6 +134,22 @@
       <pubDate>Sun, 14 Jun 2026 03:00:00 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 65/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>I built an open-source Knowledge Graph pipeline with hybrid retrieval to improve LLM multi-hop reasoning [P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1u5yyyl/i_built_an_opensource_knowledge_graph_pipeline/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1u5yyyl/i_built_an_opensource_knowledge_graph_pipeline/</guid>
+      <pubDate>Sun, 14 Jun 2026 22:38:22 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 64/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Open-source knowledge graph pipeline with hybrid retrieval for improving LLM multi-hop reasoning.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Concept-Vector: A design framework for human-interpretable word embeddings [P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1u6ivt0/conceptvector_a_design_framework_for/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1u6ivt0/conceptvector_a_design_framework_for/</guid>
+      <pubDate>Mon, 15 Jun 2026 14:53:51 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Concept-Vector framework for creating human-interpretable word embeddings.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>PhD study: UX Designers &amp; AI/ML Practitioners to test a &quot;Trust in LLM-based Chatbots&quot; Design Method (~25 min, anonymous) [R]</title>
