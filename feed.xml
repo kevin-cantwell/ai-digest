@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Jun 2026 04:35:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 06:49:39 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Claude Corps</title>
@@ -13,7 +13,7 @@
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-corps</guid>
       <pubDate>Mon, 15 Jun 2026 17:41:24 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 90/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic announces Claude Corps, a major product or service release.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 84/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic announces Claude Corps, a major product or service release.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Can Europe train a frontier AI model on the compute it owns?</title>
@@ -21,7 +21,7 @@
       <guid isPermaLink="true">https://github.com/sammysltd/euromesh</guid>
       <pubDate>Mon, 15 Jun 2026 13:31:09 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Technical exploration of whether European compute infrastructure can support training frontier AI models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Analysis of European computational capacity for training frontier AI models independently.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Introducing the OpenAI Partner Network</title>
@@ -29,7 +29,15 @@
       <guid isPermaLink="true">https://openai.com/index/introducing-openai-partner-network</guid>
       <pubDate>Sun, 14 Jun 2026 17:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces a new partner network program for integrations and ecosystem development.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces new partner network program.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Open weights are not enough: we need open training frameworks for research and better algorithms [P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1u6p7k3/open_weights_are_not_enough_we_need_open_training/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1u6p7k3/open_weights_are_not_enough_we_need_open_training/</guid>
+      <pubDate>Mon, 15 Jun 2026 18:37:51 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Discussion of the need for open training frameworks beyond open model weights in AI research.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Microsoft turns to AWS as GitHub faces AI capacity crunch</title>
@@ -37,7 +45,7 @@
       <guid isPermaLink="true">https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch</guid>
       <pubDate>Tue, 16 Jun 2026 02:47:57 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Microsoft reportedly turns to AWS infrastructure as GitHub experiences AI capacity constraints.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Microsoft utilizes AWS infrastructure due to GitHub&apos;s AI capacity constraints.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>As AI agents become employees, NewCore emerges with $66M to give them identities</title>
@@ -48,36 +56,12 @@
       <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Startup funding announcement for AI agent identity management platform.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms</title>
-      <link>https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/</guid>
-      <pubDate>Mon, 15 Jun 2026 18:30:58 +0000</pubDate>
+      <title>quicktok: a faster tokenizer (exact and byte-identical with tiktoken) [P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1u73c5r/quicktok_a_faster_tokenizer_exact_and/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1u73c5r/quicktok_a_faster_tokenizer_exact_and/</guid>
+      <pubDate>Tue, 16 Jun 2026 04:24:31 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Meta launches AI Mode on Facebook, integrating cross-platform data for AI-powered features.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Salesforce acquires AI customer service platform Fin for $3.6B</title>
-      <link>https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/</guid>
-      <pubDate>Mon, 15 Jun 2026 14:34:45 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Salesforce acquires Fin, an AI customer service platform, for $3.6 billion.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Anthropic&apos;s Safety Superpower</title>
-      <link>https://stratechery.com/2026/anthropics-safety-superpower/</link>
-      <guid isPermaLink="true">https://stratechery.com/2026/anthropics-safety-superpower/</guid>
-      <pubDate>Mon, 15 Jun 2026 10:06:35 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>Analysis essay on Anthropic&apos;s safety approach and competitive positioning.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Open weights are not enough: we need open training frameworks for research and better algorithms [P]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1u6p7k3/open_weights_are_not_enough_we_need_open_training/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1u6p7k3/open_weights_are_not_enough_we_need_open_training/</guid>
-      <pubDate>Mon, 15 Jun 2026 18:37:51 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Opinion piece discussing the need for open training frameworks beyond open weights.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Release of faster tokenizer implementation compatible with tiktoken.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Concept-Vector: A design framework for human-interpretable word embeddings [P]</title>
@@ -85,15 +69,31 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1u6ivt0/conceptvector_a_design_framework_for/</guid>
       <pubDate>Mon, 15 Jun 2026 14:53:51 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Academic research on interpretable word embeddings using a concept-vector design framework.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Novel design framework for creating human-interpretable word embeddings.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>The US government’s Anthropic models ban was never about an AI jailbreak</title>
-      <link>https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/</guid>
-      <pubDate>Mon, 15 Jun 2026 21:50:21 +0000</pubDate>
+      <title>Salesforce acquires AI customer service platform Fin for $3.6B</title>
+      <link>https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/</guid>
+      <pubDate>Mon, 15 Jun 2026 14:34:45 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Analysis of US government policy actions regarding Anthropic model restrictions and their true motivations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Salesforce acquires AI customer service platform Fin for $3.6 billion.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Anthropic&apos;s Safety Superpower</title>
+      <link>https://stratechery.com/2026/anthropics-safety-superpower/</link>
+      <guid isPermaLink="true">https://stratechery.com/2026/anthropics-safety-superpower/</guid>
+      <pubDate>Mon, 15 Jun 2026 10:06:35 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>Analysis essay on Anthropic&apos;s safety-focused approach as competitive advantage.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>OpenAI Losses Increased Nearly 8X in 2025, with Spending Hitting $34B</title>
+      <link>https://www.wheresyoured.at/exclusive-openai-financials/</link>
+      <guid isPermaLink="true">https://www.wheresyoured.at/exclusive-openai-financials/</guid>
+      <pubDate>Tue, 16 Jun 2026 04:05:48 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> Hacker News<br/><br/>Financial analysis revealing OpenAI&apos;s losses increased 8X in 2025 with $34B spending.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>datasette-agent 0.3a0</title>
@@ -101,7 +101,7 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Jun/15/datasette-agent/#atom-everything</guid>
       <pubDate>Mon, 15 Jun 2026 17:19:27 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 56/100<br/><b>Source:</b> Simon Willison<br/><br/>Release of datasette-agent tool with AI agent capabilities for database interaction.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> Simon Willison<br/><br/>Release update for datasette-agent, a tool for AI-driven data exploration.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Could AI training be decentralized like Bitcoin mining? [D]</title>
@@ -109,15 +109,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1u6kzby/could_ai_training_be_decentralized_like_bitcoin/</guid>
       <pubDate>Mon, 15 Jun 2026 16:09:27 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 44/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Speculative discussion thread about decentralizing AI training without substantive news.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>How does the ML community view evolutionary algorithm research? Career implications of an EA PhD? [D]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1u66q3l/how_does_the_ml_community_view_evolutionary/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1u66q3l/how_does_the_ml_community_view_evolutionary/</guid>
-      <pubDate>Mon, 15 Jun 2026 04:48:39 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 38/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Career advice discussion about evolutionary algorithms with no substantive technical news.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 44/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Speculative discussion thread on decentralized AI training architectures.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
