@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Jun 2026 23:35:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 00:59:56 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Can Europe train a frontier AI model on the compute it owns?</title>
@@ -13,7 +13,7 @@
       <guid isPermaLink="true">https://github.com/sammysltd/euromesh</guid>
       <pubDate>Mon, 15 Jun 2026 13:31:09 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Analysis of whether Europe can develop a frontier AI model using domestically-owned compute infrastructure.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Analysis of Europe&apos;s capacity to train frontier AI models using domestically-owned compute infrastructure.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Claude Corps</title>
@@ -21,7 +21,7 @@
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-corps</guid>
       <pubDate>Mon, 15 Jun 2026 17:41:24 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 80/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic announces Claude Corps, a product or service offering for AI agent deployment.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 80/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic announces Claude Corps, a new product or service offering.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Introducing the OpenAI Partner Network</title>
@@ -29,15 +29,7 @@
       <guid isPermaLink="true">https://openai.com/index/introducing-openai-partner-network</guid>
       <pubDate>Sun, 14 Jun 2026 17:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces a new partner network program for integrating with third-party applications and services.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Open weights are not enough: we need open training frameworks for research and better algorithms [P]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1u6p7k3/open_weights_are_not_enough_we_need_open_training/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1u6p7k3/open_weights_are_not_enough_we_need_open_training/</guid>
-      <pubDate>Mon, 15 Jun 2026 18:37:51 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research discussion arguing that open model weights alone are insufficient and open training frameworks are needed.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces a new partner network program for integrations and collaborations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>As AI agents become employees, NewCore emerges with $66M to give them identities</title>
@@ -45,31 +37,23 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/</guid>
       <pubDate>Mon, 15 Jun 2026 13:00:00 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> TechCrunch AI<br/><br/>NewCore raises $66M to provide identity and workplace infrastructure solutions for AI agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Startup funding announcement for AI agent identity management platform.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Concept-Vector: A design framework for human-interpretable word embeddings [P]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1u6ivt0/conceptvector_a_design_framework_for/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1u6ivt0/conceptvector_a_design_framework_for/</guid>
-      <pubDate>Mon, 15 Jun 2026 14:53:51 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research paper presenting Concept-Vector, a design framework for creating human-interpretable word embeddings.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Open weights are not enough: we need open training frameworks for research and better algorithms [P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1u6p7k3/open_weights_are_not_enough_we_need_open_training/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1u6p7k3/open_weights_are_not_enough_we_need_open_training/</guid>
+      <pubDate>Mon, 15 Jun 2026 18:37:51 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Opinion piece arguing for open training frameworks beyond open-weight models in AI research.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Salesforce acquires AI customer service platform Fin for $3.6B</title>
-      <link>https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/</guid>
-      <pubDate>Mon, 15 Jun 2026 14:34:45 +0000</pubDate>
+      <title>The US government’s Anthropic models ban was never about an AI jailbreak</title>
+      <link>https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/</guid>
+      <pubDate>Mon, 15 Jun 2026 21:50:21 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Salesforce acquires AI customer service platform Fin for $3.6 billion.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Anthropic&apos;s Safety Superpower</title>
-      <link>https://stratechery.com/2026/anthropics-safety-superpower/</link>
-      <guid isPermaLink="true">https://stratechery.com/2026/anthropics-safety-superpower/</guid>
-      <pubDate>Mon, 15 Jun 2026 10:06:35 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>Analysis piece examining Anthropic&apos;s approach to AI safety as a competitive advantage.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Analysis of US government restrictions on Anthropic&apos;s models and their underlying motivations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Cleo: trying to fit full analyst behavior in a 2B model [P]</title>
@@ -77,23 +61,23 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1u6udpb/cleo_trying_to_fit_full_analyst_behavior_in_a_2b/</guid>
       <pubDate>Mon, 15 Jun 2026 21:43:10 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research on fitting full analyst behavior into a 2 billion parameter model called Cleo.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research project on fitting analyst-level reasoning into a 2-billion parameter model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms</title>
-      <link>https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/</guid>
-      <pubDate>Mon, 15 Jun 2026 18:30:58 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Meta launches AI Mode on Facebook that synthesizes information from across its platform ecosystem.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Concept-Vector: A design framework for human-interpretable word embeddings [P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1u6ivt0/conceptvector_a_design_framework_for/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1u6ivt0/conceptvector_a_design_framework_for/</guid>
+      <pubDate>Mon, 15 Jun 2026 14:53:51 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research paper on interpretable word embeddings through concept-vector design framework.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>PrintGuard 2.0 — ShuffleNetV2 + few-shot prototypical network, TFLite via LiteRT, ≈5 MB, runs unmodified in the browser (Pyodide) and on CPython [P]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1u6e9zc/printguard_20_shufflenetv2_fewshot_prototypical/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1u6e9zc/printguard_20_shufflenetv2_fewshot_prototypical/</guid>
-      <pubDate>Mon, 15 Jun 2026 11:47:51 +0000</pubDate>
+      <title>Cybersecurity vets protest ‘dangerous’ US government ban on Anthropic’s most powerful models</title>
+      <link>https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/</guid>
+      <pubDate>Mon, 15 Jun 2026 15:29:51 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Project release of PrintGuard 2.0, a ~5MB ML model for browser and edge deployment using ShuffleNetV2.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Cybersecurity professionals protest US government ban on advanced Anthropic models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>As Anthropic suspends access to new models, India debates its AI future</title>
@@ -101,23 +85,31 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/</guid>
       <pubDate>Sun, 14 Jun 2026 03:00:00 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 56/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Report on Anthropic suspending model access amid geopolitical context of India&apos;s AI policy debate.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Coverage of Anthropic model access suspension and its implications for India&apos;s AI policy.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Could AI training be decentralized like Bitcoin mining? [D]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1u6kzby/could_ai_training_be_decentralized_like_bitcoin/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1u6kzby/could_ai_training_be_decentralized_like_bitcoin/</guid>
-      <pubDate>Mon, 15 Jun 2026 16:09:27 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 50/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Discussion thread exploring theoretical possibilities of decentralizing AI training similar to Bitcoin mining.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Anthropic&apos;s Safety Superpower</title>
+      <link>https://stratechery.com/2026/anthropics-safety-superpower/</link>
+      <guid isPermaLink="true">https://stratechery.com/2026/anthropics-safety-superpower/</guid>
+      <pubDate>Mon, 15 Jun 2026 10:06:35 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> Hacker News<br/><br/>Analysis essay on Anthropic&apos;s approach to AI safety as competitive differentiation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>PhD study: UX Designers &amp; AI/ML Practitioners to test a &quot;Trust in LLM-based Chatbots&quot; Design Method (~25 min, anonymous) [R]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1u69kr1/phd_study_ux_designers_aiml_practitioners_to_test/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1u69kr1/phd_study_ux_designers_aiml_practitioners_to_test/</guid>
-      <pubDate>Mon, 15 Jun 2026 07:24:48 +0000</pubDate>
+      <title>AI language models have favorite names, and we mapped them [R]</title>
+      <link>https://arxiv.org/abs/2606.02184</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2606.02184</guid>
+      <pubDate>Mon, 15 Jun 2026 17:07:34 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research study on bias and preferences in language model name selection.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>datasette-agent 0.3a0</title>
+      <link>https://simonwillison.net/2026/Jun/15/datasette-agent/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/15/datasette-agent/#atom-everything</guid>
+      <pubDate>Mon, 15 Jun 2026 17:19:27 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 32/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Recruitment post for PhD study on trust in LLM-based chatbots seeking UX designer participants.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 56/100<br/><b>Source:</b> Simon Willison<br/><br/>Release announcement for datasette-agent tool version 0.3a0.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
