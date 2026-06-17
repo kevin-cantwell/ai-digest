@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Jun 2026 01:53:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 03:11:46 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Predicting model behavior before release by simulating deployment</title>
@@ -21,7 +21,7 @@
       <guid isPermaLink="true">https://qwen.ai/blog?id=qwen-robotsuite</guid>
       <pubDate>Tue, 16 Jun 2026 13:15:15 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Alibaba Qwen releases a foundation model suite designed for robotic and physical world applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Alibaba Qwen releases robotics foundation model suite combining vision, language, and control capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Critical Copilot vulnerability allowed hackers to steal 2FA code from users</title>
@@ -29,7 +29,7 @@
       <guid isPermaLink="true">https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/</guid>
       <pubDate>Tue, 16 Jun 2026 11:15:46 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 78/100<br/><b>Source:</b> Ars Technica<br/><br/>Security vulnerability in Microsoft Copilot allowed unauthorized access to user two-factor authentication codes.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 78/100<br/><b>Source:</b> Ars Technica<br/><br/>Critical vulnerability discovered in Microsoft Copilot allowing theft of two-factor authentication codes.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>GPT‑NL: a sovereign language model for the Netherlands</title>
@@ -37,23 +37,7 @@
       <guid isPermaLink="true">https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/</guid>
       <pubDate>Tue, 16 Jun 2026 17:54:02 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>TNO releases GPT-NL, a language model trained specifically for Dutch language tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Unlocking UK house-building with AI-accelerated planning</title>
-      <link>https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/</link>
-      <guid isPermaLink="true">https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/</guid>
-      <pubDate>Tue, 16 Jun 2026 21:29:50 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> Google DeepMind<br/><br/>Google DeepMind demonstrates AI application for accelerating UK planning and house-building processes.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Claude: Elevated errors across many models [resolved]</title>
-      <link>https://status.claude.com/incidents/xmhsglsz3h3w</link>
-      <guid isPermaLink="true">https://status.claude.com/incidents/xmhsglsz3h3w</guid>
-      <pubDate>Tue, 16 Jun 2026 17:30:30 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic&apos;s Claude experienced service errors across multiple models, now resolved.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>TNO releases GPT-NL, a language model trained specifically for Dutch language and Dutch context.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>GateGPT: 56k tokens per second Transformer (KV cache) on FPGA at 80 MHz</title>
@@ -61,7 +45,15 @@
       <guid isPermaLink="true">https://twitter.com/fguzmanai/status/2065832668172845209</guid>
       <pubDate>Tue, 16 Jun 2026 16:12:26 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> Hacker News<br/><br/>GateGPT achieves high-throughput transformer inference at 56k tokens per second on FPGA hardware.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> Hacker News<br/><br/>GateGPT achieves 56k tokens per second throughput for Transformer KV cache on FPGA hardware.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Unlocking UK house-building with AI-accelerated planning</title>
+      <link>https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/</link>
+      <guid isPermaLink="true">https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/</guid>
+      <pubDate>Tue, 16 Jun 2026 21:29:50 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> Google DeepMind<br/><br/>Google DeepMind applies AI to accelerate UK house-building and planning processes.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>OpenAI Losses Increased Nearly 8X in 2025, with Spending Hitting $34B</title>
@@ -69,7 +61,7 @@
       <guid isPermaLink="true">https://www.wheresyoured.at/exclusive-openai-financials/</guid>
       <pubDate>Tue, 16 Jun 2026 04:05:48 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI&apos;s operating losses increased significantly to $34B annually in 2025 according to financial disclosures.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI&apos;s annual losses increased sevenfold to undisclosed amounts with $34B in spending in 2025.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions</title>
@@ -77,7 +69,15 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/</guid>
       <pubDate>Tue, 16 Jun 2026 06:59:00 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Malaysian messaging platform Respond.io raises $62.5M funding for AI-powered customer service features.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Respond.io, an AI agent-powered messaging platform, raises $62.5M in funding.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Claude: Elevated errors across many models [resolved]</title>
+      <link>https://status.claude.com/incidents/xmhsglsz3h3w</link>
+      <guid isPermaLink="true">https://status.claude.com/incidents/xmhsglsz3h3w</guid>
+      <pubDate>Tue, 16 Jun 2026 17:30:30 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic Claude service experienced and resolved errors across multiple models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>As AI agents become employees, NewCore emerges with $66M to give them identities</title>
@@ -85,7 +85,15 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/</guid>
       <pubDate>Mon, 15 Jun 2026 13:00:00 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> TechCrunch AI<br/><br/>NewCore raises $66M to develop identity and management systems for AI agent deployment in enterprise settings.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> TechCrunch AI<br/><br/>NewCore startup raises $66M to provide identity management for AI agents in enterprise settings.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>DeepSeek V4 Pro at 5% the cost of Claude – what it takes to close the gap</title>
+      <link>https://howardchen.substack.com/p/deepseek-v4-pro-at-5-the-cost-of</link>
+      <guid isPermaLink="true">https://howardchen.substack.com/p/deepseek-v4-pro-at-5-the-cost-of</guid>
+      <pubDate>Tue, 16 Jun 2026 19:59:14 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> Hacker News<br/><br/>Analysis comparing DeepSeek V4 Pro performance and cost relative to Claude models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Android 17 launches with new multitasking tools as Google expands Gemini features</title>
@@ -93,15 +101,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/</guid>
       <pubDate>Tue, 16 Jun 2026 18:00:00 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Android 17 launches with expanded Gemini AI integration and multitasking capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Plaud says its software business topped $100M in ARR after shipping over 2M AI notetakers</title>
-      <link>https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/</guid>
-      <pubDate>Tue, 16 Jun 2026 15:00:00 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 56/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Plaud reports software business reached $100M ARR milestone with over 2M AI notetaker devices shipped.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Android 17 launches with expanded Gemini AI integration and new multitasking features.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>datasette-agent 0.3a0</title>
@@ -109,15 +109,23 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Jun/15/datasette-agent/#atom-everything</guid>
       <pubDate>Mon, 15 Jun 2026 17:19:27 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 56/100<br/><b>Source:</b> Simon Willison<br/><br/>Simon Willison reports on datasette-agent 0.3a0 release for AI-powered database interaction.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 56/100<br/><b>Source:</b> Simon Willison<br/><br/>datasette-agent releases version 0.3a0 with updates to AI agent functionality.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Sixty percent of US consumers say ‘AI’ in brand messaging is a turnoff, survey finds</title>
-      <link>https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/</guid>
-      <pubDate>Tue, 16 Jun 2026 16:49:44 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 50/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Consumer survey indicates majority negative sentiment toward &apos;AI&apos; branding in marketing messaging.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Show HN: cuTile Rust: Safe, data-race-free GPU kernels in Rust</title>
+      <link>https://github.com/nvlabs/cutile-rs</link>
+      <guid isPermaLink="true">https://github.com/nvlabs/cutile-rs</guid>
+      <pubDate>Tue, 16 Jun 2026 20:17:42 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 50/100<br/><b>Source:</b> Hacker News<br/><br/>cuTile Rust provides safe GPU kernel programming in Rust without data races.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Plaud says its software business topped $100M in ARR after shipping over 2M AI notetakers</title>
+      <link>https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/</guid>
+      <pubDate>Tue, 16 Jun 2026 15:00:00 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 50/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Plaud reports $100M ARR in software business from AI note-taking hardware devices.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>datasette-tailscale 0.1a0</title>
