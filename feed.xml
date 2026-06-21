@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Jun 2026 03:12:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 05:38:51 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Temporary Cloudflare accounts for AI agents</title>
@@ -13,7 +13,7 @@
       <guid isPermaLink="true">https://blog.cloudflare.com/temporary-accounts/</guid>
       <pubDate>Sat, 20 Jun 2026 11:19:05 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Cloudflare introduces temporary accounts feature designed for AI agents to access services with limited-scope credentials.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Cloudflare introduces temporary accounts designed for AI agents to access services with limited permissions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>An open handbook on LLM inference at scale (GPU internals, KV cache, batching, vLLM/SGLang/TensorRT-LLM) [P]</title>
@@ -21,7 +21,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1uavduv/an_open_handbook_on_llm_inference_at_scale_gpu/</guid>
       <pubDate>Sat, 20 Jun 2026 12:27:22 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Open handbook covering LLM inference optimization including GPU internals, KV cache, and batching frameworks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Open handbook covering LLM inference optimization including GPU internals, KV cache, and distributed serving frameworks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>DVD-JEPA: an open-source, fully-reproducible JEPA world model [P]</title>
@@ -29,7 +29,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1uatlzx/dvdjepa_an_opensource_fullyreproducible_jepa/</guid>
       <pubDate>Sat, 20 Jun 2026 10:52:35 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Open-source reproducible JEPA-based world model for video understanding released with full code.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Release of DVD-JEPA, an open-source reproducible implementation of a JEPA world model architecture.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Nobel laureate John Jumper is leaving DeepMind for rival Anthropic</title>
@@ -37,7 +37,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/</guid>
       <pubDate>Sat, 20 Jun 2026 16:39:57 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Nobel Prize-winning AI researcher John Jumper moves from DeepMind to Anthropic.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Nobel laureate protein folding researcher John Jumper moves from DeepMind to Anthropic.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Show HN: We post-trained a model that pen tests instead of refusing</title>
@@ -45,31 +45,7 @@
       <guid isPermaLink="true">https://www.argusred.com/cli</guid>
       <pubDate>Sat, 20 Jun 2026 13:49:03 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>Argus Red demonstrates a model trained to perform security penetration testing rather than refuse such tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>TSAuditor: A time-series auditing framework [P]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1ub15wf/tsauditor_a_timeseries_auditing_framework_p/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1ub15wf/tsauditor_a_timeseries_auditing_framework_p/</guid>
-      <pubDate>Sat, 20 Jun 2026 16:41:45 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 56/100<br/><b>Source:</b> r/MachineLearning<br/><br/>TSAuditor framework for auditing and validating time-series data released as open source.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>[AINews] GLM &gt; GPT? GLM-5.2 passes vibe check; Z.ai forecasts Open Fable by December</title>
-      <link>https://www.latent.space/p/ainews-glm-gpt-glm-52-passes-vibe</link>
-      <guid isPermaLink="true">https://www.latent.space/p/ainews-glm-gpt-glm-52-passes-vibe</guid>
-      <pubDate>Fri, 19 Jun 2026 05:53:54 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> Latent Space<br/><br/>News digest covering GLM-5.2 model performance claims and forecasts about open model releases.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>PostgresBench: A Reproducible Benchmark for Postgres Services</title>
-      <link>https://clickhouse.com/blog/postgresbench</link>
-      <guid isPermaLink="true">https://clickhouse.com/blog/postgresbench</guid>
-      <pubDate>Sat, 20 Jun 2026 19:01:10 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 54/100<br/><b>Source:</b> Hacker News<br/><br/>ClickHouse releases PostgresBench, a benchmarking tool for database performance comparison.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>Startup showcases a post-trained model designed to perform penetration testing rather than refuse requests.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Time Series Modeling Needs a Dynamical Systems Perspective [R]</title>
@@ -77,7 +53,31 @@
       <guid isPermaLink="true">https://i.redd.it/m15f9n8rge8h1.jpeg</guid>
       <pubDate>Sat, 20 Jun 2026 08:47:24 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 50/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Opinion piece arguing time series modeling should adopt dynamical systems perspective.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research perspective paper arguing for dynamical systems approaches to time series modeling.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>TSAuditor: A time-series auditing framework [P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1ub15wf/tsauditor_a_timeseries_auditing_framework_p/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1ub15wf/tsauditor_a_timeseries_auditing_framework_p/</guid>
+      <pubDate>Sat, 20 Jun 2026 16:41:45 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 56/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Release of TSAuditor, a framework for auditing and validating time-series data.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>[AINews] GLM &gt; GPT? GLM-5.2 passes vibe check; Z.ai forecasts Open Fable by December</title>
+      <link>https://www.latent.space/p/ainews-glm-gpt-glm-52-passes-vibe</link>
+      <guid isPermaLink="true">https://www.latent.space/p/ainews-glm-gpt-glm-52-passes-vibe</guid>
+      <pubDate>Fri, 19 Jun 2026 05:53:54 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> Latent Space<br/><br/>AI newsletter reporting on GLM-5.2 model claims and forecasts for open-source alternatives to GPT.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>PostgresBench: A Reproducible Benchmark for Postgres Services</title>
+      <link>https://clickhouse.com/blog/postgresbench</link>
+      <guid isPermaLink="true">https://clickhouse.com/blog/postgresbench</guid>
+      <pubDate>Sat, 20 Jun 2026 19:01:10 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 54/100<br/><b>Source:</b> Hacker News<br/><br/>ClickHouse releases a benchmark tool for PostgreSQL database performance testing.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>how to access books3 dataset for research purposes? [R]</title>
@@ -85,7 +85,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1uaoomx/how_to_access_books3_dataset_for_research/</guid>
       <pubDate>Sat, 20 Jun 2026 05:55:16 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 50/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Reddit discussion asking how to access Books3 dataset for research, primarily self-help content.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 50/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Reddit discussion thread asking how to access a machine learning dataset.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Studying FLUX in diffusers library was hard, so I built a smaller open-source version [P]</title>
@@ -93,7 +93,7 @@
       <guid isPermaLink="true">https://github.com/purohit10saurabh/minFLUX</guid>
       <pubDate>Sat, 20 Jun 2026 16:50:08 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 50/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Developer builds simplified open-source implementation of FLUX image generation model for educational purposes.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 50/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Developer creates a simplified open-source implementation of FLUX image generation model for educational purposes.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Built a Global AQ (PM2.5) Forecaster ML Model [P]</title>
@@ -101,7 +101,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1uar4vc/built_a_global_aq_pm25_forecaster_ml_model_p/</guid>
       <pubDate>Sat, 20 Jun 2026 08:20:30 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 44/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Personal project post about building a PM2.5 air quality forecasting model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 50/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Personal project applying machine learning to global air quality forecasting.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care</title>
@@ -109,23 +109,7 @@
       <guid isPermaLink="true">https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/</guid>
       <pubDate>Fri, 19 Jun 2026 16:01:03 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 38/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Opinion piece about hypothetical US restrictions on AI model releases.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Would you let an ML PhD student graduate without a top-tier paper? [D]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1uazlhg/would_you_let_an_ml_phd_student_graduate_without/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1uazlhg/would_you_let_an_ml_phd_student_graduate_without/</guid>
-      <pubDate>Sat, 20 Jun 2026 15:36:16 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 32/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Discussion post about academic standards for ML PhD graduation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>The US says ASML’s top chip tool may be in China, but how?</title>
-      <link>https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/</guid>
-      <pubDate>Fri, 19 Jun 2026 07:59:12 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 26/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Geopolitical dispute about chip manufacturing equipment, not substantively about AI.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 44/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Opinion piece on US regulatory actions and market response regarding an AI model release.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
