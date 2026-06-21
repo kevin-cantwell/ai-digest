@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Jun 2026 07:41:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 09:17:50 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Building reliable agentic AI systems</title>
@@ -13,7 +13,7 @@
       <guid isPermaLink="true">https://martinfowler.com/articles/reliable-llm-bayer.html</guid>
       <pubDate>Sun, 21 Jun 2026 04:28:39 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Martin Fowler article on building reliable agentic AI systems and best practices.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Article on engineering practices for building reliable agentic AI systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Temporary Cloudflare accounts for AI agents</title>
@@ -21,23 +21,7 @@
       <guid isPermaLink="true">https://blog.cloudflare.com/temporary-accounts/</guid>
       <pubDate>Sat, 20 Jun 2026 11:19:05 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Cloudflare introduces temporary accounts feature for AI agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Ubisoft co-founder Claude Guillemot has died in a plane crash</title>
-      <link>https://www.reuters.com/world/ubisofts-co-founder-claude-guillemot-dies-plane-crash-2026-06-20/</link>
-      <guid isPermaLink="true">https://www.reuters.com/world/ubisofts-co-founder-claude-guillemot-dies-plane-crash-2026-06-20/</guid>
-      <pubDate>Sat, 20 Jun 2026 14:12:50 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 80/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>PostgresBench: A Reproducible Benchmark for Postgres Services</title>
-      <link>https://clickhouse.com/blog/postgresbench</link>
-      <guid isPermaLink="true">https://clickhouse.com/blog/postgresbench</guid>
-      <pubDate>Sat, 20 Jun 2026 19:01:10 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 75/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Cloudflare introduces temporary accounts feature designed for AI agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>An open handbook on LLM inference at scale (GPU internals, KV cache, batching, vLLM/SGLang/TensorRT-LLM) [P]</title>
@@ -45,15 +29,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1uavduv/an_open_handbook_on_llm_inference_at_scale_gpu/</guid>
       <pubDate>Sat, 20 Jun 2026 12:27:22 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Open handbook on LLM inference optimization covering GPU internals, KV cache, and inference frameworks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>When I reject AI code even if it works</title>
-      <link>https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/</link>
-      <guid isPermaLink="true">https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/</guid>
-      <pubDate>Sun, 21 Jun 2026 00:58:13 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Comprehensive open handbook covering LLM inference optimization techniques and systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>DVD-JEPA: an open-source, fully-reproducible JEPA world model [P]</title>
@@ -61,7 +37,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1uatlzx/dvdjepa_an_opensource_fullyreproducible_jepa/</guid>
       <pubDate>Sat, 20 Jun 2026 10:52:35 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>DVD-JEPA open-source reproducible world model release.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Open-source implementation of JEPA world model architecture.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Show HN: We post-trained a model that pen tests instead of refusing</title>
@@ -69,47 +45,15 @@
       <guid isPermaLink="true">https://www.argusred.com/cli</guid>
       <pubDate>Sat, 20 Jun 2026 13:49:03 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>Argus Red releases a post-trained model for penetration testing instead of refusal alignment.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>Post-trained model for security testing that bypasses refusals.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Would you let an ML PhD student graduate without a top-tier paper? [D]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1uazlhg/would_you_let_an_ml_phd_student_graduate_without/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1uazlhg/would_you_let_an_ml_phd_student_graduate_without/</guid>
-      <pubDate>Sat, 20 Jun 2026 15:36:16 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Built a Global AQ (PM2.5) Forecaster ML Model [P]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1uar4vc/built_a_global_aq_pm25_forecaster_ml_model_p/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1uar4vc/built_a_global_aq_pm25_forecaster_ml_model_p/</guid>
-      <pubDate>Sat, 20 Jun 2026 08:20:30 +0000</pubDate>
+      <title>Nobel laureate John Jumper is leaving DeepMind for rival Anthropic</title>
+      <link>https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/</guid>
+      <pubDate>Sat, 20 Jun 2026 16:39:57 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>In the Weights is your new AI-centric vanity search</title>
-      <link>https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/</guid>
-      <pubDate>Sat, 20 Jun 2026 19:41:11 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> TechCrunch AI<br/><br/>So ... what&apos;s your In the Weights score?<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care</title>
-      <link>https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/</link>
-      <guid isPermaLink="true">https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/</guid>
-      <pubDate>Fri, 19 Jun 2026 16:01:03 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 65/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Just as last week&amp;#160;was ending,&amp;#160;the US government&amp;#160;forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedl<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Time Series Modeling Needs a Dynamical Systems Perspective [R]</title>
-      <link>https://i.redd.it/m15f9n8rge8h1.jpeg</link>
-      <guid isPermaLink="true">https://i.redd.it/m15f9n8rge8h1.jpeg</guid>
-      <pubDate>Sat, 20 Jun 2026 08:47:24 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Discussion of dynamical systems perspective for time series modeling.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Notable researcher transition between major AI labs.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>TSAuditor: A time-series auditing framework [P]</title>
@@ -117,7 +61,23 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1ub15wf/tsauditor_a_timeseries_auditing_framework_p/</guid>
       <pubDate>Sat, 20 Jun 2026 16:41:45 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 50/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 50/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Framework for auditing time-series models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>The 100k Whys of AI</title>
+      <link>https://lcamtuf.substack.com/p/the-100000-whys-of-ai</link>
+      <guid isPermaLink="true">https://lcamtuf.substack.com/p/the-100000-whys-of-ai</guid>
+      <pubDate>Sun, 21 Jun 2026 05:45:21 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 48/100<br/><b>Source:</b> Hacker News<br/><br/>Essay on AI interpretability and explanation challenges.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>PostgresBench: A Reproducible Benchmark for Postgres Services</title>
+      <link>https://clickhouse.com/blog/postgresbench</link>
+      <guid isPermaLink="true">https://clickhouse.com/blog/postgresbench</guid>
+      <pubDate>Sat, 20 Jun 2026 19:01:10 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 46/100<br/><b>Source:</b> Hacker News<br/><br/>Database benchmarking tool with no substantive AI angle.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Studying FLUX in diffusers library was hard, so I built a smaller open-source version [P]</title>
@@ -125,15 +85,39 @@
       <guid isPermaLink="true">https://github.com/purohit10saurabh/minFLUX</guid>
       <pubDate>Sat, 20 Jun 2026 16:50:08 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 50/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 44/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Educational implementation of diffusion model architecture.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>The US says ASML’s top chip tool may be in China, but how?</title>
-      <link>https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/</guid>
-      <pubDate>Fri, 19 Jun 2026 07:59:12 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 50/100<br/><b>Source:</b> TechCrunch AI<br/><br/>There&apos;s a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>When I reject AI code even if it works</title>
+      <link>https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/</link>
+      <guid isPermaLink="true">https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/</guid>
+      <pubDate>Sun, 21 Jun 2026 00:58:13 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 40/100<br/><b>Source:</b> Hacker News<br/><br/>Personal opinion piece on code review practices.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Hi Reddit, I posted my Build Your Own LLM workshop to Youtube teaching ML, LLM and math intuition [P]</title>
+      <link>https://www.youtube.com/watch?v=vXiB0UdDhk8&amp;amp;list=PLweJS2YZCfkeXXdfCKGaxAhm2w8p0u1z6</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=vXiB0UdDhk8&amp;amp;list=PLweJS2YZCfkeXXdfCKGaxAhm2w8p0u1z6</guid>
+      <pubDate>Sat, 20 Jun 2026 15:36:27 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 38/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Self-promotion of educational workshop content.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care</title>
+      <link>https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/</link>
+      <guid isPermaLink="true">https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/</guid>
+      <pubDate>Fri, 19 Jun 2026 16:01:03 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 32/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Speculation and opinion about regulatory action and market impact.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Public Service Announcement: Don&apos;t Say You Use AI for Writing</title>
+      <link>https://www.satisfice.com/blog/archives/488148</link>
+      <guid isPermaLink="true">https://www.satisfice.com/blog/archives/488148</guid>
+      <pubDate>Sun, 21 Jun 2026 04:50:46 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 26/100<br/><b>Source:</b> Hacker News<br/><br/>Opinion piece on disclosure practices.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
