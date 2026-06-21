@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Jun 2026 19:33:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 20:34:19 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Building reliable agentic AI systems</title>
@@ -13,7 +13,7 @@
       <guid isPermaLink="true">https://martinfowler.com/articles/reliable-llm-bayer.html</guid>
       <pubDate>Sun, 21 Jun 2026 04:28:39 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Martin Fowler article on building reliable agentic AI systems and best practices for production deployment.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Martin Fowler discusses architectural patterns for building reliable agentic AI systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>I released a softmax-free attention model at GPT-2 Medium scale (~354M params, 11.5B tokens): structural sparsity + tile-skipping kernels for long-context VRAM savings. Open weights + custom Triton kernels [R]</title>
@@ -21,23 +21,7 @@
       <guid isPermaLink="true">https://huggingface.co/Tripstoph/RRT-Foundation</guid>
       <pubDate>Sun, 21 Jun 2026 10:46:36 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Release of a novel softmax-free attention architecture with custom kernels for long-context efficiency at GPT-2 Medium scale.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Nobel laureate John Jumper is leaving DeepMind for rival Anthropic</title>
-      <link>https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/</guid>
-      <pubDate>Sat, 20 Jun 2026 16:39:57 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Nobel laureate protein folding researcher John Jumper moves from DeepMind to Anthropic.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>The 100k whys of AI</title>
-      <link>https://lcamtuf.substack.com/p/the-100000-whys-of-ai</link>
-      <guid isPermaLink="true">https://lcamtuf.substack.com/p/the-100000-whys-of-ai</guid>
-      <pubDate>Sun, 21 Jun 2026 05:45:21 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>Essay exploring fundamental questions and challenges in AI development and understanding.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Release of a softmax-free attention model with custom kernels for improved long-context efficiency at scale.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27</title>
@@ -45,7 +29,23 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/</guid>
       <pubDate>Sun, 21 Jun 2026 14:40:28 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Preview of practical AI features being integrated into iOS 27.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Announcement of new on-device AI features coming to iOS 27.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Nobel laureate John Jumper is leaving DeepMind for rival Anthropic</title>
+      <link>https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/</guid>
+      <pubDate>Sat, 20 Jun 2026 16:39:57 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Nobel laureate John Jumper moves from DeepMind to Anthropic.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>The 100k whys of AI</title>
+      <link>https://lcamtuf.substack.com/p/the-100000-whys-of-ai</link>
+      <guid isPermaLink="true">https://lcamtuf.substack.com/p/the-100000-whys-of-ai</guid>
+      <pubDate>Sun, 21 Jun 2026 05:45:21 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>Analysis of interpretability challenges and fundamental questions in AI research.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Data-centric debugging for teams training neural nets [P]</title>
@@ -53,7 +53,15 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1ubwcat/datacentric_debugging_for_teams_training_neural/</guid>
       <pubDate>Sun, 21 Jun 2026 17:47:02 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 56/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Discussion of data-centric debugging techniques for neural network training teams.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 56/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Discussion thread on data-centric debugging approaches for neural network training teams.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>An Update on Matrix Recurrent Units, an Attention Alternative [R]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1ubz5o8/an_update_on_matrix_recurrent_units_an_attention/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1ubz5o8/an_update_on_matrix_recurrent_units_an_attention/</guid>
+      <pubDate>Sun, 21 Jun 2026 19:39:44 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research update on Matrix Recurrent Units as an alternative to transformer attention mechanisms.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>When I reject AI code even if it works</title>
@@ -61,7 +69,7 @@
       <guid isPermaLink="true">https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/</guid>
       <pubDate>Sun, 21 Jun 2026 00:58:13 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 52/100<br/><b>Source:</b> Hacker News<br/><br/>Personal perspective on code quality considerations when reviewing AI-generated code.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 52/100<br/><b>Source:</b> Hacker News<br/><br/>Personal perspective on code quality and reviewing AI-generated code.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>A slightly improved DVD-JEPA demo [P]</title>
@@ -69,7 +77,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1ubtf09/a_slightly_improved_dvdjepa_demo_p/</guid>
       <pubDate>Sun, 21 Jun 2026 15:49:36 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 50/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Release of an incremental improvement to DVD-JEPA video understanding model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 50/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Incremental improvement demonstrated on DVD-JEPA video understanding model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Best current methods for finetuning whisper on domain specific vocabulary? [P]</title>
@@ -77,15 +85,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1ubvmdx/best_current_methods_for_finetuning_whisper_on/</guid>
       <pubDate>Sun, 21 Jun 2026 17:18:22 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 42/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Technical question thread about fine-tuning Whisper for specialized vocabulary.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Don’t use AI to write things that you present as your own work</title>
-      <link>https://www.satisfice.com/blog/archives/488148</link>
-      <guid isPermaLink="true">https://www.satisfice.com/blog/archives/488148</guid>
-      <pubDate>Sun, 21 Jun 2026 04:50:46 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 38/100<br/><b>Source:</b> Hacker News<br/><br/>Opinion piece on ethical use of AI for writing and attribution.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 42/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Question about fine-tuning techniques for Whisper model on specialized vocabulary.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
