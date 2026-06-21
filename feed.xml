@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Jun 2026 12:42:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 13:35:57 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Building reliable agentic AI systems</title>
@@ -13,7 +13,7 @@
       <guid isPermaLink="true">https://martinfowler.com/articles/reliable-llm-bayer.html</guid>
       <pubDate>Sun, 21 Jun 2026 04:28:39 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Article on building reliable agentic AI systems with practical engineering considerations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Article on building reliable agentic AI systems from Martin Fowler addressing practical considerations for production AI deployments.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>I released a softmax-free attention model at GPT-2 Medium scale (~354M params, 11.5B tokens): structural sparsity + tile-skipping kernels for long-context VRAM savings. Open weights + custom Triton kernels [R]</title>
@@ -21,15 +21,7 @@
       <guid isPermaLink="true">https://huggingface.co/Tripstoph/RRT-Foundation</guid>
       <pubDate>Sun, 21 Jun 2026 10:46:36 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Novel attention mechanism with structural sparsity improvements for efficiency released at scale.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Show HN: We post-trained a model that pen tests instead of refusing</title>
-      <link>https://www.argusred.com/cli</link>
-      <guid isPermaLink="true">https://www.argusred.com/cli</guid>
-      <pubDate>Sat, 20 Jun 2026 13:49:03 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>Post-trained model specialized for security pen testing rather than refusal behavior.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Release of novel softmax-free attention architecture with custom kernels for efficient long-context processing at GPT-2 scale.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Nobel laureate John Jumper is leaving DeepMind for rival Anthropic</title>
@@ -37,7 +29,23 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/</guid>
       <pubDate>Sat, 20 Jun 2026 16:39:57 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Significant personnel movement: Nobel laureate John Jumper joins Anthropic from DeepMind.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Nobel laureate John Jumper transitions from DeepMind to Anthropic, significant personnel move in AI research.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Anthropic to Require ID Verification for Certain Capabilities Starting July 8</title>
+      <link>https://old.reddit.com/r/ClaudeAI/comments/1ubm53n/official_anthropic_to_require_identity/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/ClaudeAI/comments/1ubm53n/official_anthropic_to_require_identity/</guid>
+      <pubDate>Sun, 21 Jun 2026 12:44:13 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic implements identity verification requirements for certain model capabilities starting July 8.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Show HN: We post-trained a model that pen tests instead of refusing</title>
+      <link>https://www.argusred.com/cli</link>
+      <guid isPermaLink="true">https://www.argusred.com/cli</guid>
+      <pubDate>Sat, 20 Jun 2026 13:49:03 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>Tool that fine-tunes models for security testing rather than refusing potentially harmful requests.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>The 100k Whys of AI</title>
@@ -45,7 +53,7 @@
       <guid isPermaLink="true">https://lcamtuf.substack.com/p/the-100000-whys-of-ai</guid>
       <pubDate>Sun, 21 Jun 2026 05:45:21 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 58/100<br/><b>Source:</b> Hacker News<br/><br/>Opinion/analysis piece on AI interpretability and explainability questions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 58/100<br/><b>Source:</b> Hacker News<br/><br/>Opinion piece exploring interpretability and understanding in AI systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>PostgresBench: A Reproducible Benchmark for Postgres Services</title>
@@ -53,23 +61,7 @@
       <guid isPermaLink="true">https://clickhouse.com/blog/postgresbench</guid>
       <pubDate>Sat, 20 Jun 2026 19:01:10 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 52/100<br/><b>Source:</b> Hacker News<br/><br/>Database benchmarking tool that mentions AI only incidentally in context.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>TSAuditor: A time-series auditing framework [P]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1ub15wf/tsauditor_a_timeseries_auditing_framework_p/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1ub15wf/tsauditor_a_timeseries_auditing_framework_p/</guid>
-      <pubDate>Sat, 20 Jun 2026 16:41:45 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 50/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Release of a time-series auditing framework with technical substance.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Studying FLUX in diffusers library was hard, so I built a smaller open-source version [P]</title>
-      <link>https://github.com/purohit10saurabh/minFLUX</link>
-      <guid isPermaLink="true">https://github.com/purohit10saurabh/minFLUX</guid>
-      <pubDate>Sat, 20 Jun 2026 16:50:08 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 50/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Open-source implementation of a diffusion model variant.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 58/100<br/><b>Source:</b> Hacker News<br/><br/>Benchmark tool for PostgreSQL services with unclear direct AI relevance.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care</title>
@@ -77,7 +69,23 @@
       <guid isPermaLink="true">https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/</guid>
       <pubDate>Fri, 19 Jun 2026 16:01:03 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 50/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Commentary on regulatory actions and market impact, mixed credibility.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 56/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Commentary on regulatory actions and market impacts, mix of news and opinion.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>TSAuditor: A time-series auditing framework [P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1ub15wf/tsauditor_a_timeseries_auditing_framework_p/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1ub15wf/tsauditor_a_timeseries_auditing_framework_p/</guid>
+      <pubDate>Sat, 20 Jun 2026 16:41:45 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 50/100<br/><b>Source:</b> r/MachineLearning<br/><br/>New open-source framework for auditing time-series models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Studying FLUX in diffusers library was hard, so I built a smaller open-source version [P]</title>
+      <link>https://github.com/purohit10saurabh/minFLUX</link>
+      <guid isPermaLink="true">https://github.com/purohit10saurabh/minFLUX</guid>
+      <pubDate>Sat, 20 Jun 2026 16:50:08 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 50/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Developer-created simplified implementation of FLUX diffusion model for educational purposes.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>When I reject AI code even if it works</title>
@@ -85,7 +93,7 @@
       <guid isPermaLink="true">https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/</guid>
       <pubDate>Sun, 21 Jun 2026 00:58:13 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 46/100<br/><b>Source:</b> Hacker News<br/><br/>Personal anecdote about the author&apos;s code review practices with AI.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 46/100<br/><b>Source:</b> Hacker News<br/><br/>Personal anecdote about author&apos;s code review practices with AI-generated code.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Would you let an ML PhD student graduate without a top-tier paper? [D]</title>
@@ -93,7 +101,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1uazlhg/would_you_let_an_ml_phd_student_graduate_without/</guid>
       <pubDate>Sat, 20 Jun 2026 15:36:16 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 38/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Discussion thread about academic credentials with no substantive news value.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 38/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Discussion forum post about academic standards, primarily opinion-based.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’</title>
@@ -101,15 +109,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/</guid>
       <pubDate>Sat, 20 Jun 2026 20:32:29 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 38/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Opinion piece from public figure warning about AI chatbot limitations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>In the Weights is your new AI-centric vanity search</title>
-      <link>https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/</guid>
-      <pubDate>Sat, 20 Jun 2026 19:41:11 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 38/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Self-promotional product launch with minimal substance.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 38/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Opinion commentary from Signal executive on AI chatbot limitations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Public Service Announcement: Don&apos;t Say You Use AI for Writing</title>
@@ -117,7 +117,7 @@
       <guid isPermaLink="true">https://www.satisfice.com/blog/archives/488148</guid>
       <pubDate>Sun, 21 Jun 2026 04:50:46 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 32/100<br/><b>Source:</b> Hacker News<br/><br/>Opinion piece with advocacy messaging rather than substantive news.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 32/100<br/><b>Source:</b> Hacker News<br/><br/>Opinion piece about disclosure of AI tool usage.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
