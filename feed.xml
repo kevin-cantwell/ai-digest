@@ -5,31 +5,15 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Jun 2026 11:04:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 13:00:41 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Ask HN: Anthropic banned me from using Claude Code and I don&apos;t know what to do</title>
-      <link>https://news.ycombinator.com/item?id=48641160</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48641160</guid>
-      <pubDate>Tue, 23 Jun 2026 06:33:52 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 100/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>OpenAI DayBreak – GPT-5.5-Cyber</title>
-      <link>https://openai.com/index/daybreak-securing-the-world/</link>
-      <guid isPermaLink="true">https://openai.com/index/daybreak-securing-the-world/</guid>
-      <pubDate>Tue, 23 Jun 2026 01:36:08 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 100/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code</title>
-      <link>https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything</guid>
-      <pubDate>Mon, 22 Jun 2026 23:43:51 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 100/100<br/><b>Source:</b> Simon Willison<br/><br/>This morning on Hacker News I saw Moebius: 0.2B Lightweight Image Inpainting Framework with 10B-Level Performance, describing a small but effective inpainting model - a model where you can mark region<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO</title>
+      <link>https://arxiv.org/abs/2606.16140</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2606.16140</guid>
+      <pubDate>Tue, 23 Jun 2026 02:01:25 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>VibeThinker 3B parameter model achieves reasoning performance comparable to Opus 4.5 using novel SFT+GRPO training approach.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Patch the Planet: a Daybreak initiative to support open source maintainers</title>
@@ -37,23 +21,15 @@
       <guid isPermaLink="true">https://openai.com/index/patch-the-planet</guid>
       <pubDate>Mon, 22 Jun 2026 10:00:00 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 90/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 84/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI launches Patch the Planet initiative to support open source maintainers in security vulnerability fixes.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO</title>
-      <link>https://arxiv.org/abs/2606.16140</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2606.16140</guid>
-      <pubDate>Tue, 23 Jun 2026 02:01:25 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>VibeThinker, a 3B parameter model, achieves reasoning performance comparable to Opus 4.5 using novel SFT+GRPO training methods.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>The text in Claude Code’s “Extended Thinking” output</title>
-      <link>https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/</link>
-      <guid isPermaLink="true">https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/</guid>
-      <pubDate>Mon, 22 Jun 2026 14:22:46 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Analysis of Claude Code&apos;s Extended Thinking output reveals concerns about the authenticity of intermediate reasoning text.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>OpenAI DayBreak – GPT-5.5-Cyber</title>
+      <link>https://openai.com/index/daybreak-securing-the-world/</link>
+      <guid isPermaLink="true">https://openai.com/index/daybreak-securing-the-world/</guid>
+      <pubDate>Tue, 23 Jun 2026 01:36:08 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI announces Daybreak initiative for cybersecurity with GPT-5.5-Cyber model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Moebius: 0.2B image inpainting model with 10B-level performance</title>
@@ -61,15 +37,7 @@
       <guid isPermaLink="true">https://hustvl.github.io/Moebius/</guid>
       <pubDate>Mon, 22 Jun 2026 13:53:02 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Moebius, a 0.2B parameter image inpainting model, achieves 10B-level performance through efficient architecture design.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Codex-maxxing for long-running work</title>
-      <link>https://openai.com/index/codex-maxxing-long-running-work</link>
-      <guid isPermaLink="true">https://openai.com/index/codex-maxxing-long-running-work</guid>
-      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI introduces Codex-maxxing techniques for optimizing long-running code generation tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Moebius 0.2B image inpainting model achieves performance comparable to 10B-scale models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Samsung Electronics brings ChatGPT and Codex to employees</title>
@@ -77,31 +45,23 @@
       <guid isPermaLink="true">https://openai.com/index/samsung-electronics-chatgpt-codex-deployment</guid>
       <pubDate>Sun, 21 Jun 2026 23:00:00 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Samsung Electronics deploys ChatGPT and Codex to its employee base for internal productivity.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Samsung Electronics deploys ChatGPT and Codex to its employees at scale.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>How Omio is building the future of conversational travel</title>
-      <link>https://openai.com/index/omio</link>
-      <guid isPermaLink="true">https://openai.com/index/omio</guid>
-      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 75/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>The text in Claude Code’s “Extended Thinking” output</title>
+      <link>https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/</link>
+      <guid isPermaLink="true">https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/</guid>
+      <pubDate>Mon, 22 Jun 2026 14:22:46 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Analysis of Claude Code&apos;s Extended Thinking output raises questions about authenticity of reasoning displays.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Meta pauses AI training program tracking employee keystrokes after internal leak</title>
-      <link>https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6</link>
-      <guid isPermaLink="true">https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6</guid>
-      <pubDate>Mon, 22 Jun 2026 21:43:22 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 72/100<br/><b>Source:</b> Hacker News<br/><br/>Meta pauses an AI training program that tracked employee keystrokes after an internal data leak.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Daybreak: Tools for securing every organization in the world</title>
-      <link>https://openai.com/index/daybreak-securing-the-world</link>
-      <guid isPermaLink="true">https://openai.com/index/daybreak-securing-the-world</guid>
-      <pubDate>Mon, 22 Jun 2026 10:00:00 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces Daybreak, a suite of tools designed for organizational security and threat detection.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Codex-maxxing for long-running work</title>
+      <link>https://openai.com/index/codex-maxxing-long-running-work</link>
+      <guid isPermaLink="true">https://openai.com/index/codex-maxxing-long-running-work</guid>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI blog post on optimizing Codex for long-running work tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Temporary Cloudflare Accounts for AI agents</title>
@@ -109,7 +69,7 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything</guid>
       <pubDate>Sun, 21 Jun 2026 22:01:04 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Simon Willison<br/><br/>Cloudflare introduces temporary account generation for AI agents to safely access services with limited permissions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Simon Willison<br/><br/>Cloudflare introduces temporary account provisioning for AI agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>OpenAI launches new initiative to help find and patch open source bugs</title>
@@ -117,31 +77,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/</guid>
       <pubDate>Tue, 23 Jun 2026 00:11:31 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI launches an initiative to identify and patch vulnerabilities in open source software using AI.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal</title>
-      <link>https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/</guid>
-      <pubDate>Mon, 22 Jun 2026 20:13:58 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>AI chipmaker Groq confirms a $650M funding round and rebuilds staff after Nvidia&apos;s $20B talent acquisition.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Some new updates to Papers with Code [P]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1ucm508/some_new_updates_to_papers_with_code_p/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1ucm508/some_new_updates_to_papers_with_code_p/</guid>
-      <pubDate>Mon, 22 Jun 2026 14:29:33 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Non-deterministic Vulnerability Detection Benchmark System [P]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1ud0rft/nondeterministic_vulnerability_detection/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1ud0rft/nondeterministic_vulnerability_detection/</guid>
-      <pubDate>Mon, 22 Jun 2026 23:34:50 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 74/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI launches initiative to automatically find and patch vulnerabilities in open source software.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>SpaceX inks compute deal with Reflection AI, an open source AI lab</title>
@@ -149,23 +85,87 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/</guid>
       <pubDate>Mon, 22 Jun 2026 16:51:29 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>SpaceX signs a compute agreement with Reflection AI, an open source AI research lab.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 74/100<br/><b>Source:</b> TechCrunch AI<br/><br/>SpaceX announces compute infrastructure deal with Reflection AI lab.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>AI Built a Nuke and Still Lost</title>
-      <link>https://www.lwilko.com/blog/i-gave-an-ai-a-civilization</link>
-      <guid isPermaLink="true">https://www.lwilko.com/blog/i-gave-an-ai-a-civilization</guid>
-      <pubDate>Tue, 23 Jun 2026 08:16:45 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Meta pauses AI training program tracking employee keystrokes after internal leak</title>
+      <link>https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6</link>
+      <guid isPermaLink="true">https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6</guid>
+      <pubDate>Mon, 22 Jun 2026 21:43:22 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 72/100<br/><b>Source:</b> Hacker News<br/><br/>Meta pauses AI training program that tracked employee keystrokes following internal data leak.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Show HN: Selector Forge – browser extension for AI-generated resilient selectors</title>
-      <link>https://github.com/Intuned/selector-forge</link>
-      <guid isPermaLink="true">https://github.com/Intuned/selector-forge</guid>
-      <pubDate>Mon, 22 Jun 2026 14:21:24 +0000</pubDate>
+      <title>Daybreak: Tools for securing every organization in the world</title>
+      <link>https://openai.com/index/daybreak-securing-the-world</link>
+      <guid isPermaLink="true">https://openai.com/index/daybreak-securing-the-world</guid>
+      <pubDate>Mon, 22 Jun 2026 10:00:00 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 56/100<br/><b>Source:</b> Hacker News<br/><br/>Selector Forge is a browser extension that uses AI to generate resilient CSS selectors for web automation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI introduces Daybreak suite of tools for organizational cybersecurity.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code</title>
+      <link>https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything</guid>
+      <pubDate>Mon, 22 Jun 2026 23:43:51 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Simon Willison<br/><br/>Technical walkthrough of porting Moebius image inpainting model to run in-browser using Claude Code.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal</title>
+      <link>https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/</guid>
+      <pubDate>Mon, 22 Jun 2026 20:13:58 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Groq confirms $650M funding round and rehires staff following Nvidia&apos;s acquisition of GPU engineers.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Show HN: Neural Particle Automata</title>
+      <link>https://selforg-npa.github.io/</link>
+      <guid isPermaLink="true">https://selforg-npa.github.io/</guid>
+      <pubDate>Tue, 23 Jun 2026 08:31:48 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> Hacker News<br/><br/>Neural Particle Automata: research on self-organizing systems using neural networks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Non-deterministic Vulnerability Detection Benchmark System [P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1ud0rft/nondeterministic_vulnerability_detection/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1ud0rft/nondeterministic_vulnerability_detection/</guid>
+      <pubDate>Mon, 22 Jun 2026 23:34:50 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research on non-deterministic vulnerability detection benchmarking systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>How Omio is building the future of conversational travel</title>
+      <link>https://openai.com/index/omio</link>
+      <guid isPermaLink="true">https://openai.com/index/omio</guid>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI case study on Omio&apos;s use of AI for conversational travel booking.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Some new updates to Papers with Code [P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1ucm508/some_new_updates_to_papers_with_code_p/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1ucm508/some_new_updates_to_papers_with_code_p/</guid>
+      <pubDate>Mon, 22 Jun 2026 14:29:33 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 56/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Papers with Code announces new platform updates.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Are model security risks (extraction, poisoning) actually being tested in production? [R]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1uddtws/are_model_security_risks_extraction_poisoning/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1uddtws/are_model_security_risks_extraction_poisoning/</guid>
+      <pubDate>Tue, 23 Jun 2026 10:52:58 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Discussion thread on whether model security risks are actively tested in production systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>The running list: major tech layoffs in 2026 where employers cited AI</title>
+      <link>https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/</guid>
+      <pubDate>Tue, 23 Jun 2026 01:27:55 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Compilation of major tech layoffs in 2026 where companies cited AI as justification.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
