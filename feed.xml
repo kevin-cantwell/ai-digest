@@ -5,23 +5,15 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Jun 2026 01:40:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 03:09:53 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO</title>
-      <link>https://arxiv.org/abs/2606.16140</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2606.16140</guid>
-      <pubDate>Tue, 23 Jun 2026 02:01:25 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>VibeThinker 3B parameter model achieves reasoning performance comparable to Opus 4.5 using novel SFT+GRPO training approach.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
     <item>
       <title>Claude Tag</title>
       <link>https://www.anthropic.com/news/introducing-claude-tag</link>
       <guid isPermaLink="true">https://www.anthropic.com/news/introducing-claude-tag</guid>
       <pubDate>Tue, 23 Jun 2026 17:09:18 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 84/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic announces Claude Tag, a new product feature for enterprise use.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 84/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic announces Claude Tag, a new product feature.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Mistral OCR 4</title>
@@ -29,7 +21,23 @@
       <guid isPermaLink="true">https://mistral.ai/news/ocr-4/</guid>
       <pubDate>Tue, 23 Jun 2026 14:03:19 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> Hacker News<br/><br/>Mistral releases OCR 4, an updated optical character recognition model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 84/100<br/><b>Source:</b> Hacker News<br/><br/>Mistral releases OCR 4, an optical character recognition model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code</title>
+      <link>https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything</guid>
+      <pubDate>Mon, 22 Jun 2026 23:43:51 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Simon Willison<br/><br/>Technical demonstration of porting an image inpainting model to run in-browser using Claude Code.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>DeepSWE: new benchmark looking at how well today&apos;s frontier models can actually write code [R]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1ue0hlp/deepswe_new_benchmark_looking_at_how_well_todays/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1ue0hlp/deepswe_new_benchmark_looking_at_how_well_todays/</guid>
+      <pubDate>Wed, 24 Jun 2026 02:03:34 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/MachineLearning<br/><br/>DeepSWE benchmark released to evaluate code generation capabilities of frontier AI models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Patch the Planet: a Daybreak initiative to support open source maintainers</title>
@@ -37,15 +45,15 @@
       <guid isPermaLink="true">https://openai.com/index/patch-the-planet</guid>
       <pubDate>Mon, 22 Jun 2026 10:00:00 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI launches Patch the Planet initiative to support open source security maintainers.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI launches Patch the Planet initiative to support open source maintainers.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Helping build shared standards for advanced AI</title>
-      <link>https://openai.com/index/helping-build-shared-standards-for-advanced-ai</link>
-      <guid isPermaLink="true">https://openai.com/index/helping-build-shared-standards-for-advanced-ai</guid>
-      <pubDate>Tue, 23 Jun 2026 13:00:00 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI collaborates on establishing shared standards for advanced AI development.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>OpenAI launches new initiative to help find and patch open source bugs</title>
+      <link>https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/</guid>
+      <pubDate>Tue, 23 Jun 2026 00:11:31 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 74/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI launches program to identify and patch vulnerabilities in open source software.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Daybreak: Tools for securing every organization in the world</title>
@@ -56,20 +64,12 @@
       <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces Daybreak security tools initiative.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Anthropic’s Claude Tag is learning your company, one Slack message at a time</title>
-      <link>https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/</guid>
-      <pubDate>Tue, 23 Jun 2026 17:00:00 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 72/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Claude Tag feature learns company context from Slack messages for personalized enterprise AI.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
       <title>FUTO Swipe – A new swipe typing model</title>
       <link>https://swipe.futo.tech/</link>
       <guid isPermaLink="true">https://swipe.futo.tech/</guid>
       <pubDate>Tue, 23 Jun 2026 17:50:22 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>FUTO releases Swipe, a new swipe typing AI model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>FUTO releases a new swipe typing model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>India’s MoEngage bets that the future of marketing is millions of AI agents</title>
@@ -77,7 +77,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/</guid>
       <pubDate>Tue, 23 Jun 2026 23:30:00 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> TechCrunch AI<br/><br/>MoEngage platform pivots toward AI agents for marketing automation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> TechCrunch AI<br/><br/>MoEngage develops multi-agent AI platform for marketing applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates</title>
@@ -85,15 +85,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/</guid>
       <pubDate>Tue, 23 Jun 2026 13:00:00 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Fika Jobs raises $4M for AI agent-based video interviewing platform.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code</title>
-      <link>https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything</guid>
-      <pubDate>Mon, 22 Jun 2026 23:43:51 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Simon Willison<br/><br/>Developer ports Moebius image inpainting model to run in browser using Claude Code.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Fika Jobs raises $4M for AI-powered video interviewing platform.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Anthropic updates their terms to verify age or identity</title>
@@ -104,28 +96,36 @@
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic updates terms of service to require age or identity verification.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>OpenAI launches new initiative to help find and patch open source bugs</title>
-      <link>https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/</guid>
-      <pubDate>Tue, 23 Jun 2026 00:11:31 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI launches initiative to identify and patch bugs in open source software.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
       <title>SpaceX inks compute deal with Reflection AI, an open source AI lab</title>
       <link>https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/</link>
       <guid isPermaLink="true">https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/</guid>
       <pubDate>Mon, 22 Jun 2026 16:51:29 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>SpaceX signs compute deal with Reflection AI open source lab.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>SpaceX signs compute agreement with Reflection AI open source lab.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Are model security risks (extraction, poisoning) actually being tested in production? [R]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1uddtws/are_model_security_risks_extraction_poisoning/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1uddtws/are_model_security_risks_extraction_poisoning/</guid>
-      <pubDate>Tue, 23 Jun 2026 10:52:58 +0000</pubDate>
+      <title>Helping build shared standards for advanced AI</title>
+      <link>https://openai.com/index/helping-build-shared-standards-for-advanced-ai</link>
+      <guid isPermaLink="true">https://openai.com/index/helping-build-shared-standards-for-advanced-ai</guid>
+      <pubDate>Tue, 23 Jun 2026 13:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Discussion of whether model security risks like extraction and poisoning are tested in production.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI contributes to development of shared standards for advanced AI systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Anthropic’s Claude Tag is learning your company, one Slack message at a time</title>
+      <link>https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/</guid>
+      <pubDate>Tue, 23 Jun 2026 17:00:00 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Analysis of Anthropic&apos;s Claude Tag learning organization context from Slack messages.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery</title>
+      <link>https://openai.com/index/gpt-5-immunology-mystery</link>
+      <guid isPermaLink="true">https://openai.com/index/gpt-5-immunology-mystery</guid>
+      <pubDate>Tue, 23 Jun 2026 17:00:00 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 64/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Case study of GPT-5 assisting in immunology research.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Show HN: Neural Particle Automata</title>
@@ -133,7 +133,15 @@
       <guid isPermaLink="true">https://selforg-npa.github.io/</guid>
       <pubDate>Tue, 23 Jun 2026 08:31:48 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> Hacker News<br/><br/>Neural Particle Automata project demonstrates self-organizing AI systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> Hacker News<br/><br/>Neural Particle Automata research project demonstration.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>The Low-Tech AI of Elden Ring</title>
+      <link>https://nega.tv/posts/low-tech-ai-of-elden-ring.html</link>
+      <guid isPermaLink="true">https://nega.tv/posts/low-tech-ai-of-elden-ring.html</guid>
+      <pubDate>Tue, 23 Jun 2026 11:40:50 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 58/100<br/><b>Source:</b> Hacker News<br/><br/>Analysis of procedural AI techniques used in Elden Ring video game.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>datasette 1.0a35</title>
