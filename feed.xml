@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jun 2026 20:41:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 21:33:59 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>OpenAI and Broadcom unveil LLM-optimized inference chip</title>
@@ -13,7 +13,7 @@
       <guid isPermaLink="true">https://openai.com/index/openai-broadcom-jalapeno-inference-chip</guid>
       <pubDate>Wed, 24 Jun 2026 06:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 90/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI and Broadcom jointly unveil specialized inference chip optimized for LLM deployment.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 90/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI and Broadcom announce jointly developed LLM-optimized inference chip for improved performance.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>[R] Compiling Agentic Workflows into LLM Weights: Near-Frontier Quality at Two Orders of Magnitude Less Cost</title>
@@ -21,7 +21,7 @@
       <guid isPermaLink="true">https://arxiv.org/abs/2605.22502</guid>
       <pubDate>Thu, 25 Jun 2026 17:31:49 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 88/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research demonstrates compiling agentic workflows into LLM weights achieves near-frontier quality at significantly reduced computational cost.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 88/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research on compiling agentic workflows into LLM weights achieving frontier quality at significantly reduced computational cost.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Introducing computer use in Gemini 3.5 Flash</title>
@@ -32,60 +32,12 @@
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 88/100<br/><b>Source:</b> Google DeepMind<br/><br/>Google DeepMind introduces computer use capability in Gemini 3.5 Flash model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents</title>
-      <link>https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/</guid>
-      <pubDate>Thu, 25 Jun 2026 20:19:25 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Patronus AI secures $50M funding to build simulation environments for stress-testing AI agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
       <title>General Intuition’s $2.3B bet that video games can train AI agents for the real world</title>
       <link>https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/</link>
       <guid isPermaLink="true">https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/</guid>
       <pubDate>Thu, 25 Jun 2026 16:55:00 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> TechCrunch AI<br/><br/>General Intuition receives $2.3B investment for using video games as training environment for real-world AI agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>How agents are transforming work</title>
-      <link>https://openai.com/index/how-agents-are-transforming-work</link>
-      <guid isPermaLink="true">https://openai.com/index/how-agents-are-transforming-work</guid>
-      <pubDate>Thu, 25 Jun 2026 02:00:00 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI publishes perspective on how AI agents are transforming work practices.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Kuma: compiling PyTorch models into self-contained WebGPU executables [P]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1ufl9tu/kuma_compiling_pytorch_models_into_selfcontained/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1ufl9tu/kuma_compiling_pytorch_models_into_selfcontained/</guid>
-      <pubDate>Thu, 25 Jun 2026 20:17:17 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Kuma project enables compilation of PyTorch models into self-contained WebGPU executables.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x</title>
-      <link>https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/</guid>
-      <pubDate>Thu, 25 Jun 2026 16:48:11 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Former Databricks AI chief announces startup claiming 1000x reduction in AI energy consumption.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion</title>
-      <link>https://github.com/inkeep/open-knowledge</link>
-      <guid isPermaLink="true">https://github.com/inkeep/open-knowledge</guid>
-      <pubDate>Thu, 25 Jun 2026 16:04:46 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>Open-source AI-first knowledge management tool presented as alternative to Obsidian and Notion.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>[AINews] Claude Tag: Multiplayer, Proactive, Persistent Agents in Slack</title>
-      <link>https://www.latent.space/p/ainews-claude-tag-multiplayer-proactive</link>
-      <guid isPermaLink="true">https://www.latent.space/p/ainews-claude-tag-multiplayer-proactive</guid>
-      <pubDate>Wed, 24 Jun 2026 07:14:26 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> Latent Space<br/><br/>Anthropic releases Claude Tag for multiplayer persistent agent deployment in Slack.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> TechCrunch AI<br/><br/>General Intuition secures $2.3B funding to train AI agents using video game environments.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Notion killing Skiff-influenced email app since most users use AI agents instead</title>
@@ -93,15 +45,23 @@
       <guid isPermaLink="true">https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/</guid>
       <pubDate>Thu, 25 Jun 2026 19:04:57 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> Ars Technica<br/><br/>Notion discontinues email application product citing shift to AI agent usage by users.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Ars Technica<br/><br/>Notion discontinues email product due to user migration toward AI agent-based workflows.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Adobe acquires image and video enhancement tool maker Topaz Labs</title>
-      <link>https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/</guid>
-      <pubDate>Thu, 25 Jun 2026 13:30:00 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Adobe acquires Topaz Labs, maker of AI-powered image and video enhancement tools.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents</title>
+      <link>https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/</guid>
+      <pubDate>Thu, 25 Jun 2026 20:19:25 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Patronus AI raises $50M to build simulated environments for stress-testing AI agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>How agents are transforming work</title>
+      <link>https://openai.com/index/how-agents-are-transforming-work</link>
+      <guid isPermaLink="true">https://openai.com/index/how-agents-are-transforming-work</guid>
+      <pubDate>Thu, 25 Jun 2026 02:00:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI publishes perspective on how AI agents are transforming workplace productivity.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT</title>
@@ -109,7 +69,39 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/</guid>
       <pubDate>Thu, 25 Jun 2026 17:38:27 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 54/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Market analysis reporting Claude gaining paid user share from ChatGPT.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 72/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic&apos;s Claude gains market share in paid consumer segment from OpenAI&apos;s ChatGPT.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>[AINews] Claude Tag: Multiplayer, Proactive, Persistent Agents in Slack</title>
+      <link>https://www.latent.space/p/ainews-claude-tag-multiplayer-proactive</link>
+      <guid isPermaLink="true">https://www.latent.space/p/ainews-claude-tag-multiplayer-proactive</guid>
+      <pubDate>Wed, 24 Jun 2026 07:14:26 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 72/100<br/><b>Source:</b> Latent Space<br/><br/>Anthropic announces Claude Tag for multiplayer persistent agents in Slack.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion</title>
+      <link>https://github.com/inkeep/open-knowledge</link>
+      <guid isPermaLink="true">https://github.com/inkeep/open-knowledge</guid>
+      <pubDate>Thu, 25 Jun 2026 16:04:46 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Open-source AI-first knowledge management tool launched as alternative to Obsidian/Notion.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Kuma: compiling PyTorch models into self-contained WebGPU executables [P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1ufl9tu/kuma_compiling_pytorch_models_into_selfcontained/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1ufl9tu/kuma_compiling_pytorch_models_into_selfcontained/</guid>
+      <pubDate>Thu, 25 Jun 2026 20:17:17 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Kuma project compiles PyTorch models into self-contained WebGPU executables.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>NVIDIA has released Nemotron-TwoTower-30B-A3B-Base-BF16, an unusual diffusion-based language model built from the Nemotron 3 Nano 30B-A3B backbone.</title>
+      <link>https://huggingface.co/nvidia/Nemotron-TwoTower-30B-A3B-Base-BF16</link>
+      <guid isPermaLink="true">https://huggingface.co/nvidia/Nemotron-TwoTower-30B-A3B-Base-BF16</guid>
+      <pubDate>Thu, 25 Jun 2026 08:34:20 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>NVIDIA releases Nemotron-TwoTower-30B, a diffusion-based language model variant.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Ford AI hiccups push carmaker to rehire ‘gray beard’ inspectors</title>
@@ -117,23 +109,31 @@
       <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short</guid>
       <pubDate>Thu, 25 Jun 2026 14:58:50 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 52/100<br/><b>Source:</b> Hacker News<br/><br/>Ford rehires human quality inspectors after AI inspection systems underperformed.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>Ford rehires human inspectors after quality control AI system underperformance.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Show HN: Bible as RAG Database</title>
-      <link>https://www.crosscanon.com/</link>
-      <guid isPermaLink="true">https://www.crosscanon.com/</guid>
-      <pubDate>Thu, 25 Jun 2026 01:42:55 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 52/100<br/><b>Source:</b> Hacker News<br/><br/>Bible dataset formatted as RAG database application.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>datasette 1.0a35</title>
-      <link>https://simonwillison.net/2026/Jun/23/datasette/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/23/datasette/#atom-everything</guid>
-      <pubDate>Tue, 23 Jun 2026 21:34:37 +0000</pubDate>
+      <title>AI researchers continue to leave Google for its rivals</title>
+      <link>https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/</guid>
+      <pubDate>Wed, 24 Jun 2026 21:42:07 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 50/100<br/><b>Source:</b> Simon Willison<br/><br/>Release: datasette 1.0a35 I&apos;ll write more about this one soon, but it&apos;s a big release. Three highlights from the release notes: New &quot;Create table&quot; interface in the database actions menu, backed by the<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Report on AI researcher departures from Google to competing organizations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>New sampler + verifier *drastically* improves tiny 0.5b model coding performance</title>
+      <link>https://arxiv.org/pdf/2510.03149</link>
+      <guid isPermaLink="true">https://arxiv.org/pdf/2510.03149</guid>
+      <pubDate>Thu, 25 Jun 2026 10:31:04 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> r/LocalLLaMA<br/><br/>New sampling and verification technique improves performance of small language models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Political bias in AI: Where the AI models stand</title>
+      <link>https://trakkr.ai/bias</link>
+      <guid isPermaLink="true">https://trakkr.ai/bias</guid>
+      <pubDate>Thu, 25 Jun 2026 13:08:31 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 54/100<br/><b>Source:</b> Hacker News<br/><br/>Analysis of political bias across AI models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
