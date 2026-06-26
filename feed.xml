@@ -5,23 +5,15 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Jun 2026 16:42:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 17:35:32 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>[R] Compiling Agentic Workflows into LLM Weights: Near-Frontier Quality at Two Orders of Magnitude Less Cost</title>
-      <link>https://arxiv.org/abs/2605.22502</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2605.22502</guid>
-      <pubDate>Thu, 25 Jun 2026 17:31:49 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 88/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research paper on compiling agentic workflows into LLM weights, achieving frontier-quality results at significantly reduced computational cost.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>[AINews] OpenAI reports median internal Codex output tokens grew 56x in Research, 32x in Customer Support, 27x in Engineering, and 13x in Legal since November 2025.</title>
-      <link>https://www.latent.space/p/ainews-openai-reports-median-internal</link>
-      <guid isPermaLink="true">https://www.latent.space/p/ainews-openai-reports-median-internal</guid>
-      <pubDate>Fri, 26 Jun 2026 01:12:30 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Latent Space<br/><br/>OpenAI reports substantial growth in internal Codex token usage across different departments since late 2025.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Previewing GPT‑5.6 Sol: a next-generation model</title>
+      <link>https://openai.com/index/previewing-gpt-5-6-sol/</link>
+      <guid isPermaLink="true">https://openai.com/index/previewing-gpt-5-6-sol/</guid>
+      <pubDate>Fri, 26 Jun 2026 17:06:55 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 94/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI previews GPT-5.6 Sol, a next-generation model with significant technical improvements.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents</title>
@@ -29,7 +21,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/</guid>
       <pubDate>Thu, 25 Jun 2026 20:19:25 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Patronus AI secures $50M funding to develop simulation environments for testing and validating AI agent robustness.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Patronus AI secures $50M funding to develop simulation environments for stress-testing AI agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>General Intuition’s $2.3B bet that video games can train AI agents for the real world</title>
@@ -37,31 +29,15 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/</guid>
       <pubDate>Thu, 25 Jun 2026 16:55:00 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> TechCrunch AI<br/><br/>General Intuition raises $2.3B to explore video game environments as training ground for real-world AI agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> TechCrunch AI<br/><br/>General Intuition raises $2.3B to develop AI agent training using video game environments.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>A debugger for RL reward functions that detects reward hacking during training [P]</title>
-      <link>https://i.redd.it/r5m95bf5cn9h1.gif</link>
-      <guid isPermaLink="true">https://i.redd.it/r5m95bf5cn9h1.gif</guid>
-      <pubDate>Fri, 26 Jun 2026 15:34:28 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research project presenting debugger tool for reinforcement learning that identifies reward hacking during agent training.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Kuma: compiling PyTorch models into self-contained WebGPU executables [P]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1ufl9tu/kuma_compiling_pytorch_models_into_selfcontained/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1ufl9tu/kuma_compiling_pytorch_models_into_selfcontained/</guid>
-      <pubDate>Thu, 25 Jun 2026 20:17:17 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Kuma project enabling compilation of PyTorch models into standalone WebGPU executables for browser deployment.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Notion killing Skiff-influenced email app since most users use AI agents instead</title>
-      <link>https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/</link>
-      <guid isPermaLink="true">https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/</guid>
-      <pubDate>Thu, 25 Jun 2026 19:04:57 +0000</pubDate>
+      <title>[AINews] OpenAI reports median internal Codex output tokens grew 56x in Research, 32x in Customer Support, 27x in Engineering, and 13x in Legal since November 2025.</title>
+      <link>https://www.latent.space/p/ainews-openai-reports-median-internal</link>
+      <guid isPermaLink="true">https://www.latent.space/p/ainews-openai-reports-median-internal</guid>
+      <pubDate>Fri, 26 Jun 2026 01:12:30 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Ars Technica<br/><br/>Notion discontinues email app due to shift in user behavior toward AI agent-based workflows.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Latent Space<br/><br/>OpenAI reports substantial growth in Codex token usage across internal departments since November 2025.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>How agents are transforming work</title>
@@ -69,15 +45,7 @@
       <guid isPermaLink="true">https://openai.com/index/how-agents-are-transforming-work</guid>
       <pubDate>Thu, 25 Jun 2026 02:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI blog post on how AI agents are being adopted in workplace applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT</title>
-      <link>https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/</guid>
-      <pubDate>Thu, 25 Jun 2026 17:38:27 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic&apos;s Claude gaining market share among paying consumers in category previously dominated by ChatGPT.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI publishes analysis of how AI agents are transforming workplace productivity and workflows.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Why current LLM costs are not sustainable</title>
@@ -85,15 +53,15 @@
       <guid isPermaLink="true">https://aditya.patadia.org/p/ai-and-cloud-costs</guid>
       <pubDate>Fri, 26 Jun 2026 07:44:11 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>Analysis examining why current large language model infrastructure costs are economically unsustainable.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Analysis argues current LLM inference costs are economically unsustainable long-term.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line</title>
-      <link>https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true</link>
-      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true</guid>
-      <pubDate>Thu, 25 Jun 2026 17:38:44 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>Apple plans to skip M6 high-end chips and pivot M-series lineup toward AI-focused architectural improvements.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Notion killing Skiff-influenced email app since most users use AI agents instead</title>
+      <link>https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/</link>
+      <guid isPermaLink="true">https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/</guid>
+      <pubDate>Thu, 25 Jun 2026 19:04:57 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Ars Technica<br/><br/>Notion discontinues email app as user adoption shifts toward AI agent-based workflows.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>The White House is asking OpenAI to slow roll the release of its new model</title>
@@ -101,23 +69,63 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/</guid>
       <pubDate>Fri, 26 Jun 2026 12:02:00 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 62/100<br/><b>Source:</b> Hacker News<br/><br/>White House reportedly requests OpenAI to delay release of new model citing safety concerns.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> Hacker News<br/><br/>White House requests OpenAI delay release of new model citing safety concerns.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Showcase: geolocating a dashcam video without GPS, only from the footage [P]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1ufx8nx/showcase_geolocating_a_dashcam_video_without_gps/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1ufx8nx/showcase_geolocating_a_dashcam_video_without_gps/</guid>
-      <pubDate>Fri, 26 Jun 2026 05:03:04 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Showcase of computer vision technique for geolocating dashcam footage using visual features without GPS data.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>A debugger for RL reward functions that detects reward hacking during training [P]</title>
+      <link>https://i.redd.it/r5m95bf5cn9h1.gif</link>
+      <guid isPermaLink="true">https://i.redd.it/r5m95bf5cn9h1.gif</guid>
+      <pubDate>Fri, 26 Jun 2026 15:34:28 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research project presents debugger tool for detecting reward hacking in reinforcement learning training.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>OpenAI leans toward waiting until next year for IPO</title>
-      <link>https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html</guid>
-      <pubDate>Thu, 25 Jun 2026 20:36:05 +0000</pubDate>
+      <title>Kuma: compiling PyTorch models into self-contained WebGPU executables [P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1ufl9tu/kuma_compiling_pytorch_models_into_selfcontained/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1ufl9tu/kuma_compiling_pytorch_models_into_selfcontained/</guid>
+      <pubDate>Thu, 25 Jun 2026 20:17:17 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 58/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI reportedly prefers to delay IPO until next year rather than pursue immediate public offering.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Kuma project enables compilation of PyTorch models into self-contained WebGPU executables.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>OpenAI to Stagger Release of GPT 5.6 at Request of U.S. Government</title>
+      <link>https://velo.xyz/news/1908</link>
+      <guid isPermaLink="true">https://velo.xyz/news/1908</guid>
+      <pubDate>Thu, 25 Jun 2026 20:28:25 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI agrees to stagger GPT 5.6 release at U.S. Government request.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT</title>
+      <link>https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/</guid>
+      <pubDate>Thu, 25 Jun 2026 17:38:27 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic&apos;s Claude gains market share among paid LLM users previously dominated by ChatGPT.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line</title>
+      <link>https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true</link>
+      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true</guid>
+      <pubDate>Thu, 25 Jun 2026 17:38:44 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>Apple shifts chip roadmap to focus on AI-optimized M7 processors instead of high-end M6 line.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Polygraph: A Meta-Harness for Maximum Agent Autonomy</title>
+      <link>https://nx.dev/blog/announcing-polygraph</link>
+      <guid isPermaLink="true">https://nx.dev/blog/announcing-polygraph</guid>
+      <pubDate>Fri, 26 Jun 2026 17:01:13 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> Hacker News<br/><br/>Nx announces Polygraph, a framework for enabling maximum agent autonomy in systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>OpenAI will delay GPT-5.6 after Trump administration request</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request</guid>
+      <pubDate>Thu, 25 Jun 2026 22:49:33 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI delays GPT-5.6 release following Trump administration request.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>AI researchers continue to leave Google for its rivals</title>
@@ -125,7 +133,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/</guid>
       <pubDate>Wed, 24 Jun 2026 21:42:07 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 56/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Report on ongoing trend of AI researchers departing Google for competing AI companies.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 56/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Article reports continued departure of AI researchers from Google to competing companies.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Adobe acquires image and video enhancement tool maker Topaz Labs</title>
