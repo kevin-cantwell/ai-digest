@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Jun 2026 12:30:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 13:33:29 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Previewing GPT‑5.6 Sol: a next-generation model</title>
@@ -16,12 +16,12 @@
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 94/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI previews GPT-5.6 Sol, a next-generation model with significant capability improvements.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]</title>
+      <title>DSpark: Speculative decoding accelerates LLM inference [pdf]</title>
       <link>https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf</link>
       <guid isPermaLink="true">https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf</guid>
       <pubDate>Sat, 27 Jun 2026 09:18:52 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>DeepSeek open-sources inference optimizations achieving 60-85% faster generation speeds.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>DeepSeek&apos;s DSpark introduces speculative decoding technique to accelerate LLM inference performance.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>[AINews] OpenAI reports median internal Codex output tokens grew 56x in Research, 32x in Customer Support, 27x in Engineering, and 13x in Legal since November 2025.</title>
@@ -29,31 +29,7 @@
       <guid isPermaLink="true">https://www.latent.space/p/ainews-openai-reports-median-internal</guid>
       <pubDate>Fri, 26 Jun 2026 01:12:30 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Latent Space<br/><br/>OpenAI reports dramatic internal usage growth for Codex across multiple departments.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>The White House is asking OpenAI to slow roll the release of its new model over safety concerns</title>
-      <link>https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/</guid>
-      <pubDate>Thu, 25 Jun 2026 23:34:39 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 76/100<br/><b>Source:</b> TechCrunch AI<br/><br/>White House requests OpenAI slow-roll GPT-5.6 release citing safety concerns.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents</title>
-      <link>https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/</guid>
-      <pubDate>Thu, 25 Jun 2026 20:19:25 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Patronus AI secures $50M funding to build simulated environments for AI agent stress-testing.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>General Intuition’s $2.3B bet that video games can train AI agents for the real world</title>
-      <link>https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/</guid>
-      <pubDate>Thu, 25 Jun 2026 16:55:00 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> TechCrunch AI<br/><br/>General Intuition raises $2.3B to develop AI agents trained via video game environments.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Latent Space<br/><br/>OpenAI reports substantial increases in internal Codex token generation across multiple departments.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations</title>
@@ -61,7 +37,31 @@
       <guid isPermaLink="true">https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies</guid>
       <pubDate>Fri, 26 Jun 2026 22:48:28 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>U.S. government approves Anthropic&apos;s Mythos AI release to selected trusted organizations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>U.S. government approves Anthropic&apos;s Mythos AI release to select trusted organizations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>The White House is asking OpenAI to slow roll the release of its new model over safety concerns</title>
+      <link>https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/</guid>
+      <pubDate>Thu, 25 Jun 2026 23:34:39 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 76/100<br/><b>Source:</b> TechCrunch AI<br/><br/>White House requests OpenAI slow down GPT-5.6 release due to safety concerns.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents</title>
+      <link>https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/</guid>
+      <pubDate>Thu, 25 Jun 2026 20:19:25 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Patronus AI raises $50M to develop digital simulation environments for AI agent stress-testing.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>General Intuition’s $2.3B bet that video games can train AI agents for the real world</title>
+      <link>https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/</guid>
+      <pubDate>Thu, 25 Jun 2026 16:55:00 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> TechCrunch AI<br/><br/>General Intuition secures $2.3B investment to leverage video games for training real-world AI agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Show HN: Smart model routing directly in Claude, Codex and Cursor</title>
@@ -69,39 +69,7 @@
       <guid isPermaLink="true">https://github.com/workweave/router</guid>
       <pubDate>Fri, 26 Jun 2026 16:40:11 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Developer tool for smart model routing across Claude, Codex, and Cursor.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>U.S. government will decide who gets to use GPT-5.6</title>
-      <link>https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/</link>
-      <guid isPermaLink="true">https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/</guid>
-      <pubDate>Fri, 26 Jun 2026 18:23:14 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> Hacker News<br/><br/>U.S. government will vet users for access to OpenAI&apos;s GPT-5.6 model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>A debugger for RL reward functions that detects reward hacking during training [P]</title>
-      <link>https://i.redd.it/r5m95bf5cn9h1.gif</link>
-      <guid isPermaLink="true">https://i.redd.it/r5m95bf5cn9h1.gif</guid>
-      <pubDate>Fri, 26 Jun 2026 15:34:28 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Researcher presents debugger tool for detecting reward hacking in reinforcement learning training.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)</title>
-      <link>https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/</link>
-      <guid isPermaLink="true">https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/</guid>
-      <pubDate>Fri, 26 Jun 2026 17:43:22 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Analysis of major tech companies building proprietary AI chips to reduce Nvidia dependence.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm</title>
-      <link>https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/</guid>
-      <pubDate>Fri, 26 Jun 2026 18:32:14 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI restricts GPT-5.6 rollout following government request, questions sustainability of restrictions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>GitHub project demonstrates smart model routing integrated into Claude, Codex, and Cursor.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Notion killing Skiff-influenced email app since most users use AI agents instead</title>
@@ -109,15 +77,31 @@
       <guid isPermaLink="true">https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/</guid>
       <pubDate>Thu, 25 Jun 2026 19:04:57 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> Ars Technica<br/><br/>Notion discontinues email app as user adoption shifts toward AI agent alternatives.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Ars Technica<br/><br/>Notion discontinues email app as users shift to AI agent-based workflows.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>AI in mathematics is forcing big questions</title>
-      <link>https://spectrum.ieee.org/ai-in-mathematics</link>
-      <guid isPermaLink="true">https://spectrum.ieee.org/ai-in-mathematics</guid>
-      <pubDate>Fri, 26 Jun 2026 22:36:51 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> Hacker News<br/><br/>IEEE explores implications of AI advances in mathematical research and discovery.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>U.S. government will decide who gets to use GPT-5.6</title>
+      <link>https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/</link>
+      <guid isPermaLink="true">https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/</guid>
+      <pubDate>Fri, 26 Jun 2026 18:23:14 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> Hacker News<br/><br/>U.S. government will vet users before granting access to GPT-5.6.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>A debugger for RL reward functions that detects reward hacking during training [P]</title>
+      <link>https://i.redd.it/r5m95bf5cn9h1.gif</link>
+      <guid isPermaLink="true">https://i.redd.it/r5m95bf5cn9h1.gif</guid>
+      <pubDate>Fri, 26 Jun 2026 15:34:28 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Researcher presents debugger tool for detecting reward hacking in RL training functions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on</title>
+      <link>https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/</guid>
+      <pubDate>Sat, 27 Jun 2026 12:00:00 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Asian AI startups release models comparable to Anthropic&apos;s Mythos amid export restrictions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies</title>
@@ -125,7 +109,15 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/</guid>
       <pubDate>Sat, 27 Jun 2026 01:01:37 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Trump administration expands Anthropic Mythos AI access to 100+ U.S. companies and agencies.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Trump administration expands access to Anthropic&apos;s Mythos AI across 100+ U.S. companies and agencies.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)</title>
+      <link>https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/</link>
+      <guid isPermaLink="true">https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/</guid>
+      <pubDate>Fri, 26 Jun 2026 17:43:22 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Analysis of major AI companies developing custom chips to reduce Nvidia dependence.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>OpenAI’s Jalapeño chip is Big Tech’s spiciest move away from Nvidia</title>
@@ -133,15 +125,23 @@
       <guid isPermaLink="true">https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/</guid>
       <pubDate>Fri, 26 Jun 2026 14:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI unveils Jalapeño custom chip as strategic move to reduce Nvidia reliance.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI&apos;s Jalapeño custom chip represents significant industry shift away from Nvidia reliance.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT</title>
-      <link>https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/</guid>
-      <pubDate>Thu, 25 Jun 2026 17:38:27 +0000</pubDate>
+      <title>OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm</title>
+      <link>https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/</guid>
+      <pubDate>Fri, 26 Jun 2026 18:32:14 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic&apos;s Claude gains market share in paid consumer AI services.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI limits GPT-5.6 rollout following government request while opposing ongoing restrictions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>AI in mathematics is forcing big questions</title>
+      <link>https://spectrum.ieee.org/ai-in-mathematics</link>
+      <guid isPermaLink="true">https://spectrum.ieee.org/ai-in-mathematics</guid>
+      <pubDate>Fri, 26 Jun 2026 22:36:51 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> Hacker News<br/><br/>Article examines fundamental implications of AI&apos;s growing role in mathematical research and discovery.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x</title>
@@ -149,7 +149,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/</guid>
       <pubDate>Thu, 25 Jun 2026 16:48:11 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Former Databricks AI chief launches effort to reduce AI computational costs by 1000x.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Former Databricks AI chief proposes approach to reduce AI compute power consumption by 1000x.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Polygraph: A Meta-Harness for Maximum Agent Autonomy</title>
@@ -157,15 +157,15 @@
       <guid isPermaLink="true">https://nx.dev/blog/announcing-polygraph</guid>
       <pubDate>Fri, 26 Jun 2026 17:01:13 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 50/100<br/><b>Source:</b> Hacker News<br/><br/>Meta releases Polygraph framework for enhanced agent autonomy.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> Hacker News<br/><br/>Meta announces Polygraph, a framework for maximizing agent autonomy.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Adobe acquires image and video enhancement tool maker Topaz Labs</title>
-      <link>https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/</guid>
-      <pubDate>Thu, 25 Jun 2026 13:30:00 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 50/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Adobe said that it will integrate Topaz Labs&apos; tools across its apps.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>datasette-export-database 0.3a2</title>
+      <link>https://simonwillison.net/2026/Jun/25/datasette-export-database/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/25/datasette-export-database/#atom-everything</guid>
+      <pubDate>Thu, 25 Jun 2026 17:21:09 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 50/100<br/><b>Source:</b> Simon Willison<br/><br/>Release: datasette-export-database 0.3a2 An embarrassingly tiny release. The pyproject.toml had pinned to datasette==1.0a27, inadvertently making this plugin incompatible with all other Datasette vers<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
