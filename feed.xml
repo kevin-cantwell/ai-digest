@@ -5,55 +5,23 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Jun 2026 13:33:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 14:35:49 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on</title>
-      <link>https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/</guid>
-      <pubDate>Sat, 27 Jun 2026 12:00:00 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 74/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Asian AI startups launching competitive models in response to Anthropic export restrictions, notable market development.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Apple Neural Engine: Architecture, Programming, and Performance</title>
+      <link>https://arxiv.org/abs/2606.22283</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2606.22283</guid>
+      <pubDate>Sat, 27 Jun 2026 23:30:14 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 80/100<br/><b>Source:</b> Hacker News<br/><br/>Academic paper detailing the architecture, programming model, and performance characteristics of Apple&apos;s Neural Engine.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies</title>
-      <link>https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/</guid>
-      <pubDate>Sat, 27 Jun 2026 01:01:37 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 74/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Government release of Anthropic Mythos model to 100+ US companies and agencies, significant policy and deployment development.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)</title>
-      <link>https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/</link>
-      <guid isPermaLink="true">https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/</guid>
-      <pubDate>Fri, 26 Jun 2026 17:43:22 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Analysis of major tech companies building proprietary AI chips to reduce Nvidia dependence, significant industry trend.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Wayfinder Router: deterministic routing of queries between local and hosted LLM</title>
-      <link>https://github.com/itsthelore/wayfinder-router</link>
-      <guid isPermaLink="true">https://github.com/itsthelore/wayfinder-router</guid>
-      <pubDate>Sun, 28 Jun 2026 04:31:18 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>Open-source routing tool for directing queries between local and hosted LLMs, useful infrastructure but incremental.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm</title>
-      <link>https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/</guid>
-      <pubDate>Fri, 26 Jun 2026 18:32:14 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI restricts GPT-5.6 rollout following government request, significant policy and competitive news.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>MathFormer: Testing whether symbolic math is pattern matching or reasoning [D]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1uhatw8/mathformer_testing_whether_symbolic_math_is/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1uhatw8/mathformer_testing_whether_symbolic_math_is/</guid>
-      <pubDate>Sat, 27 Jun 2026 18:57:56 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research examining whether symbolic math capabilities in transformers represent pattern matching or reasoning, meaningful technical inquiry.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>A way to exclude sensitive files issue still open for OpenAI Codex</title>
+      <link>https://github.com/openai/codex/issues/2847</link>
+      <guid isPermaLink="true">https://github.com/openai/codex/issues/2847</guid>
+      <pubDate>Sun, 28 Jun 2026 12:27:33 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>GitHub issue tracking an open security feature request for OpenAI Codex to exclude sensitive files.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Hiding messages in the least significant mantissa bits of fine-tuned ONNX model weights [P]</title>
@@ -61,15 +29,23 @@
       <guid isPermaLink="true">https://github.com/X-3306/ONNXStego</guid>
       <pubDate>Sat, 27 Jun 2026 15:45:36 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Technical exploration of steganography techniques using model weight precision, representing niche research interest.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research on steganography techniques for embedding hidden messages in neural network model weights.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>OpenAI’s Jalapeño chip is Big Tech’s spiciest move away from Nvidia</title>
-      <link>https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/</link>
-      <guid isPermaLink="true">https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/</guid>
-      <pubDate>Fri, 26 Jun 2026 14:00:00 +0000</pubDate>
+      <title>Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)</title>
+      <link>https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/</link>
+      <guid isPermaLink="true">https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/</guid>
+      <pubDate>Fri, 26 Jun 2026 17:43:22 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Coverage of OpenAI&apos;s custom chip development as strategic move against Nvidia dominance, significant technical and business news.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Analysis of major AI and tech companies developing proprietary chips to reduce Nvidia dependency.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Wayfinder Router: deterministic routing of queries between local and hosted LLM</title>
+      <link>https://github.com/itsthelore/wayfinder-router</link>
+      <guid isPermaLink="true">https://github.com/itsthelore/wayfinder-router</guid>
+      <pubDate>Sun, 28 Jun 2026 04:31:18 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>Open-source tool for routing queries between local and cloud-hosted LLM instances.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>NagaTranslate: Building a translation and voice pipeline for low-resource Nagaland creoles (Whisper, VITS, LLMs) [P]</title>
@@ -77,15 +53,23 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1uhlvjv/nagatranslate_building_a_translation_and_voice/</guid>
       <pubDate>Sun, 28 Jun 2026 03:05:48 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Project building translation pipeline for low-resource Nagaland languages using open-source tools, worthy application but limited technical novelty.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Project combining Whisper, VITS, and LLMs to build translation and voice processing for low-resource Nagaland creoles.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>[AINews] OpenAI GPT-5.6 Sol / Terra / Luna — restricted to trusted partners</title>
-      <link>https://www.latent.space/p/ainews-openai-gpt-56-sol-terra-luna</link>
-      <guid isPermaLink="true">https://www.latent.space/p/ainews-openai-gpt-56-sol-terra-luna</guid>
-      <pubDate>Sat, 27 Jun 2026 05:23:22 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> Latent Space<br/><br/>OpenAI GPT-5.6 variants announced with restricted partner access, overlapping with index 10 but less substantive.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>MathFormer: Testing whether symbolic math is pattern matching or reasoning [D]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1uhatw8/mathformer_testing_whether_symbolic_math_is/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1uhatw8/mathformer_testing_whether_symbolic_math_is/</guid>
+      <pubDate>Sat, 27 Jun 2026 18:57:56 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research investigating whether transformer performance on symbolic math reflects genuine reasoning or pattern matching.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>I shrank a transformer until every number fitted on the screen and made the weights editable [R]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1uhw7fu/i_shrank_a_transformer_until_every_number_fitted/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1uhw7fu/i_shrank_a_transformer_until_every_number_fitted/</guid>
+      <pubDate>Sun, 28 Jun 2026 12:35:42 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Personal project demonstrating a minimalist transformer implementation with editable weights for visualization.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Ford hired AI and sacked humans. It backfired badly</title>
@@ -93,7 +77,7 @@
       <guid isPermaLink="true">https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html</guid>
       <pubDate>Sun, 28 Jun 2026 03:09:13 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 58/100<br/><b>Source:</b> Hacker News<br/><br/>Corporate automation case study where Ford&apos;s AI implementation had negative outcomes, illustrating real-world AI deployment challenges.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 58/100<br/><b>Source:</b> Hacker News<br/><br/>News article about Ford&apos;s experience with workforce automation and AI implementation challenges.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Built an LLM training framework that actually runs on older GPUs without crashing [P]</title>
@@ -101,7 +85,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1uh7ib3/built_an_llm_training_framework_that_actually/</guid>
       <pubDate>Sat, 27 Jun 2026 16:44:14 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 56/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Personal project building LLM training framework for older GPUs, niche utility but not major development.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 56/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Personal project describing an LLM training framework optimized for older GPU hardware.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Do we still need to study algorithms now that AI writes most of our code? [D]</title>
@@ -109,7 +93,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1uhdydj/do_we_still_need_to_study_algorithms_now_that_ai/</guid>
       <pubDate>Sat, 27 Jun 2026 21:05:53 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 32/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Discussion question about algorithm education in age of AI code generation, opinion-based without substantive news.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 32/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Discussion thread questioning the relevance of algorithm study in an era of AI-assisted coding.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
