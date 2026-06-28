@@ -5,15 +5,23 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Jun 2026 17:27:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 18:27:00 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>I used Claude Code to get a second opinion on my MRI</title>
+      <link>https://antoine.fi/mri-analysis-using-claude-code-opus</link>
+      <guid isPermaLink="true">https://antoine.fi/mri-analysis-using-claude-code-opus</guid>
+      <pubDate>Sun, 28 Jun 2026 16:35:19 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 100/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
     <item>
       <title>Google limits Meta&apos;s use of its Gemini AI models</title>
       <link>https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html</link>
       <guid isPermaLink="true">https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html</guid>
       <pubDate>Sun, 28 Jun 2026 13:30:06 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 80/100<br/><b>Source:</b> Hacker News<br/><br/>Google restricts Meta&apos;s access to Gemini AI models, reflecting competitive and regulatory pressures.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 95/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Apple Neural Engine: Architecture, Programming, and Performance</title>
@@ -21,31 +29,7 @@
       <guid isPermaLink="true">https://arxiv.org/abs/2606.22283</guid>
       <pubDate>Sat, 27 Jun 2026 23:30:14 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 80/100<br/><b>Source:</b> Hacker News<br/><br/>Academic research paper on Apple Neural Engine architecture and performance characteristics.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on</title>
-      <link>https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/</guid>
-      <pubDate>Sat, 27 Jun 2026 12:00:00 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 74/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Asian AI startups launching competitive models in response to US export restrictions on advanced AI.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>A way to exclude sensitive files issue still open for OpenAI Codex</title>
-      <link>https://github.com/openai/codex/issues/2847</link>
-      <guid isPermaLink="true">https://github.com/openai/codex/issues/2847</guid>
-      <pubDate>Sun, 28 Jun 2026 12:27:33 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>GitHub issue tracking an open security feature request for OpenAI Codex to exclude sensitive files.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Wayfinder Router: deterministic routing of queries between local and hosted LLM</title>
-      <link>https://github.com/itsthelore/wayfinder-router</link>
-      <guid isPermaLink="true">https://github.com/itsthelore/wayfinder-router</guid>
-      <pubDate>Sun, 28 Jun 2026 04:31:18 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Open-source router project for intelligently routing queries between local and hosted LLMs.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> Hacker News<br/><br/>Academic paper analyzing the architecture, programming model, and performance characteristics of Apple&apos;s Neural Engine.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>I shrank a transformer until every number fitted on the screen and made the weights editable [R]</title>
@@ -53,47 +37,55 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1uhw7fu/i_shrank_a_transformer_until_every_number_fitted/</guid>
       <pubDate>Sun, 28 Jun 2026 12:35:42 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Technical project creating an interactive, visualizable miniature transformer model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>A project demonstrating a minimalist transformer implementation with all weights displayed and editable on screen.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies</title>
-      <link>https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/</guid>
-      <pubDate>Sat, 27 Jun 2026 01:01:37 +0000</pubDate>
+      <title>Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on</title>
+      <link>https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/</guid>
+      <pubDate>Sat, 27 Jun 2026 12:00:00 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Trump administration releases Anthropic Mythos model for use by US companies and agencies.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 74/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Asian AI startups are launching competitive LLM models in response to Anthropic&apos;s export restrictions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)</title>
-      <link>https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/</link>
-      <guid isPermaLink="true">https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/</guid>
-      <pubDate>Fri, 26 Jun 2026 17:43:22 +0000</pubDate>
+      <title>A way to exclude sensitive files issue still open for OpenAI Codex</title>
+      <link>https://github.com/openai/codex/issues/2847</link>
+      <guid isPermaLink="true">https://github.com/openai/codex/issues/2847</guid>
+      <pubDate>Sun, 28 Jun 2026 12:27:33 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>An open issue on OpenAI&apos;s Codex repository regarding the ability to exclude sensitive files from model access.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Wayfinder Router: deterministic routing of queries between local and hosted LLM</title>
+      <link>https://github.com/itsthelore/wayfinder-router</link>
+      <guid isPermaLink="true">https://github.com/itsthelore/wayfinder-router</guid>
+      <pubDate>Sun, 28 Jun 2026 04:31:18 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Wayfinder Router is a new tool for deterministically routing queries between local and hosted LLM instances.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Ford hired AI and sacked humans. It backfired badly</title>
+      <link>https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html</link>
+      <guid isPermaLink="true">https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html</guid>
+      <pubDate>Sun, 28 Jun 2026 03:09:13 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Analysis of major AI companies and tech firms building custom semiconductor chips to compete with Nvidia.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm</title>
-      <link>https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/</guid>
-      <pubDate>Fri, 26 Jun 2026 18:32:14 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI restricts GPT-5.6 rollout following government request and comments on regulatory trends.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>NagaTranslate: Building a translation and voice pipeline for low-resource Nagaland creoles (Whisper, VITS, LLMs) [P]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1uhlvjv/nagatranslate_building_a_translation_and_voice/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1uhlvjv/nagatranslate_building_a_translation_and_voice/</guid>
-      <pubDate>Sun, 28 Jun 2026 03:05:48 +0000</pubDate>
+      <title>The best response to AI slop and online noise is from Robin Williams</title>
+      <link>https://jayacunzo.com/blog/your-move-chief</link>
+      <guid isPermaLink="true">https://jayacunzo.com/blog/your-move-chief</guid>
+      <pubDate>Sun, 28 Jun 2026 01:28:10 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research project applying Whisper, VITS, and LLMs to build translation and voice pipeline for low-resource languages.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>[AINews] OpenAI GPT-5.6 Sol / Terra / Luna — restricted to trusted partners</title>
-      <link>https://www.latent.space/p/ainews-openai-gpt-56-sol-terra-luna</link>
-      <guid isPermaLink="true">https://www.latent.space/p/ainews-openai-gpt-56-sol-terra-luna</guid>
-      <pubDate>Sat, 27 Jun 2026 05:23:22 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> Latent Space<br/><br/>News coverage of OpenAI GPT-5.6 variants restricted to trusted partners.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Everyone feared AI taking over; the real danger is AI serving just the few</title>
+      <link>https://news.ycombinator.com/item?id=48701615</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48701615</guid>
+      <pubDate>Sat, 27 Jun 2026 20:48:01 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Evaluating long-term memory limits in stateless LLM chatbots — feedback needed [D]</title>
@@ -101,23 +93,39 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1ui27i1/evaluating_longterm_memory_limits_in_stateless/</guid>
       <pubDate>Sun, 28 Jun 2026 16:48:42 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 58/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research discussion seeking feedback on evaluating memory limitations in stateless LLM chatbots.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>What happened after 2,000 people tried to hack my AI assistant</title>
-      <link>https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/#atom-everything</guid>
-      <pubDate>Fri, 26 Jun 2026 18:33:14 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> Simon Willison<br/><br/>Technical account of security testing results from a public AI assistant hacking challenge.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm</title>
+      <link>https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/</guid>
+      <pubDate>Fri, 26 Jun 2026 18:32:14 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI limits GPT-5.6 rollout following a government request and comments on restrictions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>MathFormer: Testing whether symbolic math is pattern matching or reasoning [D]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1uhatw8/mathformer_testing_whether_symbolic_math_is/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1uhatw8/mathformer_testing_whether_symbolic_math_is/</guid>
-      <pubDate>Sat, 27 Jun 2026 18:57:56 +0000</pubDate>
+      <title>Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies</title>
+      <link>https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/</guid>
+      <pubDate>Sat, 27 Jun 2026 01:01:37 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Report of a Trump administration release of Anthropic&apos;s Mythos model to over 100 US companies and agencies.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Austria Lobbies EU to Host Anthropic After US Access Curbs</title>
+      <link>https://www.bloomberg.com/news/articles/2026-06-28/austria-lobbies-eu-to-host-anthropic-after-us-access-curbs</link>
+      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-06-28/austria-lobbies-eu-to-host-anthropic-after-us-access-curbs</guid>
+      <pubDate>Sun, 28 Jun 2026 13:34:14 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 50/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research discussion exploring whether symbolic math in AI represents pattern matching or reasoning.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>[AINews] OpenAI GPT-5.6 Sol / Terra / Luna — restricted to trusted partners</title>
+      <link>https://www.latent.space/p/ainews-openai-gpt-56-sol-terra-luna</link>
+      <guid isPermaLink="true">https://www.latent.space/p/ainews-openai-gpt-56-sol-terra-luna</guid>
+      <pubDate>Sat, 27 Jun 2026 05:23:22 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> Latent Space<br/><br/>Report on OpenAI&apos;s GPT-5.6 variants being restricted to trusted partners.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Do we still need to study algorithms now that AI writes most of our code? [D]</title>
@@ -125,7 +133,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1uhdydj/do_we_still_need_to_study_algorithms_now_that_ai/</guid>
       <pubDate>Sat, 27 Jun 2026 21:05:53 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 32/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Discussion question about curriculum relevance in an era of AI-assisted coding.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 50/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
