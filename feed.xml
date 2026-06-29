@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Jun 2026 15:11:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 17:02:18 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Google&apos;s Agentic Peer-Reviewer Handled ~10K Papers at ICML/STOC — Formal Research Paper Now Out [R]</title>
@@ -13,7 +13,15 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1uio9rb/googles_agentic_peerreviewer_handled_10k_papers/</guid>
       <pubDate>Mon, 29 Jun 2026 10:05:50 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 88/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Google develops agentic peer-reviewer system that processed ~10K papers at major ML conferences.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 88/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Google deployed an agentic peer-reviewer system that processed approximately 10,000 papers at major conferences with published formal research.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding</title>
+      <link>https://simonwillison.net/2026/Jun/29/ornith/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/29/ornith/#atom-everything</guid>
+      <pubDate>Mon, 29 Jun 2026 16:17:59 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Simon Willison<br/><br/>Ornith-1.0 introduces self-scaffolding LLMs for agentic coding tasks, a notable but niche technical development.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>GLM 5.2 beats Claude in our benchmarks</title>
@@ -21,15 +29,7 @@
       <guid isPermaLink="true">https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/</guid>
       <pubDate>Sun, 28 Jun 2026 17:50:47 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 74/100<br/><b>Source:</b> Hacker News<br/><br/>GLM 5.2 model claims benchmark performance gains over Claude in specific cybersecurity tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Show HN: NanoEuler – GPT-2 scale model in pure C/CUDA from scratch</title>
-      <link>https://github.com/JustVugg/nanoeuler</link>
-      <guid isPermaLink="true">https://github.com/JustVugg/nanoeuler</guid>
-      <pubDate>Sun, 28 Jun 2026 19:38:14 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 72/100<br/><b>Source:</b> Hacker News<br/><br/>Minimal implementation of GPT-2-scale language model in C/CUDA.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 74/100<br/><b>Source:</b> Hacker News<br/><br/>GLM 5.2 reportedly outperforms Claude on cybersecurity benchmarks, though appears to be vendor benchmarking rather than independent evaluation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Herdr: Agent multiplexer that lives in your terminal</title>
@@ -37,15 +37,15 @@
       <guid isPermaLink="true">https://github.com/ogulcancelik/herdr</guid>
       <pubDate>Mon, 29 Jun 2026 04:27:46 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Open-source tool for managing multiple AI agents in terminal environments.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Herdr is a new agent multiplexer tool for terminal environments, a developer tool with limited broader impact.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs</title>
-      <link>https://github.com/kamaludu/bash4llm/</link>
-      <guid isPermaLink="true">https://github.com/kamaludu/bash4llm/</guid>
-      <pubDate>Sun, 28 Jun 2026 19:43:10 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>Lightweight Bash wrapper library for LLM API integration.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Show HN: NanoEuler – GPT-2 scale model in pure C/CUDA from scratch</title>
+      <link>https://github.com/JustVugg/nanoeuler</link>
+      <guid isPermaLink="true">https://github.com/JustVugg/nanoeuler</guid>
+      <pubDate>Sun, 28 Jun 2026 19:38:14 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>NanoEuler implements a GPT-2 scale model in pure C/CUDA, an educational but incremental implementation project.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>HP Inc. launches Frontier strategic partnership with OpenAI</title>
@@ -53,7 +53,7 @@
       <guid isPermaLink="true">https://openai.com/index/hp-frontier-partnership</guid>
       <pubDate>Sun, 28 Jun 2026 17:00:00 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> OpenAI Blog<br/><br/>HP and OpenAI announce strategic partnership for AI-integrated computing.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> OpenAI Blog<br/><br/>HP and OpenAI announce a strategic partnership called Frontier, a notable corporate collaboration announcement.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>RAGless: Q-Q retrieval with score aggregation for closed-domain FAQ [P]</title>
@@ -61,7 +61,23 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1uilov7/ragless_qq_retrieval_with_score_aggregation_for/</guid>
       <pubDate>Mon, 29 Jun 2026 07:33:17 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 64/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research on retrieval technique for FAQ systems without traditional RAG.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 64/100<br/><b>Source:</b> r/MachineLearning<br/><br/>RAGless proposes a question-question retrieval approach with score aggregation for FAQ systems, a specialized technical contribution.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs</title>
+      <link>https://github.com/kamaludu/bash4llm/</link>
+      <guid isPermaLink="true">https://github.com/kamaludu/bash4llm/</guid>
+      <pubDate>Sun, 28 Jun 2026 19:43:10 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 60/100<br/><b>Source:</b> Hacker News<br/><br/>Bash4LLM+ is a lightweight wrapper for LLM APIs, a modest developer utility.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Ford rehires &apos;gray beard&apos; engineers after AI falls short</title>
+      <link>https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/</guid>
+      <pubDate>Sun, 28 Jun 2026 19:35:57 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 58/100<br/><b>Source:</b> Hacker News<br/><br/>Ford rehires experienced engineers after AI limitations in manufacturing, a cautionary case study on AI limitations in practice.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Lore – Give your coding agent the decisions your team made</title>
@@ -69,7 +85,7 @@
       <guid isPermaLink="true">https://github.com/itsthelore/rac-core</guid>
       <pubDate>Mon, 29 Jun 2026 04:40:35 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 56/100<br/><b>Source:</b> Hacker News<br/><br/>Tool for augmenting coding agents with organizational decision history.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 56/100<br/><b>Source:</b> Hacker News<br/><br/>Lore is a tool to integrate team decision history into coding agents, a niche developer utility.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>EML Trees are Universal Approximators [R]</title>
@@ -77,7 +93,15 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1uipl1t/eml_trees_are_universal_approximators_r/</guid>
       <pubDate>Mon, 29 Jun 2026 11:16:01 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research on universal approximation properties of EML Trees.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research finding that EML Trees are universal approximators, a theoretical machine learning contribution.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>TIDAL cracks down on AI music by cutting off monetization</title>
+      <link>https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/</guid>
+      <pubDate>Mon, 29 Jun 2026 16:29:04 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Tidal implements policy to restrict monetization of AI-generated music on its platform, notable industry policy action.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Mapping Europe’s AI Workforce Opportunity</title>
@@ -85,23 +109,15 @@
       <guid isPermaLink="true">https://openai.com/index/mapping-ai-jobs-transition-eu</guid>
       <pubDate>Mon, 29 Jun 2026 07:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 54/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI report on AI workforce opportunities in Europe.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 54/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI publishes analysis of AI workforce opportunities in Europe, primarily policy and economic commentary rather than technical news.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Evaluating long-term memory limits in stateless LLM chatbots — feedback needed [D]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1ui27i1/evaluating_longterm_memory_limits_in_stateless/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1ui27i1/evaluating_longterm_memory_limits_in_stateless/</guid>
-      <pubDate>Sun, 28 Jun 2026 16:48:42 +0000</pubDate>
+      <title>Adaptive Mixture of Experts Gate (AMG) [R]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1uiwf2u/adaptive_mixture_of_experts_gate_amg_r/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1uiwf2u/adaptive_mixture_of_experts_gate_amg_r/</guid>
+      <pubDate>Mon, 29 Jun 2026 15:54:33 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 52/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research discussion on memory limitations in stateless LLM chatbots.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Robot hand company settles Tesla trade secret suit and announces $11M raise</title>
-      <link>https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/</guid>
-      <pubDate>Mon, 29 Jun 2026 14:00:08 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 50/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Robot hand company settles litigation and announces funding round.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 50/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Adaptive Mixture of Experts Gate (AMG) is a technical contribution to mixture-of-experts architectures.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>I made a quiz that tells you which LLM you align with most, based on personality and values research across 15 models [R]</title>
@@ -109,23 +125,23 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1uin5ad/i_made_a_quiz_that_tells_you_which_llm_you_align/</guid>
       <pubDate>Mon, 29 Jun 2026 09:00:12 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 44/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Personal project creating personality quiz mapping users to LLM models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 44/100<br/><b>Source:</b> r/MachineLearning<br/><br/>A personality quiz matching users to LLMs based on values research is primarily a novelty project with limited substantive value.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Omen AI’s plan to optimize data centers is all wet</title>
-      <link>https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/</guid>
-      <pubDate>Mon, 29 Jun 2026 13:00:00 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 44/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Critical analysis of data center optimization startup technology claims.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Robot hand company settles Tesla trade secret suit and announces $11M raise</title>
+      <link>https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/</guid>
+      <pubDate>Mon, 29 Jun 2026 14:00:08 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 44/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Robot hand company settles lawsuit and raises capital, a business story peripherally related to AI/robotics but focused on corporate news.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Apple Vision Pro exec is reportedly leaving for OpenAI</title>
-      <link>https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/</guid>
-      <pubDate>Sat, 27 Jun 2026 16:45:09 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 44/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Personnel news: Apple Vision Pro executive reportedly joining OpenAI.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>I do historical swordfighting and noticed AI struggles to track it. I’m building an open dataset to help fix this. Does my schema make sense? [P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1uivddx/i_do_historical_swordfighting_and_noticed_ai/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1uivddx/i_do_historical_swordfighting_and_noticed_ai/</guid>
+      <pubDate>Mon, 29 Jun 2026 15:16:53 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 38/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Personal anecdote about historical swordfighting and dataset building is primarily a personal project inquiry rather than newsworthy development.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Anthropic CEO: Open-Source AI is getting dangerous (2023)</title>
@@ -133,7 +149,7 @@
       <guid isPermaLink="true">https://xcancel.com/coinbureau/status/2071330294452666695</guid>
       <pubDate>Mon, 29 Jun 2026 09:11:33 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 38/100<br/><b>Source:</b> Hacker News<br/><br/>Archived statement from Anthropic CEO on open-source AI risks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 32/100<br/><b>Source:</b> Hacker News<br/><br/>Recycled 2023 quote from Anthropic CEO about open-source AI safety, outdated and presented as opinion.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
