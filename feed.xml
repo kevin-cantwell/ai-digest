@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Jun 2026 03:09:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 05:25:50 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Google&apos;s Agentic Peer-Reviewer Handled ~10K Papers at ICML/STOC — Formal Research Paper Now Out [R]</title>
@@ -13,15 +13,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1uio9rb/googles_agentic_peerreviewer_handled_10k_papers/</guid>
       <pubDate>Mon, 29 Jun 2026 10:05:50 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 88/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Google deployed an agentic peer-reviewer to handle approximately 10,000 papers at major conferences, with formal research publication.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding</title>
-      <link>https://simonwillison.net/2026/Jun/29/ornith/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/29/ornith/#atom-everything</guid>
-      <pubDate>Mon, 29 Jun 2026 16:17:59 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Simon Willison<br/><br/>Ornith-1.0 introduces self-scaffolding techniques for LLMs to improve agentic coding capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 88/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Google releases formal research paper on agentic peer-reviewer system that processed ~10K papers at major conferences.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Micro-Agent: Beat Frontier Models with Collaboration Inside Model API</title>
@@ -29,7 +21,15 @@
       <guid isPermaLink="true">https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models</guid>
       <pubDate>Mon, 29 Jun 2026 18:03:26 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 78/100<br/><b>Source:</b> Hacker News<br/><br/>Micro-Agent demonstrates competitive performance against frontier models through collaborative multi-agent approaches within API constraints.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 84/100<br/><b>Source:</b> Hacker News<br/><br/>Micro-Agent framework enables smaller models to compete with frontier models through internal collaboration via API.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding</title>
+      <link>https://simonwillison.net/2026/Jun/29/ornith/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/29/ornith/#atom-everything</guid>
+      <pubDate>Mon, 29 Jun 2026 16:17:59 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Simon Willison<br/><br/>Ornith-1.0 introduces self-scaffolding approach for LLMs to improve agentic coding capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active</title>
@@ -37,23 +37,7 @@
       <guid isPermaLink="true">https://longcat.chat/blog/longcat-2.0/</guid>
       <pubDate>Tue, 30 Jun 2026 00:30:11 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> Hacker News<br/><br/>LongCat-2.0 is a large-scale mixture-of-experts model with 1.6 trillion total parameters and 48 billion active parameters.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Herdr: Agent multiplexer that lives in your terminal</title>
-      <link>https://github.com/ogulcancelik/herdr</link>
-      <guid isPermaLink="true">https://github.com/ogulcancelik/herdr</guid>
-      <pubDate>Mon, 29 Jun 2026 04:27:46 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Herdr is a terminal-based agent multiplexer tool, a minor developer tool release with limited broader impact.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Vibe coding platform Base44 launches own model as AI startups seek defensibility</title>
-      <link>https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/</guid>
-      <pubDate>Tue, 30 Jun 2026 02:28:41 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Base44 coding platform launches its own AI model as startups pursue differentiation and defensibility.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> Hacker News<br/><br/>LongCat-2.0 releases large-scale Mixture-of-Experts model with 1.6T total parameters and 48B active.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>HP Inc. launches Frontier strategic partnership with OpenAI</title>
@@ -61,31 +45,23 @@
       <guid isPermaLink="true">https://openai.com/index/hp-frontier-partnership</guid>
       <pubDate>Sun, 28 Jun 2026 17:00:00 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> OpenAI Blog<br/><br/>HP and OpenAI announce a strategic partnership for AI integration, a notable business partnership but light on technical details.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>HP Inc. announces strategic partnership with OpenAI for enterprise AI integration.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Gemini’s personalized AI image generation is now free for US users</title>
-      <link>https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/</guid>
-      <pubDate>Mon, 29 Jun 2026 20:12:59 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Google makes Gemini&apos;s personalized image generation feature free for US users, a significant product expansion.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>You shouldn&apos;t copy-paste errors into Claude Code</title>
+      <link>https://home.robusta.dev/blog/you-really-shouldnt-copy-paste-errors-into-claude-code</link>
+      <guid isPermaLink="true">https://home.robusta.dev/blog/you-really-shouldnt-copy-paste-errors-into-claude-code</guid>
+      <pubDate>Mon, 29 Jun 2026 21:16:58 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 68/100<br/><b>Source:</b> Hacker News<br/><br/>Technical guidance on proper usage patterns for Claude Code to avoid common errors.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Lore – Give your coding agent the decisions your team made</title>
-      <link>https://github.com/itsthelore/rac-core</link>
-      <guid isPermaLink="true">https://github.com/itsthelore/rac-core</guid>
-      <pubDate>Mon, 29 Jun 2026 04:40:35 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 62/100<br/><b>Source:</b> Hacker News<br/><br/>Lore is a tool for encoding team decision-making into coding agents, a niche developer tool.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Arena, the AI leaderboard everyone uses, is now a $100M business</title>
-      <link>https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/</guid>
-      <pubDate>Mon, 29 Jun 2026 17:39:17 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>LMSYS&apos;s Arena AI leaderboard platform reaches $100M valuation, reflecting significant impact on AI model evaluation infrastructure.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Vibe coding platform Base44 launches own model as AI startups seek defensibility</title>
+      <link>https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/</guid>
+      <pubDate>Tue, 30 Jun 2026 02:28:41 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Base44 coding platform launches proprietary AI model as startups pursue competitive differentiation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Cursor now has a mobile app for guiding your coding agent on the go</title>
@@ -93,15 +69,15 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/</guid>
       <pubDate>Mon, 29 Jun 2026 17:03:50 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Cursor releases a mobile app for guiding coding agents, a product feature update of moderate interest.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Cursor releases mobile app for remote guidance of coding agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Mapping Europe’s AI Workforce Opportunity</title>
-      <link>https://openai.com/index/mapping-ai-jobs-transition-eu</link>
-      <guid isPermaLink="true">https://openai.com/index/mapping-ai-jobs-transition-eu</guid>
-      <pubDate>Mon, 29 Jun 2026 07:00:00 +0000</pubDate>
+      <title>Gemini’s personalized AI image generation is now free for US users</title>
+      <link>https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/</guid>
+      <pubDate>Mon, 29 Jun 2026 20:12:59 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI publishes analysis of AI workforce opportunities in Europe, primarily economic commentary rather than technical development.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Google makes Gemini&apos;s personalized AI image generation free for US users.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price</title>
@@ -109,23 +85,39 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/</guid>
       <pubDate>Mon, 29 Jun 2026 18:10:26 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic negotiates subsidized Claude access for California government, a business deal with modest news value.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic secures deal with California government providing Claude access at 50% discount.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>EML Trees are Universal Approximators [R]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1uipl1t/eml_trees_are_universal_approximators_r/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1uipl1t/eml_trees_are_universal_approximators_r/</guid>
-      <pubDate>Mon, 29 Jun 2026 11:16:01 +0000</pubDate>
+      <title>Arena, the AI leaderboard everyone uses, is now a $100M business</title>
+      <link>https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/</guid>
+      <pubDate>Mon, 29 Jun 2026 17:39:17 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research discussion on EML Trees as universal approximators, a theoretical result of modest academic interest.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>LMSYS Arena AI leaderboard platform reaches $100M valuation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Robot hand company settles Tesla trade secret suit and announces $11M raise</title>
-      <link>https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/</guid>
-      <pubDate>Mon, 29 Jun 2026 14:00:08 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 50/100<br/><b>Source:</b> TechCrunch AI<br/><br/>The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Mapping Europe’s AI Workforce Opportunity</title>
+      <link>https://openai.com/index/mapping-ai-jobs-transition-eu</link>
+      <guid isPermaLink="true">https://openai.com/index/mapping-ai-jobs-transition-eu</guid>
+      <pubDate>Mon, 29 Jun 2026 07:00:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI publishes analysis of AI workforce opportunities and transitions in Europe.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Cerebras OpenAI deal capacity has effectively killed the waitlist for everyone else [D]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1uiqhiv/cerebras_openai_deal_capacity_has_effectively/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1uiqhiv/cerebras_openai_deal_capacity_has_effectively/</guid>
+      <pubDate>Mon, 29 Jun 2026 12:00:06 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Discussion that Cerebras&apos; exclusive OpenAI deal has effectively eliminated waitlist access for competitors.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>I do historical swordfighting and noticed AI struggles to track it. I’m building an open dataset to help fix this. Does my schema make sense? [P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1uivddx/i_do_historical_swordfighting_and_noticed_ai/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1uivddx/i_do_historical_swordfighting_and_noticed_ai/</guid>
+      <pubDate>Mon, 29 Jun 2026 15:16:53 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 44/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Personal project seeking feedback on dataset schema for historical swordfighting AI recognition.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>I made a quiz that tells you which LLM you align with most, based on personality and values research across 15 models [R]</title>
@@ -133,7 +125,39 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1uin5ad/i_made_a_quiz_that_tells_you_which_llm_you_align/</guid>
       <pubDate>Mon, 29 Jun 2026 09:00:12 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 44/100<br/><b>Source:</b> r/MachineLearning<br/><br/>A personal quiz project comparing user personalities to LLM characteristics lacks substantive technical or research merit.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 44/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Personal project creating a personality quiz matching users to LLMs based on research.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Robot hand company settles Tesla trade secret suit and announces $11M raise</title>
+      <link>https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/</guid>
+      <pubDate>Mon, 29 Jun 2026 14:00:08 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 38/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Robotics company settles lawsuit and announces funding round.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>I&apos;m trying to implement CALM paper, and I have some questions. [P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1uix556/im_trying_to_implement_calm_paper_and_i_have_some/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1uix556/im_trying_to_implement_calm_paper_and_i_have_some/</guid>
+      <pubDate>Mon, 29 Jun 2026 16:20:14 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 32/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Reddit post asking implementation questions about a research paper.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Rejected MICCAI paper: workshop -&gt; journal/conference or directly journal/conference [R]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1uj35gh/rejected_miccai_paper_workshop_journalconference/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1uj35gh/rejected_miccai_paper_workshop_journalconference/</guid>
+      <pubDate>Mon, 29 Jun 2026 19:58:44 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 32/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Reddit discussion about paper rejection and publication venue strategy.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Anthropic CEO: Open-Source AI is getting dangerous (2023)</title>
+      <link>https://xcancel.com/coinbureau/status/2071330294452666695</link>
+      <guid isPermaLink="true">https://xcancel.com/coinbureau/status/2071330294452666695</guid>
+      <pubDate>Mon, 29 Jun 2026 09:11:33 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 30/100<br/><b>Source:</b> Hacker News<br/><br/>Recycled 2023 quote from Anthropic CEO with no current news value.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
