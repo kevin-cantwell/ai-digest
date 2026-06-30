@@ -5,15 +5,15 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Jun 2026 09:09:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 11:03:33 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Google&apos;s Agentic Peer-Reviewer Handled ~10K Papers at ICML/STOC — Formal Research Paper Now Out [R]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1uio9rb/googles_agentic_peerreviewer_handled_10k_papers/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1uio9rb/googles_agentic_peerreviewer_handled_10k_papers/</guid>
-      <pubDate>Mon, 29 Jun 2026 10:05:50 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 88/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Google releases formal research paper on an agentic peer-reviewer system that processed approximately 10,000 papers at major conferences.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Micro-Agent: Beat Frontier Models with Collaboration Inside Model API</title>
+      <link>https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models</link>
+      <guid isPermaLink="true">https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models</guid>
+      <pubDate>Mon, 29 Jun 2026 18:03:26 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 84/100<br/><b>Source:</b> Hacker News<br/><br/>Micro-Agent framework demonstrates competitive performance against frontier models through collaborative API use.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active</title>
@@ -21,7 +21,7 @@
       <guid isPermaLink="true">https://longcat.chat/blog/longcat-2.0/</guid>
       <pubDate>Tue, 30 Jun 2026 00:30:11 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>LongCat-2.0, a large-scale mixture-of-experts model with 1.6T total parameters and 48B active parameters, is released.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>LongCat-2.0 releases a large-scale mixture-of-experts model with 1.6T parameters and 48B active capacity.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding</title>
@@ -29,39 +29,7 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Jun/29/ornith/#atom-everything</guid>
       <pubDate>Mon, 29 Jun 2026 16:17:59 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Simon Willison<br/><br/>Ornith-1.0 introduces a self-scaffolding LLM approach for improving agentic coding capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Micro-Agent: Beat Frontier Models with Collaboration Inside Model API</title>
-      <link>https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models</link>
-      <guid isPermaLink="true">https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models</guid>
-      <pubDate>Mon, 29 Jun 2026 18:03:26 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 78/100<br/><b>Source:</b> Hacker News<br/><br/>Micro-Agent demonstrates competitive performance against frontier models through collaboration within model APIs.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>You shouldn&apos;t copy-paste errors into Claude Code</title>
-      <link>https://home.robusta.dev/blog/you-really-shouldnt-copy-paste-errors-into-claude-code</link>
-      <guid isPermaLink="true">https://home.robusta.dev/blog/you-really-shouldnt-copy-paste-errors-into-claude-code</guid>
-      <pubDate>Mon, 29 Jun 2026 21:16:58 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 68/100<br/><b>Source:</b> Hacker News<br/><br/>Technical guidance on avoiding copy-pasting errors when using Claude Code.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Vibe coding platform Base44 launches own model as AI startups seek defensibility</title>
-      <link>https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/</guid>
-      <pubDate>Tue, 30 Jun 2026 02:28:41 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Base44 vibe coding platform launches proprietary AI model as coding startups prioritize defensibility.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Open Memory Protocol – One Memory Store for Claude, ChatGPT, Curso</title>
-      <link>https://github.com/SMJAI/open-memory-protocol</link>
-      <guid isPermaLink="true">https://github.com/SMJAI/open-memory-protocol</guid>
-      <pubDate>Tue, 30 Jun 2026 00:05:33 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>Open Memory Protocol proposes a unified memory store interface compatible with Claude, ChatGPT, and other AI systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Simon Willison<br/><br/>Ornith-1.0 introduces self-scaffolding techniques for LLMs to improve agentic coding capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>HP Inc. launches Frontier strategic partnership with OpenAI</title>
@@ -69,7 +37,39 @@
       <guid isPermaLink="true">https://openai.com/index/hp-frontier-partnership</guid>
       <pubDate>Sun, 28 Jun 2026 17:00:00 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> OpenAI Blog<br/><br/>HP Inc. announces strategic partnership with OpenAI for enterprise AI integration.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>HP Inc. announces strategic partnership with OpenAI for AI integration.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>You shouldn&apos;t copy-paste errors into Claude Code</title>
+      <link>https://home.robusta.dev/blog/you-really-shouldnt-copy-paste-errors-into-claude-code</link>
+      <guid isPermaLink="true">https://home.robusta.dev/blog/you-really-shouldnt-copy-paste-errors-into-claude-code</guid>
+      <pubDate>Mon, 29 Jun 2026 21:16:58 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 68/100<br/><b>Source:</b> Hacker News<br/><br/>Advisory post about best practices when using Claude Code with error messages.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Vibe coding platform Base44 launches own model as AI startups seek defensibility</title>
+      <link>https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/</guid>
+      <pubDate>Tue, 30 Jun 2026 02:28:41 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Base44 coding platform launches proprietary model to differentiate in competitive AI startup landscape.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Open Memory Protocol – One Memory Store for Claude, ChatGPT, Curso</title>
+      <link>https://github.com/SMJAI/open-memory-protocol</link>
+      <guid isPermaLink="true">https://github.com/SMJAI/open-memory-protocol</guid>
+      <pubDate>Tue, 30 Jun 2026 00:05:33 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>Open Memory Protocol proposes standardized memory storage across multiple AI assistants.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Gemini’s personalized AI image generation is now free for US users</title>
+      <link>https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/</guid>
+      <pubDate>Mon, 29 Jun 2026 20:12:59 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Google makes personalized AI image generation feature free for US Gemini users.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price</title>
@@ -77,7 +77,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/</guid>
       <pubDate>Mon, 29 Jun 2026 18:10:26 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic negotiates deal allowing California state government discounted access to Claude.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic negotiates discounted Claude access deal with California state government.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Popping the GPU Bubble</title>
@@ -85,39 +85,7 @@
       <guid isPermaLink="true">https://moondream.ai/blog/popping-the-gpu-bubble</guid>
       <pubDate>Tue, 30 Jun 2026 05:14:35 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>Technical analysis examining inflated expectations around GPU demand in the AI industry.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>EML Trees are Universal Approximators [R]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1uipl1t/eml_trees_are_universal_approximators_r/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1uipl1t/eml_trees_are_universal_approximators_r/</guid>
-      <pubDate>Mon, 29 Jun 2026 11:16:01 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research demonstrates that EML trees achieve universal approximation properties.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Arena, the AI leaderboard everyone uses, is now a $100M business</title>
-      <link>https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/</guid>
-      <pubDate>Mon, 29 Jun 2026 17:39:17 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>LMSYS&apos;s Arena AI leaderboard platform reaches $100M valuation milestone.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Cursor now has a mobile app for guiding your coding agent on the go</title>
-      <link>https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/</guid>
-      <pubDate>Mon, 29 Jun 2026 17:03:50 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Cursor launches mobile app for guiding AI coding agents remotely.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Mapping Europe’s AI Workforce Opportunity</title>
-      <link>https://openai.com/index/mapping-ai-jobs-transition-eu</link>
-      <guid isPermaLink="true">https://openai.com/index/mapping-ai-jobs-transition-eu</guid>
-      <pubDate>Mon, 29 Jun 2026 07:00:00 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI publishes analysis of AI workforce opportunities and transitions in Europe.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>Analysis of GPU market trends and sustainability concerns in AI infrastructure.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Crypto exchange OKX wants AI agents to hire and pay each other</title>
@@ -125,15 +93,31 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/</guid>
       <pubDate>Tue, 30 Jun 2026 09:00:00 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 58/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OKX crypto exchange explores AI agents autonomously hiring and paying each other.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Crypto exchange OKX explores AI agents that autonomously hire and pay each other.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>I do historical swordfighting and noticed AI struggles to track it. I’m building an open dataset to help fix this. Does my schema make sense? [P]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1uivddx/i_do_historical_swordfighting_and_noticed_ai/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1uivddx/i_do_historical_swordfighting_and_noticed_ai/</guid>
-      <pubDate>Mon, 29 Jun 2026 15:16:53 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 56/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Community member seeks feedback on dataset schema for improving AI performance on historical swordfighting motion tracking.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Arena, the AI leaderboard everyone uses, is now a $100M business</title>
+      <link>https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/</guid>
+      <pubDate>Mon, 29 Jun 2026 17:39:17 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>LMSYS Arena AI leaderboard reaches $100M valuation milestone.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Cursor now has a mobile app for guiding your coding agent on the go</title>
+      <link>https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/</guid>
+      <pubDate>Mon, 29 Jun 2026 17:03:50 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Cursor releases mobile app for remote guidance of coding agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Mapping Europe’s AI Workforce Opportunity</title>
+      <link>https://openai.com/index/mapping-ai-jobs-transition-eu</link>
+      <guid isPermaLink="true">https://openai.com/index/mapping-ai-jobs-transition-eu</guid>
+      <pubDate>Mon, 29 Jun 2026 07:00:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI publishes analysis of AI workforce opportunities and job transitions in Europe.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Robot hand company settles Tesla trade secret suit and announces $11M raise</title>
@@ -141,15 +125,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/</guid>
       <pubDate>Mon, 29 Jun 2026 14:00:08 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 50/100<br/><b>Source:</b> TechCrunch AI<br/><br/>The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Anthropic CEO: Open-Source AI is getting dangerous (2023)</title>
-      <link>https://xcancel.com/coinbureau/status/2071330294452666695</link>
-      <guid isPermaLink="true">https://xcancel.com/coinbureau/status/2071330294452666695</guid>
-      <pubDate>Mon, 29 Jun 2026 09:11:33 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 42/100<br/><b>Source:</b> Hacker News<br/><br/>Resurfaced 2023 statement from Anthropic CEO on risks of open-source AI.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 44/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Robotics startup raises funding and settles legal dispute; minimal AI angle.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
