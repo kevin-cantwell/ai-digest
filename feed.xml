@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Jun 2026 18:39:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 19:36:28 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Claude Sonnet 5</title>
@@ -13,23 +13,7 @@
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-sonnet-5</guid>
       <pubDate>Tue, 30 Jun 2026 17:59:52 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 90/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic releases Claude Sonnet 5 model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Anthropic launches Claude Sonnet 5 as a cheaper way to run agents</title>
-      <link>https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/</guid>
-      <pubDate>Tue, 30 Jun 2026 18:00:00 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 84/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic positions Claude Sonnet 5 as cost-effective model for agentic applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists</title>
-      <link>https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/</guid>
-      <pubDate>Tue, 30 Jun 2026 17:00:00 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 84/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic launches Claude Science product focused on scientific workflow optimization.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 84/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic releases Claude Sonnet 5, a new model version in their product lineup.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Zluda 6 release (run unmodified CUDA applications on non-Nvidia GPUs)</title>
@@ -37,7 +21,7 @@
       <guid isPermaLink="true">https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/</guid>
       <pubDate>Tue, 30 Jun 2026 10:34:25 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Zluda 6 release enables running unmodified CUDA applications on non-Nvidia GPUs.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Zluda 6 update enables running unmodified CUDA applications across non-Nvidia GPU hardware.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active</title>
@@ -45,7 +29,7 @@
       <guid isPermaLink="true">https://longcat.chat/blog/longcat-2.0/</guid>
       <pubDate>Tue, 30 Jun 2026 00:30:11 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>LongCat-2.0, a large-scale mixture-of-experts model with 1.6T total parameters, released.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>LongCat-2.0 MoE model release features 1.6T total parameters with 48B active parameters.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding</title>
@@ -53,7 +37,23 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Jun/29/ornith/#atom-everything</guid>
       <pubDate>Mon, 29 Jun 2026 16:17:59 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Simon Willison<br/><br/>Ornith-1.0 introduces self-scaffolding approach for LLMs in agentic coding tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Simon Willison<br/><br/>Ornith-1.0 introduces self-scaffolding techniques for LLMs to improve agentic coding capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Anthropic launches Claude Sonnet 5 as a cheaper way to run agents</title>
+      <link>https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/</guid>
+      <pubDate>Tue, 30 Jun 2026 18:00:00 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 78/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic launches Claude Sonnet 5 optimized as a cost-effective model for agent applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists</title>
+      <link>https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/</guid>
+      <pubDate>Tue, 30 Jun 2026 17:00:00 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 78/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic launches Claude Science, targeting scientific workflows rather than releasing a new base model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Claude Code is steganographically marking requests</title>
@@ -61,15 +61,7 @@
       <guid isPermaLink="true">https://thereallo.dev/blog/claude-code-prompt-steganography</guid>
       <pubDate>Tue, 30 Jun 2026 15:44:24 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Analysis of steganographic marking techniques observed in Claude Code&apos;s request handling.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Acti puts AI agents directly into your smartphone keyboard</title>
-      <link>https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/</guid>
-      <pubDate>Tue, 30 Jun 2026 17:52:46 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Acti integrates AI agents directly into smartphone keyboard functionality.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Analysis claims Claude Code is using steganographic techniques to mark requests in hidden ways.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>X now offers an MCP server to make its platform easier for AI tools to use</title>
@@ -77,7 +69,15 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/</guid>
       <pubDate>Tue, 30 Jun 2026 15:08:42 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> TechCrunch AI<br/><br/>X launches MCP server to provide AI tools with easier platform integration.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> TechCrunch AI<br/><br/>X launches MCP server to facilitate AI tool integration with its platform.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Acti puts AI agents directly into your smartphone keyboard</title>
+      <link>https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/</guid>
+      <pubDate>Tue, 30 Jun 2026 17:52:46 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Acti integrates AI agents into smartphone keyboard as a consumer application.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Claude Science</title>
@@ -85,31 +85,7 @@
       <guid isPermaLink="true">https://claude.com/product/claude-science</guid>
       <pubDate>Tue, 30 Jun 2026 17:07:41 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 74/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic releases Claude Science product interface.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>How ChatGPT adoption has expanded</title>
-      <link>https://openai.com/index/how-chatgpt-adoption-has-expanded</link>
-      <guid isPermaLink="true">https://openai.com/index/how-chatgpt-adoption-has-expanded</guid>
-      <pubDate>Tue, 30 Jun 2026 09:00:00 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI publishes analysis of ChatGPT adoption expansion metrics.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Introducing GeneBench-Pro</title>
-      <link>https://openai.com/index/introducing-genebench-pro</link>
-      <guid isPermaLink="true">https://openai.com/index/introducing-genebench-pro</guid>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI introduces GeneBench-Pro benchmark for evaluating AI performance on genomic tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Core dump epidemiology: fixing an 18-year-old bug</title>
-      <link>https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug</link>
-      <guid isPermaLink="true">https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug</guid>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI documents resolution of 18-year-old infrastructure bug affecting data handling.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> Hacker News<br/><br/>Claude Science product announcement targeting scientific research workflows.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>You shouldn&apos;t copy-paste errors into Claude Code</title>
@@ -117,15 +93,7 @@
       <guid isPermaLink="true">https://home.robusta.dev/blog/you-really-shouldnt-copy-paste-errors-into-claude-code</guid>
       <pubDate>Mon, 29 Jun 2026 21:16:58 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 68/100<br/><b>Source:</b> Hacker News<br/><br/>Technical cautionary article about security risks when pasting error logs into Claude Code.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Vibe-coding platform Base44 launches own model as AI startups seek defensibility</title>
-      <link>https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/</guid>
-      <pubDate>Tue, 30 Jun 2026 02:28:41 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Base44 vibe-coding platform launches proprietary model to differentiate in competitive market.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 68/100<br/><b>Source:</b> Hacker News<br/><br/>Technical guidance on security risks when copy-pasting error messages into Claude Code.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Open Memory Protocol – One Memory Store for Claude, ChatGPT, Curso</title>
@@ -133,15 +101,23 @@
       <guid isPermaLink="true">https://github.com/SMJAI/open-memory-protocol</guid>
       <pubDate>Tue, 30 Jun 2026 00:05:33 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>Open Memory Protocol proposes unified memory store for multiple AI assistants.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>Open Memory Protocol proposes a unified memory store across multiple AI assistants.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Inside Genebench-Pro</title>
-      <link>https://openai.com/index/genebench-pro/case-studies</link>
-      <guid isPermaLink="true">https://openai.com/index/genebench-pro/case-studies</guid>
+      <title>Introducing GeneBench-Pro</title>
+      <link>https://openai.com/index/introducing-genebench-pro</link>
+      <guid isPermaLink="true">https://openai.com/index/introducing-genebench-pro</guid>
       <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI publishes case studies demonstrating GeneBench-Pro applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI introduces GeneBench-Pro, a benchmark for AI-driven genomics research.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Core dump epidemiology: fixing an 18-year-old bug</title>
+      <link>https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug</link>
+      <guid isPermaLink="true">https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug</guid>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI documents fixing an 18-year-old infrastructure bug affecting core dumps.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Popping the GPU Bubble</title>
@@ -149,15 +125,31 @@
       <guid isPermaLink="true">https://moondream.ai/blog/popping-the-gpu-bubble</guid>
       <pubDate>Tue, 30 Jun 2026 05:14:35 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>MoonDream examines claims about GPU market saturation and efficiency challenges.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>Analysis critical of GPU market valuations and efficiency in AI infrastructure.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Start building with Nano Banana 2 Lite and Gemini Omni Flash</title>
-      <link>https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/</link>
-      <guid isPermaLink="true">https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/</guid>
-      <pubDate>Tue, 30 Jun 2026 16:02:40 +0000</pubDate>
+      <title>Vibe-coding platform Base44 launches own model as AI startups seek defensibility</title>
+      <link>https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/</guid>
+      <pubDate>Tue, 30 Jun 2026 02:28:41 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 64/100<br/><b>Source:</b> Google DeepMind<br/><br/>Google DeepMind announces Nano Banana 2 Lite and Gemini Omni Flash for developers.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Base44 vibe-coding platform launches proprietary model to differentiate in AI market.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Cursor now has a mobile app for guiding your coding agent on the go</title>
+      <link>https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/</guid>
+      <pubDate>Mon, 29 Jun 2026 17:03:50 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Cursor releases mobile app for remote guidance of coding AI agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>How ChatGPT adoption has expanded</title>
+      <link>https://openai.com/index/how-chatgpt-adoption-has-expanded</link>
+      <guid isPermaLink="true">https://openai.com/index/how-chatgpt-adoption-has-expanded</guid>
+      <pubDate>Tue, 30 Jun 2026 09:00:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI reports on ChatGPT adoption expansion metrics and trends.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>A map of the latest 11 million papers split by semantic similarity and time slices [P]</title>
@@ -165,7 +157,15 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1ujn3u5/a_map_of_the_latest_11_million_papers_split_by/</guid>
       <pubDate>Tue, 30 Jun 2026 11:55:44 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 56/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Dataset visualization mapping 11 million academic papers by semantic similarity and time.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 56/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Project visualizing 11 million academic papers mapped by semantic similarity over time.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Have your agent record video demos of its work with shot-scraper video</title>
+      <link>https://simonwillison.net/2026/Jun/30/shot-scraper-video/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/30/shot-scraper-video/#atom-everything</guid>
+      <pubDate>Tue, 30 Jun 2026 16:54:26 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 56/100<br/><b>Source:</b> Simon Willison<br/><br/>Shot-scraper video tool enables AI agents to record video demonstrations of work.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
