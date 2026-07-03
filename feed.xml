@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Jul 2026 22:04:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 00:03:23 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train</title>
@@ -13,15 +13,7 @@
       <guid isPermaLink="true">https://arxiv.org/abs/2607.01232</guid>
       <pubDate>Thu, 02 Jul 2026 12:10:24 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>Research paper demonstrating single transformer layer can match full-parameter reinforcement learning training, notable finding on model efficiency.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Gemini Spark, Google’s agentic assistant, is now available on Mac</title>
-      <link>https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/</guid>
-      <pubDate>Wed, 01 Jul 2026 14:20:19 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 88/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Google releases Gemini Spark agentic assistant on Mac, significant product launch from major AI player.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>Research paper showing single transformer layer matches full-parameter reinforcement learning training.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers</title>
@@ -29,47 +21,15 @@
       <guid isPermaLink="true">https://senior-swe-bench.snorkel.ai/</guid>
       <pubDate>Thu, 02 Jul 2026 02:55:16 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>New benchmark for evaluating AI agents on senior-level software engineering tasks, useful assessment tool for agent capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Open-source benchmark for evaluating AI agents on senior software engineer tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Using DSPy to evaluate and improve Datasette Agent&apos;s SQL system prompts</title>
-      <link>https://simonwillison.net/2026/Jul/2/dspy-datasette-agent-prompts/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/2/dspy-datasette-agent-prompts/#atom-everything</guid>
-      <pubDate>Thu, 02 Jul 2026 18:25:00 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 76/100<br/><b>Source:</b> Simon Willison<br/><br/>Technical walkthrough of using DSPy framework to improve AI system prompts, practical but niche application.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Autoresearch: The feedback loop behind self-improving agents</title>
-      <link>https://www.latent.space/p/autoresearch-introspection</link>
-      <guid isPermaLink="true">https://www.latent.space/p/autoresearch-introspection</guid>
-      <pubDate>Wed, 01 Jul 2026 23:52:30 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> Latent Space<br/><br/>Analysis of self-improving agent mechanisms and feedback loops in AI systems, substantive technical discussion.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>🔬 The Coolest Diffusion Research Isn&apos;t in LLMs — Evan Feinberg &amp; Sergey Edunov, Genesis Molecular AI</title>
-      <link>https://www.latent.space/p/the-coolest-diffusion-research-isnt</link>
-      <guid isPermaLink="true">https://www.latent.space/p/the-coolest-diffusion-research-isnt</guid>
-      <pubDate>Wed, 01 Jul 2026 14:42:39 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> Latent Space<br/><br/>Interview on diffusion model research applications beyond LLMs, notable research direction in molecular AI.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Show HN: CLI tool for detecting non-exact code duplication with embedding models</title>
-      <link>https://github.com/rafal-qa/slopo</link>
-      <guid isPermaLink="true">https://github.com/rafal-qa/slopo</guid>
-      <pubDate>Thu, 02 Jul 2026 14:19:24 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Open-source CLI tool using embedding models to detect code duplication, interesting technical application but limited scope.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>AI can&apos;t be listed as inventor on patent applications, Japan&apos;s top court rules</title>
-      <link>https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/</link>
-      <guid isPermaLink="true">https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/</guid>
-      <pubDate>Thu, 02 Jul 2026 13:43:41 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Japan&apos;s top court rules AI cannot be listed as patent inventor, significant legal precedent on AI intellectual property.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Gemini Spark, Google’s agentic assistant, is now available on Mac</title>
+      <link>https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/</guid>
+      <pubDate>Wed, 01 Jul 2026 14:20:19 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Google&apos;s Gemini Spark agentic assistant now available on Mac.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Claude-real-video － any LLM can watch a video</title>
@@ -77,15 +37,39 @@
       <guid isPermaLink="true">https://github.com/HUANGCHIHHUNGLeo/claude-real-video</guid>
       <pubDate>Thu, 02 Jul 2026 19:10:12 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>Open-source tool enabling LLMs to process video input, useful capability extension but implementation-focused.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Open-source tool enabling any LLM to process and analyze video input.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Meta caps internal AI token spending</title>
-      <link>https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/</link>
-      <guid isPermaLink="true">https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/</guid>
-      <pubDate>Wed, 01 Jul 2026 23:58:48 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>Meta institutes spending caps on internal AI token usage due to rising costs, industry operations news.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Show HN: CLI tool for detecting non-exact code duplication with embedding models</title>
+      <link>https://github.com/rafal-qa/slopo</link>
+      <guid isPermaLink="true">https://github.com/rafal-qa/slopo</guid>
+      <pubDate>Thu, 02 Jul 2026 14:19:24 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Open-source CLI tool for detecting code duplication using embedding models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Using DSPy to evaluate and improve Datasette Agent&apos;s SQL system prompts</title>
+      <link>https://simonwillison.net/2026/Jul/2/dspy-datasette-agent-prompts/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/2/dspy-datasette-agent-prompts/#atom-everything</guid>
+      <pubDate>Thu, 02 Jul 2026 18:25:00 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 70/100<br/><b>Source:</b> Simon Willison<br/><br/>Technical blog post on using DSPy to improve SQL system prompts for Datasette Agent.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Autoresearch: The feedback loop behind self-improving agents</title>
+      <link>https://www.latent.space/p/autoresearch-introspection</link>
+      <guid isPermaLink="true">https://www.latent.space/p/autoresearch-introspection</guid>
+      <pubDate>Wed, 01 Jul 2026 23:52:30 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> Latent Space<br/><br/>Discussion of autoresearch and feedback loops in self-improving AI agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>🔬 The Coolest Diffusion Research Isn&apos;t in LLMs — Evan Feinberg &amp; Sergey Edunov, Genesis Molecular AI</title>
+      <link>https://www.latent.space/p/the-coolest-diffusion-research-isnt</link>
+      <guid isPermaLink="true">https://www.latent.space/p/the-coolest-diffusion-research-isnt</guid>
+      <pubDate>Wed, 01 Jul 2026 14:42:39 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> Latent Space<br/><br/>Interview on diffusion model research applications beyond language models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>SentryCode: Real-time Auditor + Honeytokens for AI Coding Agents [P]</title>
@@ -93,15 +77,39 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1ul7ap2/sentrycode_realtime_auditor_honeytokens_for_ai/</guid>
       <pubDate>Thu, 02 Jul 2026 03:48:58 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Security tool for auditing and honeytokens in AI coding agents, novel security approach for agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Security tool for monitoring and auditing AI coding agent behavior with honeytokens.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>OpenAI ‘in early talks to give 5% stake to US government’</title>
-      <link>https://www.theguardian.com/technology/2026/jul/02/openai-stake-us-government-ai-sam-altman</link>
-      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/jul/02/openai-stake-us-government-ai-sam-altman</guid>
-      <pubDate>Thu, 02 Jul 2026 11:16:31 +0000</pubDate>
+      <title>Anthropic is discussing a new custom chip with Samsung</title>
+      <link>https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/</guid>
+      <pubDate>Thu, 02 Jul 2026 18:31:09 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 52/100<br/><b>Source:</b> Hacker News<br/><br/>Speculation about OpenAI negotiating government equity stake, political/corporate news without confirmed AI technical substance.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic in discussions with Samsung to develop custom AI processing chips.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>AI can&apos;t be listed as inventor on patent applications, Japan&apos;s top court rules</title>
+      <link>https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/</link>
+      <guid isPermaLink="true">https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/</guid>
+      <pubDate>Thu, 02 Jul 2026 13:43:41 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 58/100<br/><b>Source:</b> Hacker News<br/><br/>Japan&apos;s top court rules AI cannot be listed as patent inventor.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped</title>
+      <link>https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/</guid>
+      <pubDate>Thu, 02 Jul 2026 23:38:10 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 58/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Zuckerberg comments that AI agent progress has been slower than expected.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Claude&apos;s AskUserQuestion: &quot;No response after 60s – continued without an answer&quot;</title>
+      <link>https://github.com/anthropics/claude-code/issues/73125</link>
+      <guid isPermaLink="true">https://github.com/anthropics/claude-code/issues/73125</guid>
+      <pubDate>Thu, 02 Jul 2026 18:37:57 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 52/100<br/><b>Source:</b> Hacker News<br/><br/>GitHub issue discussing timeout behavior in Claude&apos;s AskUserQuestion feature.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Improving machine-translated novels via style transfer — looking for advice on the faithfulness/fluency tradeoff [P]</title>
@@ -109,23 +117,23 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1ulrdw9/improving_machinetranslated_novels_via_style/</guid>
       <pubDate>Thu, 02 Jul 2026 19:04:50 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 50/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Project discussion on machine translation style transfer, work-in-progress request without established news.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 50/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Project seeking advice on style transfer approach for machine-translated novels.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Jersey Mike’s IPO illustrates how bad the AI hype has become</title>
-      <link>https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/</guid>
-      <pubDate>Thu, 02 Jul 2026 20:11:59 +0000</pubDate>
+      <title>Making Optimization Work When Labels Are Scarce [R]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1ul3ohk/making_optimization_work_when_labels_are_scarce_r/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1ul3ohk/making_optimization_work_when_labels_are_scarce_r/</guid>
+      <pubDate>Thu, 02 Jul 2026 00:59:15 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 50/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Just for kicks, I took a look at Jersey Mike&apos;s IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 50/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research discussion on optimization techniques for scarce label scenarios.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Meta quietly launches vibe-coded gaming app Pocket</title>
-      <link>https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/</guid>
-      <pubDate>Thu, 02 Jul 2026 18:44:02 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 50/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>OpenAI proposed donating 5% of its equity to a US sovereign wealth fund</title>
+      <link>https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/</guid>
+      <pubDate>Thu, 02 Jul 2026 15:20:51 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 50/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI <br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Microsoft launches its own AI deployment company with $2.5 billion commitment</title>
