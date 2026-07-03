@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Jul 2026 15:53:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 17:22:59 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Using DSPy to evaluate and improve Datasette Agent&apos;s SQL system prompts</title>
@@ -13,7 +13,7 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Jul/2/dspy-datasette-agent-prompts/#atom-everything</guid>
       <pubDate>Thu, 02 Jul 2026 18:25:00 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 82/100<br/><b>Source:</b> Simon Willison<br/><br/>Technical guide on using DSPy framework to evaluate and improve SQL system prompts for Datasette Agent.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 82/100<br/><b>Source:</b> Simon Willison<br/><br/>Technical guide on using DSPy framework to evaluate and improve SQL system prompts in Datasette Agent.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Claude-real-video － any LLM can watch a video</title>
@@ -21,23 +21,7 @@
       <guid isPermaLink="true">https://github.com/HUANGCHIHHUNGLeo/claude-real-video</guid>
       <pubDate>Thu, 02 Jul 2026 19:10:12 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 80/100<br/><b>Source:</b> Hacker News<br/><br/>Open-source tool enabling any LLM to process and analyze video content through Claude&apos;s API.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Google DeepMind and A24 announce first-of-its-kind research partnership</title>
-      <link>https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/</link>
-      <guid isPermaLink="true">https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/</guid>
-      <pubDate>Fri, 03 Jul 2026 14:25:43 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 78/100<br/><b>Source:</b> Google DeepMind<br/><br/>Google DeepMind announces research partnership with film production company A24.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says</title>
-      <link>https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/</link>
-      <guid isPermaLink="true">https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/</guid>
-      <pubDate>Fri, 03 Jul 2026 08:31:37 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Alibaba reportedly bans Claude Code over alleged security backdoor risks in workplace environments.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 80/100<br/><b>Source:</b> Hacker News<br/><br/>Open-source project enables any LLM to process video input through Claude integration.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Autoresearch: The feedback loop behind self-improving agents</title>
@@ -45,7 +29,23 @@
       <guid isPermaLink="true">https://www.latent.space/p/autoresearch-introspection</guid>
       <pubDate>Wed, 01 Jul 2026 23:52:30 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> Latent Space<br/><br/>Analysis of autoresearch as a feedback loop mechanism enabling self-improving AI agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 80/100<br/><b>Source:</b> Latent Space<br/><br/>Analysis of autoresearch as a feedback mechanism enabling self-improving AI agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Google DeepMind and A24 announce first-of-its-kind research partnership</title>
+      <link>https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/</link>
+      <guid isPermaLink="true">https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/</guid>
+      <pubDate>Fri, 03 Jul 2026 14:25:43 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 78/100<br/><b>Source:</b> Google DeepMind<br/><br/>Google DeepMind and A24 announce research partnership to explore AI applications in creative domains.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says</title>
+      <link>https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/</link>
+      <guid isPermaLink="true">https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/</guid>
+      <pubDate>Fri, 03 Jul 2026 08:31:37 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Alibaba reportedly bans Claude Code in workplace citing security concerns over alleged backdoor risks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Gemini Code Assist will be shut down on July 17</title>
@@ -53,23 +53,7 @@
       <guid isPermaLink="true">https://docs.cloud.google.com/gemini/docs/code-review/review-repo-code</guid>
       <pubDate>Fri, 03 Jul 2026 12:52:48 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 72/100<br/><b>Source:</b> Hacker News<br/><br/>Google announces shutdown of Gemini Code Assist service on July 17.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Zuckerberg says AI agent development going slower than expected</title>
-      <link>https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/</link>
-      <guid isPermaLink="true">https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/</guid>
-      <pubDate>Thu, 02 Jul 2026 20:38:06 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>Mark Zuckerberg states AI agent development progress has been slower than anticipated.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped</title>
-      <link>https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/</guid>
-      <pubDate>Thu, 02 Jul 2026 23:38:10 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Duplicate report of Zuckerberg&apos;s comments on slower-than-expected AI agent progress.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Google announces discontinuation of Gemini Code Assist service on July 17.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>AI Data Centers Use More Water Than Most Tech Giants Report</title>
@@ -77,55 +61,7 @@
       <guid isPermaLink="true">https://www.wsj.com/tech/ai/ai-data-centers-water-use-901e2902</guid>
       <pubDate>Fri, 03 Jul 2026 12:33:20 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> Hacker News<br/><br/>Investigation reveals AI data centers consume more water than major tech companies publicly report.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Show HN: ctx – Search the coding agent history already on your machine</title>
-      <link>https://github.com/ctxrs/ctx</link>
-      <guid isPermaLink="true">https://github.com/ctxrs/ctx</guid>
-      <pubDate>Thu, 02 Jul 2026 15:58:32 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 62/100<br/><b>Source:</b> Hacker News<br/><br/>Open-source tool for searching coding agent history on local machines.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Anthropic is discussing a new custom chip with Samsung</title>
-      <link>https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/</guid>
-      <pubDate>Thu, 02 Jul 2026 18:31:09 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic discusses development of custom chip with Samsung.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Vercel&apos;s Andrew Qu on why agents are a new kind of software</title>
-      <link>https://www.latent.space/p/vercel-agents-new-software</link>
-      <guid isPermaLink="true">https://www.latent.space/p/vercel-agents-new-software</guid>
-      <pubDate>Fri, 03 Jul 2026 00:08:18 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> Latent Space<br/><br/>Vercel executive discusses agents as a new software paradigm.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>&quot;An AI Job Apocalypse?&quot; – Goldman Sachs Report [pdf]</title>
-      <link>https://www.goldmansachs.com/static-libs/pdf-redirect/prod/index.html?path=/pdfs/insights/goldman-sachs-research/an-ai-job-apocalypse/report.pdf&amp;originalQuery=&amp;referrer=</link>
-      <guid isPermaLink="true">https://www.goldmansachs.com/static-libs/pdf-redirect/prod/index.html?path=/pdfs/insights/goldman-sachs-research/an-ai-job-apocalypse/report.pdf&amp;originalQuery=&amp;referrer=</guid>
-      <pubDate>Fri, 03 Jul 2026 00:18:11 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> Hacker News<br/><br/>Goldman Sachs research report examining potential job displacement from AI.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Claude&apos;s AskUserQuestion: &quot;No response after 60s – continued without an answer&quot;</title>
-      <link>https://github.com/anthropics/claude-code/issues/73125</link>
-      <guid isPermaLink="true">https://github.com/anthropics/claude-code/issues/73125</guid>
-      <pubDate>Thu, 02 Jul 2026 18:37:57 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 52/100<br/><b>Source:</b> Hacker News<br/><br/>GitHub issue reporting Claude&apos;s AskUserQuestion feature timing out without response.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>OpenAI proposed donating 5% of its equity to a US sovereign wealth fund</title>
-      <link>https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/</guid>
-      <pubDate>Thu, 02 Jul 2026 15:20:51 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 50/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI proposes donating 5% equity stake to US sovereign wealth fund.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> Hacker News<br/><br/>WSJ investigation reveals AI data centers&apos; water consumption exceeds typical tech company disclosures.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Microsoft launches its own AI deployment company with $2.5 billion commitment</title>
@@ -133,15 +69,71 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/</guid>
       <pubDate>Thu, 02 Jul 2026 13:53:00 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 50/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Microsoft follows Amazon, OpenAI, and Anthropic with its new AI deployment group.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Microsoft launches dedicated AI deployment subsidiary with $2.5 billion commitment.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Yep, we’re using OpenClaw to date now</title>
-      <link>https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/</guid>
-      <pubDate>Thu, 02 Jul 2026 12:00:00 +0000</pubDate>
+      <title>Zuckerberg says AI agent development going slower than expected</title>
+      <link>https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/</link>
+      <guid isPermaLink="true">https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/</guid>
+      <pubDate>Thu, 02 Jul 2026 20:38:06 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>Mark Zuckerberg states AI agent development progress has been slower than internal expectations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped</title>
+      <link>https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/</guid>
+      <pubDate>Thu, 02 Jul 2026 23:38:10 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> TechCrunch AI<br/><br/>TechCrunch reports Meta leadership internally acknowledged slower-than-expected AI agent progress.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>&quot;An AI Job Apocalypse?&quot; – Goldman Sachs Report [pdf]</title>
+      <link>https://www.goldmansachs.com/static-libs/pdf-redirect/prod/index.html?path=/pdfs/insights/goldman-sachs-research/an-ai-job-apocalypse/report.pdf&amp;originalQuery=&amp;referrer=</link>
+      <guid isPermaLink="true">https://www.goldmansachs.com/static-libs/pdf-redirect/prod/index.html?path=/pdfs/insights/goldman-sachs-research/an-ai-job-apocalypse/report.pdf&amp;originalQuery=&amp;referrer=</guid>
+      <pubDate>Fri, 03 Jul 2026 00:18:11 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 50/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Ben Guez has &quot;a bunch of potential international wives in [his] DMs,&quot; thanks to an automated script he set up using OpenClaw, Claude code, and Instagram trials.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> Hacker News<br/><br/>Goldman Sachs research report analyzing potential job market impacts from AI automation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Anthropic is discussing a new custom chip with Samsung</title>
+      <link>https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/</guid>
+      <pubDate>Thu, 02 Jul 2026 18:31:09 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic reportedly in discussions with Samsung regarding custom AI accelerator chip development.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Vercel&apos;s Andrew Qu on why agents are a new kind of software</title>
+      <link>https://www.latent.space/p/vercel-agents-new-software</link>
+      <guid isPermaLink="true">https://www.latent.space/p/vercel-agents-new-software</guid>
+      <pubDate>Fri, 03 Jul 2026 00:08:18 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> Latent Space<br/><br/>Vercel executive discusses conceptual framework positioning AI agents as new software paradigm.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Claude&apos;s AskUserQuestion: &quot;No response after 60s – continued without an answer&quot;</title>
+      <link>https://github.com/anthropics/claude-code/issues/73125</link>
+      <guid isPermaLink="true">https://github.com/anthropics/claude-code/issues/73125</guid>
+      <pubDate>Thu, 02 Jul 2026 18:37:57 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 58/100<br/><b>Source:</b> Hacker News<br/><br/>GitHub issue documents timeout behavior in Claude&apos;s AskUserQuestion feature.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>OpenAI proposed donating 5% of its equity to a US sovereign wealth fund</title>
+      <link>https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/</guid>
+      <pubDate>Thu, 02 Jul 2026 15:20:51 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI proposed donating 5% equity stake to establish US sovereign wealth fund.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office</title>
+      <link>https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/</guid>
+      <pubDate>Thu, 02 Jul 2026 05:30:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Indian technology entrepreneur invests $30 million to develop AI-powered Microsoft Office alternative.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller</title>
@@ -157,7 +149,7 @@
       <guid isPermaLink="true">https://www.latent.space/p/aiewf-daily-dispatch-agency</guid>
       <pubDate>Thu, 02 Jul 2026 06:13:49 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 44/100<br/><b>Source:</b> Latent Space<br/><br/>Newsletter piece on autoresearch and tensions between AI and human agency.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 44/100<br/><b>Source:</b> Latent Space<br/><br/>Newsletter dispatch discussing autoresearch and tensions between AI and human agency.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
