@@ -5,23 +5,23 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Jul 2026 04:33:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 07:43:56 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Google DeepMind and A24 announce first-of-its-kind research partnership</title>
-      <link>https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/</link>
-      <guid isPermaLink="true">https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/</guid>
-      <pubDate>Fri, 03 Jul 2026 14:25:43 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 78/100<br/><b>Source:</b> Google DeepMind<br/><br/>Google DeepMind announces research partnership with A24 for AI and creative content collaboration.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
     <item>
       <title>60% Fable cost cut by converting code to images and having the model OCR it</title>
       <link>https://github.com/teamchong/pxpipe</link>
       <guid isPermaLink="true">https://github.com/teamchong/pxpipe</guid>
       <pubDate>Fri, 03 Jul 2026 15:50:49 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>A cost optimization technique for Fable by converting code to images and using OCR reduces expenses by 60%.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Fable AI costs reduced 60% through a novel approach of converting code to images for OCR processing by models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Google DeepMind and A24 announce first-of-its-kind research partnership</title>
+      <link>https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/</link>
+      <guid isPermaLink="true">https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/</guid>
+      <pubDate>Fri, 03 Jul 2026 14:25:43 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 78/100<br/><b>Source:</b> Google DeepMind<br/><br/>Google DeepMind announces research partnership with A24 film studio.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Using DSPy to evaluate and improve Datasette Agent&apos;s SQL system prompts</title>
@@ -29,15 +29,15 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Jul/2/dspy-datasette-agent-prompts/#atom-everything</guid>
       <pubDate>Thu, 02 Jul 2026 18:25:00 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 76/100<br/><b>Source:</b> Simon Willison<br/><br/>Technical walkthrough of using DSPy to optimize SQL system prompts in Datasette Agent.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 76/100<br/><b>Source:</b> Simon Willison<br/><br/>Simon Willison demonstrates using DSPy to evaluate and improve SQL system prompts in Datasette Agent.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Gemini Code Assist will be shut down on July 17</title>
-      <link>https://docs.cloud.google.com/gemini/docs/code-review/review-repo-code</link>
-      <guid isPermaLink="true">https://docs.cloud.google.com/gemini/docs/code-review/review-repo-code</guid>
-      <pubDate>Fri, 03 Jul 2026 12:52:48 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Google announces shutdown of Gemini Code Assist on July 17.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Dispersion loss counteracts embedding condensation in small language models</title>
+      <link>https://chenliu-1996.github.io/projects/LM-Dispersion/</link>
+      <guid isPermaLink="true">https://chenliu-1996.github.io/projects/LM-Dispersion/</guid>
+      <pubDate>Fri, 03 Jul 2026 22:35:47 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> Hacker News<br/><br/>Research identifies dispersion loss as a factor counteracting embedding condensation in small language models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says</title>
@@ -45,7 +45,7 @@
       <guid isPermaLink="true">https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/</guid>
       <pubDate>Fri, 03 Jul 2026 08:31:37 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Alibaba reportedly considering banning Claude Code over alleged security risks, though details are unconfirmed.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Alibaba reportedly bans Claude Code from workplace citing alleged backdoor security risks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Contrastive Decoding Diffing (CDD): recovering verbatim finetuning data from logits alone, no weight access needed[R]</title>
@@ -53,23 +53,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1umn2dk/contrastive_decoding_diffing_cdd_recovering/</guid>
       <pubDate>Fri, 03 Jul 2026 19:01:48 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research on Contrastive Decoding Diffing demonstrates recovery of finetuning data from model logits without weight access.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Anthropic is discussing a new custom chip with Samsung</title>
-      <link>https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/</guid>
-      <pubDate>Thu, 02 Jul 2026 18:31:09 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic in discussions with Samsung regarding development of custom AI inference chip.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Microsoft launches its own AI deployment company with $2.5 billion commitment</title>
-      <link>https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/</guid>
-      <pubDate>Thu, 02 Jul 2026 13:53:00 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Microsoft launches dedicated AI deployment subsidiary with $2.5 billion committed investment.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research on Contrastive Decoding Diffing technique for recovering finetuning data from model logits without weight access.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>AI Data Centers Use More Water Than Most Tech Giants Report</title>
@@ -77,39 +61,7 @@
       <guid isPermaLink="true">https://www.wsj.com/tech/ai/ai-data-centers-water-use-901e2902</guid>
       <pubDate>Fri, 03 Jul 2026 12:33:20 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>Investigation reveals AI data centers consume significant unreported water quantities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped</title>
-      <link>https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/</guid>
-      <pubDate>Thu, 02 Jul 2026 23:38:10 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Zuckerberg reportedly tells staff that AI agent progress has been slower than expected.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>H64LM: A 249M-parameter Mixture-of-Experts Transformer built from scratch in PyTorch [P]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1umqfd2/h64lm_a_249mparameter_mixtureofexperts/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1umqfd2/h64lm_a_249mparameter_mixtureofexperts/</guid>
-      <pubDate>Fri, 03 Jul 2026 21:18:10 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Paper or project describing H64LM, a 249M-parameter Mixture-of-Experts transformer implementation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Open Source AI Gap Map</title>
-      <link>https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything</guid>
-      <pubDate>Fri, 03 Jul 2026 22:04:31 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 62/100<br/><b>Source:</b> Simon Willison<br/><br/>Analysis of gaps in open source AI tooling and capability landscape.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>AI saves about 3% of your hours, and almost none of it reaches the money</title>
-      <link>https://okaneland.com/study/ai-productivity-roi-at-work/</link>
-      <guid isPermaLink="true">https://okaneland.com/study/ai-productivity-roi-at-work/</guid>
-      <pubDate>Fri, 03 Jul 2026 17:03:22 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> Hacker News<br/><br/>Study claims AI currently delivers only 3% productivity gains with minimal financial ROI in workplaces.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>Investigation reveals AI data center water consumption exceeds what major tech companies publicly report.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>New serious vulnerabilities spiked around release of Claude Mythos Preview</title>
@@ -117,23 +69,63 @@
       <guid isPermaLink="true">https://epoch.ai/data-insights/cve-severity-spike</guid>
       <pubDate>Fri, 03 Jul 2026 21:16:16 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 58/100<br/><b>Source:</b> Hacker News<br/><br/>Claim of vulnerability spike correlating with Claude Mythos Preview release, credibility unclear.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>Security vulnerabilities spike correlating with Claude Mythos Preview release.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Vercel&apos;s Andrew Qu on why agents are a new kind of software</title>
-      <link>https://www.latent.space/p/vercel-agents-new-software</link>
-      <guid isPermaLink="true">https://www.latent.space/p/vercel-agents-new-software</guid>
-      <pubDate>Fri, 03 Jul 2026 00:08:18 +0000</pubDate>
+      <title>Gemini Code Assist will be shut down on July 17</title>
+      <link>https://docs.cloud.google.com/gemini/docs/code-review/review-repo-code</link>
+      <guid isPermaLink="true">https://docs.cloud.google.com/gemini/docs/code-review/review-repo-code</guid>
+      <pubDate>Fri, 03 Jul 2026 12:52:48 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>Google shutting down Gemini Code Assist product on July 17.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>H64LM: A 249M-parameter Mixture-of-Experts Transformer built from scratch in PyTorch [P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1umqfd2/h64lm_a_249mparameter_mixtureofexperts/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1umqfd2/h64lm_a_249mparameter_mixtureofexperts/</guid>
+      <pubDate>Fri, 03 Jul 2026 21:18:10 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> Latent Space<br/><br/>Commentary from Vercel executive on AI agents as a new software paradigm.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>H64LM, a 249M-parameter Mixture-of-Experts Transformer implemented from scratch in PyTorch.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>AIEWF Daily Dispatch: Autoresearch and the tension between AI and human agency</title>
-      <link>https://www.latent.space/p/aiewf-daily-dispatch-agency</link>
-      <guid isPermaLink="true">https://www.latent.space/p/aiewf-daily-dispatch-agency</guid>
-      <pubDate>Thu, 02 Jul 2026 06:13:49 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 50/100<br/><b>Source:</b> Latent Space<br/><br/>Essay discussing autoresearch and tensions between AI autonomy and human agency.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Anthropic is discussing a new custom chip with Samsung</title>
+      <link>https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/</guid>
+      <pubDate>Thu, 02 Jul 2026 18:31:09 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic in discussions with Samsung regarding development of custom AI chips.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Open Source AI Gap Map</title>
+      <link>https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything</guid>
+      <pubDate>Fri, 03 Jul 2026 22:04:31 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 62/100<br/><b>Source:</b> Simon Willison<br/><br/>Analysis of gaps in open-source AI capabilities and ecosystem.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>AI saves about 3% of your hours, and almost none of it reaches the money</title>
+      <link>https://okaneland.com/study/ai-productivity-roi-at-work/</link>
+      <guid isPermaLink="true">https://okaneland.com/study/ai-productivity-roi-at-work/</guid>
+      <pubDate>Fri, 03 Jul 2026 17:03:22 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> Hacker News<br/><br/>Study reports AI productivity gains at work average only 3% of working hours with minimal financial impact.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped</title>
+      <link>https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/</guid>
+      <pubDate>Thu, 02 Jul 2026 23:38:10 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 58/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Zuckerberg tells Meta staff that AI agent progress has been slower than expected.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Microsoft launches its own AI deployment company with $2.5 billion commitment</title>
+      <link>https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/</guid>
+      <pubDate>Thu, 02 Jul 2026 13:53:00 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 50/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Microsoft follows Amazon, OpenAI, and Anthropic with its new AI deployment group.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
