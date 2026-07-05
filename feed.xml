@@ -5,39 +5,15 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Jul 2026 16:05:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 18:00:33 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance</title>
-      <link>https://github.com/openai/codex/issues/30364</link>
-      <guid isPermaLink="true">https://github.com/openai/codex/issues/30364</guid>
-      <pubDate>Sat, 04 Jul 2026 21:51:09 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 100/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Claude Design System Prompt</title>
-      <link>https://github.com/Trystan-SA/claude-design-system-prompt</link>
-      <guid isPermaLink="true">https://github.com/Trystan-SA/claude-design-system-prompt</guid>
-      <pubDate>Sun, 05 Jul 2026 08:43:37 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 95/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Alibaba reportedly bans employees from using Claude Code</title>
-      <link>https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/</guid>
-      <pubDate>Sat, 04 Jul 2026 16:32:08 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 95/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Alibaba has reportedly classified Claude Code as high-risk software.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
     <item>
       <title>The Log is the Agent</title>
       <link>https://arxiv.org/abs/2605.21997</link>
       <guid isPermaLink="true">https://arxiv.org/abs/2605.21997</guid>
       <pubDate>Sun, 05 Jul 2026 02:57:38 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 78/100<br/><b>Source:</b> Hacker News<br/><br/>Research paper proposing that log sequences can function as autonomous agents in AI systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 78/100<br/><b>Source:</b> Hacker News<br/><br/>Research paper proposing that agent behavior can be understood through log analysis rather than explicit prompting.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Competence Gate: gating tool-use on a small model&apos;s internal confidence signal instead of its verbalised one — Qwen3.5-4B, open weights [P]</title>
@@ -45,39 +21,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1unw5un/competence_gate_gating_tooluse_on_a_small_models/</guid>
       <pubDate>Sun, 05 Jul 2026 07:49:09 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Novel technique for gating tool-use in small language models using internal confidence signals rather than verbalized ones.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)</title>
-      <link>https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/</guid>
-      <pubDate>Sun, 05 Jul 2026 06:19:34 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Mouse: Precision Editing Tools for AI Coding Agents</title>
-      <link>https://hic-ai.com</link>
-      <guid isPermaLink="true">https://hic-ai.com</guid>
-      <pubDate>Sun, 05 Jul 2026 05:01:14 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 68/100<br/><b>Source:</b> Hacker News<br/><br/>New precision editing tools designed specifically for improving AI coding agent performance.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>If DeepMind or Anthropic is doing your exact research topic, do you still continue? [D]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1unt64q/if_deepmind_or_anthropic_is_doing_your_exact/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1unt64q/if_deepmind_or_anthropic_is_doing_your_exact/</guid>
-      <pubDate>Sun, 05 Jul 2026 04:54:28 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Is machine learning research worth it for now? [D]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1uo0dqi/is_machine_learning_research_worth_it_for_now_d/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1uo0dqi/is_machine_learning_research_worth_it_for_now_d/</guid>
-      <pubDate>Sun, 05 Jul 2026 11:58:49 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Novel technique for gating tool-use in small language models based on internal confidence signals rather than verbalized confidence.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>If your GPU can run inference, it should be able to fine-tune too. [P]</title>
@@ -85,7 +29,31 @@
       <guid isPermaLink="true">https://github.com/tsuyu122/usaf</guid>
       <pubDate>Sat, 04 Jul 2026 21:56:48 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research or project demonstrating that GPUs capable of inference can also perform fine-tuning tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research or technique proposing that GPUs capable of inference should be capable of fine-tuning with appropriate methods.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Alibaba reportedly bans employees from using Claude Code</title>
+      <link>https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/</guid>
+      <pubDate>Sat, 04 Jul 2026 16:32:08 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 74/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Report that Alibaba has banned employees from using Claude Code, citing concerns about external AI tool usage.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance</title>
+      <link>https://github.com/openai/codex/issues/30364</link>
+      <guid isPermaLink="true">https://github.com/openai/codex/issues/30364</guid>
+      <pubDate>Sat, 04 Jul 2026 21:51:09 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>GitHub issue discusses potential performance degradation in GPT-5.5 Codex related to reasoning-token clustering.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Mouse: Precision Editing Tools for AI Coding Agents</title>
+      <link>https://hic-ai.com</link>
+      <guid isPermaLink="true">https://hic-ai.com</guid>
+      <pubDate>Sun, 05 Jul 2026 05:01:14 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 68/100<br/><b>Source:</b> Hacker News<br/><br/>New precision editing tool designed to improve the code generation accuracy of AI coding agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Open Source AI Gap Map</title>
@@ -93,47 +61,15 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything</guid>
       <pubDate>Fri, 03 Jul 2026 22:04:31 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 62/100<br/><b>Source:</b> Simon Willison<br/><br/>Analysis documenting gaps between open source and proprietary AI model capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 62/100<br/><b>Source:</b> Simon Willison<br/><br/>Analysis documenting gaps between proprietary and open source AI models across various capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>AI has torched the market for junior programmers</title>
-      <link>https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/</link>
-      <guid isPermaLink="true">https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/</guid>
-      <pubDate>Sat, 04 Jul 2026 19:50:08 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Midjourney wants Hollywood studios to reveal the details of their AI usage</title>
-      <link>https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/</guid>
-      <pubDate>Sat, 04 Jul 2026 18:00:05 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> TechCrunch AI<br/><br/>As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>I built a open source neural network shape validator [P]</title>
-      <link>https://i.redd.it/1c6x0ugqzcbh1.jpeg</link>
-      <guid isPermaLink="true">https://i.redd.it/1c6x0ugqzcbh1.jpeg</guid>
-      <pubDate>Sun, 05 Jul 2026 06:58:02 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 56/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Open source neural network shape validator tool released by community developer.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Better Models: Worse Tools</title>
-      <link>https://simonwillison.net/2026/Jul/4/better-models-worse-tools/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/4/better-models-worse-tools/#atom-everything</guid>
-      <pubDate>Sat, 04 Jul 2026 22:53:52 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 56/100<br/><b>Source:</b> Simon Willison<br/><br/>Opinion piece discussing tradeoffs between model capability improvements and practical tool usability.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Australian influencer Lily Jay&apos;s tangled web of AI manipulation</title>
-      <link>https://www.abc.net.au/news/2026-07-05/lily-jay-foundation-posts-ai-generated-misleading-videos/106866422</link>
-      <guid isPermaLink="true">https://www.abc.net.au/news/2026-07-05/lily-jay-foundation-posts-ai-generated-misleading-videos/106866422</guid>
-      <pubDate>Sat, 04 Jul 2026 21:50:14 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 50/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Claude Design System Prompt</title>
+      <link>https://github.com/Trystan-SA/claude-design-system-prompt</link>
+      <guid isPermaLink="true">https://github.com/Trystan-SA/claude-design-system-prompt</guid>
+      <pubDate>Sun, 05 Jul 2026 08:43:37 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 56/100<br/><b>Source:</b> Hacker News<br/><br/>GitHub repository containing a design system prompt for Claude.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress</title>
@@ -141,15 +77,79 @@
       <guid isPermaLink="true">https://ekinertac.com/blog/i-dont-know-rust-my-ai-is-rewriting-php-in-it/</guid>
       <pubDate>Sat, 04 Jul 2026 21:35:30 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 50/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> Hacker News<br/><br/>Developer built a PHP engine in Rust using AI assistance and achieved partial compatibility with PHP test suite.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>ECCV travel support program [D]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1unx5f8/eccv_travel_support_program_d/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1unx5f8/eccv_travel_support_program_d/</guid>
-      <pubDate>Sun, 05 Jul 2026 08:49:12 +0000</pubDate>
+      <title>Amazon will stop accepting new customers for Mechanical Turk</title>
+      <link>https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/</guid>
+      <pubDate>Sun, 05 Jul 2026 17:43:36 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 50/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Amazon will cease accepting new customers for Mechanical Turk crowdsourcing platform.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Better Models: Worse Tools</title>
+      <link>https://simonwillison.net/2026/Jul/4/better-models-worse-tools/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/4/better-models-worse-tools/#atom-everything</guid>
+      <pubDate>Sat, 04 Jul 2026 22:53:52 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 56/100<br/><b>Source:</b> Simon Willison<br/><br/>Opinion piece analyzing the tradeoff between improved model capabilities and tool usability.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>AI has torched the market for junior programmers</title>
+      <link>https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/</link>
+      <guid isPermaLink="true">https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/</guid>
+      <pubDate>Sat, 04 Jul 2026 19:50:08 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 54/100<br/><b>Source:</b> Hacker News<br/><br/>Opinion piece discussing the impact of AI tools on employment opportunities for junior programmers.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)</title>
+      <link>https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/</guid>
+      <pubDate>Sun, 05 Jul 2026 06:19:34 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 52/100<br/><b>Source:</b> Hacker News<br/><br/>Release candidate of sqlite-utils primarily developed by Claude AI assistant.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>I built a open source neural network shape validator [P]</title>
+      <link>https://i.redd.it/1c6x0ugqzcbh1.jpeg</link>
+      <guid isPermaLink="true">https://i.redd.it/1c6x0ugqzcbh1.jpeg</guid>
+      <pubDate>Sun, 05 Jul 2026 06:58:02 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 50/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Open source tool for validating neural network tensor shapes during development.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Midjourney wants Hollywood studios to reveal the details of their AI usage</title>
+      <link>https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/</guid>
+      <pubDate>Sat, 04 Jul 2026 18:00:05 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 48/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Midjourney requesting that Hollywood studios disclose details of their AI usage in productions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>What is Mistral AI? Everything to know about the OpenAI competitor</title>
+      <link>https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/</guid>
+      <pubDate>Sat, 04 Jul 2026 15:51:32 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 48/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Overview article explaining Mistral AI&apos;s background and positioning as an OpenAI alternative.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>If DeepMind or Anthropic is doing your exact research topic, do you still continue? [D]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1unt64q/if_deepmind_or_anthropic_is_doing_your_exact/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1unt64q/if_deepmind_or_anthropic_is_doing_your_exact/</guid>
+      <pubDate>Sun, 05 Jul 2026 04:54:28 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 32/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Discussion thread asking whether researchers should continue work if major labs are pursuing the same topic.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Is machine learning research worth it for now? [D]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1uo0dqi/is_machine_learning_research_worth_it_for_now_d/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1uo0dqi/is_machine_learning_research_worth_it_for_now_d/</guid>
+      <pubDate>Sun, 05 Jul 2026 11:58:49 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 32/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Discussion thread questioning the viability of machine learning research as a career path.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
