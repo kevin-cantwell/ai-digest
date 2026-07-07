@@ -5,15 +5,15 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jul 2026 14:27:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 17:11:39 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Small AI Models Gain Traction In places with unreliable networks</title>
-      <link>https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals</link>
-      <guid isPermaLink="true">https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals</guid>
-      <pubDate>Mon, 06 Jul 2026 23:59:54 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Analysis of how small language models are gaining adoption in regions with unreliable network infrastructure.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>The Making of Claude Code</title>
+      <link>https://www.anthropic.com/features/making-of-claude-code</link>
+      <guid isPermaLink="true">https://www.anthropic.com/features/making-of-claude-code</guid>
+      <pubDate>Tue, 07 Jul 2026 06:19:20 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic details the development and capabilities of Claude Code, their AI coding assistant.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Ternlight – 7 MB embedding model that runs in browser (WASM)</title>
@@ -21,15 +21,15 @@
       <guid isPermaLink="true">https://ternlight-demo.vercel.app/</guid>
       <pubDate>Mon, 06 Jul 2026 23:06:31 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Ternlight is a 7 MB embedding model that runs in-browser via WebAssembly, enabling edge AI inference without server dependency.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Ternlight demonstrates a 7MB embedding model that runs directly in browsers via WebAssembly.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files</title>
-      <link>https://github.com/iOfficeAI/OfficeCLI</link>
-      <guid isPermaLink="true">https://github.com/iOfficeAI/OfficeCLI</guid>
-      <pubDate>Mon, 06 Jul 2026 16:47:44 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>OfficeCLI provides a CLI tool enabling AI agents to read and edit Microsoft Office files programmatically.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Small AI Models Gain Traction In places with unreliable networks</title>
+      <link>https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals</link>
+      <guid isPermaLink="true">https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals</guid>
+      <pubDate>Mon, 06 Jul 2026 23:59:54 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Small language models are gaining adoption in regions with unreliable network infrastructure.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Pruning RAG context down to what the answer actually needs</title>
@@ -37,55 +37,7 @@
       <guid isPermaLink="true">https://www.kapa.ai/blog/how-we-prune-rag-context</guid>
       <pubDate>Mon, 06 Jul 2026 19:28:24 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Technical approach to pruning RAG context to improve efficiency and reduce irrelevant retrieval in LLM systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>MIRA: Multiplayer Interactive World Models trained on Rocket League [R]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1upofuw/mira_multiplayer_interactive_world_models_trained/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1upofuw/mira_multiplayer_interactive_world_models_trained/</guid>
-      <pubDate>Tue, 07 Jul 2026 07:59:10 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>MIRA framework trains multiplayer interactive world models using Rocket League as training environment.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>LingBot-Vision: masked boundary modeling for self-supervised pretraining (0.296 NYUv2 linear-probe RMSE at 1.1B vs 0.309 for DINOv3-7B, trails on ImageNet); weights in 4 sizes[R]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1up4cjh/lingbotvision_masked_boundary_modeling_for/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1up4cjh/lingbotvision_masked_boundary_modeling_for/</guid>
-      <pubDate>Mon, 06 Jul 2026 17:37:58 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>LingBot-Vision proposes masked boundary modeling for self-supervised vision pretraining with competitive performance on depth estimation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>TRACE: open-source hierarchical memory for LLM agents, 82.5% on MemoryAgentBench’s EventQA using gpt-oss-20B [P]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1uoz5jo/trace_opensource_hierarchical_memory_for_llm/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1uoz5jo/trace_opensource_hierarchical_memory_for_llm/</guid>
-      <pubDate>Mon, 06 Jul 2026 14:35:56 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>TRACE is an open-source hierarchical memory system for LLM agents achieving 82.5% on MemoryAgentBench.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>CPU TTS benchmark with UTMOS MOS scoring: Kokoro, Supertonic, Inflect-Nano, and Kyutai&apos;s new Pocket TTS [P]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1up0azr/cpu_tts_benchmark_with_utmos_mos_scoring_kokoro/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1up0azr/cpu_tts_benchmark_with_utmos_mos_scoring_kokoro/</guid>
-      <pubDate>Mon, 06 Jul 2026 15:17:36 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Benchmark comparing CPU-based text-to-speech models including new Kyutai Pocket TTS using UTMOS MOS scoring.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Masked depth modeling with sensor-validity masking: reports best RMSE on 7 of 8 masked/sparse depth benchmarks, plus a controlled encoder-init study[R]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1upqghy/masked_depth_modeling_with_sensorvalidity_masking/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1upqghy/masked_depth_modeling_with_sensorvalidity_masking/</guid>
-      <pubDate>Tue, 07 Jul 2026 09:54:50 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research on masked depth modeling with sensor-validity masking achieving top results on sparse depth benchmarks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>AMD Ryzen AI Halo – $4k AI Dev Kit</title>
-      <link>https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo</link>
-      <guid isPermaLink="true">https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo</guid>
-      <pubDate>Mon, 06 Jul 2026 15:01:18 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>AMD launches Ryzen AI Halo, a $4k developer kit for edge AI applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Kapa.ai presents techniques for optimizing RAG systems by pruning context to essential information.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Vercel CEO Guillermo Rauch on the fight to split off models from agents</title>
@@ -93,7 +45,55 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/</guid>
       <pubDate>Mon, 06 Jul 2026 19:49:10 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>CEO opinion piece on the architectural separation between AI models and agent systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Vercel CEO discusses architectural separation of AI models from agents in application design.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Claude Cowork expands to mobile and web</title>
+      <link>https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/</guid>
+      <pubDate>Tue, 07 Jul 2026 16:27:18 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic expands Claude Code to mobile and web platforms for coding assistance.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>MIRA: Multiplayer Interactive World Models trained on Rocket League [R]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1upofuw/mira_multiplayer_interactive_world_models_trained/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1upofuw/mira_multiplayer_interactive_world_models_trained/</guid>
+      <pubDate>Tue, 07 Jul 2026 07:59:10 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>MIRA introduces multiplayer interactive world models trained on Rocket League game data.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>LingBot-Vision: masked boundary modeling for self-supervised pretraining (0.296 NYUv2 linear-probe RMSE at 1.1B vs 0.309 for DINOv3-7B, trails on ImageNet); weights in 4 sizes[R]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1up4cjh/lingbotvision_masked_boundary_modeling_for/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1up4cjh/lingbotvision_masked_boundary_modeling_for/</guid>
+      <pubDate>Mon, 06 Jul 2026 17:37:58 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>LingBot-Vision proposes masked boundary modeling for vision model pretraining with competitive benchmark results.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Masked depth modeling with sensor-validity masking: reports best RMSE on 7 of 8 masked/sparse depth benchmarks, plus a controlled encoder-init study[R]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1upqghy/masked_depth_modeling_with_sensorvalidity_masking/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1upqghy/masked_depth_modeling_with_sensorvalidity_masking/</guid>
+      <pubDate>Tue, 07 Jul 2026 09:54:50 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research on masked depth modeling achieves strong performance on sparse depth benchmarks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>TorchJD: Training with multiple losses in PyTorch [P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1upzxk2/torchjd_training_with_multiple_losses_in_pytorch_p/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1upzxk2/torchjd_training_with_multiple_losses_in_pytorch_p/</guid>
+      <pubDate>Tue, 07 Jul 2026 16:20:47 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 56/100<br/><b>Source:</b> r/MachineLearning<br/><br/>TorchJD is a PyTorch library for training neural networks with multiple loss functions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom</title>
+      <link>https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/</guid>
+      <pubDate>Tue, 07 Jul 2026 12:00:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Savi releases an app to detect and protect against AI-generated voice scams.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>If you use Google, you’re training its AI. Here’s how to opt out.</title>
@@ -101,15 +101,15 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/</guid>
       <pubDate>Mon, 06 Jul 2026 17:04:58 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 56/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Explainer on how Google uses user data for AI training and how to opt out.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 56/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Article explains how Google uses user data for AI training and provides opt-out guidance.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Station F ramps up as a launchpad for Europe’s hottest AI startups</title>
-      <link>https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/</guid>
-      <pubDate>Mon, 06 Jul 2026 13:00:00 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 50/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Station F, a Paris-based startup hub founded by French billionaire Xavier Niel, is gearing up for a new edition of its F/ai accelerator program in a bid to strengthen its positioning as a stepping sto<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Raffi Krikorian (CTO, Mozilla) — AMA on the State of Open Source AI (July 14 @ 1pm EDT) [D]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1upxdvc/raffi_krikorian_cto_mozilla_ama_on_the_state_of/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1upxdvc/raffi_krikorian_cto_mozilla_ama_on_the_state_of/</guid>
+      <pubDate>Tue, 07 Jul 2026 14:51:29 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 44/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Announcement of upcoming AMA with Mozilla CTO on open source AI.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>YC CEO says he ships 37K LoC AI code per day. A developer looked under the hood</title>
@@ -117,7 +117,15 @@
       <guid isPermaLink="true">https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media</guid>
       <pubDate>Tue, 07 Jul 2026 08:39:51 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 42/100<br/><b>Source:</b> Hacker News<br/><br/>Speculative analysis of Y Combinator CEO&apos;s claimed AI code generation productivity.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 42/100<br/><b>Source:</b> Hacker News<br/><br/>Commentary on Y Combinator CEO&apos;s claims about AI code generation productivity.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Station F ramps up as a launchpad for Europe’s hottest AI startups</title>
+      <link>https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/</guid>
+      <pubDate>Mon, 06 Jul 2026 13:00:00 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 38/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Station F accelerator program increases focus on European AI startups.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
