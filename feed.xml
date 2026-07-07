@@ -5,15 +5,23 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jul 2026 04:50:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 08:20:54 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Small AI Models Gain Traction In places with unreliable networks</title>
+      <link>https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals</link>
+      <guid isPermaLink="true">https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals</guid>
+      <pubDate>Mon, 06 Jul 2026 23:59:54 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Analysis of how small AI models are gaining adoption in regions with unreliable network infrastructure.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
     <item>
       <title>Ternlight – 7 MB embedding model that runs in browser (WASM)</title>
       <link>https://ternlight-demo.vercel.app/</link>
       <guid isPermaLink="true">https://ternlight-demo.vercel.app/</guid>
       <pubDate>Mon, 06 Jul 2026 23:06:31 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Ternlight is a 7MB embedding model that runs in the browser using WebAssembly.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Ternlight is a 7MB embedding model that runs in the browser using WebAssembly, enabling on-device AI inference.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files</title>
@@ -21,7 +29,7 @@
       <guid isPermaLink="true">https://github.com/iOfficeAI/OfficeCLI</guid>
       <pubDate>Mon, 06 Jul 2026 16:47:44 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>OfficeCLI provides a toolkit for AI agents to read and edit Microsoft Office files.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>OfficeCLI is an open-source tool that enables AI agents to read and edit Microsoft Office files programmatically.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>The Hitchhiker&apos;s Guide to Agentic AI</title>
@@ -29,7 +37,7 @@
       <guid isPermaLink="true">https://arxiv.org/abs/2606.24937</guid>
       <pubDate>Mon, 06 Jul 2026 08:40:29 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>A comprehensive guide paper on agentic AI systems and their design principles.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Survey paper providing a comprehensive guide to agentic AI systems, their design, and deployment considerations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Show HN: Scan your AI agents for dangerous capabilities</title>
@@ -37,47 +45,7 @@
       <guid isPermaLink="true">https://github.com/makerchecker/MakerChecker</guid>
       <pubDate>Mon, 06 Jul 2026 13:17:27 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>MakerChecker is an open-source tool for scanning AI agents for dangerous capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>LingBot-Vision: masked boundary modeling for self-supervised pretraining (0.296 NYUv2 linear-probe RMSE at 1.1B vs 0.309 for DINOv3-7B, trails on ImageNet); weights in 4 sizes[R]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1up4cjh/lingbotvision_masked_boundary_modeling_for/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1up4cjh/lingbotvision_masked_boundary_modeling_for/</guid>
-      <pubDate>Mon, 06 Jul 2026 17:37:58 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>LingBot-Vision introduces masked boundary modeling for self-supervised vision pretraining with competitive benchmarks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>TRACE: open-source hierarchical memory for LLM agents, 82.5% on MemoryAgentBench’s EventQA using gpt-oss-20B [P]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1uoz5jo/trace_opensource_hierarchical_memory_for_llm/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1uoz5jo/trace_opensource_hierarchical_memory_for_llm/</guid>
-      <pubDate>Mon, 06 Jul 2026 14:35:56 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>TRACE is an open-source hierarchical memory system for LLM agents achieving 82.5% on MemoryAgentBench.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Small AI Models Gain Traction In places with unreliable networks</title>
-      <link>https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals</link>
-      <guid isPermaLink="true">https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals</guid>
-      <pubDate>Mon, 06 Jul 2026 23:59:54 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>Analysis of small AI models gaining adoption in regions with unreliable network infrastructure.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>AMD Ryzen AI Halo – $4k AI Dev Kit</title>
-      <link>https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo</link>
-      <guid isPermaLink="true">https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo</guid>
-      <pubDate>Mon, 06 Jul 2026 15:01:18 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>AMD announces a $4000 AI development kit using Ryzen AI Halo processors.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>CPU TTS benchmark with UTMOS MOS scoring: Kokoro, Supertonic, Inflect-Nano, and Kyutai&apos;s new Pocket TTS [P]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1up0azr/cpu_tts_benchmark_with_utmos_mos_scoring_kokoro/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1up0azr/cpu_tts_benchmark_with_utmos_mos_scoring_kokoro/</guid>
-      <pubDate>Mon, 06 Jul 2026 15:17:36 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Benchmark comparison of CPU-based text-to-speech models using UTMOS scoring.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>MakerChecker is an open-source tool for scanning AI agents to detect dangerous or unintended capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Vercel CEO Guillermo Rauch on the fight to split off models from agents</title>
@@ -85,7 +53,23 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/</guid>
       <pubDate>Mon, 06 Jul 2026 19:49:10 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>CEO opinion piece on separating AI models from agents without substantial technical news.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Vercel CEO discusses the architectural separation of AI models from agent systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>LingBot-Vision: masked boundary modeling for self-supervised pretraining (0.296 NYUv2 linear-probe RMSE at 1.1B vs 0.309 for DINOv3-7B, trails on ImageNet); weights in 4 sizes[R]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1up4cjh/lingbotvision_masked_boundary_modeling_for/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1up4cjh/lingbotvision_masked_boundary_modeling_for/</guid>
+      <pubDate>Mon, 06 Jul 2026 17:37:58 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>LingBot-Vision proposes masked boundary modeling for self-supervised pretraining with competitive efficiency metrics.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>CPU TTS benchmark with UTMOS MOS scoring: Kokoro, Supertonic, Inflect-Nano, and Kyutai&apos;s new Pocket TTS [P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1up0azr/cpu_tts_benchmark_with_utmos_mos_scoring_kokoro/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1up0azr/cpu_tts_benchmark_with_utmos_mos_scoring_kokoro/</guid>
+      <pubDate>Mon, 06 Jul 2026 15:17:36 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Benchmark comparison of CPU-based text-to-speech models including Kokoro and Kyutai&apos;s Pocket TTS.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Pruning RAG context down to what the answer actually needs</title>
@@ -93,7 +77,23 @@
       <guid isPermaLink="true">https://www.kapa.ai/blog/how-we-prune-rag-context</guid>
       <pubDate>Mon, 06 Jul 2026 19:28:24 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> Hacker News<br/><br/>Technical blog post on optimizing RAG systems by pruning context to relevant information.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>Technical discussion of context pruning techniques for improving RAG system efficiency and accuracy.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>AMD Ryzen AI Halo – $4k AI Dev Kit</title>
+      <link>https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo</link>
+      <guid isPermaLink="true">https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo</guid>
+      <pubDate>Mon, 06 Jul 2026 15:01:18 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>AMD announces Ryzen AI Halo development kit priced at $4,000 for AI application development.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>TRACE: open-source hierarchical memory for LLM agents, 82.5% on MemoryAgentBench’s EventQA using gpt-oss-20B [P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1uoz5jo/trace_opensource_hierarchical_memory_for_llm/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1uoz5jo/trace_opensource_hierarchical_memory_for_llm/</guid>
+      <pubDate>Mon, 06 Jul 2026 14:35:56 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>TRACE is an open-source hierarchical memory system for LLM agents with benchmark performance results.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>If you use Google, you’re training its AI. Here’s how to opt out.</title>
@@ -101,23 +101,15 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/</guid>
       <pubDate>Mon, 06 Jul 2026 17:04:58 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 56/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Report on Google&apos;s use of user data for AI training and opt-out options.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 56/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Article about Google&apos;s AI training practices and user opt-out options.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>GLM 5.2 and the coming AI margin collapse</title>
-      <link>https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/</link>
-      <guid isPermaLink="true">https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/</guid>
-      <pubDate>Mon, 06 Jul 2026 20:14:55 +0000</pubDate>
+      <title>The ‘first’ AI-run ransomware attack still needed a human</title>
+      <link>https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/</guid>
+      <pubDate>Mon, 06 Jul 2026 23:56:14 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 52/100<br/><b>Source:</b> Hacker News<br/><br/>Opinion piece speculating on AI margin compression without confirmed technical developments.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Kani: A Model Checker for Rust</title>
-      <link>https://arxiv.org/abs/2607.01504</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2607.01504</guid>
-      <pubDate>Mon, 06 Jul 2026 15:53:24 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 52/100<br/><b>Source:</b> Hacker News<br/><br/>Kani is a model checker for Rust with no substantive AI technology connection.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 50/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Analysis of ransomware attack labeled as AI-run, highlighting that human involvement was still critical.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Station F ramps up as a launchpad for Europe’s hottest AI startups</title>
