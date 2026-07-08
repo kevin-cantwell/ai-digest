@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Jul 2026 07:26:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 10:13:47 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>GitLost: We Tricked GitHub&apos;s AI Agent into Leaking Private Repos</title>
@@ -13,31 +13,7 @@
       <guid isPermaLink="true">https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/</guid>
       <pubDate>Wed, 08 Jul 2026 05:25:35 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Security research demonstrating vulnerability in GitHub&apos;s AI agent that leaked private repositories.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Show HN: Halo – open-source, tamper-evident runtime evidence for AI agents</title>
-      <link>https://github.com/bkuan001/halo-record</link>
-      <guid isPermaLink="true">https://github.com/bkuan001/halo-record</guid>
-      <pubDate>Tue, 07 Jul 2026 14:07:08 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Open-source framework for creating tamper-evident runtime records of AI agent behavior.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop</title>
-      <link>https://github.com/rowboatlabs/rowboat</link>
-      <guid isPermaLink="true">https://github.com/rowboatlabs/rowboat</guid>
-      <pubDate>Tue, 07 Jul 2026 16:10:44 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 74/100<br/><b>Source:</b> Hacker News<br/><br/>Open-source local alternative to Claude Desktop for running AI models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Masked depth modeling with sensor-validity masking: reports best RMSE on 7 of 8 masked/sparse depth benchmarks, plus a controlled encoder-init study[R]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1upqghy/masked_depth_modeling_with_sensorvalidity_masking/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1upqghy/masked_depth_modeling_with_sensorvalidity_masking/</guid>
-      <pubDate>Tue, 07 Jul 2026 09:54:50 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research on masked depth modeling achieving top benchmark results on sparse depth tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>Security researchers demonstrate a vulnerability in GitHub&apos;s AI agent that allows extraction of private repository contents through prompt injection.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>AI Meets Cryptography 1: What AI Found in Cloudflare&apos;s Circl</title>
@@ -45,7 +21,31 @@
       <guid isPermaLink="true">https://blog.zksecurity.xyz/posts/circl-bugs/</guid>
       <pubDate>Tue, 07 Jul 2026 18:36:35 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Security analysis of bugs discovered in Cloudflare&apos;s cryptographic library using AI methods.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>AI-assisted security analysis discovers multiple vulnerabilities in Cloudflare&apos;s cryptographic library.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Show HN: Halo – open-source, tamper-evident runtime evidence for AI agents</title>
+      <link>https://github.com/bkuan001/halo-record</link>
+      <guid isPermaLink="true">https://github.com/bkuan001/halo-record</guid>
+      <pubDate>Tue, 07 Jul 2026 14:07:08 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Open-source project introduces tamper-evident runtime evidence system for AI agent auditing.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop</title>
+      <link>https://github.com/rowboatlabs/rowboat</link>
+      <guid isPermaLink="true">https://github.com/rowboatlabs/rowboat</guid>
+      <pubDate>Tue, 07 Jul 2026 16:10:44 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 74/100<br/><b>Source:</b> Hacker News<br/><br/>Open-source alternative to Claude Desktop launched with local-first architecture.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Hot French startup ZML releases free product to speed inference across lots of AI chips</title>
+      <link>https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/</guid>
+      <pubDate>Wed, 08 Jul 2026 08:00:00 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 74/100<br/><b>Source:</b> TechCrunch AI<br/><br/>French startup releases cross-platform inference optimization tool to improve AI model performance across diverse chip architectures.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Show HN: Shellular – run Claude Code, Codex, Pi from your phone</title>
@@ -53,55 +53,23 @@
       <guid isPermaLink="true">https://shellular.dev/</guid>
       <pubDate>Tue, 07 Jul 2026 14:08:58 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>A tool enabling Claude, Codex, and Pi to run from mobile devices.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Developer tool released enabling execution of Claude, Codex, and Pi models from mobile devices.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Australian Payments Plus moves faster with ChatGPT and Codex</title>
-      <link>https://openai.com/index/australian-payments-plus</link>
-      <guid isPermaLink="true">https://openai.com/index/australian-payments-plus</guid>
-      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Case study of a financial services company using ChatGPT and Codex.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Hackers can use 9 of the most popular AI tools to assemble massive botnets</title>
+      <link>https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/</link>
+      <guid isPermaLink="true">https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/</guid>
+      <pubDate>Wed, 08 Jul 2026 07:00:51 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 68/100<br/><b>Source:</b> Ars Technica<br/><br/>Security research reveals that nine popular AI tools can be misused by attackers to construct large-scale botnets.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>MIRA: Multiplayer Interactive World Models trained on Rocket League [R]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1upofuw/mira_multiplayer_interactive_world_models_trained/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1upofuw/mira_multiplayer_interactive_world_models_trained/</guid>
-      <pubDate>Tue, 07 Jul 2026 07:59:10 +0000</pubDate>
+      <title>AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round</title>
+      <link>https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/</guid>
+      <pubDate>Wed, 08 Jul 2026 07:16:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research on training multiplayer interactive world models using Rocket League data.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Vercel CEO Guillermo Rauch on the fight to split off models from agents</title>
-      <link>https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/</guid>
-      <pubDate>Mon, 06 Jul 2026 19:49:10 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Executive perspective on architectural separation between AI models and agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Claude Cowork expands to mobile and web</title>
-      <link>https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/</guid>
-      <pubDate>Tue, 07 Jul 2026 16:27:18 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic expands Claude coding agent capabilities to mobile and web platforms.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>TorchJD: Training with multiple losses in PyTorch [P]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1upzxk2/torchjd_training_with_multiple_losses_in_pytorch_p/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1upzxk2/torchjd_training_with_multiple_losses_in_pytorch_p/</guid>
-      <pubDate>Tue, 07 Jul 2026 16:20:47 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Open-source PyTorch library for training neural networks with multiple loss functions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Ph.D. thesis on Differentiable Ray Tracing for Radio Propagation Modeling [R]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1upvkp5/phd_thesis_on_differentiable_ray_tracing_for/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1upvkp5/phd_thesis_on_differentiable_ray_tracing_for/</guid>
-      <pubDate>Tue, 07 Jul 2026 13:45:40 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>PhD thesis on differentiable ray tracing techniques for radio propagation modeling.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>AI chip manufacturer SambaNova raises $1 billion at $11 billion valuation in Series F funding.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Microsoft joins AI cost-cutting trend by relying more on its own models</title>
@@ -109,47 +77,47 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/</guid>
       <pubDate>Tue, 07 Jul 2026 19:58:20 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Report on Microsoft shifting toward proprietary models to reduce AI infrastructure costs.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Microsoft shifts toward relying on proprietary models to reduce AI infrastructure costs.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Why the rise of open source AI isn’t hurting Anthropic … yet</title>
-      <link>https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/</guid>
-      <pubDate>Tue, 07 Jul 2026 20:04:32 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 56/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Opinion analysis on open-source AI&apos;s current competitive impact on Anthropic.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>If you use Google, you’re training its AI. Here’s how to opt out.</title>
-      <link>https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/</guid>
-      <pubDate>Mon, 06 Jul 2026 17:04:58 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 56/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Article on Google&apos;s AI training data practices and user opt-out options.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>[AINews] Lilian Weng summarizes 35 papers on Harness Engineering for RSI</title>
-      <link>https://www.latent.space/p/ainews-lilian-weng-summarizes-35</link>
-      <guid isPermaLink="true">https://www.latent.space/p/ainews-lilian-weng-summarizes-35</guid>
-      <pubDate>Wed, 08 Jul 2026 02:20:25 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 56/100<br/><b>Source:</b> Latent Space<br/><br/>Summary collection of 35 papers on prompt engineering and reasoning techniques.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>MUFG aims to become AI-native with OpenAI</title>
-      <link>https://openai.com/index/mufg</link>
-      <guid isPermaLink="true">https://openai.com/index/mufg</guid>
-      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+      <title>Vercel CEO Guillermo Rauch on the fight to split off models from agents</title>
+      <link>https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/</guid>
+      <pubDate>Mon, 06 Jul 2026 19:49:10 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 54/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Financial institution partnership announcement with OpenAI for AI integration.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Vercel CEO discusses industry trend toward separating foundation models from agent systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Mid research got me thinking what about reversed alignment, would trained &quot;bad&quot; model exhibit&quot;good&quot; behavior later and/or secretly [D]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1uq4qis/mid_research_got_me_thinking_what_about_reversed/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1uq4qis/mid_research_got_me_thinking_what_about_reversed/</guid>
-      <pubDate>Tue, 07 Jul 2026 19:08:12 +0000</pubDate>
+      <title>Claude Cowork expands to mobile and web</title>
+      <link>https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/</guid>
+      <pubDate>Tue, 07 Jul 2026 16:27:18 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Claude Cowork coding agent expands platform availability to mobile and web interfaces.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Australian Payments Plus moves faster with ChatGPT and Codex</title>
+      <link>https://openai.com/index/australian-payments-plus</link>
+      <guid isPermaLink="true">https://openai.com/index/australian-payments-plus</guid>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Case study of a financial services company using ChatGPT and Codex for operational efficiency.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>TorchJD: Training with multiple losses in PyTorch [P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1upzxk2/torchjd_training_with_multiple_losses_in_pytorch_p/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1upzxk2/torchjd_training_with_multiple_losses_in_pytorch_p/</guid>
+      <pubDate>Tue, 07 Jul 2026 16:20:47 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 52/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Speculative discussion about reversed alignment research without concrete findings.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>PyTorch library released enabling multi-objective optimization training with joint gradient descent.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Ph.D. thesis on Differentiable Ray Tracing for Radio Propagation Modeling [R]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1upvkp5/phd_thesis_on_differentiable_ray_tracing_for/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1upvkp5/phd_thesis_on_differentiable_ray_tracing_for/</guid>
+      <pubDate>Tue, 07 Jul 2026 13:45:40 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Academic research applies differentiable programming to radio propagation modeling.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos</title>
@@ -157,15 +125,47 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/</guid>
       <pubDate>Tue, 07 Jul 2026 22:18:10 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 50/100<br/><b>Source:</b> TechCrunch AI<br/><br/>The new image-generating model has numerous use cases, including advertising and decorating, and creator-based opportunities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Meta launches Muse Image generator amid user concerns over training data sourced from their photos.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Station F ramps up as a launchpad for Europe’s hottest AI startups</title>
-      <link>https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/</guid>
-      <pubDate>Mon, 06 Jul 2026 13:00:00 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 50/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Station F, a Paris-based startup hub founded by French billionaire Xavier Niel, is gearing up for a new edition of its F/ai accelerator program in a bid to strengthen its positioning as a stepping sto<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Why the rise of open source AI isn’t hurting Anthropic … yet</title>
+      <link>https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/</guid>
+      <pubDate>Tue, 07 Jul 2026 20:04:32 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Analysis of how open-source AI competition affects Anthropic&apos;s market position and strategy.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>If you use Google, you’re training its AI. Here’s how to opt out.</title>
+      <link>https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/</guid>
+      <pubDate>Mon, 06 Jul 2026 17:04:58 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Guide explaining how Google uses user data for AI training and privacy opt-out options.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Beijing is looking at curbing overseas access to China&apos;s top AI models</title>
+      <link>https://www.reuters.com/world/beijing-is-looking-curbing-overseas-access-chinas-top-ai-models-sources-say-2026-07-07/</link>
+      <guid isPermaLink="true">https://www.reuters.com/world/beijing-is-looking-curbing-overseas-access-chinas-top-ai-models-sources-say-2026-07-07/</guid>
+      <pubDate>Tue, 07 Jul 2026 10:51:07 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> Hacker News<br/><br/>Chinese government reportedly considering restrictions on overseas access to domestic AI models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Raffi Krikorian (CTO, Mozilla) — AMA on the State of Open Source AI (July 14 @ 1pm EDT) [D]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1upxdvc/raffi_krikorian_cto_mozilla_ama_on_the_state_of/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1upxdvc/raffi_krikorian_cto_mozilla_ama_on_the_state_of/</guid>
+      <pubDate>Tue, 07 Jul 2026 14:51:29 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 56/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Announcement of scheduled AMA with Mozilla CTO on open source AI.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>[AINews] Lilian Weng summarizes 35 papers on Harness Engineering for RSI</title>
+      <link>https://www.latent.space/p/ainews-lilian-weng-summarizes-35</link>
+      <guid isPermaLink="true">https://www.latent.space/p/ainews-lilian-weng-summarizes-35</guid>
+      <pubDate>Wed, 08 Jul 2026 02:20:25 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 56/100<br/><b>Source:</b> Latent Space<br/><br/>Paper summary collection on harness engineering for responsible scaling and integration.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
