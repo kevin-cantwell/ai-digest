@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Jul 2026 06:41:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 10:22:33 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’</title>
@@ -13,7 +13,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/</guid>
       <pubDate>Wed, 08 Jul 2026 19:30:16 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 84/100<br/><b>Source:</b> TechCrunch AI<br/><br/>SpaceX releases Grok 4.5, positioning it as a competitive model in the Opus performance class.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 84/100<br/><b>Source:</b> TechCrunch AI<br/><br/>SpaceXAI releases Grok 4.5, described as an Opus-class large language model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Agentic safety triggers aren&apos;t textual safety triggers — MCP attacks that beat SOTA guardrails more than half the time (code + dataset) [R]</title>
@@ -21,7 +21,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1ur1fnz/agentic_safety_triggers_arent_textual_safety/</guid>
       <pubDate>Wed, 08 Jul 2026 18:36:04 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research demonstrates that agentic safety mechanisms differ fundamentally from textual guardrails, with novel attacks bypassing state-of-the-art defenses over 50% of the time.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research demonstrates that agentic safety triggers differ from textual ones, with attacks bypassing state-of-the-art guardrails over 50% of the time.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Separating signal from noise in coding evaluations</title>
@@ -29,23 +29,7 @@
       <guid isPermaLink="true">https://openai.com/index/separating-signal-from-noise-coding-evaluations</guid>
       <pubDate>Wed, 08 Jul 2026 13:00:00 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 82/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI publishes methodology for improving coding evaluation metrics to better distinguish genuine model capability from noise.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>OpenAI releases new voice models for more natural live conversations</title>
-      <link>https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/</guid>
-      <pubDate>Wed, 08 Jul 2026 17:00:00 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 80/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI releases improved voice models enabling more natural real-time conversational interactions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>[AINews] SpaceXAI launches Grok 4.5, first Opus-class model post Cursor acquisition</title>
-      <link>https://www.latent.space/p/ainews-spacexai-launches-grok-45</link>
-      <guid isPermaLink="true">https://www.latent.space/p/ainews-spacexai-launches-grok-45</guid>
-      <pubDate>Thu, 09 Jul 2026 06:05:41 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 78/100<br/><b>Source:</b> Latent Space<br/><br/>SpaceX launches Grok 4.5 as first Opus-class model following acquisition of Cursor.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 82/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI publishes methodology for evaluating coding model performance with improved signal-to-noise ratio in benchmarks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>LingBot-Video: sparse-MoE video diffusion transformer (13B total, 1.4B active) post-trained as an action-conditioned world model[R]</title>
@@ -53,7 +37,23 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1ur0bxq/lingbotvideo_sparsemoe_video_diffusion/</guid>
       <pubDate>Wed, 08 Jul 2026 17:58:32 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>LingBot-Video introduces a sparse mixture-of-experts video diffusion transformer trained as an action-conditioned world model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/MachineLearning<br/><br/>LingBot-Video introduces a sparse-MoE video diffusion transformer trained as an action-conditioned world model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>OpenAI releases new voice models for more natural live conversations</title>
+      <link>https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/</guid>
+      <pubDate>Wed, 08 Jul 2026 17:00:00 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 80/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI releases new voice models designed for more natural real-time conversational interactions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>[AINews] SpaceXAI launches Grok 4.5, first Opus-class model post Cursor acquisition</title>
+      <link>https://www.latent.space/p/ainews-spacexai-launches-grok-45</link>
+      <guid isPermaLink="true">https://www.latent.space/p/ainews-spacexai-launches-grok-45</guid>
+      <pubDate>Thu, 09 Jul 2026 06:05:41 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 78/100<br/><b>Source:</b> Latent Space<br/><br/>SpaceXAI launches Grok 4.5 as first Opus-class model following Cursor acquisition.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Hot French startup ZML releases free product to speed inference across lots of AI chips</title>
@@ -61,7 +61,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/</guid>
       <pubDate>Wed, 08 Jul 2026 08:00:00 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 74/100<br/><b>Source:</b> TechCrunch AI<br/><br/>French startup ZML releases free inference optimization tool for accelerating AI across multiple chip architectures.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 74/100<br/><b>Source:</b> TechCrunch AI<br/><br/>French startup ZML releases open inference acceleration software supporting multiple AI chip architectures.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Introducing GPT-Live</title>
@@ -69,7 +69,7 @@
       <guid isPermaLink="true">https://openai.com/index/introducing-gpt-live</guid>
       <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI introduces GPT-Live, a new product offering real-time AI capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI introduces GPT-Live, a new product or capability.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Prime Intellect raises $130M Series A to help enterprises build their own AI agents</title>
@@ -77,7 +77,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/</guid>
       <pubDate>Wed, 08 Jul 2026 16:22:38 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Prime Intellect raises $130M Series A to develop enterprise tools for building custom AI agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Prime Intellect raises $130M Series A funding to develop enterprise AI agent platforms.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Claude Cowork expands to mobile and web</title>
@@ -88,20 +88,20 @@
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic expands Claude Cowork coding agent to mobile and web platforms.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Hackers can use 9 of the most popular AI tools to assemble massive botnets</title>
-      <link>https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/</link>
-      <guid isPermaLink="true">https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/</guid>
-      <pubDate>Wed, 08 Jul 2026 07:00:51 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 62/100<br/><b>Source:</b> Ars Technica<br/><br/>Security research reveals that hackers can exploit nine popular AI tools to construct large-scale botnets.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
       <title>Microsoft joins AI cost-cutting trend by relying more on its own models</title>
       <link>https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/</link>
       <guid isPermaLink="true">https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/</guid>
       <pubDate>Tue, 07 Jul 2026 19:58:20 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Microsoft shifts towards relying on internally-developed models to reduce AI operational costs.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Microsoft shifts strategy to rely more heavily on proprietary models to reduce AI infrastructure costs.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Hackers can use 9 of the most popular AI tools to assemble massive botnets</title>
+      <link>https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/</link>
+      <guid isPermaLink="true">https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/</guid>
+      <pubDate>Wed, 08 Jul 2026 07:00:51 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 56/100<br/><b>Source:</b> Ars Technica<br/><br/>Security research shows that popular AI tools can be exploited to create botnets.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Google’s deepfake detector system used to debunk McConnell hoax pic</title>
@@ -109,7 +109,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/</guid>
       <pubDate>Wed, 08 Jul 2026 20:37:03 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Google&apos;s deepfake detection system successfully identifies and debunks a fabricated political image.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Google&apos;s deepfake detection system successfully identifies manipulated political image.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Google Photos adds a new AI ‘Video Remix’ tool</title>
@@ -117,7 +117,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/</guid>
       <pubDate>Wed, 08 Jul 2026 18:30:08 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 56/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Google Photos introduces AI-powered Video Remix feature for video generation and editing.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 56/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Google Photos introduces Video Remix, an AI-powered video generation tool.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Why this CEO thinks video games make better training data than the internet</title>
@@ -125,15 +125,15 @@
       <guid isPermaLink="true">https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/</guid>
       <pubDate>Wed, 08 Jul 2026 17:47:55 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 56/100<br/><b>Source:</b> TechCrunch AI<br/><br/>CEO argues that video game data may be superior to internet data for training AI models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 56/100<br/><b>Source:</b> TechCrunch AI<br/><br/>CEO discusses perspective that video game data may provide superior training material compared to internet data.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>[AINews] Lilian Weng summarizes 35 papers on Harness Engineering for RSI</title>
-      <link>https://www.latent.space/p/ainews-lilian-weng-summarizes-35</link>
-      <guid isPermaLink="true">https://www.latent.space/p/ainews-lilian-weng-summarizes-35</guid>
-      <pubDate>Wed, 08 Jul 2026 02:20:25 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 56/100<br/><b>Source:</b> Latent Space<br/><br/>Lilian Weng summarizes 35 papers on harness engineering for reward-sensitive imitation learning.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Why the rise of open source AI isn’t hurting Anthropic … yet</title>
+      <link>https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/</guid>
+      <pubDate>Tue, 07 Jul 2026 20:04:32 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 56/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Analysis of how open source AI development is currently affecting Anthropic&apos;s business position.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Lovable reportedly in talks to double its valuation to $13.2B</title>
@@ -141,7 +141,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/</guid>
       <pubDate>Wed, 08 Jul 2026 22:41:33 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 50/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Lovable, an AI development platform, reportedly in valuation discussions to reach $13.2B.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 50/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Lovable AI startup reportedly in funding discussions to double valuation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>This startup thinks robotics is about to have its ChatGPT moment</title>
@@ -157,15 +157,15 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/</guid>
       <pubDate>Wed, 08 Jul 2026 15:41:06 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 50/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Analysis showing AI startups are accelerating revenue growth rates.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 50/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Report on accelerating revenue growth rates among AI startups.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Why the rise of open source AI isn’t hurting Anthropic … yet</title>
-      <link>https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/</guid>
-      <pubDate>Tue, 07 Jul 2026 20:04:32 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 50/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Opinion piece examining whether open source AI growth poses a near-term threat to Anthropic&apos;s business.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>[AINews] Lilian Weng summarizes 35 papers on Harness Engineering for RSI</title>
+      <link>https://www.latent.space/p/ainews-lilian-weng-summarizes-35</link>
+      <guid isPermaLink="true">https://www.latent.space/p/ainews-lilian-weng-summarizes-35</guid>
+      <pubDate>Wed, 08 Jul 2026 02:20:25 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 50/100<br/><b>Source:</b> Latent Space<br/><br/>Lilian Weng curates summary of 35 research papers on harness engineering for RSI.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
