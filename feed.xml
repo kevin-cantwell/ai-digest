@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Jul 2026 20:41:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 21:46:46 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k</title>
@@ -13,7 +13,7 @@
       <guid isPermaLink="true">https://systima.ai/blog/claude-code-vs-opencode-token-overhead</guid>
       <pubDate>Sun, 12 Jul 2026 18:25:51 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Comparative analysis of token efficiency between Claude Code and OpenCode implementations showing significant overhead differences.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Comparative analysis of token overhead efficiency between Claude Code and OpenCode implementations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>AI boosts research careers but narrow the span of ideas explored: study</title>
@@ -21,15 +21,7 @@
       <guid isPermaLink="true">https://spectrum.ieee.org/ai-science-research-flattens-discovery</guid>
       <pubDate>Sun, 12 Jul 2026 13:26:13 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Research study finds that AI adoption in scientific research improves individual careers but narrows the diversity of research topics explored.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase</title>
-      <link>https://github.com/cosmtrek/mindwalk</link>
-      <guid isPermaLink="true">https://github.com/cosmtrek/mindwalk</guid>
-      <pubDate>Sun, 12 Jul 2026 05:51:32 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>New tool for visualizing and replaying AI coding agent sessions as interactive 3D maps of codebases.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Research study finds AI tools accelerate individual productivity but reduce diversity of research directions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Zer0Fit: I took Google&apos;s new TabFM &amp; TimesFM ML foundation models and made them available as an MCP server for zero-shot ML tasks (forecasts / classifications / regressions). 100% local. [P]</title>
@@ -37,7 +29,15 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1uue8cc/zer0fit_i_took_googles_new_tabfm_timesfm_ml/</guid>
       <pubDate>Sun, 12 Jul 2026 12:32:29 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Developer created MCP server wrapper around Google&apos;s TabFM and TimesFM foundation models for local zero-shot ML tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Developer wraps Google&apos;s TabFM and TimesFM foundation models as MCP server for zero-shot ML tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase</title>
+      <link>https://github.com/cosmtrek/mindwalk</link>
+      <guid isPermaLink="true">https://github.com/cosmtrek/mindwalk</guid>
+      <pubDate>Sun, 12 Jul 2026 05:51:32 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>New tool for visualizing and replaying coding agent sessions on an interactive codebase map.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Mesh LLM: distributed AI computing on iroh</title>
@@ -45,15 +45,15 @@
       <guid isPermaLink="true">https://www.iroh.computer/blog/mesh-llm</guid>
       <pubDate>Sat, 11 Jul 2026 22:38:57 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Technical implementation of distributed LLM computing using peer-to-peer networking via iroh protocol.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>New approach to distributed LLM computing leveraging peer-to-peer mesh architecture.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Apple sues OpenAI over alleged trade secret theft</title>
-      <link>https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/</guid>
-      <pubDate>Fri, 10 Jul 2026 21:00:29 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Apple files lawsuit against OpenAI alleging trade secret theft.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>The One-Step Trap (In AI Research)</title>
+      <link>http://incompleteideas.net/IncIdeas/OneStepTrap.html</link>
+      <guid isPermaLink="true">http://incompleteideas.net/IncIdeas/OneStepTrap.html</guid>
+      <pubDate>Sun, 12 Jul 2026 18:41:15 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> Hacker News<br/><br/>Conceptual essay on a methodological pitfall in AI research optimization.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>OpenAI bets on families as ChatGPT goes deeper into households</title>
@@ -61,15 +61,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/</guid>
       <pubDate>Sat, 11 Jul 2026 14:13:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI expands ChatGPT with family-oriented features and household integration.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Meta removes controversial AI feature on Instagram after backlash</title>
-      <link>https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/</guid>
-      <pubDate>Fri, 10 Jul 2026 23:55:07 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Meta removes AI feature from Instagram following user backlash.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI announces family-focused features and expansion of ChatGPT into household products.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Claude Code May–July 2026 weekly limits promotion</title>
@@ -77,15 +69,23 @@
       <guid isPermaLink="true">https://support.claude.com/en/articles/15910845-claude-code-may-july-2026-weekly-limits-promotion</guid>
       <pubDate>Sun, 12 Jul 2026 18:01:29 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 50/100<br/><b>Source:</b> Hacker News<br/><br/>Promotional announcement about Claude Code weekly limits during a specific time period.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 56/100<br/><b>Source:</b> Hacker News<br/><br/>Service promotion announcement for Claude Code weekly limits.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>I built TradingSpy: local, privacy-first AI trading assistant(First Open Source)</title>
-      <link>https://github.com/mrhustlex/TradingSpy-TradingAgentService</link>
-      <guid isPermaLink="true">https://github.com/mrhustlex/TradingSpy-TradingAgentService</guid>
-      <pubDate>Sat, 11 Jul 2026 20:45:06 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 50/100<br/><b>Source:</b> Hacker News<br/><br/>Developer released open-source local AI trading assistant project.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Meta removes controversial AI feature on Instagram after backlash</title>
+      <link>https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/</guid>
+      <pubDate>Fri, 10 Jul 2026 23:55:07 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Meta removes AI-generated content feature from Instagram following user backlash.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Fable gets another bump</title>
+      <link>https://simonwillison.net/2026/Jul/12/bump/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/12/bump/#atom-everything</guid>
+      <pubDate>Sun, 12 Jul 2026 21:20:07 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 32/100<br/><b>Source:</b> Simon Willison<br/><br/>Brief mention of funding or updates for Fable startup.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>[AINews] not much happened today</title>
@@ -93,7 +93,7 @@
       <guid isPermaLink="true">https://www.latent.space/p/ainews-not-much-happened-today-f5c</guid>
       <pubDate>Sat, 11 Jul 2026 02:53:08 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 26/100<br/><b>Source:</b> Latent Space<br/><br/>Meta-commentary on lack of significant AI news on a given day.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 26/100<br/><b>Source:</b> Latent Space<br/><br/>Meta-commentary digest post with minimal substantive news.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
