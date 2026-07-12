@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Jul 2026 13:26:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 14:53:37 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Zer0Fit: I took Google&apos;s new TabFM &amp; TimesFM ML foundation models and made them available as an MCP server for zero-shot ML tasks (forecasts / classifications / regressions). 100% local. [P]</title>
@@ -13,23 +13,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1uue8cc/zer0fit_i_took_googles_new_tabfm_timesfm_ml/</guid>
       <pubDate>Sun, 12 Jul 2026 12:32:29 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Developer created an MCP server wrapper around Google&apos;s TabFM and TimesFM models for local zero-shot ML tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>VultronRetriever family of models released on HuggingFace![R]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1utmxq8/vultronretriever_family_of_models_released_on/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1utmxq8/vultronretriever_family_of_models_released_on/</guid>
-      <pubDate>Sat, 11 Jul 2026 15:22:33 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Release of VultronRetriever model family on HuggingFace for retrieval tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Apple sues OpenAI over alleged trade secret theft</title>
-      <link>https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/</guid>
-      <pubDate>Fri, 10 Jul 2026 21:00:29 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Apple filing lawsuit against OpenAI alleging misappropriation of trade secrets.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Developer wraps Google&apos;s TabFM and TimesFM foundation models as an MCP server for zero-shot ML tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Show HN: Reame – a CPU inference server that gets faster as it runs</title>
@@ -37,7 +21,23 @@
       <guid isPermaLink="true">https://github.com/swellweb/reame</guid>
       <pubDate>Sat, 11 Jul 2026 16:27:44 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>CPU inference server project claiming performance improvements as execution progresses.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 78/100<br/><b>Source:</b> Hacker News<br/><br/>CPU inference server with optimization that improves performance as it executes.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase</title>
+      <link>https://github.com/cosmtrek/mindwalk</link>
+      <guid isPermaLink="true">https://github.com/cosmtrek/mindwalk</guid>
+      <pubDate>Sun, 12 Jul 2026 05:51:32 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Open-source tool for visualizing and replaying coding-agent sessions on a 3D map of codebases.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>VultronRetriever family of models released on HuggingFace![R]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1utmxq8/vultronretriever_family_of_models_released_on/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1utmxq8/vultronretriever_family_of_models_released_on/</guid>
+      <pubDate>Sat, 11 Jul 2026 15:22:33 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Release of VultronRetriever family of models on HuggingFace.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Mesh LLM: distributed AI computing on iroh</title>
@@ -45,7 +45,7 @@
       <guid isPermaLink="true">https://www.iroh.computer/blog/mesh-llm</guid>
       <pubDate>Sat, 11 Jul 2026 22:38:57 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>Distributed AI computing framework leveraging iroh peer-to-peer network for LLM inference.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Technical approach for distributed AI computing using the iroh protocol.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL</title>
@@ -56,36 +56,20 @@
       <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 62/100<br/><b>Source:</b> Hacker News<br/><br/>Tool for validating semantic correctness of AI-generated SQL queries.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
+      <title>Apple sues OpenAI over alleged trade secret theft</title>
+      <link>https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/</guid>
+      <pubDate>Fri, 10 Jul 2026 21:00:29 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Apple files lawsuit against OpenAI alleging trade secret misappropriation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
       <title>OpenAI bets on families as ChatGPT goes deeper into households</title>
       <link>https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/</link>
       <guid isPermaLink="true">https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/</guid>
       <pubDate>Sat, 11 Jul 2026 14:13:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI expanding ChatGPT integration into household and family-focused features.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Meta removes controversial AI feature on Instagram after backlash</title>
-      <link>https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/</guid>
-      <pubDate>Fri, 10 Jul 2026 23:55:07 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Meta discontinuing controversial AI feature on Instagram following user backlash.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Hugging Face’s CEO on why companies are done renting their AI</title>
-      <link>https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/</guid>
-      <pubDate>Fri, 10 Jul 2026 14:00:00 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Hugging Face CEO discusses enterprise shift away from renting proprietary AI toward self-hosted solutions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase</title>
-      <link>https://github.com/cosmtrek/mindwalk</link>
-      <guid isPermaLink="true">https://github.com/cosmtrek/mindwalk</guid>
-      <pubDate>Sun, 12 Jul 2026 05:51:32 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 60/100<br/><b>Source:</b> Hacker News<br/><br/>Tool for visualizing coding-agent session traces as a 3D map of codebase navigation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI expands ChatGPT integration into family-oriented household features.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Open source AI matters more than ever, according to Hugging Face’s Clem Delangue</title>
@@ -93,15 +77,31 @@
       <guid isPermaLink="true">https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/</guid>
       <pubDate>Fri, 10 Jul 2026 19:00:00 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 50/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Podcast interview with Hugging Face CEO on open source AI importance.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 56/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Interview with Hugging Face CEO on importance of open-source AI.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>I used to love Claude, but the latest models are slowly ruining it</title>
-      <link>https://www.androidauthority.com/claude-latest-models-pushback-bad-3683521/</link>
-      <guid isPermaLink="true">https://www.androidauthority.com/claude-latest-models-pushback-bad-3683521/</guid>
-      <pubDate>Sat, 11 Jul 2026 20:21:25 +0000</pubDate>
+      <title>Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom</title>
+      <link>https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom</link>
+      <guid isPermaLink="true">https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom</guid>
+      <pubDate>Sat, 11 Jul 2026 17:21:49 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 48/100<br/><b>Source:</b> Hacker News<br/><br/>Opinion piece critiquing recent Claude model behavior and capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 52/100<br/><b>Source:</b> Hacker News<br/><br/>Analysis of financing patterns among GPU companies in the AI infrastructure sector.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Meta removes controversial AI feature on Instagram after backlash</title>
+      <link>https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/</guid>
+      <pubDate>Fri, 10 Jul 2026 23:55:07 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 50/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Meta removes AI feature from Instagram following user backlash.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>AI 2040 and the cult of intelligence</title>
+      <link>https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html</link>
+      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html</guid>
+      <pubDate>Sat, 11 Jul 2026 18:04:01 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 46/100<br/><b>Source:</b> Hacker News<br/><br/>Opinion essay speculating about AI development trajectory and societal impact.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
