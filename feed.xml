@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Jul 2026 06:14:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 10:23:04 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k</title>
@@ -21,7 +21,7 @@
       <guid isPermaLink="true">https://spectrum.ieee.org/ai-science-research-flattens-discovery</guid>
       <pubDate>Sun, 12 Jul 2026 13:26:13 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Research study examining how AI adoption in scientific research improves career outcomes but reduces conceptual diversity.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Research study examines trade-offs between AI productivity gains and narrowing of research diversity.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Zer0Fit: I took Google&apos;s new TabFM &amp; TimesFM ML foundation models and made them available as an MCP server for zero-shot ML tasks (forecasts / classifications / regressions). 100% local. [P]</title>
@@ -29,15 +29,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1uue8cc/zer0fit_i_took_googles_new_tabfm_timesfm_ml/</guid>
       <pubDate>Sun, 12 Jul 2026 12:32:29 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Developer created an MCP server wrapper for Google&apos;s TabFM and TimesFM foundation models for local ML forecasting tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>OpenAI bets on families as ChatGPT goes deeper into households</title>
-      <link>https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/</guid>
-      <pubDate>Sat, 11 Jul 2026 14:13:00 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI&apos;s strategic focus on family and household adoption of ChatGPT.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Developer creates MCP server wrapper for Google&apos;s TabFM and TimesFM foundation models for zero-shot ML tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>The One-Step Trap (In AI Research)</title>
@@ -45,7 +37,39 @@
       <guid isPermaLink="true">http://incompleteideas.net/IncIdeas/OneStepTrap.html</guid>
       <pubDate>Sun, 12 Jul 2026 18:41:15 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 56/100<br/><b>Source:</b> Hacker News<br/><br/>Essay discussing methodological pitfalls in AI research related to incremental improvements.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> Hacker News<br/><br/>Analysis of fundamental methodological pitfall in AI research optimization.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Evaluating J-space entropy as an error predictor across 7 datasets on Qwen3-4B [R]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1uv5l75/evaluating_jspace_entropy_as_an_error_predictor/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1uv5l75/evaluating_jspace_entropy_as_an_error_predictor/</guid>
+      <pubDate>Mon, 13 Jul 2026 08:27:09 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 64/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Technical evaluation of J-space entropy as error prediction metric on Qwen3-4B model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>OpenAI bets on families as ChatGPT goes deeper into households</title>
+      <link>https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/</guid>
+      <pubDate>Sat, 11 Jul 2026 14:13:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI expands ChatGPT adoption strategy targeting household consumer segments.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Agent Harness Engineering</title>
+      <link>https://addyosmani.com/blog/agent-harness-engineering/</link>
+      <guid isPermaLink="true">https://addyosmani.com/blog/agent-harness-engineering/</guid>
+      <pubDate>Sun, 12 Jul 2026 14:16:31 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> Hacker News<br/><br/>Guide on engineering patterns for AI agent systems and harnesses.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Prompt-engineering paper accepted to ICML [R]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1uv1xb3/promptengineering_paper_accepted_to_icml_r/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1uv1xb3/promptengineering_paper_accepted_to_icml_r/</guid>
+      <pubDate>Mon, 13 Jul 2026 05:00:07 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 56/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Announcement of prompt-engineering paper acceptance to major conference.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Claude Code May–July 2026 weekly limits promotion</title>
@@ -56,28 +80,12 @@
       <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 50/100<br/><b>Source:</b> Hacker News<br/><br/>Promotional announcement about Claude Code usage limits.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Agent Harness Engineering</title>
-      <link>https://addyosmani.com/blog/agent-harness-engineering/</link>
-      <guid isPermaLink="true">https://addyosmani.com/blog/agent-harness-engineering/</guid>
-      <pubDate>Sun, 12 Jul 2026 14:16:31 +0000</pubDate>
+      <title>Zig Creator Calls Spade a Spade, Anthropic Blows Smoke</title>
+      <link>https://raymyers.org/post/zed-creator-calls-spade-a-spade/</link>
+      <guid isPermaLink="true">https://raymyers.org/post/zed-creator-calls-spade-a-spade/</guid>
+      <pubDate>Mon, 13 Jul 2026 08:39:39 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 50/100<br/><b>Source:</b> Hacker News<br/><br/>Essay on engineering practices for AI agent systems and harnesses.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Prompt-engineering paper accepted to ICML [R]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1uv1xb3/promptengineering_paper_accepted_to_icml_r/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1uv1xb3/promptengineering_paper_accepted_to_icml_r/</guid>
-      <pubDate>Mon, 13 Jul 2026 05:00:07 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 44/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Brief announcement that a prompt-engineering paper was accepted to ICML.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Ask HN: Add flag for AI-generated articles</title>
-      <link>https://news.ycombinator.com/item?id=48886741</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48886741</guid>
-      <pubDate>Mon, 13 Jul 2026 01:24:20 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 40/100<br/><b>Source:</b> Hacker News<br/><br/>Discussion thread requesting a feature flag for AI-generated content moderation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 46/100<br/><b>Source:</b> Hacker News<br/><br/>Opinion piece criticizing Anthropic&apos;s technical claims.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Directly Responsible Individuals (DRI)</title>
@@ -85,15 +93,15 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Jul/12/directly-responsible-individuals/#atom-everything</guid>
       <pubDate>Sun, 12 Jul 2026 23:57:14 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 38/100<br/><b>Source:</b> Simon Willison<br/><br/>Blog post about organizational management structure using DRI framework.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 44/100<br/><b>Source:</b> Simon Willison<br/><br/>Brief commentary on organizational management practices.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Obtaining Irregular Learning Curves with HyberBand Tuned ANN model for Price Prediction [P]</title>
-      <link>https://i.redd.it/qe783f41csch1.png</link>
-      <guid isPermaLink="true">https://i.redd.it/qe783f41csch1.png</guid>
-      <pubDate>Sun, 12 Jul 2026 11:38:41 +0000</pubDate>
+      <title>Ask HN: Add flag for AI-generated articles</title>
+      <link>https://news.ycombinator.com/item?id=48886741</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48886741</guid>
+      <pubDate>Mon, 13 Jul 2026 01:24:20 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 32/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Personal project post about hyperparameter tuning for price prediction.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 40/100<br/><b>Source:</b> Hacker News<br/><br/>Discussion thread proposing platform features for labeling AI-generated content.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Fable gets another bump</title>
@@ -101,7 +109,7 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Jul/12/bump/#atom-everything</guid>
       <pubDate>Sun, 12 Jul 2026 21:20:07 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 32/100<br/><b>Source:</b> Simon Willison<br/><br/>Brief mention of funding update for an AI company.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 38/100<br/><b>Source:</b> Simon Willison<br/><br/>Short note on funding or business development activity.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
