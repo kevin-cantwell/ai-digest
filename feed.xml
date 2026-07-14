@@ -5,8 +5,16 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Jul 2026 23:52:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 02:12:40 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Claude Code plugin that plays a Mr. Meeseeks voice line whene Claude is waiting</title>
+      <link>https://github.com/thephw/claude-meseeks</link>
+      <guid isPermaLink="true">https://github.com/thephw/claude-meseeks</guid>
+      <pubDate>Mon, 13 Jul 2026 22:03:54 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 100/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
     <item>
       <title>Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents</title>
       <link>https://github.com/morganwilliscloud/billai-bass</link>
@@ -16,12 +24,12 @@
       <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 90/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Claude is just Mr. Meeseeks</title>
-      <link>https://github.com/thephw/claude-meseeks</link>
-      <guid isPermaLink="true">https://github.com/thephw/claude-meseeks</guid>
-      <pubDate>Mon, 13 Jul 2026 22:03:54 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 85/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>[AINews] Codex usage up &gt;10x in 6 months to 7M users, +1M in the past ~day; did Codex overtake Claude Code??</title>
+      <link>https://www.latent.space/p/ainews-codex-usage-up-10x-in-6-months</link>
+      <guid isPermaLink="true">https://www.latent.space/p/ainews-codex-usage-up-10x-in-6-months</guid>
+      <pubDate>Tue, 14 Jul 2026 01:22:27 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Latent Space<br/><br/>Codex usage surged 10x to 7 million users over 6 months, raising questions about competitive positioning in AI code assistants.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Hermes agent maker Nous Research in talks for new funding at $1.5B valuation</title>
@@ -29,7 +37,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/</guid>
       <pubDate>Mon, 13 Jul 2026 23:31:18 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 80/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Nous Research, maker of Hermes AI agents, in talks for funding at $1.5B valuation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 80/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Nous Research, maker of the Hermes agent framework, is in funding talks at a $1.5B valuation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Samsung Health app threatens data deletion if users opt out AI training</title>
@@ -37,7 +45,23 @@
       <guid isPermaLink="true">https://neow.in/cWsyMTV3</guid>
       <pubDate>Mon, 13 Jul 2026 20:01:43 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Samsung Health app threatens to delete user data if users opt out of AI training.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Samsung Health app threatens data deletion for users who opt out of AI training, raising privacy and consent concerns.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Show HN: I implemented a neural network in SQL</title>
+      <link>https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py</link>
+      <guid isPermaLink="true">https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py</guid>
+      <pubDate>Mon, 13 Jul 2026 20:00:10 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 75/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Anthropic starts localizing Claude pricing for India, its biggest market after the US</title>
+      <link>https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/</guid>
+      <pubDate>Mon, 13 Jul 2026 15:34:59 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 72/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic launches localized pricing for Claude in India, identified as its largest market after the US.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Zig Creator Calls Spade a Spade, Anthropic Blows Smoke</title>
@@ -48,28 +72,20 @@
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Ask HN: Add flag for AI-generated articles</title>
-      <link>https://news.ycombinator.com/item?id=48886741</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48886741</guid>
-      <pubDate>Mon, 13 Jul 2026 01:24:20 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
       <title>Evaluating J-space entropy as an error predictor across 7 datasets on Qwen3-4B [R]</title>
       <link>https://www.reddit.com/r/MachineLearning/comments/1uv5l75/evaluating_jspace_entropy_as_an_error_predictor/</link>
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1uv5l75/evaluating_jspace_entropy_as_an_error_predictor/</guid>
       <pubDate>Mon, 13 Jul 2026 08:27:09 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research evaluating J-space entropy as an error predictor across multiple datasets on Qwen3-4B model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research evaluates J-space entropy as an error predictor across multiple datasets for Qwen3-4B model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Anthropic starts localizing Claude pricing for India, its biggest market after the US</title>
-      <link>https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/</guid>
-      <pubDate>Mon, 13 Jul 2026 15:34:59 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic begins localizing Claude pricing for India, identified as its second-largest market.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Video-generation startup PixVerse raises $439M, valuation soars past $2B</title>
+      <link>https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/</guid>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Video-generation startup PixVerse raises $439M in funding, pushing its valuation above $2B.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Fast track through a CS PhD using LLM&apos;s for paper writing [D]</title>
@@ -93,7 +109,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1uv1xb3/promptengineering_paper_accepted_to_icml_r/</guid>
       <pubDate>Mon, 13 Jul 2026 05:00:07 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Prompt-engineering research paper accepted to ICML conference.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>A prompt-engineering research paper was accepted to ICML conference.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>GPUHedge: Hedging serverless GPU providers improves cold start p95 latency from 117s to 30s [P]</title>
@@ -104,12 +120,20 @@
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>GPUHedge system improves serverless GPU cold start latency from 117s to 30s through provider hedging.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
+      <title>Now, defenders are embracing the prompt injection, too</title>
+      <link>https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/</link>
+      <guid isPermaLink="true">https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/</guid>
+      <pubDate>Mon, 13 Jul 2026 15:06:34 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> Ars Technica<br/><br/>Security defenders are now using prompt injection techniques as a defensive strategy against AI-based attacks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
       <title>The wildest allegations in Apple’s trade secrets lawsuit against OpenAI</title>
       <link>https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/</link>
       <guid isPermaLink="true">https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/</guid>
       <pubDate>Mon, 13 Jul 2026 18:22:10 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Apple&apos;s trade secrets lawsuit against OpenAI contains significant allegations about data usage.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Apple&apos;s trade secrets lawsuit against OpenAI contains significant allegations worth examining.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Show HN: Jacquard, a programming language for AI-written, human-reviewed code</title>
@@ -117,31 +141,15 @@
       <guid isPermaLink="true">https://github.com/jbwinters/jacquard-lang</guid>
       <pubDate>Mon, 13 Jul 2026 15:56:02 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 56/100<br/><b>Source:</b> Hacker News<br/><br/>Jacquard is a new programming language designed for AI-written, human-reviewed code.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 60/100<br/><b>Source:</b> Hacker News<br/><br/>Jacquard is a new programming language designed for AI-written, human-reviewed code workflows.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Now, defenders are embracing the prompt injection, too</title>
-      <link>https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/</link>
-      <guid isPermaLink="true">https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/</guid>
-      <pubDate>Mon, 13 Jul 2026 15:06:34 +0000</pubDate>
+      <title>Waze adds new AI-powered features and customization updates</title>
+      <link>https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/</guid>
+      <pubDate>Mon, 13 Jul 2026 14:18:16 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> Ars Technica<br/><br/>AI defenders are now using prompt injection techniques as a security strategy.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Show HN: I implemented a neural network in SQL</title>
-      <link>https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py</link>
-      <guid isPermaLink="true">https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py</guid>
-      <pubDate>Mon, 13 Jul 2026 20:00:10 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 50/100<br/><b>Source:</b> Hacker News<br/><br/>Developer implemented a neural network in SQL as a technical demonstration.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Chain of Thought is a scaling trap. the next wave is latent reasoning (Coconut / HRM / RecrusiveMAS)... but then we hit the black box wall. Where does BDH fit? [D]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1uviru5/chain_of_thought_is_a_scaling_trap_the_next_wave/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1uviru5/chain_of_thought_is_a_scaling_trap_the_next_wave/</guid>
-      <pubDate>Mon, 13 Jul 2026 17:50:49 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 50/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Waze adds new AI-powered features and customization options to its navigation application.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
