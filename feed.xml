@@ -5,31 +5,23 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Jul 2026 16:12:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 18:00:01 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>[AINews] Codex usage up &gt;10x in 6 months to 7M users, +1M in the past ~day; did Codex overtake Claude Code??</title>
-      <link>https://www.latent.space/p/ainews-codex-usage-up-10x-in-6-months</link>
-      <guid isPermaLink="true">https://www.latent.space/p/ainews-codex-usage-up-10x-in-6-months</guid>
-      <pubDate>Tue, 14 Jul 2026 01:22:27 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Latent Space<br/><br/>Report on significant growth in Codex usage metrics and market comparison with Claude Code.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
     <item>
       <title>Codex starts encrypting sub-agent prompts</title>
       <link>https://github.com/openai/codex/issues/28058</link>
       <guid isPermaLink="true">https://github.com/openai/codex/issues/28058</guid>
       <pubDate>Tue, 14 Jul 2026 11:21:32 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Codex implements encryption for sub-agent prompts, a security-focused technical update.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Codex implements encryption for sub-agent prompts, improving privacy and security in multi-agent systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Samsung Health app threatens data deletion if users opt out AI training</title>
-      <link>https://neow.in/cWsyMTV3</link>
-      <guid isPermaLink="true">https://neow.in/cWsyMTV3</guid>
-      <pubDate>Mon, 13 Jul 2026 20:01:43 +0000</pubDate>
+      <title>New LLM Coordination Benchmark - Benchmarking Open-Ended Multi-Agent Coordination in Language Agents [R]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1uwc6ni/new_llm_coordination_benchmark_benchmarking/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1uwc6ni/new_llm_coordination_benchmark_benchmarking/</guid>
+      <pubDate>Tue, 14 Jul 2026 15:37:52 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Samsung Health imposes data deletion threats for users opting out of AI training, raising privacy concerns.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>New benchmark for evaluating multi-agent coordination capabilities in language models published to research community.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Hermes agent maker Nous Research in talks for new funding at $1.5B valuation</title>
@@ -37,7 +29,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/</guid>
       <pubDate>Mon, 13 Jul 2026 23:31:18 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Funding news for Nous Research at $1.5B valuation, indicating significant market interest in AI agent companies.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Nous Research, creator of the Hermes agent framework, reportedly in funding discussions at $1.5B valuation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Show HN: I RL-trained an agent that trains models with RL (for –$1.3k)</title>
@@ -45,15 +37,31 @@
       <guid isPermaLink="true">https://github.com/Danau5tin/ai-trains-ai</guid>
       <pubDate>Tue, 14 Jul 2026 12:41:25 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Developer shares a project using reinforcement learning to train an agent that trains models with RL, with cost tracking.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Developer shares a project using reinforcement learning to train an agent that trains models with RL, demonstrating a novel approach to automated model training.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Anthropic starts localizing Claude pricing for India, its biggest market after the US</title>
-      <link>https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/</guid>
-      <pubDate>Mon, 13 Jul 2026 15:34:59 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic announces localized pricing for Claude in India as a major expansion market.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Samsung Health app threatens data deletion if users opt out AI training</title>
+      <link>https://neow.in/cWsyMTV3</link>
+      <guid isPermaLink="true">https://neow.in/cWsyMTV3</guid>
+      <pubDate>Mon, 13 Jul 2026 20:01:43 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Samsung Health threatens data deletion if users decline opt-in to AI training, raising privacy and consent concerns.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>How to manage AI investments in the agentic era</title>
+      <link>https://openai.com/index/managing-ai-investments-in-agentic-era</link>
+      <guid isPermaLink="true">https://openai.com/index/managing-ai-investments-in-agentic-era</guid>
+      <pubDate>Tue, 14 Jul 2026 10:00:00 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI publishes guidance on managing AI investments during the shift toward agentic systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>[AINews] Codex usage up &gt;10x in 6 months to 7M users, +1M in the past ~day; did Codex overtake Claude Code??</title>
+      <link>https://www.latent.space/p/ainews-codex-usage-up-10x-in-6-months</link>
+      <guid isPermaLink="true">https://www.latent.space/p/ainews-codex-usage-up-10x-in-6-months</guid>
+      <pubDate>Tue, 14 Jul 2026 01:22:27 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> Latent Space<br/><br/>Report on Codex usage growth metrics and speculation about competitive positioning versus Claude Code.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>LLM hallucination paper(using math) accepted to ICML workshop[R]</title>
@@ -69,15 +77,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1uvlb6h/gpuhedge_hedging_serverless_gpu_providers/</guid>
       <pubDate>Mon, 13 Jul 2026 19:20:07 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>GPUHedge achieves significant latency improvements for serverless GPU inference.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>OpenAI&apos;s Ad Business Is on Pace to Miss Its Own Forecast by 90%, Analyst Says</title>
-      <link>https://www.adweek.com/media/openais-ad-business-is-on-pace-to-miss-its-own-forecast-by-90-analyst-says/</link>
-      <guid isPermaLink="true">https://www.adweek.com/media/openais-ad-business-is-on-pace-to-miss-its-own-forecast-by-90-analyst-says/</guid>
-      <pubDate>Tue, 14 Jul 2026 05:21:02 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> Hacker News<br/><br/>Report that OpenAI&apos;s ad business is significantly underperforming its own forecasts.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research paper presents GPUHedge technique that significantly reduces cold start latency for serverless GPU inference.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Empowering India’s next generation of innovators with ATL Saathi</title>
@@ -85,31 +85,15 @@
       <guid isPermaLink="true">https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/</guid>
       <pubDate>Mon, 13 Jul 2026 12:37:28 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> Google DeepMind<br/><br/>Google DeepMind announces ATL Saathi initiative for educational innovation in India.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> Google DeepMind<br/><br/>Google DeepMind announces ATL Saathi educational initiative in India to support next-generation innovators.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>A Study of Microsoft&apos;s Early 2026 Rollout of Claude Code and GitHub Copilot CLI</title>
-      <link>https://arxiv.org/abs/2607.01418</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2607.01418</guid>
-      <pubDate>Mon, 13 Jul 2026 21:43:51 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 58/100<br/><b>Source:</b> Hacker News<br/><br/>Appears to be a speculative or fictional study about Microsoft and Anthropic product rollouts.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Building Food Metadata with LLM Juries</title>
-      <link>https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/</link>
-      <guid isPermaLink="true">https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/</guid>
-      <pubDate>Tue, 14 Jul 2026 01:41:49 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> Hacker News<br/><br/>DoorDash describes using LLM juries as an approach to building metadata at scale.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Claude Code plugin that plays a Mr. Meeseeks voice line whene Claude is waiting</title>
-      <link>https://github.com/thephw/claude-meseeks</link>
-      <guid isPermaLink="true">https://github.com/thephw/claude-meseeks</guid>
-      <pubDate>Mon, 13 Jul 2026 22:03:54 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 52/100<br/><b>Source:</b> Hacker News<br/><br/>A novelty plugin that adds voice lines to Claude Code, lacking substantive technical or product news value.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Anthropic starts localizing Claude pricing for India, its biggest market after the US</title>
+      <link>https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/</guid>
+      <pubDate>Mon, 13 Jul 2026 15:34:59 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic begins localizing Claude pricing for India market, significant expansion of pricing strategy.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Show HN: I implemented a neural network in SQL</title>
@@ -117,31 +101,47 @@
       <guid isPermaLink="true">https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py</guid>
       <pubDate>Mon, 13 Jul 2026 20:00:10 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 52/100<br/><b>Source:</b> Hacker News<br/><br/>A demonstration of implementing neural networks in SQL, a creative but not particularly impactful technical exercise.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 58/100<br/><b>Source:</b> Hacker News<br/><br/>Developer implements a neural network using SQL, a technical curiosity with limited practical application.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>OpenAI mandates hardware-backed passkeys for Trusted Access Cyber members</title>
-      <link>https://www.yubico.com/blog/openai-mandates-hardware-backed-passkeys-for-trusted-access-cyber-members-to-log-into-chatgpt-accounts/</link>
-      <guid isPermaLink="true">https://www.yubico.com/blog/openai-mandates-hardware-backed-passkeys-for-trusted-access-cyber-members-to-log-into-chatgpt-accounts/</guid>
-      <pubDate>Tue, 14 Jul 2026 14:12:39 +0000</pubDate>
+      <title>Building Food Metadata with LLM Juries</title>
+      <link>https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/</link>
+      <guid isPermaLink="true">https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/</guid>
+      <pubDate>Tue, 14 Jul 2026 01:41:49 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 50/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI mandates hardware-backed passkeys for security on select account tiers.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> Hacker News<br/><br/>DoorDash describes using LLM &apos;juries&apos; to build and validate food metadata for platform improvement.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>The AI Whale Fall and Open Source</title>
-      <link>https://minor.gripe/posts/2026-07-13-the_ai_whalefall_and_open_source/</link>
-      <guid isPermaLink="true">https://minor.gripe/posts/2026-07-13-the_ai_whalefall_and_open_source/</guid>
-      <pubDate>Mon, 13 Jul 2026 23:16:42 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 50/100<br/><b>Source:</b> Hacker News<br/><br/>An opinion piece on open source implications of AI industry consolidation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>The US government warns that Russia state hackers are coming after your router</title>
-      <link>https://arstechnica.com/security/2026/07/the-us-government-warns-that-russia-state-hackers-are-coming-after-your-router/</link>
-      <guid isPermaLink="true">https://arstechnica.com/security/2026/07/the-us-government-warns-that-russia-state-hackers-are-coming-after-your-router/</guid>
-      <pubDate>Mon, 13 Jul 2026 21:03:07 +0000</pubDate>
+      <title>OpenAI&apos;s Ad Business Is on Pace to Miss Its Own Forecast by 90%, Analyst Says</title>
+      <link>https://www.adweek.com/media/openais-ad-business-is-on-pace-to-miss-its-own-forecast-by-90-analyst-says/</link>
+      <guid isPermaLink="true">https://www.adweek.com/media/openais-ad-business-is-on-pace-to-miss-its-own-forecast-by-90-analyst-says/</guid>
+      <pubDate>Tue, 14 Jul 2026 05:21:02 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 50/100<br/><b>Source:</b> Ars Technica<br/><br/>With residential proxies all the rage, CISA urges router users to be vigilant.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 54/100<br/><b>Source:</b> Hacker News<br/><br/>Analyst report claims OpenAI&apos;s ad business will miss internal forecasts by significant margin.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>How sales teams use ChatGPT Work</title>
+      <link>https://openai.com/academy/codex-for-work/how-sales-teams-use-codex</link>
+      <guid isPermaLink="true">https://openai.com/academy/codex-for-work/how-sales-teams-use-codex</guid>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 54/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Use case study from OpenAI describing how sales teams apply ChatGPT Work, primarily promotional content.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>How data science teams use ChatGPT Work</title>
+      <link>https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex</link>
+      <guid isPermaLink="true">https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex</guid>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 54/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Use case study from OpenAI describing how data science teams apply ChatGPT Work, primarily promotional content.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Claude Code plugin that plays a Mr. Meeseeks voice line whene Claude is waiting</title>
+      <link>https://github.com/thephw/claude-meseeks</link>
+      <guid isPermaLink="true">https://github.com/thephw/claude-meseeks</guid>
+      <pubDate>Mon, 13 Jul 2026 22:03:54 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 52/100<br/><b>Source:</b> Hacker News<br/><br/>A novelty plugin adds voice lines to Claude Code, primarily entertainment-focused with minimal technical substance.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Spotify expands its AI push with a ChatGPT-like music assistant</title>
