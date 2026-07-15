@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jul 2026 16:19:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 18:04:16 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>LeMario: Training a JEPA World Model on Super Mario Bros</title>
@@ -13,7 +13,7 @@
       <guid isPermaLink="true">https://www.benjamin-bai.com/projects/lemario</guid>
       <pubDate>Tue, 14 Jul 2026 22:30:47 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>LeMario demonstrates training a JEPA world model on Super Mario Bros, advancing unsupervised representation learning.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>Technical project demonstrating JEPA world model training on Super Mario Bros game environment.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Societal Impacts: Claude&apos;s values across models and languages</title>
@@ -21,47 +21,15 @@
       <guid isPermaLink="true">https://www.anthropic.com/research/claude-values-models-languages</guid>
       <pubDate>Wed, 15 Jul 2026 10:56:33 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic publishes research on how Claude&apos;s values manifest across different model sizes and languages.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic publishes research on how Claude&apos;s values and safety properties transfer across different model scales and languages.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Bonsai 27B: A 27B-Class model that runs on a phone</title>
-      <link>https://prismml.com/news/bonsai-27b</link>
-      <guid isPermaLink="true">https://prismml.com/news/bonsai-27b</guid>
-      <pubDate>Tue, 14 Jul 2026 17:50:48 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Bonsai 27B achieves significant model compression enabling deployment on mobile devices.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>[AINews] Codex usage up &gt;10x in 6 months to 7M users, +1M in the past ~day; did Codex overtake Claude Code??</title>
-      <link>https://www.latent.space/p/ainews-codex-usage-up-10x-in-6-months</link>
-      <guid isPermaLink="true">https://www.latent.space/p/ainews-codex-usage-up-10x-in-6-months</guid>
-      <pubDate>Tue, 14 Jul 2026 01:22:27 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Latent Space<br/><br/>Codex usage metrics show rapid growth to 7M users over six months with discussion of competitive positioning.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Mechanistic interpretability: a first paper on disentangling a convolutional neuron [R]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1uwya70/mechanistic_interpretability_a_first_paper_on/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1uwya70/mechanistic_interpretability_a_first_paper_on/</guid>
-      <pubDate>Wed, 15 Jul 2026 06:59:41 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research paper on mechanistic interpretability disentangling convolutional neurons advances AI explainability.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Financing the AI boom: from cash flows to debt [pdf]</title>
-      <link>https://www.bis.org/publ/bisbull120.pdf</link>
-      <guid isPermaLink="true">https://www.bis.org/publ/bisbull120.pdf</guid>
-      <pubDate>Tue, 14 Jul 2026 21:58:36 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>BIS report analyzes financial implications and debt dynamics of the AI infrastructure boom.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>How to manage AI investments in the agentic era</title>
-      <link>https://openai.com/index/managing-ai-investments-in-agentic-era</link>
-      <guid isPermaLink="true">https://openai.com/index/managing-ai-investments-in-agentic-era</guid>
-      <pubDate>Tue, 14 Jul 2026 10:00:00 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI publishes guidance on managing AI investments in an era of agentic systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>GPT-Red: Unlocking Self-Improvement for Robustness</title>
+      <link>https://openai.com/index/unlocking-self-improvement-gpt-red</link>
+      <guid isPermaLink="true">https://openai.com/index/unlocking-self-improvement-gpt-red</guid>
+      <pubDate>Wed, 15 Jul 2026 10:00:00 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces GPT-Red technique for enabling AI models to self-improve their robustness through red-teaming.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Vint Cerf is working on a plan to unleash AI agents on the open internet</title>
@@ -69,23 +37,55 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/</guid>
       <pubDate>Wed, 15 Jul 2026 12:00:00 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Vint Cerf is developing a framework for autonomous AI agents operating on the open internet.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Vint Cerf reportedly working on protocol for deploying autonomous AI agents on the public internet.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models</title>
-      <link>https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/</guid>
-      <pubDate>Wed, 15 Jul 2026 13:10:47 +0000</pubDate>
+      <title>[AINews] Codex usage up &gt;10x in 6 months to 7M users, +1M in the past ~day; did Codex overtake Claude Code??</title>
+      <link>https://www.latent.space/p/ainews-codex-usage-up-10x-in-6-months</link>
+      <guid isPermaLink="true">https://www.latent.space/p/ainews-codex-usage-up-10x-in-6-months</guid>
+      <pubDate>Tue, 14 Jul 2026 01:22:27 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Latent Space<br/><br/>Latent Space reports significant growth in Codex usage metrics with speculation about market positioning.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Mechanistic interpretability: a first paper on disentangling a convolutional neuron [R]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1uwya70/mechanistic_interpretability_a_first_paper_on/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1uwya70/mechanistic_interpretability_a_first_paper_on/</guid>
+      <pubDate>Wed, 15 Jul 2026 06:59:41 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research paper on mechanistic interpretability techniques for understanding individual convolutional neural network neurons.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Financing the AI boom: from cash flows to debt [pdf]</title>
+      <link>https://www.bis.org/publ/bisbull120.pdf</link>
+      <guid isPermaLink="true">https://www.bis.org/publ/bisbull120.pdf</guid>
+      <pubDate>Tue, 14 Jul 2026 21:58:36 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic and Blackstone partnership focuses on AI implementation services as next major business opportunity.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Bank for International Settlements publishes analysis of financing mechanisms and debt structures underlying AI infrastructure boom.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>OpenAI’s new flagship model deletes files on its own, people keep warning</title>
-      <link>https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/</guid>
-      <pubDate>Tue, 14 Jul 2026 21:50:11 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI&apos;s new flagship model exhibits unintended file deletion behavior raising safety concerns.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>How to manage AI investments in the agentic era</title>
+      <link>https://openai.com/index/managing-ai-investments-in-agentic-era</link>
+      <guid isPermaLink="true">https://openai.com/index/managing-ai-investments-in-agentic-era</guid>
+      <pubDate>Tue, 14 Jul 2026 10:00:00 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI publishes advisory content on AI investment strategy in the era of agentic AI systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling</title>
+      <link>https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/</guid>
+      <pubDate>Wed, 15 Jul 2026 18:04:06 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Thinking Machines releases Inkling, an open-source AI model positioned as alternative to one-size-fits-all approaches.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Hack suggests AI music generator Suno scraped YouTube for training data</title>
+      <link>https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/</guid>
+      <pubDate>Wed, 15 Jul 2026 17:00:34 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Investigation reveals evidence that Suno AI music generator may have used YouTube content in training data.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>How I tricked Claude into leaking your deepest, darkest secrets</title>
@@ -93,15 +93,7 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/#atom-everything</guid>
       <pubDate>Wed, 15 Jul 2026 14:21:54 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> Simon Willison<br/><br/>Security research demonstrates data exfiltration vulnerability in Claude&apos;s web fetch capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>The US is advancing AI safety through state and federal action</title>
-      <link>https://openai.com/index/advancing-ai-safety-through-state-and-federal-action</link>
-      <guid isPermaLink="true">https://openai.com/index/advancing-ai-safety-through-state-and-federal-action</guid>
-      <pubDate>Wed, 15 Jul 2026 12:00:00 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI discusses policy engagement around AI safety at state and federal levels.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> Simon Willison<br/><br/>Security researcher demonstrates vulnerability in Claude web fetching capability that could enable data exfiltration.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence</title>
@@ -109,23 +101,31 @@
       <guid isPermaLink="true">https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence</guid>
       <pubDate>Wed, 15 Jul 2026 13:18:15 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> Hacker News<br/><br/>Analysis of AI voice synthesis vulnerabilities and limitations of current fraud detection defenses.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>Article examining security vulnerabilities in AI voice synthesis systems and their exploitation risks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B</title>
-      <link>https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/</guid>
-      <pubDate>Wed, 15 Jul 2026 00:27:04 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 56/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI researcher Miles Wang discusses launching an AI drug discovery startup at $2B valuation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>The US is advancing AI safety through state and federal action</title>
+      <link>https://openai.com/index/advancing-ai-safety-through-state-and-federal-action</link>
+      <guid isPermaLink="true">https://openai.com/index/advancing-ai-safety-through-state-and-federal-action</guid>
+      <pubDate>Wed, 15 Jul 2026 12:00:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI publishes opinion piece on US government AI safety policy initiatives.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Apple Intelligence approved for launch in China with Alibaba’s Qwen AI</title>
-      <link>https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/</guid>
-      <pubDate>Wed, 15 Jul 2026 15:29:33 +0000</pubDate>
+      <title>Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models</title>
+      <link>https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/</guid>
+      <pubDate>Wed, 15 Jul 2026 13:10:47 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic and Blackstone partnership focuses on AI implementation services as primary business opportunity versus model development.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>OpenAI’s new flagship model deletes files on its own, people keep warning</title>
+      <link>https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/</guid>
+      <pubDate>Tue, 14 Jul 2026 21:50:11 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 50/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Apple Intelligence is headed to China after regulators approved Apple’s AI services through a partnership with Alibaba. The long-rumored deal will bring Alibaba’s Qwen AI models to Apple’s operating s<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI&apos;s latest flagship model exhibits behavior of autonomously deleting files, raising safety concerns.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Google faces another AI training lawsuit from major publishers</title>
@@ -133,7 +133,23 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/</guid>
       <pubDate>Tue, 14 Jul 2026 18:33:31 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 50/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Google faces new lawsuit from major publishers over AI training data usage practices.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Major book publishers file lawsuit against Google over use of copyrighted material in AI training.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B</title>
+      <link>https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/</guid>
+      <pubDate>Wed, 15 Jul 2026 00:27:04 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 56/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI researcher Miles Wang in early-stage discussions to launch AI drug discovery startup.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Apple Intelligence approved for launch in China with Alibaba’s Qwen AI</title>
+      <link>https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/</guid>
+      <pubDate>Wed, 15 Jul 2026 15:29:33 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 50/100<br/><b>Source:</b> TechCrunch AI<br/><br/>The deal, which was rumored to be in the works last year, marks an important step for Apple&apos;s AI ambitions in a key market.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
