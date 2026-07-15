@@ -5,39 +5,15 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jul 2026 08:04:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 10:46:52 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Bonsai 27B: A 27B-Class model that runs on a phone</title>
-      <link>https://prismml.com/news/bonsai-27b</link>
-      <guid isPermaLink="true">https://prismml.com/news/bonsai-27b</guid>
-      <pubDate>Tue, 14 Jul 2026 17:50:48 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Bonsai 27B model achieves significant performance on mobile devices.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>[AINews] Codex usage up &gt;10x in 6 months to 7M users, +1M in the past ~day; did Codex overtake Claude Code??</title>
-      <link>https://www.latent.space/p/ainews-codex-usage-up-10x-in-6-months</link>
-      <guid isPermaLink="true">https://www.latent.space/p/ainews-codex-usage-up-10x-in-6-months</guid>
-      <pubDate>Tue, 14 Jul 2026 01:22:27 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Latent Space<br/><br/>Codex usage grew 10x to 7 million users over 6 months with significant recent growth.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
     <item>
       <title>LeMario: Training a JEPA World Model on Super Mario Bros</title>
       <link>https://www.benjamin-bai.com/projects/lemario</link>
       <guid isPermaLink="true">https://www.benjamin-bai.com/projects/lemario</guid>
       <pubDate>Tue, 14 Jul 2026 22:30:47 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 78/100<br/><b>Source:</b> Hacker News<br/><br/>Research project demonstrating JEPA world model training on Super Mario Bros gameplay.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Show HN: I RL-trained an agent that trains models with RL (for ~$1.3k)</title>
-      <link>https://github.com/Danau5tin/ai-trains-ai</link>
-      <guid isPermaLink="true">https://github.com/Danau5tin/ai-trains-ai</guid>
-      <pubDate>Tue, 14 Jul 2026 12:41:25 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Developer trained an RL agent to train models with reinforcement learning for approximately $1,300.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Researchers trained a JEPA world model on Super Mario Bros, advancing self-supervised learning for video prediction.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>New LLM Coordination Benchmark - Benchmarking Open-Ended Multi-Agent Coordination in Language Agents [R]</title>
@@ -45,31 +21,31 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1uwc6ni/new_llm_coordination_benchmark_benchmarking/</guid>
       <pubDate>Tue, 14 Jul 2026 15:37:52 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>New benchmark for evaluating multi-agent coordination capabilities in language models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/MachineLearning<br/><br/>New benchmark for evaluating multi-agent coordination capabilities in language models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Codex starts encrypting sub-agent prompts</title>
-      <link>https://github.com/openai/codex/issues/28058</link>
-      <guid isPermaLink="true">https://github.com/openai/codex/issues/28058</guid>
-      <pubDate>Tue, 14 Jul 2026 11:21:32 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Codex implementation adds encryption for sub-agent prompts.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Bonsai 27B: A 27B-Class model that runs on a phone</title>
+      <link>https://prismml.com/news/bonsai-27b</link>
+      <guid isPermaLink="true">https://prismml.com/news/bonsai-27b</guid>
+      <pubDate>Tue, 14 Jul 2026 17:50:48 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>A 27B parameter model optimized to run efficiently on mobile devices.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>How to manage AI investments in the agentic era</title>
-      <link>https://openai.com/index/managing-ai-investments-in-agentic-era</link>
-      <guid isPermaLink="true">https://openai.com/index/managing-ai-investments-in-agentic-era</guid>
-      <pubDate>Tue, 14 Jul 2026 10:00:00 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI publishes guidance on managing investments in agentic AI systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Show HN: I RL-trained an agent that trains models with RL (for ~$1.3k)</title>
+      <link>https://github.com/Danau5tin/ai-trains-ai</link>
+      <guid isPermaLink="true">https://github.com/Danau5tin/ai-trains-ai</guid>
+      <pubDate>Tue, 14 Jul 2026 12:41:25 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Developer demonstrates using RL to train an agent that itself trains models with RL at relatively low cost.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B</title>
-      <link>https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/</guid>
-      <pubDate>Wed, 15 Jul 2026 00:27:04 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI researcher in discussions to launch AI drug discovery startup.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Mechanistic interpretability: a first paper on disentangling a convolutional neuron [R]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1uwya70/mechanistic_interpretability_a_first_paper_on/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1uwya70/mechanistic_interpretability_a_first_paper_on/</guid>
+      <pubDate>Wed, 15 Jul 2026 06:59:41 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research paper on mechanistic interpretability techniques for understanding neural network components.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>OpenAI’s new flagship model deletes files on its own, people keep warning</title>
@@ -77,7 +53,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/</guid>
       <pubDate>Tue, 14 Jul 2026 21:50:11 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Reports of unintended file deletion behavior in OpenAI&apos;s new flagship model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Report of safety issue in new OpenAI flagship model regarding unintended file deletion.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Financing the AI boom: from cash flows to debt [pdf]</title>
@@ -85,31 +61,47 @@
       <guid isPermaLink="true">https://www.bis.org/publ/bisbull120.pdf</guid>
       <pubDate>Tue, 14 Jul 2026 21:58:36 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>BIS research paper analyzing financial implications of AI infrastructure investment boom.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 58/100<br/><b>Source:</b> Hacker News<br/><br/>Economic analysis of AI financing and debt structures from institutional source.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>LLM hallucination paper(using math) accepted to ICML workshop[R]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1uw4j6a/llm_hallucination_paperusing_math_accepted_to/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1uw4j6a/llm_hallucination_paperusing_math_accepted_to/</guid>
-      <pubDate>Tue, 14 Jul 2026 10:13:24 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research on LLM hallucination using mathematical approaches accepted to ICML workshop.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>How to manage AI investments in the agentic era</title>
+      <link>https://openai.com/index/managing-ai-investments-in-agentic-era</link>
+      <guid isPermaLink="true">https://openai.com/index/managing-ai-investments-in-agentic-era</guid>
+      <pubDate>Tue, 14 Jul 2026 10:00:00 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 58/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Opinion/guidance piece on AI investment strategy rather than technical development or product announcement.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations</title>
-      <link>https://agnost.ai</link>
-      <guid isPermaLink="true">https://agnost.ai</guid>
-      <pubDate>Tue, 14 Jul 2026 16:06:18 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 54/100<br/><b>Source:</b> Hacker News<br/><br/>YC-backed startup launches tool for extracting feedback from agent conversations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>[AINews] Codex usage up &gt;10x in 6 months to 7M users, +1M in the past ~day; did Codex overtake Claude Code??</title>
+      <link>https://www.latent.space/p/ainews-codex-usage-up-10x-in-6-months</link>
+      <guid isPermaLink="true">https://www.latent.space/p/ainews-codex-usage-up-10x-in-6-months</guid>
+      <pubDate>Tue, 14 Jul 2026 01:22:27 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 58/100<br/><b>Source:</b> Latent Space<br/><br/>Speculative market commentary on product usage metrics without confirmed reporting.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>OpenAI mandates hardware-backed passkeys for Trusted Access Cyber members</title>
-      <link>https://www.yubico.com/blog/openai-mandates-hardware-backed-passkeys-for-trusted-access-cyber-members-to-log-into-chatgpt-accounts/</link>
-      <guid isPermaLink="true">https://www.yubico.com/blog/openai-mandates-hardware-backed-passkeys-for-trusted-access-cyber-members-to-log-into-chatgpt-accounts/</guid>
-      <pubDate>Tue, 14 Jul 2026 14:12:39 +0000</pubDate>
+      <title>Now, defenders are embracing the prompt injection, too</title>
+      <link>https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/</link>
+      <guid isPermaLink="true">https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/</guid>
+      <pubDate>Mon, 13 Jul 2026 15:06:34 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 54/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI implements hardware-backed passkey authentication for security program members.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> Ars Technica<br/><br/>Report on defensive techniques using prompt injection methods to improve AI system security.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B</title>
+      <link>https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/</guid>
+      <pubDate>Wed, 15 Jul 2026 00:27:04 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 56/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Rumor of startup funding involving OpenAI researcher, requires verification.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Google faces another AI training lawsuit from major publishers</title>
+      <link>https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/</guid>
+      <pubDate>Tue, 14 Jul 2026 18:33:31 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 56/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Legal development regarding AI training data; has AI angle but primarily geopolitical/legal in nature.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Guardian Angels: LLM Personalization for Productivity and Security</title>
@@ -117,31 +109,31 @@
       <guid isPermaLink="true">https://gwern.net/guardian-angel</guid>
       <pubDate>Tue, 14 Jul 2026 12:50:29 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 54/100<br/><b>Source:</b> Hacker News<br/><br/>Concept paper on personalized LLM systems for productivity and security.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 54/100<br/><b>Source:</b> Hacker News<br/><br/>Technical proposal for personalized LLM systems for productivity and security applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Demis Hassabis has a plan to harness AI safely</title>
-      <link>https://twitter.com/demishassabis/status/2076957440109625718</link>
-      <guid isPermaLink="true">https://twitter.com/demishassabis/status/2076957440109625718</guid>
-      <pubDate>Tue, 14 Jul 2026 09:20:07 +0000</pubDate>
+      <title>Lorde says AI glasses are ‘not sexy’</title>
+      <link>https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/</guid>
+      <pubDate>Tue, 14 Jul 2026 23:10:02 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 52/100<br/><b>Source:</b> Hacker News<br/><br/>Statement from Demis Hassabis regarding AI safety planning.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 50/100<br/><b>Source:</b> TechCrunch AI<br/><br/>&quot;Increasingly in our world, it gets harder and harder to know what is real,&quot; Lorde said onstage.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Show HN: Oodle.ai – $10 per million agent traces</title>
-      <link>https://www.oodle.ai/product/agent-observability</link>
-      <guid isPermaLink="true">https://www.oodle.ai/product/agent-observability</guid>
-      <pubDate>Tue, 14 Jul 2026 14:36:28 +0000</pubDate>
+      <title>OpenAI’s first hardware device is reportedly a screenless speaker that can move</title>
+      <link>https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/</guid>
+      <pubDate>Tue, 14 Jul 2026 22:22:24 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 50/100<br/><b>Source:</b> Hacker News<br/><br/>Product launch for agent observability and tracing platform.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 50/100<br/><b>Source:</b> TechCrunch AI<br/><br/>The device is weirdly described as involving &quot;mechanical elements that can move on their own&quot; and the Bloomberg report includes the detail that the device is designed to &quot;feel like a companion and bec<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Cloud-vLLM Benchmark Differences [R]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1uw2j9e/cloudvllm_benchmark_differences_r/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1uw2j9e/cloudvllm_benchmark_differences_r/</guid>
-      <pubDate>Tue, 14 Jul 2026 08:17:25 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 50/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Discussion of benchmark differences in cloud-based vLLM implementations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Spotify expands its AI push with a ChatGPT-like music assistant</title>
+      <link>https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/</guid>
+      <pubDate>Tue, 14 Jul 2026 14:06:47 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 50/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Spotify is rolling out a new AI-powered conversational feature that lets Premium subscribers chat with the app to discover music, podcasts, audiobooks, and more.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
