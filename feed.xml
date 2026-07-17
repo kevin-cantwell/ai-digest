@@ -5,15 +5,15 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Jul 2026 16:12:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 18:03:23 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>[AINews] Kimi K3 2.8T-A50B: the largest open model ever released; Opus 4.8-class at Sonnet 5 pricing</title>
-      <link>https://www.latent.space/p/ainews-kimi-k3-28t-a50b-the-largest</link>
-      <guid isPermaLink="true">https://www.latent.space/p/ainews-kimi-k3-28t-a50b-the-largest</guid>
-      <pubDate>Fri, 17 Jul 2026 01:46:36 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 86/100<br/><b>Source:</b> Latent Space<br/><br/>Kimi K3 2.8T-A50B released as one of the largest open-weights models with competitive performance pricing.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>VulnHunter: Capital One&apos;s agentic AI code security tool</title>
+      <link>https://www.capitalone.com/tech/open-source/announcing-vulnhunter/</link>
+      <guid isPermaLink="true">https://www.capitalone.com/tech/open-source/announcing-vulnhunter/</guid>
+      <pubDate>Fri, 17 Jul 2026 12:42:12 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Capital One releases VulnHunter, an agentic AI tool for code security vulnerabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>LM Studio Bionic: the AI agent for open models</title>
@@ -21,7 +21,15 @@
       <guid isPermaLink="true">https://lmstudio.ai/blog/introducing-lm-studio-bionic</guid>
       <pubDate>Thu, 16 Jul 2026 20:18:15 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>LM Studio releases Bionic, an AI agent platform for open-source language models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>LM Studio introduces Bionic, an AI agent framework for open-source language models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>[AINews] Kimi K3 2.8T-A50B: the largest open model ever released; Opus 4.8-class at Sonnet 5 pricing</title>
+      <link>https://www.latent.space/p/ainews-kimi-k3-28t-a50b-the-largest</link>
+      <guid isPermaLink="true">https://www.latent.space/p/ainews-kimi-k3-28t-a50b-the-largest</guid>
+      <pubDate>Fri, 17 Jul 2026 01:46:36 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 80/100<br/><b>Source:</b> Latent Space<br/><br/>Kimi K3 released as largest open-weights model with performance competitive to closed models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>[AINews] Thinky&apos;s Inkling: 975B-A41B multimodal, new best American Apache 2.0 open model (with Inkling-Small, 276B-A12B)</title>
@@ -29,15 +37,7 @@
       <guid isPermaLink="true">https://www.latent.space/p/ainews-thinkys-inkling-975b-a41b</guid>
       <pubDate>Thu, 16 Jul 2026 06:18:05 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 80/100<br/><b>Source:</b> Latent Space<br/><br/>Thinky releases Inkling, a 975B-parameter open multimodal model with Apache 2.0 licensing.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Mozilla: The state of open source AI</title>
-      <link>https://stateofopensource.ai/</link>
-      <guid isPermaLink="true">https://stateofopensource.ai/</guid>
-      <pubDate>Fri, 17 Jul 2026 14:31:10 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Mozilla publishes comprehensive report on the state of open-source AI ecosystem.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 80/100<br/><b>Source:</b> Latent Space<br/><br/>Thinky releases Inkling multimodal model family, largest Apache 2.0 open model to date.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Seeking collaborators for scaling and independent evaluation of a new recurrent language model architecture (preprint + code) [R]</title>
@@ -45,7 +45,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1uycffg/seeking_collaborators_for_scaling_and_independent/</guid>
       <pubDate>Thu, 16 Jul 2026 19:17:01 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Researcher seeks collaborators to scale and evaluate a novel recurrent language model architecture.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Researcher seeks collaborators for a new recurrent language model architecture with code release.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Inkling: Our open-weights model</title>
@@ -53,15 +53,7 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Jul/16/inkling/#atom-everything</guid>
       <pubDate>Thu, 16 Jul 2026 15:35:25 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> Simon Willison<br/><br/>Release announcement of Inkling, a new open-weights AI model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Agent-talk: Enabling coding agents to work together</title>
-      <link>https://github.com/xhluca/agent-talk</link>
-      <guid isPermaLink="true">https://github.com/xhluca/agent-talk</guid>
-      <pubDate>Thu, 16 Jul 2026 16:14:20 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 72/100<br/><b>Source:</b> Hacker News<br/><br/>New framework enabling multiple coding agents to communicate and collaborate.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> Simon Willison<br/><br/>Announcement of Inkling, a new open-weights language model release.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>xai-org/grok-build, now open source</title>
@@ -69,7 +61,15 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Jul/15/grok-build/#atom-everything</guid>
       <pubDate>Wed, 15 Jul 2026 23:59:30 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 72/100<br/><b>Source:</b> Simon Willison<br/><br/>xAI open-sources grok-build, its model building framework.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 72/100<br/><b>Source:</b> Simon Willison<br/><br/>xAI releases grok-build, the open-source framework underlying Grok model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Mozilla: The state of open source AI</title>
+      <link>https://stateofopensource.ai/</link>
+      <guid isPermaLink="true">https://stateofopensource.ai/</guid>
+      <pubDate>Fri, 17 Jul 2026 14:31:10 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Mozilla publishes report on the state of open-source AI ecosystem.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Claude Code: Anatomy of a Misfeature</title>
@@ -77,7 +77,15 @@
       <guid isPermaLink="true">https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature/</guid>
       <pubDate>Fri, 17 Jul 2026 14:26:58 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Critical analysis of Claude&apos;s code execution feature identifying design flaws.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Critical analysis of Claude Code features and limitations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Why the first GPU financiers are turning to inference chips in a $400 million deal</title>
+      <link>https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/</guid>
+      <pubDate>Fri, 17 Jul 2026 12:00:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Major funding shift from GPU to AI inference chip development in $400M deal.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling</title>
@@ -85,7 +93,15 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/</guid>
       <pubDate>Wed, 15 Jul 2026 18:04:06 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Thinking Machines releases Inkling open model as alternative to generalist AI approaches.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Thinking Machines releases Inkling open model as alternative to monolithic AI approaches.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Kimi K3, and what we can still learn from the pelican benchmark</title>
+      <link>https://simonwillison.net/2026/Jul/16/kimi-k3/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/16/kimi-k3/</guid>
+      <pubDate>Fri, 17 Jul 2026 14:21:51 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>Technical analysis of Kimi K3 model and pelican benchmarking methodology.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Our approach to bioresilience</title>
@@ -93,15 +109,7 @@
       <guid isPermaLink="true">https://deepmind.google/blog/our-approach-to-bioresilience/</guid>
       <pubDate>Thu, 16 Jul 2026 09:30:42 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> Google DeepMind<br/><br/>Google DeepMind outlines research approach to biological resilience and AI applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>AI Meets Cryptography 2: What AI Found in OpenVM&apos;s ZkVM</title>
-      <link>https://blog.zksecurity.xyz/posts/openvm-bugs/</link>
-      <guid isPermaLink="true">https://blog.zksecurity.xyz/posts/openvm-bugs/</guid>
-      <pubDate>Fri, 17 Jul 2026 14:21:35 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> Hacker News<br/><br/>Study of vulnerabilities discovered through AI analysis of OpenVM&apos;s zero-knowledge VM implementation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> Google DeepMind<br/><br/>Google DeepMind outlines approach to biological resilience research and applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>EU AI Act OpenRAG: 933 legally structured chunks and BGE-M3 embeddings in one SQLite file [P]</title>
@@ -109,23 +117,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1uytlac/eu_ai_act_openrag_933_legally_structured_chunks/</guid>
       <pubDate>Fri, 17 Jul 2026 08:18:09 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Open dataset of EU AI Act-compliant text chunks with embeddings in SQLite format.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Hack suggests AI music generator Suno scraped YouTube for training data</title>
-      <link>https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/</guid>
-      <pubDate>Wed, 15 Jul 2026 17:00:34 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Investigation suggests Suno AI music generator may have scraped YouTube for training data.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Kimi K3, and what we can still learn from the pelican benchmark</title>
-      <link>https://simonwillison.net/2026/Jul/16/kimi-k3/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/16/kimi-k3/#atom-everything</guid>
-      <pubDate>Thu, 16 Jul 2026 20:19:30 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> Simon Willison<br/><br/>Technical analysis of Kimi K3 model capabilities and benchmark performance.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Open-source RAG dataset structured for EU AI Act compliance released.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex</title>
@@ -133,15 +125,15 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/</guid>
       <pubDate>Wed, 15 Jul 2026 19:41:38 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 58/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI releases a specialized hardware keyboard product during ongoing legal disputes.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 58/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI releases a specialty keyboard product amid legal disputes.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Launch HN: Traceforce (YC S26) – Company-wide security monitoring for AI apps</title>
-      <link>https://news.ycombinator.com/item?id=48937020</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=48937020</guid>
-      <pubDate>Thu, 16 Jul 2026 16:52:16 +0000</pubDate>
+      <title>Roblox launches an AI-powered game-creation feature in its mobile app</title>
+      <link>https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/</guid>
+      <pubDate>Thu, 16 Jul 2026 18:22:06 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 56/100<br/><b>Source:</b> Hacker News<br/><br/>Traceforce launches Y Combinator-backed security monitoring platform for AI applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 50/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Roblox&apos;s new &quot;Build&quot; feature lets users generate basic games using a single text prompt.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
