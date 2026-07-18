@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Jul 2026 16:54:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 17:54:46 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>[AINews] Kimi K3 2.8T-A50B: the largest open model ever released; Opus 4.8-class at Sonnet 5 pricing</title>
@@ -13,7 +13,15 @@
       <guid isPermaLink="true">https://www.latent.space/p/ainews-kimi-k3-28t-a50b-the-largest</guid>
       <pubDate>Fri, 17 Jul 2026 01:46:36 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 80/100<br/><b>Source:</b> Latent Space<br/><br/>Kimi K3 2.8T-A50B released as largest open-source model with performance comparable to Claude Opus at lower cost.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 80/100<br/><b>Source:</b> Latent Space<br/><br/>Announcement of Kimi K3, claimed to be the largest open-source model with competitive pricing.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Setting up your spare Mac for Claude Code to control, a step-by-step guide</title>
+      <link>https://ykdojo.github.io/claude-controls-mac/</link>
+      <guid isPermaLink="true">https://ykdojo.github.io/claude-controls-mac/</guid>
+      <pubDate>Sat, 18 Jul 2026 16:12:08 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Tutorial on setting up Mac automation with Claude&apos;s code execution capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>What AI did to stackoverflow in a graph</title>
@@ -21,7 +29,7 @@
       <guid isPermaLink="true">https://data.stackexchange.com/stackoverflow/query/1953768#graph</guid>
       <pubDate>Sat, 18 Jul 2026 11:12:46 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Data visualization showing Stack Overflow traffic patterns correlated with AI adoption.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Data visualization showing Stack Overflow usage trends correlated with AI adoption.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs</title>
@@ -29,7 +37,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/</guid>
       <pubDate>Fri, 17 Jul 2026 22:55:09 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> TechCrunch AI<br/><br/>TechCrunch reviews Vertu&apos;s $6,880 AI agent product for executives.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Review of Vertu&apos;s $6,880 AI agent product and its actual performance capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Why the first GPU financiers are turning to inference chips in a $400 million deal</title>
@@ -37,7 +45,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/</guid>
       <pubDate>Fri, 17 Jul 2026 12:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Industry shift toward inference chips investment in $400M GPU financing deal.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Report on GPU financiers shifting investments toward inference chip infrastructure.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Kimi K3, and what we can still learn from the pelican benchmark</title>
@@ -45,39 +53,15 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Jul/16/kimi-k3/#atom-everything</guid>
       <pubDate>Thu, 16 Jul 2026 20:19:30 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> Simon Willison<br/><br/>Analysis of Kimi K3 release and pelican benchmark implications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> Simon Willison<br/><br/>Analysis of Kimi K3 release and benchmarking methodology insights.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>TabFM Studio: point-and-click predictions on spreadsheets with tabular foundation models, fully local [P]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1uzx1el/tabfm_studio_pointandclick_predictions_on/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1uzx1el/tabfm_studio_pointandclick_predictions_on/</guid>
-      <pubDate>Sat, 18 Jul 2026 14:15:03 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>TabFM Studio tool for local spreadsheet predictions using tabular foundation models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Databricks hits $188B valuation, extending its run as AI’s favorite second act</title>
-      <link>https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/</guid>
-      <pubDate>Fri, 17 Jul 2026 22:12:56 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Databricks achieves $188B valuation in Series G funding round.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Patreon stops asking AI bots not to scrape — and starts blocking them</title>
-      <link>https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/</guid>
-      <pubDate>Fri, 17 Jul 2026 15:21:17 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Patreon implements technical blocks against AI training bots scraping user content.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>A scorecard for the AI age</title>
-      <link>https://openai.com/index/a-scorecard-for-the-ai-age</link>
-      <guid isPermaLink="true">https://openai.com/index/a-scorecard-for-the-ai-age</guid>
-      <pubDate>Fri, 17 Jul 2026 10:00:00 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI publishes a scorecard framework for evaluating AI capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Beginning July 20, Claude Fable 5 will be included in all Max plans</title>
+      <link>https://twitter.com/claudeai/status/2078302415804379218</link>
+      <guid isPermaLink="true">https://twitter.com/claudeai/status/2078302415804379218</guid>
+      <pubDate>Sat, 18 Jul 2026 02:15:36 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>Product announcement that Claude Fable 5 will be included in all Max subscription plans.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Claude make Fable 5 permanent</title>
@@ -85,7 +69,39 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything</guid>
       <pubDate>Sat, 18 Jul 2026 06:00:13 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 54/100<br/><b>Source:</b> Simon Willison<br/><br/>Claude integrating Fable 5 as permanent feature.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> Simon Willison<br/><br/>News that Claude Fable 5 is becoming a permanent product offering.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>TabFM Studio: point-and-click predictions on spreadsheets with tabular foundation models, fully local [P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1uzx1el/tabfm_studio_pointandclick_predictions_on/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1uzx1el/tabfm_studio_pointandclick_predictions_on/</guid>
+      <pubDate>Sat, 18 Jul 2026 14:15:03 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Local spreadsheet tool using tabular foundation models for predictions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Databricks hits $188B valuation, extending its run as AI’s favorite second act</title>
+      <link>https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/</guid>
+      <pubDate>Fri, 17 Jul 2026 22:12:56 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Databricks reaches $188B valuation amid continued AI infrastructure investment.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Agility Robotics plants its flag in Tesla’s backyard</title>
+      <link>https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/</guid>
+      <pubDate>Fri, 17 Jul 2026 20:19:49 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Agility Robotics announces manufacturing expansion in competition with Tesla.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>AI-driven memory crunch jolts India’s smartphone market</title>
+      <link>https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/</guid>
+      <pubDate>Fri, 17 Jul 2026 20:09:27 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Report on increased memory chip demand driven by AI features in smartphones.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Roblox launches an AI-powered game-creation feature in its mobile app</title>
@@ -101,7 +117,7 @@
       <guid isPermaLink="true">https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/</guid>
       <pubDate>Sat, 18 Jul 2026 13:00:52 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 44/100<br/><b>Source:</b> Hacker News<br/><br/>Reddit discussion claiming GPT-5.6 solved a 30-year convex optimization problem via prompt.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 44/100<br/><b>Source:</b> Hacker News<br/><br/>Unverified Reddit claim about GPT-5.6 solving a convex optimization problem.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?</title>
@@ -109,7 +125,7 @@
       <guid isPermaLink="true">https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/</guid>
       <pubDate>Sat, 18 Jul 2026 11:00:29 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 44/100<br/><b>Source:</b> Hacker News<br/><br/>Blog post comparing fictional AI models on NP-Hard problems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 44/100<br/><b>Source:</b> Hacker News<br/><br/>Blog post comparing two unreleased/unverified AI models on a benchmark.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
