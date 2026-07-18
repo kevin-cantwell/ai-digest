@@ -5,47 +5,15 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Jul 2026 11:01:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 13:08:20 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>VulnHunter: Capital One&apos;s agentic AI code security tool</title>
-      <link>https://www.capitalone.com/tech/open-source/announcing-vulnhunter/</link>
-      <guid isPermaLink="true">https://www.capitalone.com/tech/open-source/announcing-vulnhunter/</guid>
-      <pubDate>Fri, 17 Jul 2026 12:42:12 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>Capital One releases VulnHunter, an open-source agentic AI tool for code security vulnerability detection.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
     <item>
       <title>[AINews] Kimi K3 2.8T-A50B: the largest open model ever released; Opus 4.8-class at Sonnet 5 pricing</title>
       <link>https://www.latent.space/p/ainews-kimi-k3-28t-a50b-the-largest</link>
       <guid isPermaLink="true">https://www.latent.space/p/ainews-kimi-k3-28t-a50b-the-largest</guid>
       <pubDate>Fri, 17 Jul 2026 01:46:36 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 86/100<br/><b>Source:</b> Latent Space<br/><br/>Kimi K3 2.8T-A50B, a large open-weights model with Opus-class performance at lower pricing tiers.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Homomorphically encrypted CIFAR-10 inference in 200ms</title>
-      <link>https://sofar.belfortlabs.cloud/</link>
-      <guid isPermaLink="true">https://sofar.belfortlabs.cloud/</guid>
-      <pubDate>Fri, 17 Jul 2026 16:29:52 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> Hacker News<br/><br/>Technical breakthrough in homomorphic encryption enabling fast encrypted neural network inference.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>The state of open source AI</title>
-      <link>https://stateofopensource.ai/</link>
-      <guid isPermaLink="true">https://stateofopensource.ai/</guid>
-      <pubDate>Fri, 17 Jul 2026 14:31:10 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Comprehensive report on the state of open source AI landscape.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Kimi K3, and what we can still learn from the pelican benchmark</title>
-      <link>https://simonwillison.net/2026/Jul/16/kimi-k3/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/16/kimi-k3/</guid>
-      <pubDate>Fri, 17 Jul 2026 14:21:51 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Analysis of Kimi K3 model release and benchmark performance insights.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 86/100<br/><b>Source:</b> Latent Space<br/><br/>Announcement of Kimi K3 2.8T-A50B, a major open-source model with competitive performance-to-price ratio.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Inkling: Our open-weights model</title>
@@ -53,7 +21,31 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Jul/16/inkling/#atom-everything</guid>
       <pubDate>Thu, 16 Jul 2026 15:35:25 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> Simon Willison<br/><br/>New open-weights AI model release called Inkling.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 80/100<br/><b>Source:</b> Simon Willison<br/><br/>Release of Inkling, a new open-weights AI model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Homomorphically encrypted CIFAR-10 inference in 200ms</title>
+      <link>https://sofar.belfortlabs.cloud/</link>
+      <guid isPermaLink="true">https://sofar.belfortlabs.cloud/</guid>
+      <pubDate>Fri, 17 Jul 2026 16:29:52 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> Hacker News<br/><br/>Technical achievement of homomorphic encrypted neural network inference in 200ms.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>The state of open source AI</title>
+      <link>https://stateofopensource.ai/</link>
+      <guid isPermaLink="true">https://stateofopensource.ai/</guid>
+      <pubDate>Fri, 17 Jul 2026 14:31:10 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Comprehensive overview of the open source AI landscape and ecosystem.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Kimi K3, and what we can still learn from the pelican benchmark</title>
+      <link>https://simonwillison.net/2026/Jul/16/kimi-k3/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/16/kimi-k3/</guid>
+      <pubDate>Fri, 17 Jul 2026 14:21:51 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Analysis of Kimi K3 model release and benchmark methodology insights.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Claude Code: Anatomy of a Misfeature</title>
@@ -61,7 +53,7 @@
       <guid isPermaLink="true">https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature/</guid>
       <pubDate>Fri, 17 Jul 2026 14:26:58 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Critical analysis of Claude&apos;s code execution feature and its limitations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Critical analysis of Claude&apos;s Code feature examining its design and implementation issues.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs</title>
@@ -69,7 +61,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/</guid>
       <pubDate>Fri, 17 Jul 2026 22:55:09 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> TechCrunch AI<br/><br/>TechCrunch product review of Vertu&apos;s $6,880 AI agent for executives.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Review of Vertu&apos;s $6,880 AI agent product and its actual performance capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Why the first GPU financiers are turning to inference chips in a $400 million deal</title>
@@ -77,7 +69,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/</guid>
       <pubDate>Fri, 17 Jul 2026 12:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Investment trend: GPU investors moving into AI inference chips with $400M deal.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Venture capital shift from GPU financing to specialized inference chip investments.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>AI Meets Cryptography 2: What AI Found in OpenVM&apos;s ZkVM</title>
@@ -85,31 +77,23 @@
       <guid isPermaLink="true">https://blog.zksecurity.xyz/posts/openvm-bugs/</guid>
       <pubDate>Fri, 17 Jul 2026 14:21:35 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>AI used to find security vulnerabilities in OpenVM&apos;s zero-knowledge cryptography system.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>Security analysis of AI-discovered vulnerabilities in OpenVM&apos;s zero-knowledge system.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Apple targets dozens of OpenAI employees with legal letters</title>
-      <link>https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166</link>
-      <guid isPermaLink="true">https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166</guid>
-      <pubDate>Fri, 17 Jul 2026 12:02:39 +0000</pubDate>
+      <title>What AI did to stackoverflow in a graph</title>
+      <link>https://data.stackexchange.com/stackoverflow/query/1953768#graph</link>
+      <guid isPermaLink="true">https://data.stackexchange.com/stackoverflow/query/1953768#graph</guid>
+      <pubDate>Sat, 18 Jul 2026 11:12:46 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>Apple sends legal letters to OpenAI employees regarding potential non-compete violations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> Hacker News<br/><br/>Data visualization showing impact of AI on Stack Overflow usage patterns.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Databricks hits $188B valuation, extending its run as AI’s favorite second act</title>
-      <link>https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/</guid>
-      <pubDate>Fri, 17 Jul 2026 22:12:56 +0000</pubDate>
+      <title>Stereo2Spatial: Convert Stereo Music Tracks to Spatialized Binaural Mixes [P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1uzevbg/stereo2spatial_convert_stereo_music_tracks_to/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1uzevbg/stereo2spatial_convert_stereo_music_tracks_to/</guid>
+      <pubDate>Fri, 17 Jul 2026 22:55:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Databricks reaches $188B valuation in latest funding round.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Claude make Fable 5 permanent</title>
-      <link>https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything</guid>
-      <pubDate>Sat, 18 Jul 2026 06:00:13 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 54/100<br/><b>Source:</b> Simon Willison<br/><br/>Short note about Claude&apos;s Fable feature becoming permanent.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research project on converting stereo music to spatialized binaural audio using AI.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Roblox launches an AI-powered game-creation feature in its mobile app</title>
@@ -118,14 +102,6 @@
       <pubDate>Thu, 16 Jul 2026 18:22:06 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 50/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Roblox&apos;s new &quot;Build&quot; feature lets users generate basic games using a single text prompt.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product</title>
-      <link>https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/</guid>
-      <pubDate>Thu, 16 Jul 2026 15:02:00 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 50/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Venture funding story about former DeepMind researcher raising at $300M pre-seed valuation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
