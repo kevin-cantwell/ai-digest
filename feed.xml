@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Jul 2026 20:42:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 21:49:49 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>OpenAI reduces Codex Model Context Size from 372k to 272k</title>
@@ -13,15 +13,7 @@
       <guid isPermaLink="true">https://github.com/openai/codex/pull/33972/files</guid>
       <pubDate>Sun, 19 Jul 2026 07:54:39 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI reduces Codex model context window size.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Interactive map of GPT-2&apos;s token embedding space - tap any token and explore [P]</title>
-      <link>https://aethereos.net/static/token-atlas.html</link>
-      <guid isPermaLink="true">https://aethereos.net/static/token-atlas.html</guid>
-      <pubDate>Sat, 18 Jul 2026 22:42:20 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Interactive visualization tool for exploring GPT-2 token embedding space.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI reduces Codex model context window from 372k to 272k tokens.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Passing the Swedish Medical Licensing Exam by Post-Training Open-Weight LLMs with SFT and RLVR [P]</title>
@@ -29,7 +21,7 @@
       <guid isPermaLink="true">https://tensorlabbet.com/2026/07/19/medqaswe_post_training/</guid>
       <pubDate>Sun, 19 Jul 2026 12:44:45 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Open-weight LLM achieves passing score on Swedish medical licensing exam.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Open-weight LLMs achieve passing performance on Swedish Medical Licensing Exam using SFT and RLVR techniques.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Moonshot AI suspends new subscriptions due to Kimi K3 demand</title>
@@ -37,7 +29,7 @@
       <guid isPermaLink="true">https://twitter.com/kimi_moonshot/status/2078855608565207130</guid>
       <pubDate>Sun, 19 Jul 2026 16:02:25 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Moonshot AI suspends new subscriptions due to high demand for Kimi K3.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Moonshot AI suspends new subscriptions due to overwhelming demand for Kimi K3 model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Claude Code uses Bun written in Rust now</title>
@@ -45,7 +37,15 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/</guid>
       <pubDate>Sun, 19 Jul 2026 10:03:23 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Claude Code implementation detail about using Bun written in Rust.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Claude Code now uses Bun runtime written in Rust for improved performance.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Interactive map of GPT-2&apos;s token embedding space - tap any token and explore [P]</title>
+      <link>https://aethereos.net/static/token-atlas.html</link>
+      <guid isPermaLink="true">https://aethereos.net/static/token-atlas.html</guid>
+      <pubDate>Sat, 18 Jul 2026 22:42:20 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Interactive visualization tool for exploring GPT-2&apos;s token embedding space.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs</title>
@@ -53,15 +53,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/</guid>
       <pubDate>Fri, 17 Jul 2026 22:55:09 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Analysis of Vertu&apos;s $6,880 AI agent product performance.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>GPT-2 Small’s embedding geometry around “Trump”: discretized vs. continuous nearest neighbours [P]</title>
-      <link>https://i.redd.it/tlvz4c3i32eh1.png</link>
-      <guid isPermaLink="true">https://i.redd.it/tlvz4c3i32eh1.png</guid>
-      <pubDate>Sat, 18 Jul 2026 21:29:05 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research on GPT-2 embedding geometry analysis and nearest neighbors.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Review of Vertu&apos;s $6,880 AI agent product and its actual capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Follow up: GPT-2&apos;s vocabulary as a hyperbolic tree — 32,070 tokens in a Poincaré ball you can fly through [P]</title>
@@ -69,15 +61,7 @@
       <guid isPermaLink="true">https://i.redd.it/o6l1c96lo6eh1.png</guid>
       <pubDate>Sun, 19 Jul 2026 12:54:23 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Visualization of GPT-2 vocabulary as hyperbolic tree structure.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Databricks hits $188B valuation, extending its run as AI’s favorite second act</title>
-      <link>https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/</guid>
-      <pubDate>Fri, 17 Jul 2026 22:12:56 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Databricks achieves $188B valuation in new funding round.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Visualization of GPT-2&apos;s 32,070-token vocabulary as interactive hyperbolic space.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Nonprofit Current AI is racing to build the World Wide Web of AI, free for all</title>
@@ -85,7 +69,15 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/</guid>
       <pubDate>Sun, 19 Jul 2026 14:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Nonprofit Current AI working to build open distributed AI infrastructure.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Nonprofit Current AI launches initiative to build decentralized AI infrastructure.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Databricks hits $188B valuation, extending its run as AI’s favorite second act</title>
+      <link>https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/</guid>
+      <pubDate>Fri, 17 Jul 2026 22:12:56 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Databricks reaches $188B valuation in funding round.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>LLM-Integrated Multivariable Calculus Course</title>
@@ -93,7 +85,7 @@
       <guid isPermaLink="true">https://calculus.academa.ai/</guid>
       <pubDate>Sun, 19 Jul 2026 02:55:43 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 50/100<br/><b>Source:</b> Hacker News<br/><br/>Multivariable calculus course integrated with LLM.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 50/100<br/><b>Source:</b> Hacker News<br/><br/>Calculus course integrates LLMs for instruction delivery.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Claude make Fable 5 permanent</title>
@@ -101,7 +93,7 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything</guid>
       <pubDate>Sat, 18 Jul 2026 06:00:13 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 48/100<br/><b>Source:</b> Simon Willison<br/><br/>Claude product update making Fable 5 permanent.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 48/100<br/><b>Source:</b> Simon Willison<br/><br/>Anthropic makes Claude&apos;s Fable 5 feature permanent.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Perforce charges $500 for training training videos.. and it&apos;s AI narrated</title>
@@ -109,7 +101,7 @@
       <guid isPermaLink="true">https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic</guid>
       <pubDate>Sun, 19 Jul 2026 08:00:24 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 44/100<br/><b>Source:</b> Hacker News<br/><br/>Perforce charges for training videos with AI narration.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 42/100<br/><b>Source:</b> Hacker News<br/><br/>Perforce charges $500 for training videos with AI narration; primarily a pricing/product complaint.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>AI Mania Is Eviscerating Global Decision-Making</title>
@@ -117,7 +109,7 @@
       <guid isPermaLink="true">https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3</guid>
       <pubDate>Sun, 19 Jul 2026 01:29:19 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 40/100<br/><b>Source:</b> Hacker News<br/><br/>Opinion piece criticizing AI hype and decision-making impacts.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 40/100<br/><b>Source:</b> Hacker News<br/><br/>Opinion piece on AI hype and its effects on decision-making; not substantive technical news.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Can an Apple lawsuit derail OpenAI’s hardware plans?</title>
@@ -125,7 +117,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/</guid>
       <pubDate>Sun, 19 Jul 2026 19:24:45 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 38/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Speculation about Apple lawsuit impact on OpenAI hardware.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 38/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Speculation on Apple lawsuit impact on OpenAI hardware; premature legal analysis.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
