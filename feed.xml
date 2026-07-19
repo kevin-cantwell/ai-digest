@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Jul 2026 13:13:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 14:52:53 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Our Approach to Bioresilience: Isomorphic Labs and Google DeepMind</title>
@@ -13,7 +13,7 @@
       <guid isPermaLink="true">https://deepmind.google/blog/our-approach-to-bioresilience/</guid>
       <pubDate>Sat, 18 Jul 2026 16:02:45 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Google DeepMind and Isomorphic Labs announce research initiative on AI for biological resilience.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Google DeepMind and Isomorphic Labs announce approach to AI-driven biological resilience research.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>OpenAI reduces Codex Model Context Size from 372k to 272k</title>
@@ -24,20 +24,20 @@
       <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI reduces context window size for Codex model from 372k to 272k tokens.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
+      <title>Passing the Swedish Medical Licensing Exam by Post-Training Open-Weight LLMs with SFT and RLVR [P]</title>
+      <link>https://tensorlabbet.com/2026/07/19/medqaswe_post_training/</link>
+      <guid isPermaLink="true">https://tensorlabbet.com/2026/07/19/medqaswe_post_training/</guid>
+      <pubDate>Sun, 19 Jul 2026 12:44:45 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Open-weight LLM passes Swedish medical licensing exam using SFT and RLVR techniques.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
       <title>Claude Code uses Bun written in Rust now</title>
       <link>https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/</guid>
       <pubDate>Sun, 19 Jul 2026 10:03:23 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Claude Code implementation detail about using Bun runtime written in Rust.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>AAAI 27 AI Alignment track [D]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1uzxrn4/aaai_27_ai_alignment_track_d/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1uzxrn4/aaai_27_ai_alignment_track_d/</guid>
-      <pubDate>Sat, 18 Jul 2026 14:44:38 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/MachineLearning<br/><br/>AAAI 27 conference announces AI alignment research track.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Claude Code infrastructure update to use Bun runtime written in Rust.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Interactive map of GPT-2&apos;s token embedding space - tap any token and explore [P]</title>
@@ -45,23 +45,7 @@
       <guid isPermaLink="true">https://aethereos.net/static/token-atlas.html</guid>
       <pubDate>Sat, 18 Jul 2026 22:42:20 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Interactive visualization tool for exploring GPT-2&apos;s token embedding space.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Deep learning tackles single-cell analysis – A survey of deep learning for scRNA-seq analysis [R]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1v06nc1/deep_learning_tackles_singlecell_analysis_a/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1v06nc1/deep_learning_tackles_singlecell_analysis_a/</guid>
-      <pubDate>Sat, 18 Jul 2026 20:35:16 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Survey of deep learning methods applied to single-cell RNA sequencing analysis.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>TabFM Studio: point-and-click predictions on spreadsheets with tabular foundation models, fully local [P]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1uzx1el/tabfm_studio_pointandclick_predictions_on/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1uzx1el/tabfm_studio_pointandclick_predictions_on/</guid>
-      <pubDate>Sat, 18 Jul 2026 14:15:03 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>TabFM Studio enables spreadsheet predictions using tabular foundation models with local deployment.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Interactive tool for exploring GPT-2&apos;s token embedding space.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs</title>
@@ -69,7 +53,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/</guid>
       <pubDate>Fri, 17 Jul 2026 22:55:09 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Review of Vertu&apos;s $6,880 AI agent product and its real-world performance.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Review of Vertu&apos;s premium AI agent product priced at $6,880.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>GPT-2 Small’s embedding geometry around “Trump”: discretized vs. continuous nearest neighbours [P]</title>
@@ -77,7 +61,39 @@
       <guid isPermaLink="true">https://i.redd.it/tlvz4c3i32eh1.png</guid>
       <pubDate>Sat, 18 Jul 2026 21:29:05 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Analysis of embedding geometry in GPT-2 Small around specific tokens.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research visualization of GPT-2 embedding geometry around specific tokens.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Follow up: GPT-2&apos;s vocabulary as a hyperbolic tree — 32,070 tokens in a Poincaré ball you can fly through [P]</title>
+      <link>https://i.redd.it/o6l1c96lo6eh1.png</link>
+      <guid isPermaLink="true">https://i.redd.it/o6l1c96lo6eh1.png</guid>
+      <pubDate>Sun, 19 Jul 2026 12:54:23 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Visualization of GPT-2&apos;s vocabulary as navigable hyperbolic geometry in Poincaré ball.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Deep learning tackles single-cell analysis – A survey of deep learning for scRNA-seq analysis [R]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1v06nc1/deep_learning_tackles_singlecell_analysis_a/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1v06nc1/deep_learning_tackles_singlecell_analysis_a/</guid>
+      <pubDate>Sat, 18 Jul 2026 20:35:16 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Survey of deep learning methods for single-cell RNA sequencing analysis.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Nonprofit Current AI is racing to build the World Wide Web of AI, free for all</title>
+      <link>https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/</guid>
+      <pubDate>Sun, 19 Jul 2026 14:00:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Nonprofit Current AI announces effort to build decentralized AI infrastructure platform.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Setting up your spare Mac for Claude Code to control, a step-by-step guide</title>
+      <link>https://ykdojo.github.io/claude-controls-mac/</link>
+      <guid isPermaLink="true">https://ykdojo.github.io/claude-controls-mac/</guid>
+      <pubDate>Sat, 18 Jul 2026 16:12:08 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 58/100<br/><b>Source:</b> Hacker News<br/><br/>Tutorial on configuring a Mac for Claude Code control.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>LLM-Integrated Multivariable Calculus Course</title>
@@ -85,7 +101,7 @@
       <guid isPermaLink="true">https://calculus.academa.ai/</guid>
       <pubDate>Sun, 19 Jul 2026 02:55:43 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> Hacker News<br/><br/>Multivariable calculus course integrating LLMs for instruction.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> Hacker News<br/><br/>LLM-integrated calculus course platform launched.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Databricks hits $188B valuation, extending its run as AI’s favorite second act</title>
@@ -96,12 +112,20 @@
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Databricks achieves $188B valuation in funding round.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
+      <title>AI-driven memory crunch jolts India’s smartphone market</title>
+      <link>https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/</guid>
+      <pubDate>Fri, 17 Jul 2026 20:09:27 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 50/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Report on AI-driven semiconductor demand affecting India&apos;s smartphone market.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
       <title>Patreon stops asking AI bots not to scrape — and starts blocking them</title>
       <link>https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/</link>
       <guid isPermaLink="true">https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/</guid>
       <pubDate>Fri, 17 Jul 2026 15:21:17 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Patreon implements technical blocks against AI bot scraping.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 50/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Patreon implements bot-blocking measures against AI scraping.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Claude make Fable 5 permanent</title>
@@ -109,7 +133,7 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything</guid>
       <pubDate>Sat, 18 Jul 2026 06:00:13 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 48/100<br/><b>Source:</b> Simon Willison<br/><br/>Anthropic makes Claude Fable 5 mode a permanent feature.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 42/100<br/><b>Source:</b> Simon Willison<br/><br/>Announcement that Claude made Fable 5 a permanent feature.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Perforce charges $500 for training training videos.. and it&apos;s AI narrated</title>
@@ -117,7 +141,7 @@
       <guid isPermaLink="true">https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic</guid>
       <pubDate>Sun, 19 Jul 2026 08:00:24 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 38/100<br/><b>Source:</b> Hacker News<br/><br/>Perforce charges for training videos with AI narration.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 38/100<br/><b>Source:</b> Hacker News<br/><br/>Commentary on Perforce charging for AI-narrated training videos.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
