@@ -5,23 +5,31 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Jul 2026 02:44:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 06:15:18 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Claude Fable produced a counterexample to the Jacobian Conjecture</title>
+      <link>https://xcancel.com/__alpoge__/status/2079028340955197566</link>
+      <guid isPermaLink="true">https://xcancel.com/__alpoge__/status/2079028340955197566</guid>
+      <pubDate>Mon, 20 Jul 2026 02:51:16 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 80/100<br/><b>Source:</b> Hacker News<br/><br/>Claude AI model produces potential counterexample to the Jacobian Conjecture in mathematics.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Anthropic runs large-scale code migrations with Claude Code</title>
+      <link>https://claude.com/blog/ai-code-migration</link>
+      <guid isPermaLink="true">https://claude.com/blog/ai-code-migration</guid>
+      <pubDate>Sun, 19 Jul 2026 08:31:15 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 80/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic reports using Claude Code for large-scale internal code migration projects.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
     <item>
       <title>OpenAI reduces Codex Model Context Size from 372k to 272k</title>
       <link>https://github.com/openai/codex/pull/33972/files</link>
       <guid isPermaLink="true">https://github.com/openai/codex/pull/33972/files</guid>
       <pubDate>Sun, 19 Jul 2026 07:54:39 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI reduces context window size for Codex model, potentially affecting capabilities and use cases.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Passing the Swedish Medical Licensing Exam by Post-Training Open-Weight LLMs with SFT and RLVR [P]</title>
-      <link>https://tensorlabbet.com/2026/07/19/medqaswe_post_training/</link>
-      <guid isPermaLink="true">https://tensorlabbet.com/2026/07/19/medqaswe_post_training/</guid>
-      <pubDate>Sun, 19 Jul 2026 12:44:45 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Open-weight LLM achieves passing performance on Swedish medical licensing exam using SFT and RLVR techniques.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI reduces context window size for Codex model from 372k to 272k tokens.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>AI advice made people less accurate but more confident – sudy</title>
@@ -29,7 +37,7 @@
       <guid isPermaLink="true">https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study</guid>
       <pubDate>Sun, 19 Jul 2026 21:18:10 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Research study finds AI advice reduces critical thinking and increases overconfidence in decision-making.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Research study finds AI advice increases confidence while reducing accuracy on decision-making tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Claude Code uses Bun written in Rust now</title>
@@ -37,7 +45,7 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/</guid>
       <pubDate>Sun, 19 Jul 2026 10:03:23 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Claude Code implementation now uses Bun runtime written in Rust, a technical infrastructure update.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Claude Code implementation details regarding use of Bun runtime written in Rust.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Moonshot AI suspends new subscriptions due to Kimi K3 demand</title>
@@ -45,7 +53,7 @@
       <guid isPermaLink="true">https://twitter.com/kimi_moonshot/status/2078855608565207130</guid>
       <pubDate>Sun, 19 Jul 2026 16:02:25 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>Moonshot AI suspends new subscriptions due to high demand for Kimi K3 model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>Moonshot AI temporarily suspends new subscriptions due to high demand for Kimi K3 product.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Follow up: GPT-2&apos;s vocabulary as a hyperbolic tree — 32,070 tokens in a Poincaré ball you can fly through [P]</title>
@@ -53,7 +61,7 @@
       <guid isPermaLink="true">https://i.redd.it/o6l1c96lo6eh1.png</guid>
       <pubDate>Sun, 19 Jul 2026 12:54:23 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Visualization and analysis of GPT-2&apos;s vocabulary structure in hyperbolic space; novel interpretability work.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Visualization project mapping GPT-2&apos;s 32,070-token vocabulary as an interactive hyperbolic space.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Nonprofit Current AI is racing to build the World Wide Web of AI, free for all</title>
@@ -61,39 +69,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/</guid>
       <pubDate>Sun, 19 Jul 2026 14:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Nonprofit organization Current AI announces initiative to build open AI infrastructure platform.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>LLM-Integrated Multivariable Calculus Course</title>
-      <link>https://calculus.academa.ai/</link>
-      <guid isPermaLink="true">https://calculus.academa.ai/</guid>
-      <pubDate>Sun, 19 Jul 2026 02:55:43 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 50/100<br/><b>Source:</b> Hacker News<br/><br/>New educational course integrating LLMs into multivariable calculus instruction.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Claude make Fable 5 permanent</title>
-      <link>https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything</guid>
-      <pubDate>Sat, 18 Jul 2026 06:00:13 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 48/100<br/><b>Source:</b> Simon Willison<br/><br/>Claude product feature &apos;Fable 5&apos; made permanent; minor feature announcement.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Perforce charges $500 for training training videos.. and it&apos;s AI narrated</title>
-      <link>https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic</link>
-      <guid isPermaLink="true">https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic</guid>
-      <pubDate>Sun, 19 Jul 2026 08:00:24 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 42/100<br/><b>Source:</b> Hacker News<br/><br/>Perforce charges for training videos that happen to use AI narration; primarily a pricing complaint.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>What to watch for after Jensen Huang’s Japan visit</title>
-      <link>https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/</guid>
-      <pubDate>Sun, 19 Jul 2026 21:16:07 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 38/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Speculative opinion piece about potential implications of executive visit.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Nonprofit organization Current AI announces initiative to build open-access AI infrastructure platform.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Can an Apple lawsuit derail OpenAI’s hardware plans?</title>
@@ -101,7 +77,31 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/</guid>
       <pubDate>Sun, 19 Jul 2026 19:24:45 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 38/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Speculative legal analysis about potential lawsuit impact; opinion-driven.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 44/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Analysis of potential legal obstacles to OpenAI&apos;s hardware strategy from Apple lawsuit.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Perforce charges $500 for training training videos.. and it&apos;s AI narrated</title>
+      <link>https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic</link>
+      <guid isPermaLink="true">https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic</guid>
+      <pubDate>Sun, 19 Jul 2026 08:00:24 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 42/100<br/><b>Source:</b> Hacker News<br/><br/>Software company charges for training videos that use AI narration.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>What to watch for after Jensen Huang’s Japan visit</title>
+      <link>https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/</guid>
+      <pubDate>Sun, 19 Jul 2026 21:16:07 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 38/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Speculative opinion piece about implications of Nvidia CEO&apos;s Japan visit.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>AI Mania Is Eviscerating Global Decision-Making</title>
+      <link>https://simonwillison.net/2026/Jul/19/ai-mania/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/19/ai-mania/#atom-everything</guid>
+      <pubDate>Sun, 19 Jul 2026 05:06:21 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 38/100<br/><b>Source:</b> Simon Willison<br/><br/>Opinion editorial arguing AI hype is negatively impacting decision-making processes globally.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
