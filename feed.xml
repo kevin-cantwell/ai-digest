@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Jul 2026 00:02:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 04:07:12 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Claude Opus 5</title>
@@ -16,12 +16,20 @@
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 96/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic announces Claude Opus 5, a major new model release.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
+      <title>Introducing Claude Opus 5</title>
+      <link>https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5/#atom-everything</guid>
+      <pubDate>Fri, 24 Jul 2026 23:48:50 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 84/100<br/><b>Source:</b> Simon Willison<br/><br/>Technical overview and analysis of Claude Opus 5 release and capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
       <title>Anthropic launches Opus 5</title>
       <link>https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/</link>
       <guid isPermaLink="true">https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/</guid>
       <pubDate>Fri, 24 Jul 2026 17:00:00 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 80/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic launches Claude Opus 5, major new model release.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 80/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic launches Claude Opus 5 model announcement from major publication.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Anthropic updates Claude voice mode with more capable models</title>
@@ -29,15 +37,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/</guid>
       <pubDate>Thu, 23 Jul 2026 19:00:00 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 78/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic updates Claude voice mode with improved model capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Introducing Claude Opus 5</title>
-      <link>https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5/#atom-everything</guid>
-      <pubDate>Fri, 24 Jul 2026 23:48:50 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 78/100<br/><b>Source:</b> Simon Willison<br/><br/>Analysis and overview of Anthropic&apos;s Claude Opus 5 release.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 78/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic releases updated Claude voice mode with improved model capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>[AINews] Black Forest Labs FLUX 3 - Multimodal Flow Models that beat Seedance 2.0, Gemini Omni and Grok Imagine, and FLUX-mimic video-action robotics model</title>
@@ -45,7 +45,7 @@
       <guid isPermaLink="true">https://www.latent.space/p/ainews-black-forest-labs-flux-3-multimodal</guid>
       <pubDate>Fri, 24 Jul 2026 04:30:12 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 78/100<br/><b>Source:</b> Latent Space<br/><br/>Black Forest Labs releases FLUX 3, a multimodal flow model claimed to outperform competing systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 78/100<br/><b>Source:</b> Latent Space<br/><br/>Black Forest Labs releases FLUX 3 multimodal flow models and robotics model with claimed improvements over competing systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>I built an open-source multi-agent SDLC harness that beats a cold Claude Code run on large repos, by learning the repo once. Real benchmarks (incl. where it loses) inside. [P]</title>
@@ -53,7 +53,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1v59pal/i_built_an_opensource_multiagent_sdlc_harness/</guid>
       <pubDate>Fri, 24 Jul 2026 12:15:31 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Developer shares open-source multi-agent SDLC tool that outperforms Claude on large repository tasks with benchmarks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Developer shares open-source multi-agent SDLC tool with benchmarks showing improvements over Claude Code on large repositories.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>How AI guardrails are impeding the work of offensive cybersecurity researchers</title>
@@ -61,7 +61,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/</guid>
       <pubDate>Fri, 24 Jul 2026 01:00:00 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Analysis of how AI safety guardrails are limiting cybersecurity research capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Analysis of how AI safety guardrails are limiting offensive cybersecurity research capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>I built a compiler that turns computation graphs into the weights of a vanilla transformer — no training anywhere [P]</title>
@@ -69,15 +69,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1v5fxbe/i_built_a_compiler_that_turns_computation_graphs/</guid>
       <pubDate>Fri, 24 Jul 2026 16:15:16 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Developer demonstrates compiler that encodes computation graphs directly into transformer weights without training.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Nvidia, Microsoft, Meta warn against overregulating open-weight models</title>
-      <link>https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html</link>
-      <guid isPermaLink="true">https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html</guid>
-      <pubDate>Fri, 24 Jul 2026 13:32:30 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Major tech companies warn against overregulating open-weight AI models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Developer presents compiler that embeds computation graphs into transformer weights without training.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Runway launches AI model router as generative media gets crowded</title>
@@ -85,7 +77,15 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/</guid>
       <pubDate>Thu, 23 Jul 2026 17:07:35 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Runway launches AI model router to optimize selection among competing generative media models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 74/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Runway launches AI model router to optimize selection across multiple generative media models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Nvidia, Microsoft, Meta warn against overregulating open-weight models</title>
+      <link>https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html</link>
+      <guid isPermaLink="true">https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html</guid>
+      <pubDate>Fri, 24 Jul 2026 13:32:30 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Major tech companies warn against overregulation of open-weight AI models in policy discussions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Inside the Model Factory — Eiso Kant, Poolside AI</title>
@@ -93,7 +93,7 @@
       <guid isPermaLink="true">https://www.latent.space/p/poolside</guid>
       <pubDate>Thu, 23 Jul 2026 05:09:14 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> Latent Space<br/><br/>Interview with Eiso Kant about Poolside AI&apos;s approach to automated model development.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> Latent Space<br/><br/>Long-form interview with Eiso Kant of Poolside AI discussing AI model development and scaling.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Be skeptical of OpenAI&apos;s rogue hacker agent story</title>
@@ -101,7 +101,7 @@
       <guid isPermaLink="true">https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker</guid>
       <pubDate>Fri, 24 Jul 2026 16:33:31 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>Opinion piece skeptical of OpenAI&apos;s claims about a rogue hacker agent incident.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>Opinion piece questioning credibility of OpenAI&apos;s rogue hacker agent narrative.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Hetzner is working on LLM Inference</title>
@@ -109,31 +109,7 @@
       <guid isPermaLink="true">https://sliplane.io/blog/hetzner-inference</guid>
       <pubDate>Fri, 24 Jul 2026 09:24:44 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>Hetzner infrastructure provider exploring LLM inference services.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Bluesky’s AI assistant Attie expands into an open social research tool</title>
-      <link>https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/</guid>
-      <pubDate>Fri, 24 Jul 2026 15:13:57 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Bluesky&apos;s AI assistant Attie expands functionality into a public social research tool.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>OpenAI’s new voice mode makes it to the ChatGPT desktop app</title>
-      <link>https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/</guid>
-      <pubDate>Fri, 24 Jul 2026 13:36:42 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI&apos;s advanced voice mode becomes available in ChatGPT desktop application.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>The first known runaway AI agent - or a very bad marketing stunt?</title>
-      <link>https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything</guid>
-      <pubDate>Thu, 23 Jul 2026 22:53:08 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 58/100<br/><b>Source:</b> Simon Willison<br/><br/>Commentary questioning whether an alleged runaway AI agent is real or marketing hype.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>Hetzner announces plans to offer LLM inference services.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M</title>
@@ -141,7 +117,31 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/</guid>
       <pubDate>Fri, 24 Jul 2026 22:25:58 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> TechCrunch AI<br/><br/>New AI lab Prentis co-founded by venture capitalists in fundraising discussions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>New AI lab co-founded by Reid Hoffman and Mark Pincus in fundraising discussions for $100M.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Bluesky’s AI assistant Attie expands into an open social research tool</title>
+      <link>https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/</guid>
+      <pubDate>Fri, 24 Jul 2026 15:13:57 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Bluesky&apos;s AI assistant Attie expands functionality to become an open social research platform.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>The first known runaway AI agent - or a very bad marketing stunt?</title>
+      <link>https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything</guid>
+      <pubDate>Thu, 23 Jul 2026 22:53:08 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 58/100<br/><b>Source:</b> Simon Willison<br/><br/>Skeptical analysis of OpenAI&apos;s rogue AI agent claims, questioning authenticity.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else</title>
+      <link>https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/</guid>
+      <pubDate>Sat, 25 Jul 2026 00:23:11 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Product review of OpenAI&apos;s new AI keypad interface for developers.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
