@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Jul 2026 09:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 11:17:23 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Running a 28.9M parameter LLM on an $8 microcontroller</title>
@@ -13,7 +13,7 @@
       <guid isPermaLink="true">https://github.com/slvDev/esp32-ai</guid>
       <pubDate>Sat, 25 Jul 2026 18:59:50 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Researchers demonstrate running a 28.9M parameter LLM on a low-cost $8 microcontroller.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Developers demonstrate running a 28.9M parameter language model on a $8 ESP32 microcontroller.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>The new rules of context engineering for Claude 5 generation models</title>
@@ -21,15 +21,7 @@
       <guid isPermaLink="true">https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models</guid>
       <pubDate>Sat, 25 Jul 2026 20:42:35 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 80/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic releases guidance on context engineering techniques for Claude 5 generation models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>I implemented the YOLO26n model inference from scratch using ARM64 Assembly Language (No framework) [P]</title>
-      <link>https://i.redd.it/wiyelkfpsifh1.jpeg</link>
-      <guid isPermaLink="true">https://i.redd.it/wiyelkfpsifh1.jpeg</guid>
-      <pubDate>Sun, 26 Jul 2026 06:43:11 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Developer implements YOLO26n model inference entirely in ARM64 Assembly without frameworks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 80/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic publishes guidance on context engineering techniques for Claude 5 models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Introducing Claude Opus 5</title>
@@ -37,7 +29,7 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5/#atom-everything</guid>
       <pubDate>Fri, 24 Jul 2026 23:48:50 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 72/100<br/><b>Source:</b> Simon Willison<br/><br/>Anthropic releases Claude Opus 5 with competitive performance at lower cost than previous models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 78/100<br/><b>Source:</b> Simon Willison<br/><br/>Anthropic releases Claude Opus 5, delivering advanced performance at Opus pricing tier.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>[AINews] Claude Opus 5: Fable-level performance at Opus price (half Fable)</title>
@@ -45,7 +37,15 @@
       <guid isPermaLink="true">https://www.latent.space/p/ainews-claude-opus-5-fable-level</guid>
       <pubDate>Sat, 25 Jul 2026 07:25:38 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 72/100<br/><b>Source:</b> Latent Space<br/><br/>Claude Opus 5 achieves high performance benchmarks at half the cost of previous flagship model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 78/100<br/><b>Source:</b> Latent Space<br/><br/>Analysis of Claude Opus 5&apos;s performance gains and cost-effectiveness compared to previous models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>I implemented the YOLO26n model inference from scratch using ARM64 Assembly Language (No framework) [P]</title>
+      <link>https://i.redd.it/wiyelkfpsifh1.jpeg</link>
+      <guid isPermaLink="true">https://i.redd.it/wiyelkfpsifh1.jpeg</guid>
+      <pubDate>Sun, 26 Jul 2026 06:43:11 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Developer implements YOLO26n model inference entirely in ARM64 assembly without frameworks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Anthropic launches Opus 5</title>
@@ -53,7 +53,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/</guid>
       <pubDate>Fri, 24 Jul 2026 17:00:00 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic announces Claude Opus 5 model release.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 74/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic announces launch of Claude Opus 5 model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>What is happening to jobs? Separating AI hype from reality</title>
@@ -61,7 +61,7 @@
       <guid isPermaLink="true">https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality</guid>
       <pubDate>Sat, 25 Jul 2026 22:51:10 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>Stanford research brief separates evidence from hype regarding AI&apos;s impact on employment.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>Stanford research brief examines AI&apos;s actual impact on employment versus hype.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Open-weight AI is having its Kubernetes moment</title>
@@ -69,7 +69,7 @@
       <guid isPermaLink="true">https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/</guid>
       <pubDate>Sat, 25 Jul 2026 14:49:49 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>Analysis comparing the infrastructure maturation of open-weight AI models to Kubernetes.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>Analysis of open-weight AI ecosystem reaching infrastructure maturity comparable to Kubernetes.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>We compared different LLMs on IMO 2026 [R]</title>
@@ -77,7 +77,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1v6wskz/we_compared_different_llms_on_imo_2026_r/</guid>
       <pubDate>Sun, 26 Jul 2026 07:21:40 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Benchmark study comparing multiple LLMs on International Mathematical Olympiad problems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research comparison of LLM performance on International Mathematical Olympiad 2026 problems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Bluesky’s AI assistant Attie expands into an open social research tool</title>
@@ -85,15 +85,15 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/</guid>
       <pubDate>Fri, 24 Jul 2026 15:13:57 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Bluesky expands its AI assistant Attie into an open social research platform.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Bluesky&apos;s AI assistant Attie expands functionality as an open social research tool.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Corporate America Has Suddenly Decided to Stop Blowing Money on AI</title>
-      <link>https://www.wsj.com/business/china-us-ai-model-costs-53a12e96</link>
-      <guid isPermaLink="true">https://www.wsj.com/business/china-us-ai-model-costs-53a12e96</guid>
-      <pubDate>Sat, 25 Jul 2026 13:33:03 +0000</pubDate>
+      <title>OpenAI’s new voice mode makes it to the ChatGPT desktop app</title>
+      <link>https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/</guid>
+      <pubDate>Fri, 24 Jul 2026 13:36:42 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> Hacker News<br/><br/>Report on corporations reducing AI spending after initial investment surge.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI&apos;s advanced voice mode feature rolls out to ChatGPT desktop application.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>LLM Usage in Debian: Three Proposals</title>
@@ -101,15 +101,23 @@
       <guid isPermaLink="true">https://www.debian.org/vote/2026/vote_002</guid>
       <pubDate>Sat, 25 Jul 2026 19:44:39 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 58/100<br/><b>Source:</b> Hacker News<br/><br/>Debian project proposes policies regarding LLM usage in Linux distribution development.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 58/100<br/><b>Source:</b> Hacker News<br/><br/>Debian project votes on three proposals for LLM usage in the distribution.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>One fallen power line exposed a growing AI data center problem. Here’s how to fix it.</title>
-      <link>https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/</guid>
-      <pubDate>Sat, 25 Jul 2026 13:05:00 +0000</pubDate>
+      <title>Understanding GPU Inference Workloads [D]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1v6sjiu/understanding_gpu_inference_workloads_d/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1v6sjiu/understanding_gpu_inference_workloads_d/</guid>
+      <pubDate>Sun, 26 Jul 2026 03:37:48 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Analysis of power grid vulnerabilities created by growing AI data center infrastructure demands.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Technical discussion on understanding GPU inference workload characteristics.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Becoming a Research Engineer at a Big LLM Lab</title>
+      <link>https://www.maxmynter.com/pages/blog/jobhunt</link>
+      <guid isPermaLink="true">https://www.maxmynter.com/pages/blog/jobhunt</guid>
+      <pubDate>Sat, 25 Jul 2026 21:19:42 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 38/100<br/><b>Source:</b> Hacker News<br/><br/>Personal career advice post about becoming a research engineer at LLM labs.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Paper lengths, and reasonable assumptions in ML conferences. [D]</title>
@@ -117,7 +125,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1v6gh43/paper_lengths_and_reasonable_assumptions_in_ml/</guid>
       <pubDate>Sat, 25 Jul 2026 18:48:18 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 38/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Discussion thread about paper submission lengths at ML conferences.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 38/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Discussion about paper length conventions and assumptions in ML conference submissions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
