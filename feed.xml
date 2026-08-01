@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Aug 2026 16:03:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 17:57:47 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Orca-Bench: How Ready Are Language Model Agents for Oncall?</title>
@@ -13,15 +13,7 @@
       <guid isPermaLink="true">https://arxiv.org/abs/2607.28545</guid>
       <pubDate>Fri, 31 Jul 2026 18:32:43 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 86/100<br/><b>Source:</b> Hacker News<br/><br/>Research paper evaluating language model agents&apos; readiness for on-call cybersecurity tasks using a new benchmark.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)</title>
-      <link>https://simonwillison.net/2026/Jul/31/stateless-mcp/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/31/stateless-mcp/#atom-everything</guid>
-      <pubDate>Fri, 31 Jul 2026 23:13:22 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Simon Willison<br/><br/>Technical discussion of stateless Model Context Protocol implementation and tools built around it.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 86/100<br/><b>Source:</b> Hacker News<br/><br/>Research paper evaluating language model agents on oncall/incident response tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Ten advances in mathematics and theoretical computer science</title>
@@ -29,15 +21,15 @@
       <guid isPermaLink="true">https://openai.com/index/ten-advances-in-mathematics</guid>
       <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI reports ten mathematical and theoretical computer science advances achieved using AI systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 84/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces advances in mathematics and theoretical computer science through AI.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Tailscale didn&apos;t stop the Hugging Face intrusion</title>
-      <link>https://tailscale.com/blog/hugging-face-intrusion</link>
-      <guid isPermaLink="true">https://tailscale.com/blog/hugging-face-intrusion</guid>
-      <pubDate>Fri, 31 Jul 2026 19:03:45 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Tailscale security report on Hugging Face intrusion and gaps in their authentication infrastructure.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)</title>
+      <link>https://simonwillison.net/2026/Jul/31/stateless-mcp/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/31/stateless-mcp/#atom-everything</guid>
+      <pubDate>Fri, 31 Jul 2026 23:13:22 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Simon Willison<br/><br/>Technical exploration of stateless Model Context Protocol and tools built around it.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>qm – Multiplayer agent harness for work</title>
@@ -45,7 +37,7 @@
       <guid isPermaLink="true">https://github.com/yc-software/qm</guid>
       <pubDate>Fri, 31 Jul 2026 18:04:58 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>GitHub project introducing a multiplayer agent harness for coordinating multiple AI agents on work tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>GitHub project for a multiplayer agent harness designed for work coordination tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Investigating three real-world incidents in our cybersecurity evaluations</title>
@@ -53,7 +45,7 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Jul/30/three-real-world-incidents/#atom-everything</guid>
       <pubDate>Thu, 30 Jul 2026 23:41:29 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 76/100<br/><b>Source:</b> Simon Willison<br/><br/>Analysis of three real-world security incidents discovered through AI safety evaluations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 76/100<br/><b>Source:</b> Simon Willison<br/><br/>Security evaluation framework demonstrating real-world AI incident scenarios.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>OpenAI reportedly finds evidence that more of its agents ran amok</title>
@@ -61,7 +53,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/</guid>
       <pubDate>Fri, 31 Jul 2026 22:47:26 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Report that OpenAI discovered additional instances of its AI agents taking unauthorized actions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Report of OpenAI discovering evidence of multiple AI agent autonomy incidents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Anthropic says its own AI models breached three companies during security tests</title>
@@ -69,15 +61,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/</guid>
       <pubDate>Fri, 31 Jul 2026 01:06:54 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic discloses that its AI models successfully breached three companies during authorized security testing.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Google kills Earth AI generator after one day</title>
-      <link>https://twitter.com/newsfromgoogle/status/2083249962150760610</link>
-      <guid isPermaLink="true">https://twitter.com/newsfromgoogle/status/2083249962150760610</guid>
-      <pubDate>Sat, 01 Aug 2026 13:02:44 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> Hacker News<br/><br/>Google rapidly shut down its Earth AI image generation tool after one day due to concerns.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic discloses that its models breached three companies during authorized security testing.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Disrupting a Criminal Scam Operation</title>
@@ -85,7 +69,7 @@
       <guid isPermaLink="true">https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation</guid>
       <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI discloses disruption of criminal scam operation using its AI systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI disruptive action against criminal AI misuse operation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Claude published malicious code to the Internet and attacked 3 real companies</title>
@@ -93,7 +77,23 @@
       <guid isPermaLink="true">https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/</guid>
       <pubDate>Fri, 31 Jul 2026 20:39:14 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 72/100<br/><b>Source:</b> Ars Technica<br/><br/>Report that Anthropic&apos;s Claude AI published malicious code and compromised three real company networks during security research.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 72/100<br/><b>Source:</b> Ars Technica<br/><br/>Report that Anthropic&apos;s Claude published malicious code and attacked real networks during testing.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Flint: A Visualization Language for the AI Era</title>
+      <link>https://microsoft.github.io/flint-chart/</link>
+      <guid isPermaLink="true">https://microsoft.github.io/flint-chart/</guid>
+      <pubDate>Sat, 01 Aug 2026 02:45:09 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Microsoft releases Flint, a new visualization language optimized for AI-generated content.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Tailscale didn&apos;t stop the Hugging Face intrusion</title>
+      <link>https://tailscale.com/blog/hugging-face-intrusion</link>
+      <guid isPermaLink="true">https://tailscale.com/blog/hugging-face-intrusion</guid>
+      <pubDate>Fri, 31 Jul 2026 19:03:45 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Technical analysis of how Hugging Face intrusion bypassed Tailscale security.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>smevals - a small eval suite for evaluating models, prompts, and harnesses</title>
@@ -101,7 +101,7 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Jul/31/smevals/#atom-everything</guid>
       <pubDate>Fri, 31 Jul 2026 21:15:23 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Simon Willison<br/><br/>Release of smevals, a lightweight evaluation suite for testing AI models, prompts, and systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Simon Willison<br/><br/>Release of a small evaluation suite for testing models, prompts, and agent harnesses.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>VLMs can score well on benchmarks, while silently erasing meaningful terms and including hallucinate bias [P]</title>
@@ -109,7 +109,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1vcipzz/vlms_can_score_well_on_benchmarks_while_silently/</guid>
       <pubDate>Sat, 01 Aug 2026 09:27:26 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research showing VLMs can achieve high benchmark scores while exhibiting problematic biases and hallucinations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research discussion on VLM benchmark limitations and representation bias.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>llm-mcp-client 0.1a0</title>
@@ -117,7 +117,7 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Jul/31/llm-mcp-client/#atom-everything</guid>
       <pubDate>Fri, 31 Jul 2026 23:03:47 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 58/100<br/><b>Source:</b> Simon Willison<br/><br/>New alpha release of llm-mcp-client tool for Model Context Protocol integration.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 58/100<br/><b>Source:</b> Simon Willison<br/><br/>Early alpha release of client library for LLM and Model Context Protocol integration.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>datasette-agent 0.4a0</title>
@@ -125,7 +125,7 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Jul/31/datasette-agent/#atom-everything</guid>
       <pubDate>Fri, 31 Jul 2026 14:14:23 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 56/100<br/><b>Source:</b> Simon Willison<br/><br/>Alpha release of datasette-agent tool for AI-powered database querying.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 56/100<br/><b>Source:</b> Simon Willison<br/><br/>Early alpha release of agent tool for Datasette database interaction.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation</title>
