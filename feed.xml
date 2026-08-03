@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Aug 2026 16:21:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 18:49:01 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>AirLLM 70B inference with single 4GB GPU</title>
@@ -13,7 +13,7 @@
       <guid isPermaLink="true">https://github.com/lyogavin/airllm</guid>
       <pubDate>Mon, 03 Aug 2026 11:15:48 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>AirLLM enables 70B parameter model inference on a single 4GB GPU through novel memory optimization techniques.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>AirLLM enables inference of 70B parameter models on single 4GB GPUs through novel memory optimization techniques.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone</title>
@@ -21,7 +21,7 @@
       <guid isPermaLink="true">https://github.com/garagehq/nightcrawler/</guid>
       <pubDate>Mon, 03 Aug 2026 11:06:15 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 72/100<br/><b>Source:</b> Hacker News<br/><br/>Nightcrawler is a local AI pentesting agent designed to run on smartphones.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 78/100<br/><b>Source:</b> Hacker News<br/><br/>Nightcrawler is a local AI pentesting agent designed to run on smartphones for security testing.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>AI migrated legacy COBOL programs to Java, bugs included</title>
@@ -29,15 +29,15 @@
       <guid isPermaLink="true">https://arxiv.org/abs/2607.28271</guid>
       <pubDate>Mon, 03 Aug 2026 03:06:12 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 72/100<br/><b>Source:</b> Hacker News<br/><br/>Research study examining how AI-assisted COBOL to Java migration preserves and introduces bugs.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 72/100<br/><b>Source:</b> Hacker News<br/><br/>Research study examining how AI performs when migrating legacy COBOL to Java and the quality of generated code.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Show HN: Sprocket – The Best AI Agent for Hardware and Software Development</title>
-      <link>https://sprocket-demo.spikonado.com</link>
-      <guid isPermaLink="true">https://sprocket-demo.spikonado.com</guid>
-      <pubDate>Sun, 02 Aug 2026 16:26:19 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Show HN project presenting an AI agent for hardware and software development tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>SQLite Critical CVEs or LLM Slop?</title>
+      <link>https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/</link>
+      <guid isPermaLink="true">https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/</guid>
+      <pubDate>Mon, 03 Aug 2026 11:28:54 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>Analysis of whether reported SQLite CVEs are genuine vulnerabilities or AI-generated false positives.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>EU rules on AI models become enforceable. What&apos;s going to change?</title>
@@ -45,7 +45,7 @@
       <guid isPermaLink="true">https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change</guid>
       <pubDate>Sun, 02 Aug 2026 19:40:19 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>EU AI Act enforcement begins with regulatory changes affecting AI model deployment and compliance.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> Hacker News<br/><br/>EU AI model regulations become enforceable with implications for compliance across the industry.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Boris Cherny on Trying to Get Claude Code to Rewrite the Claude App</title>
@@ -53,7 +53,31 @@
       <guid isPermaLink="true">https://daringfireball.net/linked/2026/08/02/cherny-claude-swift</guid>
       <pubDate>Mon, 03 Aug 2026 00:22:55 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 58/100<br/><b>Source:</b> Hacker News<br/><br/>Personal anecdote about using Claude to rewrite a Swift app.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 58/100<br/><b>Source:</b> Hacker News<br/><br/>Personal anecdote about attempting to use Claude to rewrite a Swift application.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>What&apos;s the largest software project AI can complete on its own?</title>
+      <link>https://epoch.ai/MirrorCode</link>
+      <guid isPermaLink="true">https://epoch.ai/MirrorCode</guid>
+      <pubDate>Mon, 03 Aug 2026 16:16:40 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> Hacker News<br/><br/>Research question examining the scale and complexity of software projects that AI can complete autonomously.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Apple finally fixed Siri. So why does it feel anticlimactic?</title>
+      <link>https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/</guid>
+      <pubDate>Mon, 03 Aug 2026 18:43:43 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Analysis of Apple&apos;s Siri improvements powered by AI and their market reception.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Devtools must be open source (exe.dev)</title>
+      <link>https://simonwillison.net/2026/Aug/3/devtools-must-be-open-source-exedev/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/3/devtools-must-be-open-source-exedev/#atom-everything</guid>
+      <pubDate>Mon, 03 Aug 2026 15:30:38 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 56/100<br/><b>Source:</b> Simon Willison<br/><br/>Opinion piece arguing that developer tools should be open source.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>EU enforces labeling AI generated content</title>
@@ -61,15 +85,7 @@
       <guid isPermaLink="true">https://www.euronews.com/my-europe/2026/08/02/ai-generated-label-becomes-mandatory-in-the-eu-for-companies</guid>
       <pubDate>Mon, 03 Aug 2026 09:46:26 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> Hacker News<br/><br/>EU mandates labeling of AI-generated content, establishing new regulatory requirements for AI products.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Deep Dive on RL and OPD for Training LLMs [D]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1veat29/deep_dive_on_rl_and_opd_for_training_llms_d/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1veat29/deep_dive_on_rl_and_opd_for_training_llms_d/</guid>
-      <pubDate>Mon, 03 Aug 2026 11:30:28 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 56/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Reddit discussion on reinforcement learning and optimization techniques for LLM training.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 50/100<br/><b>Source:</b> Hacker News<br/><br/>EU mandate requiring labeling of AI-generated content becomes enforceable.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>A Marc Benioff-backed startup thinks AI can solve the AI deployment problem</title>
@@ -77,39 +93,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/</guid>
       <pubDate>Mon, 03 Aug 2026 10:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 50/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Marc Benioff-backed startup proposes using AI to solve AI deployment infrastructure challenges.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Ten advances in mathematics and theoretical computer science</title>
-      <link>https://simonwillison.net/2026/Aug/1/ten-advances-in-mathematics/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/1/ten-advances-in-mathematics/#atom-everything</guid>
-      <pubDate>Sat, 01 Aug 2026 20:34:49 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 50/100<br/><b>Source:</b> Simon Willison<br/><br/>Ten advances in mathematics and theoretical computer science A few days ago it was Anthropic discovering cryptographic weaknesses with Claude using Mythos Preview, spending $100,000 on tokens and with<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps</title>
-      <link>https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/</guid>
-      <pubDate>Sat, 01 Aug 2026 20:26:04 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 44/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Legal news: Judge rejects xAI&apos;s challenge to Minnesota&apos;s ban on non-consensual intimate image generation tools.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>datasette-apps 0.2a0</title>
-      <link>https://simonwillison.net/2026/Aug/1/datasette-apps/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/1/datasette-apps/#atom-everything</guid>
-      <pubDate>Sat, 01 Aug 2026 21:23:56 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 44/100<br/><b>Source:</b> Simon Willison<br/><br/>Datasette-apps 0.2a0 release, a tool for building data applications; tangential AI connection.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>The AI bubble is popping; we just don&apos;t know it yet</title>
-      <link>https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004</link>
-      <guid isPermaLink="true">https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004</guid>
-      <pubDate>Mon, 03 Aug 2026 11:59:10 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 42/100<br/><b>Source:</b> Hacker News<br/><br/>Opinion piece speculating that the AI industry bubble is collapsing.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 50/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Funding announcement for startup addressing AI model deployment challenges.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”</title>
@@ -117,15 +101,15 @@
       <guid isPermaLink="true">https://frogs.vaguespac.es/</guid>
       <pubDate>Sun, 02 Aug 2026 19:42:08 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 40/100<br/><b>Source:</b> Hacker News<br/><br/>Personal benchmark comparing AI image generation models using a humorous frog prompt.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 46/100<br/><b>Source:</b> Hacker News<br/><br/>Personal benchmark comparing AI models using whimsical image generation prompts.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Is it too late regain some coherence in the ML research space in our life time? [D]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1ve7chh/is_it_too_late_regain_some_coherence_in_the_ml/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1ve7chh/is_it_too_late_regain_some_coherence_in_the_ml/</guid>
-      <pubDate>Mon, 03 Aug 2026 08:17:40 +0000</pubDate>
+      <title>datasette-apps 0.2a0</title>
+      <link>https://simonwillison.net/2026/Aug/1/datasette-apps/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/1/datasette-apps/#atom-everything</guid>
+      <pubDate>Sat, 01 Aug 2026 21:23:56 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 38/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Discussion thread questioning coherence in ML research; opinion-based community discussion.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 38/100<br/><b>Source:</b> Simon Willison<br/><br/>Minor version release of datasette-apps tool.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
