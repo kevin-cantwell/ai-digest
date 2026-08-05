@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Aug 2026 08:31:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 11:18:12 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Mistral&apos;s Shieldstral: 3B open-weights model for multimodal moderation</title>
@@ -13,7 +13,7 @@
       <guid isPermaLink="true">https://mistral.ai/news/shieldstral/</guid>
       <pubDate>Tue, 04 Aug 2026 16:36:05 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>Mistral releases Shieldstral, a 3B open-weights multimodal content moderation model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>Mistral releases Shieldstral, a 3B open-weight multimodal content moderation model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation</title>
@@ -21,7 +21,15 @@
       <guid isPermaLink="true">https://arxiv.org/abs/2602.16763</guid>
       <pubDate>Tue, 04 Aug 2026 16:10:39 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 84/100<br/><b>Source:</b> Hacker News<br/><br/>Research study examining benchmark saturation as AI models approach performance plateaus.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>Research paper systematically studies how AI benchmarks saturate and lose discriminative power over time.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Zero-Mem: Zero-Token Memory Operations for LLM Agents</title>
+      <link>https://arxiv.org/abs/2607.29377</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2607.29377</guid>
+      <pubDate>Wed, 05 Aug 2026 04:36:44 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 84/100<br/><b>Source:</b> Hacker News<br/><br/>Research proposes Zero-Mem, a technique enabling LLM agents to operate without token memory overhead.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Third-party cyber evaluations involving OpenAI models</title>
@@ -29,15 +37,7 @@
       <guid isPermaLink="true">https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/</guid>
       <pubDate>Tue, 04 Aug 2026 21:14:19 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI announces third-party cybersecurity evaluations for its models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Show HN: Fine-tune an 8B model on a 4 GB laptop GPU</title>
-      <link>https://github.com/MakazhanAlpamys/Soup</link>
-      <guid isPermaLink="true">https://github.com/MakazhanAlpamys/Soup</guid>
-      <pubDate>Tue, 04 Aug 2026 11:17:57 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Technical approach enabling fine-tuning of 8B models on 4GB laptop GPUs.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI announces third-party cyber security evaluations of its models to assess robustness against adversarial attacks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Open-weight AI models are catching up to the frontier. The safety gap remains.</title>
@@ -45,7 +45,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/</guid>
       <pubDate>Tue, 04 Aug 2026 20:05:26 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 82/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Analysis of how open-weight models are closing the performance gap with frontier models while safety concerns remain.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 82/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Analysis examines how open-weight AI models are closing performance gaps with frontier models while safety concerns persist.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>[AINews] Qwen 3.8 Max(2.4T) and 27B, new open weights models for Coding and Cowork</title>
@@ -53,39 +53,7 @@
       <guid isPermaLink="true">https://www.latent.space/p/ainews-qwen-38-max24t-and-27b-new</guid>
       <pubDate>Tue, 04 Aug 2026 03:49:14 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 80/100<br/><b>Source:</b> Latent Space<br/><br/>Alibaba releases Qwen 3.8 Max and 27B open-weight models for coding and collaborative work.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>New ways to learn and teach with ChatGPT Work and Codex</title>
-      <link>https://openai.com/index/learn-teach-chatgpt-work-codex</link>
-      <guid isPermaLink="true">https://openai.com/index/learn-teach-chatgpt-work-codex</guid>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces educational features for ChatGPT Work and Codex.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>&quot;Explorative Modeling: Unlocking a Third Pretraining Axis and End-to-End Generation&quot;, Gladstone et al. 2026 [R]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1vf6r6f/explorative_modeling_unlocking_a_third/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1vf6r6f/explorative_modeling_unlocking_a_third/</guid>
-      <pubDate>Tue, 04 Aug 2026 10:42:09 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research paper on explorative modeling as a novel pretraining axis for end-to-end generation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>The Warp Agent CLI</title>
-      <link>https://www.warp.dev/blog/introducing-the-warp-agent-cli-coding-agent</link>
-      <guid isPermaLink="true">https://www.warp.dev/blog/introducing-the-warp-agent-cli-coding-agent</guid>
-      <pubDate>Tue, 04 Aug 2026 17:08:41 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> Hacker News<br/><br/>Warp introduces an agent-based CLI tool for command-line automation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Homebench – Benchmark local LLMs for speed, memory, and quality</title>
-      <link>https://github.com/david-g-3654/homebench</link>
-      <guid isPermaLink="true">https://github.com/david-g-3654/homebench</guid>
-      <pubDate>Tue, 04 Aug 2026 09:48:43 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 72/100<br/><b>Source:</b> Hacker News<br/><br/>Open-source benchmark tool for evaluating local LLM performance across speed, memory, and quality metrics.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 80/100<br/><b>Source:</b> Latent Space<br/><br/>Alibaba releases Qwen 3.8 Max (2.4T parameters) and 27B open-weight models optimized for coding and collaboration.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Agent skills that bring team coding standards to Claude Code and Codex</title>
@@ -93,7 +61,23 @@
       <guid isPermaLink="true">https://github.com/tikalk/adlc-team-skills</guid>
       <pubDate>Tue, 04 Aug 2026 14:38:31 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>GitHub repository demonstrating team coding standards integration for Claude Code.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>GitHub project adds team coding standards enforcement capabilities to Claude Code and similar tools.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>The Warp Agent CLI</title>
+      <link>https://www.warp.dev/blog/introducing-the-warp-agent-cli-coding-agent</link>
+      <guid isPermaLink="true">https://www.warp.dev/blog/introducing-the-warp-agent-cli-coding-agent</guid>
+      <pubDate>Tue, 04 Aug 2026 17:08:41 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Warp introduces an agent-based CLI tool for code generation and command-line automation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>New ways to learn and teach with ChatGPT Work and Codex</title>
+      <link>https://openai.com/index/learn-teach-chatgpt-work-codex</link>
+      <guid isPermaLink="true">https://openai.com/index/learn-teach-chatgpt-work-codex</guid>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces educational features for ChatGPT Work and coding tools.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging</title>
@@ -101,15 +85,15 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Aug/4/new-release-of-llm/#atom-everything</guid>
       <pubDate>Tue, 04 Aug 2026 23:58:24 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> Simon Willison<br/><br/>LLM library release adds reasoning traces, OpenAI response support, and enhanced logging features.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> Simon Willison<br/><br/>LLM CLI tool releases new features including reasoning traces, OpenAI integration, and improved logging.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Rust-lang/rust is adopting an LLM policy</title>
-      <link>https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/</link>
-      <guid isPermaLink="true">https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/</guid>
-      <pubDate>Wed, 05 Aug 2026 05:52:24 +0000</pubDate>
+      <title>Unpacking ChatGPT Work: the Agent for a Billion Users</title>
+      <link>https://www.latent.space/p/unpacking-chatgpt-work</link>
+      <guid isPermaLink="true">https://www.latent.space/p/unpacking-chatgpt-work</guid>
+      <pubDate>Tue, 04 Aug 2026 18:20:14 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>Rust programming language project establishes formal policy on LLM tool usage.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> Latent Space<br/><br/>Analysis of ChatGPT Work&apos;s architecture and positioning as an enterprise agent platform.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Show HN: Ex-Deloitte auditor open-sourced the whole SOC 2 method for your AI</title>
@@ -117,7 +101,7 @@
       <guid isPermaLink="true">https://github.com/Chiaro-HQ/methodology</guid>
       <pubDate>Tue, 04 Aug 2026 16:27:03 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 62/100<br/><b>Source:</b> Hacker News<br/><br/>Open-source SOC 2 compliance methodology released for AI companies.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 62/100<br/><b>Source:</b> Hacker News<br/><br/>Open-source release of SOC 2 compliance methodology for AI systems based on Deloitte audit practices.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Design Arena creators raise $7.9 million to bring taste to AI models</title>
@@ -125,7 +109,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/</guid>
       <pubDate>Mon, 03 Aug 2026 19:28:57 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Design Arena startup raises funding for improving aesthetic capabilities in AI models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Design Arena raises $7.9M funding to develop AI models with improved aesthetic judgment capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Devtools must be open source (exe.dev)</title>
@@ -133,7 +117,15 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Aug/3/devtools-must-be-open-source-exedev/#atom-everything</guid>
       <pubDate>Mon, 03 Aug 2026 15:30:38 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 56/100<br/><b>Source:</b> Simon Willison<br/><br/>Opinion piece arguing developer tools should be open source.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 62/100<br/><b>Source:</b> Simon Willison<br/><br/>Opinion piece argues developer tools should be open source, with discussion of AI tooling.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Spotify expands AI remix and covers project with Merlin partnership</title>
+      <link>https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/</guid>
+      <pubDate>Tue, 04 Aug 2026 15:50:06 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 50/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product. The paid tool <br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
