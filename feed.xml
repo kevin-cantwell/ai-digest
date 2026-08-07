@@ -5,15 +5,23 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Aug 2026 18:52:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 19:50:49 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Moonlight &amp; Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)</title>
+      <link>https://simonwillison.net/2026/Aug/7/moonlight-mayhem/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/7/moonlight-mayhem/#atom-everything</guid>
+      <pubDate>Fri, 07 Aug 2026 19:18:09 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 95/100<br/><b>Source:</b> Simon Willison<br/><br/>Moonlight &amp;amp; Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra) On Wednesday I wrote about One-shotting a Raccoon Heist game using Claude Fable 5, where I had Claude Fable 5 build a full working g<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
     <item>
       <title>WeatherNext: AI model achieves breakthrough in forecasting cyclones</title>
       <link>https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/</link>
       <guid isPermaLink="true">https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/</guid>
       <pubDate>Thu, 06 Aug 2026 15:06:15 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 90/100<br/><b>Source:</b> Google DeepMind<br/><br/>DeepMind&apos;s WeatherNext AI model achieves breakthrough performance in cyclone forecasting.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 90/100<br/><b>Source:</b> Google DeepMind<br/><br/>DeepMind&apos;s WeatherNext AI model achieves significant breakthrough in cyclone forecasting accuracy.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>AMD acquires Taalas to boost inference performance by etching models in silicon</title>
@@ -21,7 +29,7 @@
       <guid isPermaLink="true">https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344</guid>
       <pubDate>Thu, 06 Aug 2026 20:23:11 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>AMD acquires Taalas to develop silicon-optimized inference through model etching technology.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>AMD acquires Taalas to develop silicon-level model optimization for improved AI inference performance.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Kitesurf: Agent-first browser that runs in V8 isolates</title>
@@ -29,7 +37,15 @@
       <guid isPermaLink="true">https://blog.cloudflare.com/kitesurf/</guid>
       <pubDate>Fri, 07 Aug 2026 10:42:07 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Cloudflare introduces Kitesurf, an agent-first browser runtime built on V8 isolates.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Cloudflare introduces Kitesurf, a specialized browser designed for autonomous AI agent execution in isolated environments.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)</title>
+      <link>https://www.aleksagordic.com/blog/vllm</link>
+      <guid isPermaLink="true">https://www.aleksagordic.com/blog/vllm</guid>
+      <pubDate>Thu, 06 Aug 2026 21:30:21 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Technical deep-dive into vLLM architecture and design for high-throughput language model inference.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users</title>
@@ -37,7 +53,7 @@
       <guid isPermaLink="true">https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt</guid>
       <pubDate>Thu, 06 Aug 2026 10:00:00 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 82/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI improves GPT-5.6 Sol in ChatGPT and expands GPT-5.6 Luna access to free users.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 82/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI releases improvements to GPT-5.6 Sol and expands GPT-5.6 Luna access to free ChatGPT users.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Cloudflare launches Kitesurf, a browser built for AI agents</title>
@@ -45,7 +61,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/</guid>
       <pubDate>Fri, 07 Aug 2026 16:16:09 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Cloudflare launches Kitesurf browser specifically designed for AI agent operations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Cloudflare launches Kitesurf browser specifically engineered for running and managing AI agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Google Maps adds agentic features, including food ordering and hotel bookings</title>
@@ -53,7 +69,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/</guid>
       <pubDate>Thu, 06 Aug 2026 12:30:00 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Google Maps integrates agentic AI features for food ordering and hotel bookings.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Google Maps integrates agentic AI features enabling autonomous food ordering and hotel booking capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Meta launches Muse Code, an AI agent for large code bases</title>
@@ -61,7 +77,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/</guid>
       <pubDate>Wed, 05 Aug 2026 21:21:28 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Meta launches Muse Code, an AI agent designed for managing and working with large codebases.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Meta introduces Muse Code, an AI agent designed for codebase analysis and large-scale software development tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Third-party cyber evaluations involving OpenAI models</title>
@@ -69,7 +85,7 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Aug/5/third-party-cyber-evaluations/#atom-everything</guid>
       <pubDate>Wed, 05 Aug 2026 23:45:32 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 82/100<br/><b>Source:</b> Simon Willison<br/><br/>Third-party cyber evaluations conducted on OpenAI models reveal security capabilities and limitations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 82/100<br/><b>Source:</b> Simon Willison<br/><br/>Third-party cybersecurity evaluations conducted on OpenAI models reveal critical capability assessments.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>​Built a tool to generate slides from research papers using local LLMs (because I hate formatting decks and privacy matters) [P]</title>
@@ -80,22 +96,6 @@
       <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Jeff Dean and other top AI researchers are leaving Google to launch their own startup</title>
-      <link>https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/</guid>
-      <pubDate>Wed, 05 Aug 2026 19:30:19 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 80/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Jeff Dean and other top Google AI researchers depart to launch an independent startup.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)</title>
-      <link>https://www.aleksagordic.com/blog/vllm</link>
-      <guid isPermaLink="true">https://www.aleksagordic.com/blog/vllm</guid>
-      <pubDate>Thu, 06 Aug 2026 21:30:21 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Detailed technical analysis of vLLM&apos;s architecture for high-throughput LLM inference.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
       <title>The web server deployment model breaks at hobby scale</title>
       <link>https://w.on-t.work/web-deployment-model</link>
       <guid isPermaLink="true">https://w.on-t.work/web-deployment-model</guid>
@@ -104,12 +104,12 @@
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 75/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>How HSP GRUPPE builds AI capabilities for tax advisory</title>
-      <link>https://openai.com/index/hsp-gruppe</link>
-      <guid isPermaLink="true">https://openai.com/index/hsp-gruppe</guid>
-      <pubDate>Fri, 07 Aug 2026 09:00:00 +0000</pubDate>
+      <title>From asking to doing: How the world is putting ChatGPT to work</title>
+      <link>https://openai.com/index/how-the-world-is-putting-chatgpt-to-work</link>
+      <guid isPermaLink="true">https://openai.com/index/how-the-world-is-putting-chatgpt-to-work</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 75/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 75/100<br/><b>Source:</b> OpenAI Blog<br/><br/>New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>AI psychosis is the new leadership blind spot</title>
@@ -118,14 +118,6 @@
       <pubDate>Fri, 07 Aug 2026 13:27:30 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>One-shotting a Raccoon Heist game using Claude Fable 5</title>
-      <link>https://simonwillison.net/2026/Aug/5/raccoon-heist/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/5/raccoon-heist/#atom-everything</guid>
-      <pubDate>Wed, 05 Aug 2026 19:42:38 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> Simon Willison<br/><br/>Back in 2022 I tweeted screenshots of a game concept generated by GPT-3 and some concept &quot;art&quot; created using DALL-E. Today, on the fourth anniversary of that tweet, I decided to see if Claude Fable 5 <br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
