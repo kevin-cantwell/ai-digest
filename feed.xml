@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Aug 2026 09:16:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 11:05:13 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Auto mode is now the default in Claude Code</title>
@@ -21,7 +21,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/</guid>
       <pubDate>Sun, 09 Aug 2026 19:20:32 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 86/100<br/><b>Source:</b> TechCrunch AI<br/><br/>TechCrunch reports on Anthropic&apos;s Claude Code auto mode default rollout across subscription tiers.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 86/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic enables Claude Code auto mode by default across Pro, Max, and Team plans.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Auto mode is now the default in Claude Code for Pro, Max, and Team plans</title>
@@ -29,7 +29,15 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything</guid>
       <pubDate>Sat, 08 Aug 2026 22:36:03 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 86/100<br/><b>Source:</b> Simon Willison<br/><br/>Simon Willison documents Anthropic&apos;s Claude Code auto mode becoming default for Pro, Max, and Team plans.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 86/100<br/><b>Source:</b> Simon Willison<br/><br/>Claude Code auto mode becomes default for Pro, Max, and Team subscription tiers.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Meta Muse Glimmer – open weights 30B local coding model</title>
+      <link>https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model</link>
+      <guid isPermaLink="true">https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model</guid>
+      <pubDate>Mon, 10 Aug 2026 10:10:02 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 84/100<br/><b>Source:</b> Hacker News<br/><br/>Meta releases Muse Glimmer, an open-weights 30B parameter coding model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Docker Sandboxes – Disposable, isolated sandboxes for AI agents</title>
@@ -37,7 +45,7 @@
       <guid isPermaLink="true">https://www.docker.com/products/docker-sandboxes/</guid>
       <pubDate>Mon, 10 Aug 2026 06:02:38 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Docker launches sandboxes product specifically designed for isolated execution of AI agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Docker releases sandboxed environments designed specifically for isolating AI agent execution.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Human vs. AI – Diff-based line-level provenance for text under agentic editing</title>
@@ -45,39 +53,7 @@
       <guid isPermaLink="true">https://github.com/eighttrigrams/us-vs-them</guid>
       <pubDate>Sun, 09 Aug 2026 15:25:29 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>GitHub project introduces diff-based provenance tracking for text edited by AI agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>The AI safety test is becoming a safety risk</title>
-      <link>https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/</guid>
-      <pubDate>Sun, 09 Aug 2026 14:30:00 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Article discusses how AI safety testing itself may be creating new security vulnerabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Noise-aware training for analog hardware: accuracy collapses at a threshold rather than degrading smoothly [D]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1vjmw53/noiseaware_training_for_analog_hardware_accuracy/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1vjmw53/noiseaware_training_for_analog_hardware_accuracy/</guid>
-      <pubDate>Sun, 09 Aug 2026 10:55:50 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research on noise-aware training for analog hardware reveals threshold-based accuracy collapse patterns.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>A Mechanistic Explanation of Prompt Injection (and why you should study roles) [R]</title>
-      <link>https://www.lesswrong.com/posts/d8xDGzCEYE639qqEv/a-mechanistic-explanation-of-prompt-injection-and-why-you</link>
-      <guid isPermaLink="true">https://www.lesswrong.com/posts/d8xDGzCEYE639qqEv/a-mechanistic-explanation-of-prompt-injection-and-why-you</guid>
-      <pubDate>Sun, 09 Aug 2026 17:36:22 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research explains mechanistic basis of prompt injection attacks in language models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>OpenAI acquires presentation startup NextSlide</title>
-      <link>https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/</guid>
-      <pubDate>Sat, 08 Aug 2026 19:41:13 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI acquires presentation software startup NextSlide, expanding product offerings.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Research project introduces diff-based provenance tracking for AI-edited text.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>GitHub Models is now retired</title>
@@ -85,7 +61,39 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/#atom-everything</guid>
       <pubDate>Sun, 09 Aug 2026 22:48:05 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> Simon Willison<br/><br/>GitHub Models platform is retired, marking end of a Microsoft AI service offering.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> Simon Willison<br/><br/>GitHub Models platform is officially retired.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>The AI safety test is becoming a safety risk</title>
+      <link>https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/</guid>
+      <pubDate>Sun, 09 Aug 2026 14:30:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Analysis of how AI safety testing practices may introduce new security risks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>OpenAI acquires presentation startup NextSlide</title>
+      <link>https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/</guid>
+      <pubDate>Sat, 08 Aug 2026 19:41:13 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI acquires presentation software startup NextSlide.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Comparing embedding models with synthetic query probing [R]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1vkh1ul/comparing_embedding_models_with_synthetic_query/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1vkh1ul/comparing_embedding_models_with_synthetic_query/</guid>
+      <pubDate>Mon, 10 Aug 2026 10:27:45 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research discussion on evaluating embedding models using synthetic query probing.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>A Mechanistic Explanation of Prompt Injection (and why you should study roles) [R]</title>
+      <link>https://www.lesswrong.com/posts/d8xDGzCEYE639qqEv/a-mechanistic-explanation-of-prompt-injection-and-why-you</link>
+      <guid isPermaLink="true">https://www.lesswrong.com/posts/d8xDGzCEYE639qqEv/a-mechanistic-explanation-of-prompt-injection-and-why-you</guid>
+      <pubDate>Sun, 09 Aug 2026 17:36:22 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research paper explaining mechanistic basis of prompt injection attacks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry</title>
@@ -93,15 +101,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/</guid>
       <pubDate>Sun, 09 Aug 2026 20:35:17 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Situational Awareness hedge fund invests $400M in chip startup Source Foundry for AI infrastructure.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Now we have a timeline of the OpenAI accidental attack against Hugging Face</title>
-      <link>https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h/#atom-everything</guid>
-      <pubDate>Sat, 08 Aug 2026 14:06:41 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> Simon Willison<br/><br/>Timeline emerges documenting OpenAI&apos;s accidental attack against Hugging Face infrastructure.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Situational Awareness hedge fund invests $400M in chip startup Source Foundry.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Quoting Claude Opus 5 system prompt</title>
@@ -109,15 +109,7 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/#atom-everything</guid>
       <pubDate>Sun, 09 Aug 2026 23:31:39 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> Simon Willison<br/><br/>System prompt documentation or analysis of Claude Opus 5 released.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>70% of AI revenue comes from OpenAI and Anthropic [video]</title>
-      <link>https://www.youtube.com/watch?v=68X8yEatepQ</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=68X8yEatepQ</guid>
-      <pubDate>Sun, 09 Aug 2026 11:56:16 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 54/100<br/><b>Source:</b> Hacker News<br/><br/>Video claims market analysis showing OpenAI and Anthropic dominate AI revenue.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 54/100<br/><b>Source:</b> Simon Willison<br/><br/>Documentation of Claude Opus 5 system prompt contents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
