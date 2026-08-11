@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Aug 2026 22:37:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 23:36:29 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Nvidia Nemotron 3.5 Lightning</title>
@@ -13,23 +13,7 @@
       <guid isPermaLink="true">https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4</guid>
       <pubDate>Tue, 11 Aug 2026 13:26:02 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 86/100<br/><b>Source:</b> Hacker News<br/><br/>Nvidia releases Nemotron 3.5 Lightning, a new efficient LLM variant available on Hugging Face.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Daybreak models are now available on AWS</title>
-      <link>https://openai.com/index/daybreak-models-are-now-available-on-aws</link>
-      <guid isPermaLink="true">https://openai.com/index/daybreak-models-are-now-available-on-aws</guid>
-      <pubDate>Tue, 11 Aug 2026 10:00:00 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 84/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI&apos;s Daybreak models become available through AWS platform.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Claude Code is leaking real email address as a User-Agent string in curl command</title>
-      <link>https://github.com/anthropics/claude-code/issues/78431</link>
-      <guid isPermaLink="true">https://github.com/anthropics/claude-code/issues/78431</guid>
-      <pubDate>Tue, 11 Aug 2026 14:21:47 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Security vulnerability discovered in Claude Code where real email addresses are leaked in User-Agent strings.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 86/100<br/><b>Source:</b> Hacker News<br/><br/>Nvidia releases Nemotron 3.5 Lightning, a new open-weight LLM model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>An unreleased Anthropic model made progress on one of math’s biggest unsolved problems</title>
@@ -37,7 +21,15 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/</guid>
       <pubDate>Tue, 11 Aug 2026 16:25:20 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 80/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Unreleased Anthropic model reportedly achieves progress on major unsolved mathematics problem.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 86/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic&apos;s unreleased model demonstrates progress on a major unsolved mathematics problem.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Daybreak models are now available on AWS</title>
+      <link>https://openai.com/index/daybreak-models-are-now-available-on-aws</link>
+      <guid isPermaLink="true">https://openai.com/index/daybreak-models-are-now-available-on-aws</guid>
+      <pubDate>Tue, 11 Aug 2026 10:00:00 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 84/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI&apos;s Daybreak models become available on AWS cloud platform.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Putting frontier cyber models in more trusted hands</title>
@@ -45,7 +37,15 @@
       <guid isPermaLink="true">https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands</guid>
       <pubDate>Mon, 10 Aug 2026 10:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces controlled access program for frontier-level cybersecurity AI models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 84/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces controlled distribution of frontier cybersecurity AI models to trusted organizations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Claude Code is leaking real email address as a User-Agent string in curl command</title>
+      <link>https://github.com/anthropics/claude-code/issues/78431</link>
+      <guid isPermaLink="true">https://github.com/anthropics/claude-code/issues/78431</guid>
+      <pubDate>Tue, 11 Aug 2026 14:21:47 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Security vulnerability reported in Claude Code where real email addresses are leaked in User-Agent strings.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Nvidia Nemotron 3.5 Lightning and NeMo Switchyard</title>
@@ -53,7 +53,7 @@
       <guid isPermaLink="true">https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/</guid>
       <pubDate>Tue, 11 Aug 2026 19:35:52 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Nvidia announces Nemotron 3.5 Lightning and NeMo Switchyard tools for model optimization and deployment.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Nvidia releases Nemotron 3.5 Lightning model and NeMo Switchyard orchestration framework.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp</title>
@@ -64,12 +64,28 @@
       <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Technical guide on optimizing LLM inference performance on Apple Silicon using llama.cpp.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
+      <title>Stealing Reasoning Traces from Proprietary LLM APIs</title>
+      <link>https://stolen-thoughts.com/</link>
+      <guid isPermaLink="true">https://stolen-thoughts.com/</guid>
+      <pubDate>Tue, 11 Aug 2026 13:22:00 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Research on extracting and analyzing reasoning traces from proprietary LLM APIs.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
       <title>🔬The BioAI Phase Shift - Matthew McPartlon &amp; Neil Patil, Chai Discovery</title>
       <link>https://www.latent.space/p/chai-discovery</link>
       <guid isPermaLink="true">https://www.latent.space/p/chai-discovery</guid>
       <pubDate>Tue, 11 Aug 2026 21:03:50 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Latent Space<br/><br/>Interview discussing AI applications and phase shift in biological research with Chai Discovery founders.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Latent Space<br/><br/>Discussion of AI breakthroughs in biotech and drug discovery with Chai Discovery.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Anthropic says it will watermark text generated by its AI models</title>
+      <link>https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/</guid>
+      <pubDate>Tue, 11 Aug 2026 12:13:47 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic announces implementation of watermarking technology for AI-generated text detection.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>As AI-led attacks multiply, OpenAI launches a new cyber model</title>
@@ -77,15 +93,31 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/</guid>
       <pubDate>Mon, 10 Aug 2026 23:56:15 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 74/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI launches specialized cybersecurity model in response to escalating AI-driven attacks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 74/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI launches new Daybreak cybersecurity model in response to rising AI-based attack patterns.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Stealing Reasoning Traces from Proprietary LLM APIs</title>
-      <link>https://stolen-thoughts.com/</link>
-      <guid isPermaLink="true">https://stolen-thoughts.com/</guid>
-      <pubDate>Tue, 11 Aug 2026 13:22:00 +0000</pubDate>
+      <title>[AINews] Muse Glimmer and Spark: Open Weights return Personal Superintelligence promise</title>
+      <link>https://www.latent.space/p/ainews-muse-glimmer-and-spark-open</link>
+      <guid isPermaLink="true">https://www.latent.space/p/ainews-muse-glimmer-and-spark-open</guid>
+      <pubDate>Tue, 11 Aug 2026 05:16:41 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> Latent Space<br/><br/>Meta releases Muse, Glimmer, and Spark open-weight models for personal AI systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Testing ads in ChatGPT</title>
+      <link>https://openai.com/index/testing-ads-in-chatgpt</link>
+      <guid isPermaLink="true">https://openai.com/index/testing-ads-in-chatgpt</guid>
+      <pubDate>Tue, 11 Aug 2026 10:00:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI begins testing advertising integration within ChatGPT platform.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>How Zapier transformed core marketing processes with ChatGPT Work</title>
+      <link>https://openai.com/index/zapier</link>
+      <guid isPermaLink="true">https://openai.com/index/zapier</guid>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Research on extracting reasoning processes from proprietary LLM API outputs.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Case study of Zapier adopting ChatGPT Work for marketing process automation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>H3-metal – Native MiniMax-H3 inference for Apple Silicon</title>
@@ -96,44 +128,12 @@
       <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Native inference implementation for MiniMax-H3 model on Apple Silicon hardware.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Anthropic says it will watermark text generated by its AI models</title>
-      <link>https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/</guid>
-      <pubDate>Tue, 11 Aug 2026 12:13:47 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic announces watermarking technology for AI-generated text to improve traceability.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision</title>
-      <link>https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/</guid>
-      <pubDate>Mon, 10 Aug 2026 16:20:13 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Meta releases Glimmer AI model indicating strategic direction toward personal AI agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Expanding Daybreak as the Cyber Defense Window Narrows</title>
-      <link>https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows</link>
-      <guid isPermaLink="true">https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows</guid>
-      <pubDate>Mon, 10 Aug 2026 10:00:00 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI expands Daybreak cybersecurity model capabilities amid growing cyber threats.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
       <title>We built the Agentic World Cup - LLMs that compete in 1v1 Soccer. [P]</title>
       <link>https://i.redd.it/xhgnqi9mrrih1.png</link>
       <guid isPermaLink="true">https://i.redd.it/xhgnqi9mrrih1.png</guid>
       <pubDate>Tue, 11 Aug 2026 16:12:11 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Competitive benchmark concept using LLMs in simulated soccer matches.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>How Zapier transformed core marketing processes with ChatGPT Work</title>
-      <link>https://openai.com/index/zapier</link>
-      <guid isPermaLink="true">https://openai.com/index/zapier</guid>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 60/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Case study of Zapier&apos;s integration with ChatGPT Work for marketing automation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Demonstration project where LLMs compete in simulated soccer matches.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Google’s Gemini app surges to 1 billion users</title>
@@ -141,15 +141,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/</guid>
       <pubDate>Tue, 11 Aug 2026 18:49:12 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plus, Gemini now generates more than 150 mi<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Quoting Claude Opus 5 system prompt</title>
-      <link>https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/#atom-everything</guid>
-      <pubDate>Sun, 09 Aug 2026 23:31:39 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> Simon Willison<br/><br/>Claude Fable 5 and Claude Mythos 5 were first released on June 9, 2026. On June 12, 2026, Anthropic suspended access to both models to comply with U.S. Department of Commerce export controls; the Depa<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Google&apos;s Gemini AI app reaches one billion active users milestone.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>How to organize Claude Code for product work</title>
@@ -157,7 +149,7 @@
       <guid isPermaLink="true">https://www.theaithinker.com/p/how-to-organize-claude-code-for-product</guid>
       <pubDate>Tue, 11 Aug 2026 11:02:34 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 56/100<br/><b>Source:</b> Hacker News<br/><br/>Opinion/guide piece on workflow organization using Claude Code for product development.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 56/100<br/><b>Source:</b> Hacker News<br/><br/>Opinion piece on organizing Claude Code for product work.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Research direction: Intelligent Model Weight transfer between LLMs [R]</title>
@@ -165,7 +157,15 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1vlt7t7/research_direction_intelligent_model_weight/</guid>
       <pubDate>Tue, 11 Aug 2026 20:35:27 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 56/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Discussion post proposing research direction for weight transfer between different LLMs.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 56/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Proposed research direction on transferring trained weights between different LLM architectures.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas</title>
+      <link>https://openai.com/index/responsible-ai-infrastructure-texas</link>
+      <guid isPermaLink="true">https://openai.com/index/responsible-ai-infrastructure-texas</guid>
+      <pubDate>Mon, 10 Aug 2026 14:00:00 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 55/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
