@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Aug 2026 11:05:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 13:02:15 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Nvidia Nemotron 3.5 Lightning</title>
@@ -13,7 +13,7 @@
       <guid isPermaLink="true">https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4</guid>
       <pubDate>Tue, 11 Aug 2026 13:26:02 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 86/100<br/><b>Source:</b> Hacker News<br/><br/>Nvidia releases Nemotron 3.5 Lightning, a new optimized language model available on Hugging Face.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 86/100<br/><b>Source:</b> Hacker News<br/><br/>Nvidia releases Nemotron 3.5 Lightning, a new efficient language model available on Hugging Face.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>An unreleased Anthropic model made progress on one of math’s biggest unsolved problems</title>
@@ -21,7 +21,15 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/</guid>
       <pubDate>Tue, 11 Aug 2026 16:25:20 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 86/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Unreleased Anthropic model reportedly makes progress on solving unsolved mathematical problems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 86/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Unreleased Anthropic model demonstrates progress on major unsolved mathematical problem.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Daybreak models are now available on AWS</title>
+      <link>https://openai.com/index/daybreak-models-are-now-available-on-aws</link>
+      <guid isPermaLink="true">https://openai.com/index/daybreak-models-are-now-available-on-aws</guid>
+      <pubDate>Tue, 11 Aug 2026 10:00:00 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 84/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI&apos;s Daybreak models now available on AWS cloud platform for enterprise users.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Claude Code is leaking real email address as a User-Agent string in curl command</title>
@@ -29,7 +37,7 @@
       <guid isPermaLink="true">https://github.com/anthropics/claude-code/issues/78431</guid>
       <pubDate>Tue, 11 Aug 2026 14:21:47 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Security vulnerability discovered in Claude Code where real email addresses are leaked in curl command User-Agent strings.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Security vulnerability discovered in Claude Code where email addresses are leaked in curl User-Agent strings.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Stealing Reasoning Traces from Proprietary LLM APIs</title>
@@ -37,15 +45,7 @@
       <guid isPermaLink="true">https://stolen-thoughts.com/</guid>
       <pubDate>Tue, 11 Aug 2026 13:22:00 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Security research on extracting proprietary reasoning traces from LLM APIs through prompt injection techniques.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Testing ads in ChatGPT</title>
-      <link>https://openai.com/index/testing-ads-in-chatgpt</link>
-      <guid isPermaLink="true">https://openai.com/index/testing-ads-in-chatgpt</guid>
-      <pubDate>Tue, 11 Aug 2026 10:00:00 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces testing of advertising system within ChatGPT platform.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Research on extracting proprietary reasoning traces from LLM APIs, raising security and IP concerns.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Company Offering &apos;100% Human-Written, Never AI&apos; Medical Research Is 100% AI</title>
@@ -53,7 +53,7 @@
       <guid isPermaLink="true">https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/</guid>
       <pubDate>Wed, 12 Aug 2026 02:05:42 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Investigation reveals company falsely claiming human-written medical research while using AI generation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Investigation reveals company marketing &apos;human-written&apos; medical research is entirely AI-generated.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Nvidia Nemotron 3.5 Lightning and NeMo Switchyard</title>
@@ -61,7 +61,7 @@
       <guid isPermaLink="true">https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/</guid>
       <pubDate>Tue, 11 Aug 2026 19:35:52 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Nvidia releases Nemotron 3.5 Lightning and NeMo Switchyard with technical improvements for AI deployment.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Nvidia announces Nemotron 3.5 Lightning and NeMo Switchyard framework updates.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp</title>
@@ -69,7 +69,7 @@
       <guid isPermaLink="true">https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md</guid>
       <pubDate>Tue, 11 Aug 2026 14:50:33 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Technical guide on optimizing LLM inference performance using Apple Silicon and macOS VMs with llama.cpp.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Technical guide on optimizing LLM inference performance on Apple Silicon through macOS VMs.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>🔬The BioAI Phase Shift - Matthew McPartlon &amp; Neil Patil, Chai Discovery</title>
@@ -77,7 +77,7 @@
       <guid isPermaLink="true">https://www.latent.space/p/chai-discovery</guid>
       <pubDate>Tue, 11 Aug 2026 21:03:50 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Latent Space<br/><br/>Interview discussing emerging phase shift in biotech AI capabilities and applications at Chai Discovery.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Latent Space<br/><br/>Industry discussion on the emergence of AI in biotech discovery and drug development.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Anthropic says it will watermark text generated by its AI models</title>
@@ -85,23 +85,15 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/</guid>
       <pubDate>Tue, 11 Aug 2026 12:13:47 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic announces watermarking technology for detecting AI-generated text from its models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic announces plans to implement watermarking technology in AI-generated text.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>As AI-led attacks multiply, OpenAI launches a new cyber model</title>
-      <link>https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/</guid>
-      <pubDate>Mon, 10 Aug 2026 23:56:15 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 74/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI launches specialized cybersecurity model designed to defend against AI-led attacks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Google’s Gemini app surges to 1 billion users</title>
-      <link>https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/</guid>
-      <pubDate>Tue, 11 Aug 2026 18:49:12 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 72/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Google&apos;s Gemini app reaches 1 billion users milestone, major product adoption milestone.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials</title>
+      <link>https://discoveredmaterials.com/research/</link>
+      <guid isPermaLink="true">https://discoveredmaterials.com/research/</guid>
+      <pubDate>Wed, 12 Aug 2026 07:51:20 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>YC-backed startup using AI agents for materials science discovery applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>We built the Agentic World Cup - LLMs that compete in 1v1 Soccer. [P]</title>
@@ -109,7 +101,15 @@
       <guid isPermaLink="true">https://i.redd.it/xhgnqi9mrrih1.png</guid>
       <pubDate>Tue, 11 Aug 2026 16:12:11 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Project demonstrating LLM agents competing against each other in simulated 1v1 soccer matches.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Project creating competitive soccer simulation between LLM agents as a benchmark evaluation method.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>As AI-led attacks multiply, OpenAI launches a new cyber model</title>
+      <link>https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/</guid>
+      <pubDate>Mon, 10 Aug 2026 23:56:15 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI launches specialized cybersecurity model in response to increasing AI-powered attacks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision</title>
@@ -117,23 +117,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/</guid>
       <pubDate>Mon, 10 Aug 2026 16:20:13 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Meta releases Glimmer AI model signaling Zuckerberg&apos;s strategic direction for personal AI systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>OpenAI and Anthropic hidden CoT leaks when given deep_think tool.</title>
-      <link>https://twitter.com/_can1357/status/2087228354399265125</link>
-      <guid isPermaLink="true">https://twitter.com/_can1357/status/2087228354399265125</guid>
-      <pubDate>Tue, 11 Aug 2026 22:06:14 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>Security discovery showing OpenAI and Anthropic models leak hidden chain-of-thought reasoning with specific tools.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>OpenAI launches ChatGPT desktop app for Linux</title>
-      <link>https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/</guid>
-      <pubDate>Tue, 11 Aug 2026 20:54:25 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 62/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI releases official ChatGPT desktop application for Linux operating system.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Meta releases Glimmer AI model aligned with Zuckerberg&apos;s personal intelligence strategy.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>[AINews] Muse Glimmer and Spark: Open Weights return Personal Superintelligence promise</title>
@@ -141,7 +125,31 @@
       <guid isPermaLink="true">https://www.latent.space/p/ainews-muse-glimmer-and-spark-open</guid>
       <pubDate>Tue, 11 Aug 2026 05:16:41 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> Latent Space<br/><br/>Analysis of Meta&apos;s open-weight Muse Glimmer and Spark models and personal superintelligence ambitions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> Latent Space<br/><br/>Open-weights AI models Muse, Glimmer, and Spark released with superintelligence capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Testing ads in ChatGPT</title>
+      <link>https://openai.com/index/testing-ads-in-chatgpt</link>
+      <guid isPermaLink="true">https://openai.com/index/testing-ads-in-chatgpt</guid>
+      <pubDate>Tue, 11 Aug 2026 10:00:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces testing advertisement integration within ChatGPT interface.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>OpenAI and Anthropic hidden CoT leaks when given deep_think tool.</title>
+      <link>https://twitter.com/_can1357/status/2087228354399265125</link>
+      <guid isPermaLink="true">https://twitter.com/_can1357/status/2087228354399265125</guid>
+      <pubDate>Tue, 11 Aug 2026 22:06:14 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 60/100<br/><b>Source:</b> Hacker News<br/><br/>Report of chain-of-thought reasoning traces leaking from OpenAI and Anthropic models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Google’s Gemini app surges to 1 billion users</title>
+      <link>https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/</guid>
+      <pubDate>Tue, 11 Aug 2026 18:49:12 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Google reports Gemini app reaching 1 billion users milestone.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>AI agent hacks gym to get its user a spot in pilates class</title>
@@ -149,15 +157,7 @@
       <guid isPermaLink="true">https://www.bbc.com/news/articles/cn0nww2qlp7o</guid>
       <pubDate>Wed, 12 Aug 2026 06:53:17 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 58/100<br/><b>Source:</b> Hacker News<br/><br/>Anecdotal story about an AI agent automating a gym booking task, lacking technical substance.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Suzanne: AI tool for designing and manufacturing physical products</title>
-      <link>https://www.suzanne3d.com/</link>
-      <guid isPermaLink="true">https://www.suzanne3d.com/</guid>
-      <pubDate>Tue, 11 Aug 2026 21:28:26 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 56/100<br/><b>Source:</b> Hacker News<br/><br/>Suzanne AI tool for automated design and manufacturing of physical products announced.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 58/100<br/><b>Source:</b> Hacker News<br/><br/>Anecdotal story about an AI agent booking a gym class, presented as novelty news.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Tech industry is buzzing after a Claude agent hacked into a gym</title>
@@ -165,7 +165,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/</guid>
       <pubDate>Mon, 10 Aug 2026 20:04:24 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 54/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Industry commentary on an AI agent gym booking incident lacking substantive technical details.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 54/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Media coverage of anecdotal gym hacking story with limited substantive AI content.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
