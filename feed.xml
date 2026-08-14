@@ -5,31 +5,15 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Aug 2026 17:50:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 18:49:44 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>How Organizations Use AI: Evidence from ChatGPT [pdf]</title>
-      <link>https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf</link>
-      <guid isPermaLink="true">https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf</guid>
-      <pubDate>Thu, 13 Aug 2026 19:25:38 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 86/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI research report on organizational adoption patterns and use cases for ChatGPT.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Google is making private AI practical with homomorphic encryption</title>
-      <link>https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/</link>
-      <guid isPermaLink="true">https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/</guid>
-      <pubDate>Fri, 14 Aug 2026 15:43:10 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Google announces practical advances in homomorphic encryption for private AI inference.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
     <item>
       <title>Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed</title>
       <link>https://openai.com/index/previewing-ultrafast</link>
       <guid isPermaLink="true">https://openai.com/index/previewing-ultrafast</guid>
       <pubDate>Thu, 13 Aug 2026 10:00:00 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 82/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces ultrafast inference mode for GPT-5.6 Sol with significant speed improvements.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 94/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces Ultrafast mode for GPT-5.6 Sol achieving up to 14X speed improvements.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Introducing Gemini 3.7 Flash</title>
@@ -37,7 +21,23 @@
       <guid isPermaLink="true">https://deepmind.google/blog/introducing-gemini-3-7-flash/</guid>
       <pubDate>Thu, 13 Aug 2026 17:04:18 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 82/100<br/><b>Source:</b> Google DeepMind<br/><br/>Google DeepMind releases Gemini 3.7 Flash model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 94/100<br/><b>Source:</b> Google DeepMind<br/><br/>Google DeepMind releases Gemini 3.7 Flash, a new model variant.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Google is making private AI practical with homomorphic encryption</title>
+      <link>https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/</link>
+      <guid isPermaLink="true">https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/</guid>
+      <pubDate>Fri, 14 Aug 2026 15:43:10 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>Google announces practical advances in homomorphic encryption for privacy-preserving AI applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>How Organizations Use AI: Evidence from ChatGPT [pdf]</title>
+      <link>https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf</link>
+      <guid isPermaLink="true">https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf</guid>
+      <pubDate>Thu, 13 Aug 2026 19:25:38 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 86/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI research report on how organizations are adopting and using ChatGPT in practice.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Show HN: Graft – Claude Code hooks that cut grep tokens by 42%</title>
@@ -45,7 +45,7 @@
       <guid isPermaLink="true">https://github.com/NanoNets/Graft</guid>
       <pubDate>Fri, 14 Aug 2026 15:22:02 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Tool demonstrating token efficiency improvements for Claude code integration.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Tool that reduces token usage in Claude Code sessions by 42%, demonstrating practical optimization.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>The builder’s guide to GPT‑5.6</title>
@@ -53,7 +53,7 @@
       <guid isPermaLink="true">https://openai.com/index/builders-guide-to-gpt-5-6</guid>
       <pubDate>Thu, 13 Aug 2026 11:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI publishes developer guide for GPT-5.6 capabilities and best practices.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI&apos;s technical guide for developers building with GPT-5.6.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>How AI text watermarking works</title>
@@ -61,23 +61,7 @@
       <guid isPermaLink="true">https://declaude.org/watermarking/</guid>
       <pubDate>Thu, 13 Aug 2026 23:16:55 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Technical explanation of AI text watermarking methods and mechanisms.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Microsoft kills off unsuccessful AI features while merging its separate Copilot apps</title>
-      <link>https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/</guid>
-      <pubDate>Thu, 13 Aug 2026 15:30:52 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 66/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Microsoft consolidates AI product strategy by discontinuing underperforming features.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>HashAgent – Share an AI agent as a URL, runs locally via WebGPU</title>
-      <link>https://hashagent.pages.dev/</link>
-      <guid isPermaLink="true">https://hashagent.pages.dev/</guid>
-      <pubDate>Fri, 14 Aug 2026 12:57:02 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>Browser-based AI agent tool that runs locally via WebGPU.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Technical explanation of how AI text watermarking mechanisms work.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Open-source Python library + no-code web dashboard for evaluating oncology AI models at clinical decision thresholds. [P]</title>
@@ -85,31 +69,23 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1vod2c8/opensource_python_library_nocode_web_dashboard/</guid>
       <pubDate>Fri, 14 Aug 2026 17:06:09 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 64/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Open-source library and dashboard for evaluating oncology AI models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Open-source toolkit for evaluating oncology AI models at clinical decision thresholds.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Accelerating GPT-5.6 Sol Ultrafast</title>
-      <link>https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai</link>
-      <guid isPermaLink="true">https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai</guid>
-      <pubDate>Thu, 13 Aug 2026 18:10:02 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 62/100<br/><b>Source:</b> Hacker News<br/><br/>Cerebras discusses optimization techniques for GPT-5.6 Sol ultrafast inference.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Microsoft kills off unsuccessful AI features while merging its separate Copilot apps</title>
+      <link>https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/</guid>
+      <pubDate>Thu, 13 Aug 2026 15:30:52 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 72/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Microsoft discontinues underperforming AI features and consolidates its Copilot product line.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>worldproof: diagnosing where world-model predictions break and a measurement of when pixel metrics stop being able to rank models at all [P]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1vnliv7/worldproof_diagnosing_where_worldmodel/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1vnliv7/worldproof_diagnosing_where_worldmodel/</guid>
-      <pubDate>Thu, 13 Aug 2026 19:58:03 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research on diagnosing world-model prediction failures and evaluation metrics.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Writer introduces new AI model and upgraded harness to contain token costs</title>
-      <link>https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/</guid>
-      <pubDate>Thu, 13 Aug 2026 21:13:24 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Writer releases new AI model with improved token cost efficiency.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>HashAgent – Share an AI agent as a URL, runs locally via WebGPU</title>
+      <link>https://hashagent.pages.dev/</link>
+      <guid isPermaLink="true">https://hashagent.pages.dev/</guid>
+      <pubDate>Fri, 14 Aug 2026 12:57:02 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Browser-based AI agent platform that runs locally via WebGPU and can be shared via URL.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>For the people who got reviews back from neurips, cvpr, eccv, etc and also tested their paper through an agentic reviewer like the stanford one, how different were the reviews? [D]</title>
@@ -117,23 +93,23 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1vo5vdm/for_the_people_who_got_reviews_back_from_neurips/</guid>
       <pubDate>Fri, 14 Aug 2026 12:26:29 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 58/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Discussion thread asking about comparison between peer review and AI-based paper review.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Discussion thread about comparing human peer reviews with AI-generated paper reviews from conferences.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Anthropic set AI agents loose on the same task. They started a turf war.</title>
-      <link>https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/</guid>
-      <pubDate>Thu, 13 Aug 2026 18:28:14 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 58/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Sensationalized report on AI agents competing in a task scenario.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>worldproof: diagnosing where world-model predictions break and a measurement of when pixel metrics stop being able to rank models at all [P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1vnliv7/worldproof_diagnosing_where_worldmodel/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1vnliv7/worldproof_diagnosing_where_worldmodel/</guid>
+      <pubDate>Thu, 13 Aug 2026 19:58:03 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research on diagnosing failures in world-model predictions and limitations of pixel-level metrics.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>I compiled Doom&apos;s renderer into a 21B-parameter transformer -- no training anywhere [P]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1voazhm/i_compiled_dooms_renderer_into_a_21bparameter/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1voazhm/i_compiled_dooms_renderer_into_a_21bparameter/</guid>
-      <pubDate>Fri, 14 Aug 2026 15:50:11 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 56/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Personal project compiling a game renderer into transformer weights.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>DeepSeek V4 Pro 0813 (on OpenRouter)</title>
+      <link>https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/</guid>
+      <pubDate>Wed, 12 Aug 2026 23:59:23 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> Simon Willison<br/><br/>DeepSeek releases V4 Pro 0813 model update available on OpenRouter.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>[AINews] Gemini 3.7 Flash brings GDM back to the forefront</title>
@@ -141,7 +117,31 @@
       <guid isPermaLink="true">https://www.latent.space/p/ainews-gemini-37-flash-brings-gdm</guid>
       <pubDate>Fri, 14 Aug 2026 05:30:39 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 54/100<br/><b>Source:</b> Latent Space<br/><br/>News summary highlighting Gemini 3.7 Flash release.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> Latent Space<br/><br/>Analysis of Gemini 3.7 Flash release and its technical implications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Maximizing the value of your Claude Code sessions</title>
+      <link>https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions</link>
+      <guid isPermaLink="true">https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions</guid>
+      <pubDate>Fri, 14 Aug 2026 16:15:21 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>Guide on using Claude Code sessions effectively, primarily self-promotional content.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Anthropic set AI agents loose on the same task. They started a turf war.</title>
+      <link>https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/</guid>
+      <pubDate>Thu, 13 Aug 2026 18:28:14 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 52/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Sensationalized story about AI agents competing, lacks technical substance.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>I compiled Doom&apos;s renderer into a 21B-parameter transformer -- no training anywhere [P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1voazhm/i_compiled_dooms_renderer_into_a_21bparameter/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1voazhm/i_compiled_dooms_renderer_into_a_21bparameter/</guid>
+      <pubDate>Fri, 14 Aug 2026 15:50:11 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 50/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Novelty project compiling Doom renderer into transformer, primarily an interesting demo rather than substantive AI development.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
