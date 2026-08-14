@@ -5,23 +5,15 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Aug 2026 20:27:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 21:21:43 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed</title>
-      <link>https://openai.com/index/previewing-ultrafast</link>
-      <guid isPermaLink="true">https://openai.com/index/previewing-ultrafast</guid>
-      <pubDate>Thu, 13 Aug 2026 10:00:00 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 88/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI previews Ultrafast mode for GPT-5.6 with up to 14X speed improvement.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
     <item>
       <title>Introducing Gemini 3.7 Flash</title>
       <link>https://deepmind.google/blog/introducing-gemini-3-7-flash/</link>
       <guid isPermaLink="true">https://deepmind.google/blog/introducing-gemini-3-7-flash/</guid>
       <pubDate>Thu, 13 Aug 2026 17:04:18 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 88/100<br/><b>Source:</b> Google DeepMind<br/><br/>Google DeepMind introduces Gemini 3.7 Flash model release.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 88/100<br/><b>Source:</b> Google DeepMind<br/><br/>Google DeepMind introduces Gemini 3.7 Flash model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Google is making private AI practical with homomorphic encryption</title>
@@ -29,7 +21,31 @@
       <guid isPermaLink="true">https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/</guid>
       <pubDate>Fri, 14 Aug 2026 15:43:10 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 86/100<br/><b>Source:</b> Hacker News<br/><br/>Google announces practical homomorphic encryption implementation for privacy-preserving AI.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 86/100<br/><b>Source:</b> Hacker News<br/><br/>Google announces advances in homomorphic encryption for practical private AI applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed</title>
+      <link>https://openai.com/index/previewing-ultrafast</link>
+      <guid isPermaLink="true">https://openai.com/index/previewing-ultrafast</guid>
+      <pubDate>Thu, 13 Aug 2026 10:00:00 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 82/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces Ultrafast mode for GPT-5.6 Sol with up to 14X performance improvement.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Anthropic Risk August 2026 [pdf]</title>
+      <link>https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf</link>
+      <guid isPermaLink="true">https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf</guid>
+      <pubDate>Fri, 14 Aug 2026 19:32:15 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic publishes formal risk assessment report for August 2026.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>How Claude&apos;s text watermarking works</title>
+      <link>https://www.anthropic.com/news/claude-text-watermark</link>
+      <guid isPermaLink="true">https://www.anthropic.com/news/claude-text-watermark</guid>
+      <pubDate>Fri, 14 Aug 2026 19:15:51 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic publishes technical details on Claude&apos;s text watermarking mechanism.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Show HN: Graft – Claude Code hooks that cut grep tokens by 42%</title>
@@ -37,7 +53,7 @@
       <guid isPermaLink="true">https://github.com/NanoNets/Graft</guid>
       <pubDate>Fri, 14 Aug 2026 15:22:02 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Open-source tool reducing token usage in Claude Code by 42% through optimized hooks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Tool that reduces token usage in Claude Code by 42% through optimized hooks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>The builder’s guide to GPT‑5.6</title>
@@ -45,7 +61,7 @@
       <guid isPermaLink="true">https://openai.com/index/builders-guide-to-gpt-5-6</guid>
       <pubDate>Thu, 13 Aug 2026 11:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI developer guide for building with GPT-5.6 model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI publishes developer guide for GPT-5.6 capabilities and usage.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Microsoft kills off unsuccessful AI features while merging its separate Copilot apps</title>
@@ -53,55 +69,15 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/</guid>
       <pubDate>Thu, 13 Aug 2026 15:30:52 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 72/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Microsoft discontinues unsuccessful AI features and consolidates Copilot applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 66/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Microsoft consolidates AI features and merges separate Copilot applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>HashAgent – Share an AI agent as a URL, runs locally via WebGPU</title>
-      <link>https://hashagent.pages.dev/</link>
-      <guid isPermaLink="true">https://hashagent.pages.dev/</guid>
-      <pubDate>Fri, 14 Aug 2026 12:57:02 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Tool enabling deployment of AI agents as shareable URLs running locally via WebGPU.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>How AI text watermarking works</title>
-      <link>https://declaude.org/watermarking/</link>
-      <guid isPermaLink="true">https://declaude.org/watermarking/</guid>
-      <pubDate>Thu, 13 Aug 2026 23:16:55 +0000</pubDate>
+      <title>DeepSeek V4 Pro 0813 (on OpenRouter)</title>
+      <link>https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/</guid>
+      <pubDate>Wed, 12 Aug 2026 23:59:23 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Educational explainer on AI text watermarking techniques and mechanisms.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Open-source Python library + no-code web dashboard for evaluating oncology AI models at clinical decision thresholds. [P]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1vod2c8/opensource_python_library_nocode_web_dashboard/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1vod2c8/opensource_python_library_nocode_web_dashboard/</guid>
-      <pubDate>Fri, 14 Aug 2026 17:06:09 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Open-source library and dashboard for evaluating oncology AI models at clinical thresholds.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Kog is going deeper to squeeze more inference out of GPUs</title>
-      <link>https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/</guid>
-      <pubDate>Fri, 14 Aug 2026 14:50:11 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Startup optimizing GPU inference efficiency for AI model deployment.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Writer introduces new AI model and upgraded harness to contain token costs</title>
-      <link>https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/</guid>
-      <pubDate>Thu, 13 Aug 2026 21:13:24 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Writer releases new AI model with improved token cost optimization features.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>[AINews] Gemini 3.7 Flash brings GDM back to the forefront</title>
-      <link>https://www.latent.space/p/ainews-gemini-37-flash-brings-gdm</link>
-      <guid isPermaLink="true">https://www.latent.space/p/ainews-gemini-37-flash-brings-gdm</guid>
-      <pubDate>Fri, 14 Aug 2026 05:30:39 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> Latent Space<br/><br/>Analysis of Gemini 3.7 Flash release and its technical implications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> Simon Willison<br/><br/>DeepSeek releases V4 Pro 0813 model update available on OpenRouter.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Maximizing the value of your Claude Code sessions</title>
@@ -109,23 +85,39 @@
       <guid isPermaLink="true">https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions</guid>
       <pubDate>Fri, 14 Aug 2026 16:15:21 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>Blog post offering tips for using Claude Code sessions effectively.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>Blog post about best practices for using Claude Code sessions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>IBM partners with OpenAI to bolster enterprise AI push</title>
-      <link>https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/</guid>
-      <pubDate>Thu, 13 Aug 2026 19:19:49 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 64/100<br/><b>Source:</b> TechCrunch AI<br/><br/>IBM and OpenAI partnership announcement for enterprise AI applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Anthropic set AI agents loose on the same task. They started a turf war.</title>
-      <link>https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/</guid>
-      <pubDate>Thu, 13 Aug 2026 18:28:14 +0000</pubDate>
+      <title>HashAgent – Share an AI agent as a URL, runs locally via WebGPU</title>
+      <link>https://hashagent.pages.dev/</link>
+      <guid isPermaLink="true">https://hashagent.pages.dev/</guid>
+      <pubDate>Fri, 14 Aug 2026 12:57:02 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Sensationalized account of Anthropic agents competing on a task with conflict framing.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>Tool for sharing AI agents as URLs with local WebGPU execution.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>How AI text watermarking works</title>
+      <link>https://declaude.org/watermarking/</link>
+      <guid isPermaLink="true">https://declaude.org/watermarking/</guid>
+      <pubDate>Thu, 13 Aug 2026 23:16:55 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>Technical explainer on AI text watermarking mechanisms.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Open-source Python library + no-code web dashboard for evaluating oncology AI models at clinical decision thresholds. [P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1vod2c8/opensource_python_library_nocode_web_dashboard/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1vod2c8/opensource_python_library_nocode_web_dashboard/</guid>
+      <pubDate>Fri, 14 Aug 2026 17:06:09 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 64/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Open-source library and dashboard for evaluating oncology AI models at clinical thresholds.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>[AINews] Gemini 3.7 Flash brings GDM back to the forefront</title>
+      <link>https://www.latent.space/p/ainews-gemini-37-flash-brings-gdm</link>
+      <guid isPermaLink="true">https://www.latent.space/p/ainews-gemini-37-flash-brings-gdm</guid>
+      <pubDate>Fri, 14 Aug 2026 05:30:39 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> Latent Space<br/><br/>Analysis of Gemini 3.7 Flash and its implications for generative diffusion models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>I compiled Doom&apos;s renderer into a 21B-parameter transformer -- no training anywhere [P]</title>
@@ -133,7 +125,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1voazhm/i_compiled_dooms_renderer_into_a_21bparameter/</guid>
       <pubDate>Fri, 14 Aug 2026 15:50:11 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Technical proof-of-concept compiling Doom renderer into transformer parameters without training.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 50/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Personal project post about compiling Doom renderer into a transformer model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
