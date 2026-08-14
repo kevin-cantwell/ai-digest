@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Aug 2026 15:48:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 16:48:31 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Qwen 3.8 27B is out: open weights, best local dense model yet</title>
@@ -13,23 +13,15 @@
       <guid isPermaLink="true">https://huggingface.co/Qwen/Qwen3.8-27B-FP8</guid>
       <pubDate>Fri, 14 Aug 2026 15:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>Alibaba releases Qwen 3.8 27B as an open-weight dense language model with competitive performance.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>Alibaba releases Qwen 3.8 27B as an open-weight dense language model with strong local inference capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Mistral OCR 4.1</title>
-      <link>https://docs.mistral.ai/models/ocr-4-1</link>
-      <guid isPermaLink="true">https://docs.mistral.ai/models/ocr-4-1</guid>
-      <pubDate>Thu, 13 Aug 2026 17:05:12 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 84/100<br/><b>Source:</b> Hacker News<br/><br/>Mistral releases OCR 4.1 model for document understanding and text extraction.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Introducing Gemini 3.7 Flash</title>
-      <link>https://deepmind.google/blog/introducing-gemini-3-7-flash/</link>
-      <guid isPermaLink="true">https://deepmind.google/blog/introducing-gemini-3-7-flash/</guid>
-      <pubDate>Thu, 13 Aug 2026 17:04:18 +0000</pubDate>
+      <title>Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed</title>
+      <link>https://openai.com/index/previewing-ultrafast</link>
+      <guid isPermaLink="true">https://openai.com/index/previewing-ultrafast</guid>
+      <pubDate>Thu, 13 Aug 2026 10:00:00 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 82/100<br/><b>Source:</b> Google DeepMind<br/><br/>Google DeepMind announces Gemini 3.7 Flash, a faster variant of their language model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 88/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI previews ultrafast mode for GPT-5.6 Sol, claiming 14x speed improvements.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>How Organizations Use AI: Evidence from ChatGPT [pdf]</title>
@@ -37,15 +29,47 @@
       <guid isPermaLink="true">https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf</guid>
       <pubDate>Thu, 13 Aug 2026 19:25:38 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 80/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI publishes research on how organizations are adopting and using ChatGPT in practice.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 86/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI publishes research on how organizations are adopting and using ChatGPT in practice.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>How AI text watermarking works</title>
-      <link>https://declaude.org/watermarking/</link>
-      <guid isPermaLink="true">https://declaude.org/watermarking/</guid>
-      <pubDate>Thu, 13 Aug 2026 23:16:55 +0000</pubDate>
+      <title>Gemini 3.7 Flash</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/</link>
+      <guid isPermaLink="true">https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/</guid>
+      <pubDate>Thu, 13 Aug 2026 17:23:22 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 84/100<br/><b>Source:</b> Hacker News<br/><br/>Google announces Gemini 3.7 Flash, a new efficient model variant.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Introducing Gemini 3.7 Flash</title>
+      <link>https://deepmind.google/blog/introducing-gemini-3-7-flash/</link>
+      <guid isPermaLink="true">https://deepmind.google/blog/introducing-gemini-3-7-flash/</guid>
+      <pubDate>Thu, 13 Aug 2026 17:04:18 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 82/100<br/><b>Source:</b> Google DeepMind<br/><br/>Google DeepMind announces Gemini 3.7 Flash with improved efficiency.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Mistral OCR 4.1</title>
+      <link>https://docs.mistral.ai/models/ocr-4-1</link>
+      <guid isPermaLink="true">https://docs.mistral.ai/models/ocr-4-1</guid>
+      <pubDate>Thu, 13 Aug 2026 17:05:12 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Technical explainer on how AI text watermarking mechanisms work and their effectiveness.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> Hacker News<br/><br/>Mistral releases OCR 4.1, an updated optical character recognition model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>The builder’s guide to GPT‑5.6</title>
+      <link>https://openai.com/index/builders-guide-to-gpt-5-6</link>
+      <guid isPermaLink="true">https://openai.com/index/builders-guide-to-gpt-5-6</guid>
+      <pubDate>Thu, 13 Aug 2026 11:00:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI publishes technical guide for developers building with GPT-5.6.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Accelerating GPT-5.6 Sol Ultrafast</title>
+      <link>https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai</link>
+      <guid isPermaLink="true">https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai</guid>
+      <pubDate>Thu, 13 Aug 2026 18:10:02 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 74/100<br/><b>Source:</b> Hacker News<br/><br/>Cerebras details optimization techniques for accelerating GPT-5.6 Sol Ultrafast mode.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Microsoft kills off unsuccessful AI features while merging its separate Copilot apps</title>
@@ -53,7 +77,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/</guid>
       <pubDate>Thu, 13 Aug 2026 15:30:52 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 66/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Microsoft discontinues underperforming AI features and consolidates its Copilot product offerings.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 72/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Microsoft consolidates its Copilot applications and discontinues underperforming AI features.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>DeepSeek V4 Pro 0813 (on OpenRouter)</title>
@@ -61,15 +85,15 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/</guid>
       <pubDate>Wed, 12 Aug 2026 23:59:23 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> Simon Willison<br/><br/>DeepSeek releases V4 Pro 0813 model update available on OpenRouter.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> Simon Willison<br/><br/>DeepSeek releases V4 Pro 0813 model update available on OpenRouter platform.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>[AINews] SpaceXAI Grok 4.6 and Grok @Bot</title>
-      <link>https://www.latent.space/p/ainews-spacexai-grok-46-and-grok</link>
-      <guid isPermaLink="true">https://www.latent.space/p/ainews-spacexai-grok-46-and-grok</guid>
-      <pubDate>Thu, 13 Aug 2026 01:53:47 +0000</pubDate>
+      <title>How AI text watermarking works</title>
+      <link>https://declaude.org/watermarking/</link>
+      <guid isPermaLink="true">https://declaude.org/watermarking/</guid>
+      <pubDate>Thu, 13 Aug 2026 23:16:55 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> Latent Space<br/><br/>SpaceX&apos;s Grok releases version 4.6 and introduces Grok @Bot assistant capability.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Technical explanation of how AI text watermarking mechanisms work.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Anthropic set AI agents loose on the same task. They started a turf war.</title>
@@ -77,15 +101,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/</guid>
       <pubDate>Thu, 13 Aug 2026 18:28:14 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic&apos;s AI agents exhibit competitive behavior on the same task, raising questions about multi-agent coordination.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Samsung is using Claude to verify chip designs. It&apos;s not going smoothly</title>
-      <link>https://www.neowin.net/news/samsung-is-using-claude-to-verify-chip-designs-and-its-not-going-smoothly/</link>
-      <guid isPermaLink="true">https://www.neowin.net/news/samsung-is-using-claude-to-verify-chip-designs-and-its-not-going-smoothly/</guid>
-      <pubDate>Thu, 13 Aug 2026 16:05:58 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> Hacker News<br/><br/>Samsung&apos;s attempt to use Claude for chip design verification encounters technical difficulties.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic&apos;s AI agents exhibit competitive behavior when tasked with the same objective.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>[AINews] Gemini 3.7 Flash brings GDM back to the forefront</title>
@@ -93,15 +109,23 @@
       <guid isPermaLink="true">https://www.latent.space/p/ainews-gemini-37-flash-brings-gdm</guid>
       <pubDate>Fri, 14 Aug 2026 05:30:39 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> Latent Space<br/><br/>Commentary on Gemini 3.7 Flash and its implications for the generative AI model landscape.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> Latent Space<br/><br/>Analysis of Gemini 3.7 Flash&apos;s technical improvements and market positioning.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>For the people who got reviews back from neurips, cvpr, eccv, etc and also tested their paper through an agentic reviewer like the stanford one, how different were the reviews? [D]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1vo5vdm/for_the_people_who_got_reviews_back_from_neurips/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1vo5vdm/for_the_people_who_got_reviews_back_from_neurips/</guid>
-      <pubDate>Fri, 14 Aug 2026 12:26:29 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 52/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Reddit discussion asking for personal anecdotes comparing peer review experiences with AI reviewers.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>I compiled Doom&apos;s renderer into a 21B-parameter transformer -- no training anywhere [P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1voazhm/i_compiled_dooms_renderer_into_a_21bparameter/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1voazhm/i_compiled_dooms_renderer_into_a_21bparameter/</guid>
+      <pubDate>Fri, 14 Aug 2026 15:50:11 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Hobbyist project compiling Doom&apos;s renderer logic into a transformer model without traditional training.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes</title>
+      <link>https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/</guid>
+      <pubDate>Wed, 12 Aug 2026 22:26:37 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 54/100<br/><b>Source:</b> TechCrunch AI<br/><br/>User backlash against Anthropic&apos;s watermarking technology that flags unauthorized usage contexts.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
