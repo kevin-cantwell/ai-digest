@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Aug 2026 08:23:56 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 09:22:22 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed</title>
@@ -13,7 +13,7 @@
       <guid isPermaLink="true">https://openai.com/index/previewing-ultrafast</guid>
       <pubDate>Thu, 13 Aug 2026 10:00:00 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 88/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces GPT-5.6 Sol ultrafast mode with 14X performance improvements.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 88/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces ultrafast inference mode for GPT-5.6 Sol with significant speed improvements.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Introducing Gemini 3.7 Flash</title>
@@ -21,7 +21,7 @@
       <guid isPermaLink="true">https://deepmind.google/blog/introducing-gemini-3-7-flash/</guid>
       <pubDate>Thu, 13 Aug 2026 17:04:18 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 88/100<br/><b>Source:</b> Google DeepMind<br/><br/>Google DeepMind introduces Gemini 3.7 Flash model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 88/100<br/><b>Source:</b> Google DeepMind<br/><br/>Google DeepMind introduces Gemini 3.7 Flash model release.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Google is making private AI practical with homomorphic encryption</title>
@@ -32,28 +32,20 @@
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 86/100<br/><b>Source:</b> Hacker News<br/><br/>Google announces practical advances in homomorphic encryption for privacy-preserving AI.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>How Claude&apos;s text watermarking works</title>
-      <link>https://www.anthropic.com/news/claude-text-watermark</link>
-      <guid isPermaLink="true">https://www.anthropic.com/news/claude-text-watermark</guid>
-      <pubDate>Fri, 14 Aug 2026 19:15:51 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic publishes technical details on Claude&apos;s text watermarking mechanism.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>The builder’s guide to GPT‑5.6</title>
-      <link>https://openai.com/index/builders-guide-to-gpt-5-6</link>
-      <guid isPermaLink="true">https://openai.com/index/builders-guide-to-gpt-5-6</guid>
-      <pubDate>Thu, 13 Aug 2026 11:00:00 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI releases comprehensive developer guide for GPT-5.6 capabilities and usage.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
       <title>Anthropic Risk August 2026 [pdf]</title>
       <link>https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf</link>
       <guid isPermaLink="true">https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf</guid>
       <pubDate>Fri, 14 Aug 2026 19:32:15 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic releases August 2026 risk report detailing AI safety assessments.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic publishes risk assessment report covering AI safety and alignment concerns.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>How Claude&apos;s text watermarking works</title>
+      <link>https://www.anthropic.com/news/claude-text-watermark</link>
+      <guid isPermaLink="true">https://www.anthropic.com/news/claude-text-watermark</guid>
+      <pubDate>Fri, 14 Aug 2026 19:15:51 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic technical explanation of text watermarking implementation in Claude.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Maximizing the value of your Claude Code sessions</title>
@@ -61,7 +53,7 @@
       <guid isPermaLink="true">https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions</guid>
       <pubDate>Fri, 14 Aug 2026 16:15:21 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic blog post on best practices for using Claude Code sessions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic blog post on optimizing Claude Code usage patterns.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Show HN: Graft – Claude Code hooks that cut grep tokens by 42%</title>
@@ -69,7 +61,15 @@
       <guid isPermaLink="true">https://github.com/NanoNets/Graft</guid>
       <pubDate>Fri, 14 Aug 2026 15:22:02 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>GitHub tool optimizing Claude Code performance by reducing token consumption by 42%.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>GitHub project showing token optimization hooks for Claude Code with reported efficiency gains.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>The builder’s guide to GPT‑5.6</title>
+      <link>https://openai.com/index/builders-guide-to-gpt-5-6</link>
+      <guid isPermaLink="true">https://openai.com/index/builders-guide-to-gpt-5-6</guid>
+      <pubDate>Thu, 13 Aug 2026 11:00:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI guide for developers on building with GPT-5.6 model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Show HN: Mole – Deep research agent for your terminal</title>
@@ -77,15 +77,7 @@
       <guid isPermaLink="true">https://github.com/lajosdeme/mole</guid>
       <pubDate>Fri, 14 Aug 2026 18:52:48 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Open-source terminal-based deep research agent tool released on GitHub.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>HashAgent – Share an AI agent as a URL, runs locally via WebGPU</title>
-      <link>https://hashagent.pages.dev/</link>
-      <guid isPermaLink="true">https://hashagent.pages.dev/</guid>
-      <pubDate>Fri, 14 Aug 2026 12:57:02 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>WebGPU-based tool for sharing and running AI agents locally via shareable URLs.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Open-source terminal-based research agent tool released on GitHub.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>A Contract-Grade Verifier for LLM-Generated GPU Kernels</title>
@@ -93,7 +85,7 @@
       <guid isPermaLink="true">https://arxiv.org/abs/2608.12700</guid>
       <pubDate>Fri, 14 Aug 2026 16:57:14 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> Hacker News<br/><br/>Academic paper on formal verification for LLM-generated GPU kernel code.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> Hacker News<br/><br/>Academic paper on formal verification methods for LLM-generated GPU kernel code.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Microsoft kills off unsuccessful AI features while merging its separate Copilot apps</title>
@@ -101,15 +93,15 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/</guid>
       <pubDate>Thu, 13 Aug 2026 15:30:52 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 66/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Microsoft discontinues underperforming AI features and consolidates Copilot applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 66/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Microsoft consolidates Copilot products and discontinues underperforming AI features.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>[AINews] Gemini 3.7 Flash brings GDM back to the forefront</title>
-      <link>https://www.latent.space/p/ainews-gemini-37-flash-brings-gdm</link>
-      <guid isPermaLink="true">https://www.latent.space/p/ainews-gemini-37-flash-brings-gdm</guid>
-      <pubDate>Fri, 14 Aug 2026 05:30:39 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> Latent Space<br/><br/>Latent Space analysis of Gemini 3.7 Flash and its technical advances.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>HashAgent – Share an AI agent as a URL, runs locally via WebGPU</title>
+      <link>https://hashagent.pages.dev/</link>
+      <guid isPermaLink="true">https://hashagent.pages.dev/</guid>
+      <pubDate>Fri, 14 Aug 2026 12:57:02 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>Web-based tool for deploying AI agents locally via WebGPU.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Open-source Python library + no-code web dashboard for evaluating oncology AI models at clinical decision thresholds. [P]</title>
@@ -117,7 +109,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1vod2c8/opensource_python_library_nocode_web_dashboard/</guid>
       <pubDate>Fri, 14 Aug 2026 17:06:09 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 64/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Open-source library and dashboard for evaluating oncology AI models at clinical thresholds.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 64/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Open-source library and dashboard for clinical oncology AI model evaluation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>IBM partners with OpenAI to bolster enterprise AI push</title>
@@ -125,15 +117,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/</guid>
       <pubDate>Thu, 13 Aug 2026 19:19:49 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 64/100<br/><b>Source:</b> TechCrunch AI<br/><br/>IBM and OpenAI announce partnership for enterprise AI solutions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Anthropic set AI agents loose on the same task. They started a turf war.</title>
-      <link>https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/</guid>
-      <pubDate>Thu, 13 Aug 2026 18:28:14 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic research into multi-agent competition behavior in collaborative tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 64/100<br/><b>Source:</b> TechCrunch AI<br/><br/>IBM and OpenAI announce partnership for enterprise AI services.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Kog is going deeper to squeeze more inference out of GPUs</title>
@@ -141,7 +125,23 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/</guid>
       <pubDate>Fri, 14 Aug 2026 14:50:11 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Startup Kog develops techniques for optimizing GPU inference efficiency.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Startup Kog focuses on GPU inference optimization techniques.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Anthropic set AI agents loose on the same task. They started a turf war.</title>
+      <link>https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/</guid>
+      <pubDate>Thu, 13 Aug 2026 18:28:14 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 58/100<br/><b>Source:</b> TechCrunch AI<br/><br/>TechCrunch article on Anthropic multi-agent experiment with anthropomorphic framing.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>[AINews] Gemini 3.7 Flash brings GDM back to the forefront</title>
+      <link>https://www.latent.space/p/ainews-gemini-37-flash-brings-gdm</link>
+      <guid isPermaLink="true">https://www.latent.space/p/ainews-gemini-37-flash-brings-gdm</guid>
+      <pubDate>Fri, 14 Aug 2026 05:30:39 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 54/100<br/><b>Source:</b> Latent Space<br/><br/>Newsletter analysis of Gemini 3.7 Flash release and implications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
