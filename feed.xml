@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Aug 2026 10:19:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 11:17:20 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Patterns and problems in emerging multi-agent systems</title>
@@ -13,15 +13,7 @@
       <guid isPermaLink="true">https://www.anthropic.com/research/multiagent-systems</guid>
       <pubDate>Sun, 16 Aug 2026 02:12:53 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic publishes research on patterns and problems emerging in multi-agent AI systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>AI Can Now Design Functional Viruses. Should We Worry?</title>
-      <link>https://spectrum.ieee.org/ai-designed-virus</link>
-      <guid isPermaLink="true">https://spectrum.ieee.org/ai-designed-virus</guid>
-      <pubDate>Sat, 15 Aug 2026 15:32:25 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> Hacker News<br/><br/>Report on AI&apos;s capability to design functional viruses and associated biosecurity concerns.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic research paper analyzing patterns and problems in emerging multi-agent AI systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Anthropic shares more details about how Claude’s new watermarks will work</title>
@@ -29,7 +21,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/</guid>
       <pubDate>Sat, 15 Aug 2026 18:58:39 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic releases technical details about Claude&apos;s new watermarking system for generated content.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic announces technical details about Claude&apos;s new content watermarking system.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code</title>
@@ -37,7 +29,7 @@
       <guid isPermaLink="true">https://arxiv.org/abs/2608.13122</guid>
       <pubDate>Sat, 15 Aug 2026 22:41:51 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> Hacker News<br/><br/>Academic paper on using AI to assist GPU porting of a large legacy weather simulation codebase.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> Hacker News<br/><br/>Academic paper on using AI to assist GPU porting of large legacy weather simulation codebase.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Yadda 3.0.0: BDD in the Age of AI Agents</title>
@@ -45,15 +37,31 @@
       <guid isPermaLink="true">http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html</guid>
       <pubDate>Sat, 15 Aug 2026 13:43:46 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 68/100<br/><b>Source:</b> Hacker News<br/><br/>Yadda testing framework releases version 3.0.0 with AI agent capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 68/100<br/><b>Source:</b> Hacker News<br/><br/>Yadda 3.0.0 updates BDD framework for use with AI agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Kog is going deeper to squeeze more inference out of GPUs</title>
-      <link>https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/</guid>
-      <pubDate>Fri, 14 Aug 2026 14:50:11 +0000</pubDate>
+      <title>Revisiting the Efficient Channel Attention paper (2019, 12k citations) - the central hypothesis isn&apos;t quite right [D]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1vptaw9/revisiting_the_efficient_channel_attention_paper/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1vptaw9/revisiting_the_efficient_channel_attention_paper/</guid>
+      <pubDate>Sun, 16 Aug 2026 10:13:44 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Discussion revisiting a highly-cited 2019 efficient channel attention paper and challenging its central hypothesis.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>OpenAI and Anthropic in price war as Chinese AI rivals gain ground</title>
+      <link>https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/</link>
+      <guid isPermaLink="true">https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/</guid>
+      <pubDate>Fri, 14 Aug 2026 14:27:14 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Kog announces optimization techniques to improve GPU inference efficiency.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> Ars Technica<br/><br/>OpenAI and Anthropic engage in LLM pricing competition amid growing Chinese AI competition.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>AI Can Now Design Functional Viruses. Should We Worry?</title>
+      <link>https://spectrum.ieee.org/ai-designed-virus</link>
+      <guid isPermaLink="true">https://spectrum.ieee.org/ai-designed-virus</guid>
+      <pubDate>Sat, 15 Aug 2026 15:32:25 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>IEEE analysis of AI capabilities in functional virus design and biosecurity implications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>What happens when an LLM never sees material beyond fifth grade?</title>
@@ -61,15 +69,15 @@
       <guid isPermaLink="true">https://littlelearner-ll.github.io/</guid>
       <pubDate>Sun, 16 Aug 2026 07:37:53 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>Research explores how LLM behavior differs when trained only on elementary-level material.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>Research exploring how LLMs trained only on fifth-grade level material perform.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>AI in drug discovery – what it is, where we stand and the path forward</title>
-      <link>https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really</link>
-      <guid isPermaLink="true">https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really</guid>
-      <pubDate>Sat, 15 Aug 2026 19:12:53 +0000</pubDate>
+      <title>SSOG-Attention: Sum Of Separable Gaussians as a sub-quadratic and scalable alternative to SDPA. [R]</title>
+      <link>https://i.redd.it/pepwlp93opjh1.gif</link>
+      <guid isPermaLink="true">https://i.redd.it/pepwlp93opjh1.gif</guid>
+      <pubDate>Sun, 16 Aug 2026 10:06:07 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> Hacker News<br/><br/>Overview of current state and future directions for AI applications in drug discovery.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research on SSOG-Attention as a sub-quadratic alternative to standard scaled dot-product attention.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Dataset: Starfield Fauna - 20,000 images in 50 species categories. [P]</title>
@@ -77,15 +85,7 @@
       <guid isPermaLink="true">https://i.redd.it/xg0grozpwkjh1.png</guid>
       <pubDate>Sat, 15 Aug 2026 18:06:57 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 56/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Release of Starfield Fauna dataset with 20,000 images across 50 species categories.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Working with AI feels more like leadership than coding</title>
-      <link>https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/</link>
-      <guid isPermaLink="true">https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/</guid>
-      <pubDate>Sat, 15 Aug 2026 10:39:41 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 46/100<br/><b>Source:</b> Hacker News<br/><br/>Opinion piece about the subjective experience of working with AI tools.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 56/100<br/><b>Source:</b> r/MachineLearning<br/><br/>New dataset release: 20,000 animal images across 50 species categories.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
