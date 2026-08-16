@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Aug 2026 01:07:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 02:56:55 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>AI Can Now Design Functional Viruses. Should We Worry?</title>
@@ -13,7 +13,7 @@
       <guid isPermaLink="true">https://spectrum.ieee.org/ai-designed-virus</guid>
       <pubDate>Sat, 15 Aug 2026 15:32:25 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> Hacker News<br/><br/>Research discusses AI&apos;s capability to design functional viruses, raising biosecurity concerns.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> Hacker News<br/><br/>Research on AI&apos;s capability to design functional viruses raises biosecurity concerns.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Anthropic shares more details about how Claude’s new watermarks will work</title>
@@ -21,7 +21,15 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/</guid>
       <pubDate>Sat, 15 Aug 2026 18:58:39 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic announces technical details about Claude&apos;s new watermarking system for AI-generated content.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic announces technical details on Claude&apos;s output watermarking system.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>AI in drug discovery – what it is, where we stand and the path forward</title>
+      <link>https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really</link>
+      <guid isPermaLink="true">https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really</guid>
+      <pubDate>Sat, 15 Aug 2026 19:12:53 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> Hacker News<br/><br/>Survey of current state and progress in AI-assisted drug discovery research.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Yadda 3.0.0: BDD in the Age of AI Agents</title>
@@ -29,31 +37,7 @@
       <guid isPermaLink="true">http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html</guid>
       <pubDate>Sat, 15 Aug 2026 13:43:46 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 68/100<br/><b>Source:</b> Hacker News<br/><br/>Yadda 3.0.0 updates BDD testing framework to work with AI agents, addressing developer workflow changes.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Kog is going deeper to squeeze more inference out of GPUs</title>
-      <link>https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/</guid>
-      <pubDate>Fri, 14 Aug 2026 14:50:11 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Kog develops techniques to improve GPU inference efficiency for AI workloads.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>[AINews] Gemini 3.7 Flash brings GDM back to the forefront</title>
-      <link>https://www.latent.space/p/ainews-gemini-37-flash-brings-gdm</link>
-      <guid isPermaLink="true">https://www.latent.space/p/ainews-gemini-37-flash-brings-gdm</guid>
-      <pubDate>Fri, 14 Aug 2026 05:30:39 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> Latent Space<br/><br/>Google releases Gemini 3.7 Flash model with GDM (Graphics Display Memory) capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Show HN: ThoughtDAG – An editable context graph for LLM conversations</title>
-      <link>https://chenxiachan.github.io/thoughtdag/</link>
-      <guid isPermaLink="true">https://chenxiachan.github.io/thoughtdag/</guid>
-      <pubDate>Sat, 15 Aug 2026 04:42:07 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>Show HN project presenting ThoughtDAG, an editable context graph tool for LLM conversations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 68/100<br/><b>Source:</b> Hacker News<br/><br/>Yadda 3.0.0 framework updates BDD testing for AI agent workflows.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Dataset: Starfield Fauna - 20,000 images in 50 species categories. [P]</title>
@@ -61,7 +45,31 @@
       <guid isPermaLink="true">https://i.redd.it/xg0grozpwkjh1.png</guid>
       <pubDate>Sat, 15 Aug 2026 18:06:57 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Release of Starfield Fauna dataset with 20,000 images across 50 species categories for machine learning.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>20,000-image dataset released for fauna recognition across 50 species categories.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Kog is going deeper to squeeze more inference out of GPUs</title>
+      <link>https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/</guid>
+      <pubDate>Fri, 14 Aug 2026 14:50:11 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Kog startup develops GPU optimization techniques for improved inference performance.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>[AINews] Gemini 3.7 Flash brings GDM back to the forefront</title>
+      <link>https://www.latent.space/p/ainews-gemini-37-flash-brings-gdm</link>
+      <guid isPermaLink="true">https://www.latent.space/p/ainews-gemini-37-flash-brings-gdm</guid>
+      <pubDate>Fri, 14 Aug 2026 05:30:39 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> Latent Space<br/><br/>Google releases Gemini 3.7 Flash model with updated architecture.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Show HN: ThoughtDAG – An editable context graph for LLM conversations</title>
+      <link>https://chenxiachan.github.io/thoughtdag/</link>
+      <guid isPermaLink="true">https://chenxiachan.github.io/thoughtdag/</guid>
+      <pubDate>Sat, 15 Aug 2026 04:42:07 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>ThoughtDAG project presents an editable context graph interface for LLM conversations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Survival of the Fitted: Qwen3.6-27B’s Jacobian lens reads and steers Qwen3.8-27B with zero refitting [R]</title>
@@ -69,15 +77,7 @@
       <guid isPermaLink="true">https://i.redd.it/49qcp6szzkjh1.jpeg</guid>
       <pubDate>Sat, 15 Aug 2026 18:24:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research demonstrates using Qwen3.6 model&apos;s Jacobian analysis to steer Qwen3.8 model without retraining.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>OpenAI and Anthropic in price war as Chinese AI rivals gain ground</title>
-      <link>https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/</link>
-      <guid isPermaLink="true">https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/</guid>
-      <pubDate>Fri, 14 Aug 2026 14:27:14 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> Ars Technica<br/><br/>OpenAI and Anthropic reduce API pricing amid competition from Chinese AI providers.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research demonstrating cross-model steering using Jacobian-based transfer techniques.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Working with AI feels more like leadership than coding</title>
@@ -85,7 +85,7 @@
       <guid isPermaLink="true">https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/</guid>
       <pubDate>Sat, 15 Aug 2026 10:39:41 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 46/100<br/><b>Source:</b> Hacker News<br/><br/>Opinion piece reflecting on subjective experience of working with AI compared to traditional coding.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 46/100<br/><b>Source:</b> Hacker News<br/><br/>Opinion piece on the subjective experience of working with AI tools.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
