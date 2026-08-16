@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Aug 2026 19:18:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 20:17:50 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Patterns and problems in emerging multi-agent systems</title>
@@ -13,7 +13,7 @@
       <guid isPermaLink="true">https://www.anthropic.com/research/multiagent-systems</guid>
       <pubDate>Sun, 16 Aug 2026 02:12:53 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic research paper on patterns and problems in emerging multi-agent AI systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic research analyzing emerging patterns and problems in multi-agent AI systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Claude: System Prompts</title>
@@ -21,15 +21,7 @@
       <guid isPermaLink="true">https://platform.claude.com/docs/en/release-notes/system-prompts</guid>
       <pubDate>Sun, 16 Aug 2026 12:48:21 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> Hacker News<br/><br/>Claude release notes documenting new system prompts feature for the API.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Anthropic shares more details about how Claude’s new watermarks will work</title>
-      <link>https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/</guid>
-      <pubDate>Sat, 15 Aug 2026 18:58:39 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic announces technical details on Claude&apos;s new watermarking system for generated content.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> Hacker News<br/><br/>Claude platform release notes documenting new system prompts feature.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>What happens when an LLM never sees material beyond fifth grade?</title>
@@ -37,7 +29,7 @@
       <guid isPermaLink="true">https://littlelearner-ll.github.io/</guid>
       <pubDate>Sun, 16 Aug 2026 07:37:53 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Study examining how LLM behavior changes when trained only on fifth-grade level material.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Research exploring how LLM capabilities degrade when trained exclusively on fifth-grade level material.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code</title>
@@ -45,7 +37,15 @@
       <guid isPermaLink="true">https://arxiv.org/abs/2608.13122</guid>
       <pubDate>Sat, 15 Aug 2026 22:41:51 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> Hacker News<br/><br/>Research on using AI to assist GPU porting of a large legacy weather simulation codebase.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> Hacker News<br/><br/>Case study on using AI to port a 250,000-line weather simulation codebase to GPU.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Anthropic shares more details about how Claude’s new watermarks will work</title>
+      <link>https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/</guid>
+      <pubDate>Sat, 15 Aug 2026 18:58:39 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic announces technical details about watermarking mechanisms for Claude-generated content.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>SSOG-Attention: Sum Of Separable Gaussians as a sub-quadratic and scalable alternative to SDPA. [R]</title>
@@ -53,7 +53,7 @@
       <guid isPermaLink="true">https://i.redd.it/pepwlp93opjh1.gif</guid>
       <pubDate>Sun, 16 Aug 2026 10:06:07 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research paper proposing SSOG-Attention as a sub-quadratic alternative to standard scaled dot-product attention.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research on SSOG-Attention, a sub-quadratic alternative to standard scaled dot-product attention.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Revisiting the Efficient Channel Attention paper (2019, 12k citations) - the central hypothesis isn&apos;t quite right [D]</title>
@@ -61,15 +61,15 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1vptaw9/revisiting_the_efficient_channel_attention_paper/</guid>
       <pubDate>Sun, 16 Aug 2026 10:13:44 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Technical critique challenging central assumptions in highly-cited 2019 attention mechanism paper.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research discussion questioning the central hypothesis of a highly-cited 2019 computer vision paper.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Woman claims her stepfather used Grok to transform childhood photo into explicit imagery</title>
-      <link>https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/</guid>
-      <pubDate>Sat, 15 Aug 2026 21:29:19 +0000</pubDate>
+      <title>Show HN: A public AI whose memory is shared across all users</title>
+      <link>https://wildstatic.com/</link>
+      <guid isPermaLink="true">https://wildstatic.com/</guid>
+      <pubDate>Sun, 16 Aug 2026 13:21:45 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> TechCrunch AI<br/><br/>The woman claimed that AI tools are &quot;taking everyday life and turning it into child sexual abuse.&quot;<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> Hacker News<br/><br/>Demonstration of a public AI system with shared memory across all users.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
