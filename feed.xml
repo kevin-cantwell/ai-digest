@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Aug 2026 10:24:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 11:22:04 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>We’ve got a workshop on production retrieval-augmented generation with open models, benchmarked end to end, thought it’d be relevant here [D]</title>
@@ -14,6 +14,14 @@
       <pubDate>Mon, 17 Aug 2026 22:02:45 +0000</pubDate>
       <category>Research &amp; Papers</category>
       <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 100/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake&apos;s Jira</title>
+      <link>https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug</link>
+      <guid isPermaLink="true">https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug</guid>
+      <pubDate>Mon, 17 Aug 2026 14:18:38 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 86/100<br/><b>Source:</b> Hacker News<br/><br/>AI-generated GitHub Copilot code contained a security vulnerability that compromised Snowflake&apos;s Jira system, highlighting risks of AI-assisted development.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Anthropic&apos;s War on open source AI</title>
@@ -32,20 +40,20 @@
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 80/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake&apos;s Jira</title>
-      <link>https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug</link>
-      <guid isPermaLink="true">https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug</guid>
-      <pubDate>Mon, 17 Aug 2026 14:18:38 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 80/100<br/><b>Source:</b> Hacker News<br/><br/>Security vulnerability disclosed where AI-generated Copilot code introduced a compromise vector in Snowflake&apos;s Jira, highlighting risks of AI-assisted code generation in production environments.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
       <title>Trained an diffusion model that runs on 264KB of RAM [P]</title>
       <link>https://www.reddit.com/r/MachineLearning/comments/1vrk7t5/trained_an_diffusion_model_that_runs_on_264kb_of/</link>
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1vrk7t5/trained_an_diffusion_model_that_runs_on_264kb_of/</guid>
       <pubDate>Tue, 18 Aug 2026 09:26:21 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Technical achievement demonstrating a diffusion model trained to run on only 264KB of RAM, advancing efficient AI model compression.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Researcher demonstrates training a diffusion model that runs on only 264KB of RAM, advancing extreme model compression.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>GPU Offload in Rust: Portable, Safe, and Fast</title>
+      <link>https://arxiv.org/abs/2608.13759</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.13759</guid>
+      <pubDate>Mon, 17 Aug 2026 17:54:59 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Research on portable, safe GPU offloading techniques in Rust for improved ML performance.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility</title>
@@ -53,7 +61,15 @@
       <guid isPermaLink="true">https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/</guid>
       <pubDate>Mon, 17 Aug 2026 13:44:23 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Investigative report tracking rare books being shipped to Amazon&apos;s AI training facilities, raising questions about data sourcing practices.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Investigative reporting reveals Amazon is acquiring rare books for AI training data through tracked shipments to an AI facility.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Partnering with CodeAI to prepare the first AI generation</title>
+      <link>https://openai.com/index/partnering-with-codeai</link>
+      <guid isPermaLink="true">https://openai.com/index/partnering-with-codeai</guid>
+      <pubDate>Tue, 18 Aug 2026 11:00:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 75/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>OpenAI joins PORTS-Pike project</title>
@@ -72,34 +88,18 @@
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 75/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
+      <title>Introducing ChatGPT for Teens: Built for learning, backed by protections</title>
+      <link>https://openai.com/index/chatgpt-for-teens</link>
+      <guid isPermaLink="true">https://openai.com/index/chatgpt-for-teens</guid>
+      <pubDate>Tue, 18 Aug 2026 11:00:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI launches ChatGPT for Teens with safety protections designed for educational use.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
       <title>Israel creates fake think tank in likely attempt to dupe AI chatbots</title>
       <link>https://responsiblestatecraft.org/israel-influence-chatgpt/</link>
       <guid isPermaLink="true">https://responsiblestatecraft.org/israel-influence-chatgpt/</guid>
       <pubDate>Mon, 17 Aug 2026 20:46:10 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>AI;DR (AI; Didn&apos;t Read)</title>
-      <link>https://www.rickmanelius.com/p/aidr-ai-didnt-read</link>
-      <guid isPermaLink="true">https://www.rickmanelius.com/p/aidr-ai-didnt-read</guid>
-      <pubDate>Mon, 17 Aug 2026 19:47:15 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>GPU Offload in Rust: Portable, Safe, and Fast</title>
-      <link>https://arxiv.org/abs/2608.13759</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.13759</guid>
-      <pubDate>Mon, 17 Aug 2026 17:54:59 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Research paper on GPU offload implementations in Rust for portable and safe AI model inference.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>How to disable or avoid intrusive AI</title>
-      <link>https://www.librarian.net/notoai/</link>
-      <guid isPermaLink="true">https://www.librarian.net/notoai/</guid>
-      <pubDate>Mon, 17 Aug 2026 14:07:56 +0000</pubDate>
       <category>Industry News</category>
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
@@ -109,7 +109,7 @@
       <guid isPermaLink="true">https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training/</guid>
       <pubDate>Mon, 17 Aug 2026 17:55:50 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> Hacker News<br/><br/>Follow-up investigation confirming Amazon&apos;s destruction of rare books for AI training data, as tracked via Apple AirTag.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Launch HN: Speko (YC S26) – OpenRouter for Voice AI</title>
@@ -117,7 +117,7 @@
       <guid isPermaLink="true">https://speko.ai/</guid>
       <pubDate>Mon, 17 Aug 2026 15:36:18 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 58/100<br/><b>Source:</b> Hacker News<br/><br/>Speko launches as an OpenRouter alternative for voice AI APIs, positioning itself in the voice model gateway market.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>Speko, a Y Combinator-backed startup, launches as an OpenRouter-like platform for voice AI applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
