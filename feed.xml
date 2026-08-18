@@ -5,15 +5,15 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Aug 2026 16:27:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 17:23:42 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>GPU Offload in Rust: Portable, Safe, and Fast</title>
-      <link>https://arxiv.org/abs/2608.13759</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.13759</guid>
-      <pubDate>Mon, 17 Aug 2026 17:54:59 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Research on GPU offloading in Rust for portable and safe acceleration.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Asana cleared 5 years of engineering work in 2 weeks with Codex</title>
+      <link>https://openai.com/index/asana</link>
+      <guid isPermaLink="true">https://openai.com/index/asana</guid>
+      <pubDate>Tue, 18 Aug 2026 07:00:00 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Asana reports significant productivity gains using OpenAI&apos;s Codex for engineering tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Trained an diffusion model that runs on 264KB of RAM [P]</title>
@@ -21,31 +21,15 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1vrk7t5/trained_an_diffusion_model_that_runs_on_264kb_of/</guid>
       <pubDate>Tue, 18 Aug 2026 09:26:21 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Technical achievement of training a diffusion model to run on 264KB of RAM.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Trained diffusion model running on extremely constrained 264KB of RAM.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Microsoft Copilot reveals secret input that allowed it to be hacked</title>
-      <link>https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/</link>
-      <guid isPermaLink="true">https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/</guid>
-      <pubDate>Tue, 18 Aug 2026 13:00:04 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 72/100<br/><b>Source:</b> Ars Technica<br/><br/>Security vulnerability disclosed in Microsoft Copilot.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>We’ve got a workshop on production retrieval-augmented generation with open models, benchmarked end to end, thought it’d be relevant here [D]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1vr6cd2/weve_got_a_workshop_on_production/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1vr6cd2/weve_got_a_workshop_on_production/</guid>
-      <pubDate>Mon, 17 Aug 2026 22:02:45 +0000</pubDate>
+      <title>GPU Offload in Rust: Portable, Safe, and Fast</title>
+      <link>https://arxiv.org/abs/2608.13759</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.13759</guid>
+      <pubDate>Mon, 17 Aug 2026 17:54:59 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Community announcement of a workshop on production RAG with open models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+</title>
-      <link>https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/</guid>
-      <pubDate>Sun, 16 Aug 2026 20:57:04 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Stripe reportedly acquiring AI gateway startup OpenRouter for $7B+.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Research on GPU offloading in Rust for portable and safe AI inference.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Introducing ChatGPT for Teens: Built for learning, backed by protections</title>
@@ -53,7 +37,31 @@
       <guid isPermaLink="true">https://openai.com/index/chatgpt-for-teens</guid>
       <pubDate>Tue, 18 Aug 2026 11:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI launches age-gated ChatGPT product variant with safety features.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI releases ChatGPT product designed for teen users with safety features.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Microsoft Copilot reveals secret input that allowed it to be hacked</title>
+      <link>https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/</link>
+      <guid isPermaLink="true">https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/</guid>
+      <pubDate>Tue, 18 Aug 2026 13:00:04 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 72/100<br/><b>Source:</b> Ars Technica<br/><br/>Security vulnerability disclosed in Microsoft Copilot allowing exploitation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>We’ve got a workshop on production retrieval-augmented generation with open models, benchmarked end to end, thought it’d be relevant here [D]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1vr6cd2/weve_got_a_workshop_on_production/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1vr6cd2/weve_got_a_workshop_on_production/</guid>
+      <pubDate>Mon, 17 Aug 2026 22:02:45 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Workshop announcement on production RAG systems with open models and benchmarking.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Apple AirTag reveals how Amazon destroys rare books for AI training</title>
+      <link>https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training/</link>
+      <guid isPermaLink="true">https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training/</guid>
+      <pubDate>Mon, 17 Aug 2026 17:55:50 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> Hacker News<br/><br/>Investigation revealing Amazon&apos;s practices of sourcing rare books for AI training.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Anthropic’s annualized revenue surges to $65B</title>
@@ -69,7 +77,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/</guid>
       <pubDate>Mon, 17 Aug 2026 16:15:12 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Groq raises $350M to pivot from AI chip manufacturing to cloud services.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Groq raises $350M to pivot from AI chip manufacturing to neocloud platform.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility</title>
@@ -77,7 +85,7 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/</guid>
       <pubDate>Mon, 17 Aug 2026 15:21:29 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 62/100<br/><b>Source:</b> Simon Willison<br/><br/>Investigative report tracking rare books to Amazon AI training facility.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 62/100<br/><b>Source:</b> Simon Willison<br/><br/>Tracked shipment investigation of rare books sent to Amazon AI training facility.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Amazon, which started off selling books, is destroying rare texts to train AI</title>
@@ -85,23 +93,15 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/</guid>
       <pubDate>Mon, 17 Aug 2026 18:10:16 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> Hacker News<br/><br/>Report on Amazon destroying rare books to train AI models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> Hacker News<br/><br/>Report on Amazon destroying rare books as part of AI model training.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>GPT-5.6 Sol Pricing Cut by 50%</title>
-      <link>https://openrouter.ai/openai/gpt-5.6-sol</link>
-      <guid isPermaLink="true">https://openrouter.ai/openai/gpt-5.6-sol</guid>
-      <pubDate>Mon, 17 Aug 2026 21:03:18 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 56/100<br/><b>Source:</b> Hacker News<br/><br/>Pricing update for a specific AI model variant.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Apple AirTag reveals how Amazon destroys rare books for AI training</title>
-      <link>https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training/</link>
-      <guid isPermaLink="true">https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training/</guid>
-      <pubDate>Mon, 17 Aug 2026 17:55:50 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 56/100<br/><b>Source:</b> Hacker News<br/><br/>Investigation into Amazon&apos;s acquisition of books for AI training.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Etched’s valuation doubles to $21B in a month</title>
+      <link>https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/</guid>
+      <pubDate>Tue, 18 Aug 2026 17:21:58 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> TechCrunch AI<br/><br/>AI chip startup Etched&apos;s valuation doubles to $21B in rapid funding round.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>OpenAI launches a safer ChatGPT for teens — years after teens started using it</title>
@@ -109,7 +109,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/</guid>
       <pubDate>Tue, 18 Aug 2026 13:50:30 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 50/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI launches teen-safe version of ChatGPT product.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 56/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI releases safety-focused ChatGPT variant targeting teenage users.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
