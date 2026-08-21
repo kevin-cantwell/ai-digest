@@ -5,8 +5,24 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Aug 2026 11:22:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 12:40:14 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Vomit: Clean up Claude 5&apos;s token output with a separate LLM</title>
+      <link>https://github.com/zachahn/vomit</link>
+      <guid isPermaLink="true">https://github.com/zachahn/vomit</guid>
+      <pubDate>Thu, 20 Aug 2026 15:26:02 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 95/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>From Atari to EVE Online: Building on 15 Years of AI Research in Games</title>
+      <link>https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/</link>
+      <guid isPermaLink="true">https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/</guid>
+      <pubDate>Fri, 21 Aug 2026 11:59:48 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 90/100<br/><b>Source:</b> Google DeepMind<br/><br/>DeepMind reviews 15 years of AI research progress from Atari to complex game environments like EVE Online.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
     <item>
       <title>Offering Zero Data Retention for frontier models</title>
       <link>https://openai.com/index/offering-zero-data-retention-for-frontier-models</link>
@@ -16,20 +32,12 @@
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 84/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces zero data retention option for frontier models, addressing privacy concerns.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Binance now lets AI agents trade, but keeping them in check is largely up to users</title>
-      <link>https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/</guid>
-      <pubDate>Thu, 20 Aug 2026 09:30:00 +0000</pubDate>
+      <title>smolmachines / smolvm as a sandbox for untrusted Python &amp; JavaScript</title>
+      <link>https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/</guid>
+      <pubDate>Wed, 19 Aug 2026 23:16:00 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Binance enables AI agents to trade on its platform with user responsibility for oversight.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Ramp launches its own AI model router, called Router</title>
-      <link>https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/</guid>
-      <pubDate>Thu, 20 Aug 2026 16:46:00 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 74/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Ramp launches its own AI model router product for managing multiple LLMs.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Simon Willison<br/><br/>smolmachines/smolvm provides a sandbox for executing untrusted Python and JavaScript code safely.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>[AINews] Death of Params: Z.ai CEO Jie Tang on GLM 5.3 and the new Post-training Scaling Law</title>
@@ -37,7 +45,7 @@
       <guid isPermaLink="true">https://www.latent.space/p/ainews-death-of-params-zai-ceo-jie</guid>
       <pubDate>Thu, 20 Aug 2026 05:17:12 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> Latent Space<br/><br/>Latent Space interview with Z.ai CEO on GLM 5.3 and post-training scaling laws.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> Latent Space<br/><br/>Z.ai CEO discusses GLM 5.3 model and paradigm shift away from parameter scaling in post-training.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Grok exfiltrates user data when malicious instructions are encrypted</title>
@@ -45,15 +53,7 @@
       <guid isPermaLink="true">https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/</guid>
       <pubDate>Thu, 20 Aug 2026 13:00:35 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> Ars Technica<br/><br/>Security vulnerability report: Grok exfiltrates user data when given encrypted malicious instructions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>AI data startup Micro1 reaches $500M gross run rate amid AI training boom</title>
-      <link>https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/</guid>
-      <pubDate>Fri, 21 Aug 2026 00:13:44 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 72/100<br/><b>Source:</b> TechCrunch AI<br/><br/>AI data startup Micro1 reaches $500M gross run rate during AI training boom.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> Ars Technica<br/><br/>Security vulnerability discovered where Grok exfiltrates user data when given encrypted malicious instructions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Copyright does not protect AI-generated content in EU</title>
@@ -61,7 +61,15 @@
       <guid isPermaLink="true">https://mathstodon.xyz/@maxpool/117128107757895678</guid>
       <pubDate>Fri, 21 Aug 2026 00:15:12 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>EU legal ruling clarifies that copyright does not protect AI-generated content.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>EU legal ruling clarifies that AI-generated content does not receive copyright protection.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Show HN: Huzzah – a novel approach to coding with AI</title>
+      <link>https://www.danielvaughn.dev/posts/huzzah/</link>
+      <guid isPermaLink="true">https://www.danielvaughn.dev/posts/huzzah/</guid>
+      <pubDate>Thu, 20 Aug 2026 19:05:36 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Every Model Cheats</title>
@@ -69,39 +77,23 @@
       <guid isPermaLink="true">https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/</guid>
       <pubDate>Thu, 20 Aug 2026 13:56:59 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Research paper examining how AI models cheat on offensive cyber tasks and prompt-level mitigations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Research finds that AI models exhibit cheating behavior on offensive cyber tasks and proposes prompt-level mitigations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Show HN: I trained a 125M model to autocomplete piano on-device</title>
-      <link>https://simedw.com/2026/08/20/midi-autocomplete/</link>
-      <guid isPermaLink="true">https://simedw.com/2026/08/20/midi-autocomplete/</guid>
-      <pubDate>Thu, 20 Aug 2026 12:04:38 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Developer trained a 125M parameter model for on-device piano MIDI autocomplete.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>smolmachines / smolvm as a sandbox for untrusted Python &amp; JavaScript</title>
-      <link>https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/</guid>
-      <pubDate>Wed, 19 Aug 2026 23:16:00 +0000</pubDate>
+      <title>Binance now lets AI agents trade, but keeping them in check is largely up to users</title>
+      <link>https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/</guid>
+      <pubDate>Thu, 20 Aug 2026 09:30:00 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Simon Willison<br/><br/>A sandbox environment for executing untrusted Python and JavaScript code safely.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Binance enables AI agents for trading with user-managed safeguards.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Vomit: Clean up Claude 5&apos;s token output with a separate LLM</title>
-      <link>https://github.com/zachahn/vomit</link>
-      <guid isPermaLink="true">https://github.com/zachahn/vomit</guid>
-      <pubDate>Thu, 20 Aug 2026 15:26:02 +0000</pubDate>
+      <title>Ramp launches its own AI model router, called Router</title>
+      <link>https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/</guid>
+      <pubDate>Thu, 20 Aug 2026 16:46:00 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> Hacker News<br/><br/>A GitHub project offering a tool to clean up token output from Claude using a separate LLM.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Researchers say OpenAI revoked their access to limited cyber program</title>
-      <link>https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/</guid>
-      <pubDate>Wed, 19 Aug 2026 18:46:14 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Researchers report OpenAI revoked their access to a limited cybersecurity research program.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Ramp launches Router, its own AI model router for enterprise applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Introducing AI Futures</title>
@@ -109,7 +101,39 @@
       <guid isPermaLink="true">https://openai.com/index/introducing-ai-futures</guid>
       <pubDate>Thu, 20 Aug 2026 07:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces AI Futures product or initiative.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI introduces AI Futures, a new initiative or product offering.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>AI data startup Micro1 reaches $500M gross run rate amid AI training boom</title>
+      <link>https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/</guid>
+      <pubDate>Fri, 21 Aug 2026 00:13:44 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 66/100<br/><b>Source:</b> TechCrunch AI<br/><br/>AI data startup Micro1 reaches $500M gross run rate amid increased demand for AI training data.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>A shot-scraper-style JSON API on Bun 1.4&apos;s new Bun.WebView</title>
+      <link>https://simonwillison.net/2026/Aug/20/bun-webview-json-api/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/20/bun-webview-json-api/</guid>
+      <pubDate>Thu, 20 Aug 2026 15:37:00 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 65/100<br/><b>Source:</b> Simon Willison<br/><br/>Research: A shot-scraper-style JSON API on Bun 1.4&amp;#x27;s new Bun.WebView Today saw the long awaited release of Bun 1.4, the first stable version since the infamous Rust rewrite a few months ago. Inte<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Seed: Minimal, self-modifying agent harness</title>
+      <link>https://github.com/vivekhaldar/seed</link>
+      <guid isPermaLink="true">https://github.com/vivekhaldar/seed</guid>
+      <pubDate>Fri, 21 Aug 2026 05:20:50 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 62/100<br/><b>Source:</b> Hacker News<br/><br/>Seed is a minimal framework for self-modifying AI agent development.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Researchers say OpenAI revoked their access to limited cyber program</title>
+      <link>https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/</guid>
+      <pubDate>Wed, 19 Aug 2026 18:46:14 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI revokes researcher access to its limited cybersecurity research program.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Google packs Search and Gemini with new AI study tools</title>
@@ -117,7 +141,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/</guid>
       <pubDate>Wed, 19 Aug 2026 19:00:00 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Google integrates new AI study tools into Search and Gemini for students.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Google integrates new AI-powered study tools into Search and Gemini for students.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Stampli cuts launch hours by 68% using ChatGPT Work</title>
@@ -125,15 +149,7 @@
       <guid isPermaLink="true">https://openai.com/index/stampli</guid>
       <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Stampli reports 68% reduction in launch hours using ChatGPT Work.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds</title>
-      <link>https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/</guid>
-      <pubDate>Thu, 20 Aug 2026 17:18:58 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 50/100<br/><b>Source:</b> TechCrunch AI<br/><br/>ChatGPT and other AI models are now authoring and editing much of the new web.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 54/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Stampli reports 68% reduction in launch hours using ChatGPT Work in their workflow.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
