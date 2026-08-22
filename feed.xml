@@ -5,8 +5,16 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Aug 2026 17:17:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 18:25:30 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Anthropic appears to be A/B testing reduced effort levels in Claude Code</title>
+      <link>https://twitter.com/argofowl/status/2091150597374537729</link>
+      <guid isPermaLink="true">https://twitter.com/argofowl/status/2091150597374537729</guid>
+      <pubDate>Sat, 22 Aug 2026 16:58:49 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 100/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
     <item>
       <title>Quick impressions: A week of using Codex more than Claude</title>
       <link>https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/</link>
@@ -32,20 +40,12 @@
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 85/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>The evaluation resolution has been shown to have a significant impact on the identification of the &quot;learning rule&quot; that exhibits the most brain-like characteristics at V1. [R]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1vvdxwt/the_evaluation_resolution_has_been_shown_to_have/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1vvdxwt/the_evaluation_resolution_has_been_shown_to_have/</guid>
-      <pubDate>Sat, 22 Aug 2026 14:30:28 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 85/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
       <title>From Atari to EVE Online: Building on 15 Years of AI Research in Games</title>
       <link>https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/</link>
       <guid isPermaLink="true">https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/</guid>
       <pubDate>Fri, 21 Aug 2026 11:59:48 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 84/100<br/><b>Source:</b> Google DeepMind<br/><br/>DeepMind reports on 15 years of AI research in game environments from Atari to EVE Online.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 84/100<br/><b>Source:</b> Google DeepMind<br/><br/>DeepMind publishes retrospective on 15 years of AI research in games, from Atari to EVE Online.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20%</title>
@@ -53,7 +53,23 @@
       <guid isPermaLink="true">https://www.reuters.com/technology/openai-cuts-developer-pricing-frontier-gpt-56-sol-model-by-more-than-20-2026-08-21/</guid>
       <pubDate>Sat, 22 Aug 2026 01:09:21 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 72/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI reduces pricing for GPT-5.6 Sol model by over 20% for developers.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 78/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI reduces pricing for GPT-5.6 Sol model by over 20% for developers.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>The evaluation resolution has been shown to have a significant impact on the identification of the &quot;learning rule&quot; that exhibits the most brain-like characteristics at V1. [R]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1vvdxwt/the_evaluation_resolution_has_been_shown_to_have/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1vvdxwt/the_evaluation_resolution_has_been_shown_to_have/</guid>
+      <pubDate>Sat, 22 Aug 2026 14:30:28 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research shows evaluation resolution significantly impacts identification of brain-like learning rules in V1.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>I built an open-source roguelike specifically for training game-playing agents [P]</title>
+      <link>https://github.com/SnyderConsulting/DelveRL</link>
+      <guid isPermaLink="true">https://github.com/SnyderConsulting/DelveRL</guid>
+      <pubDate>Sat, 22 Aug 2026 17:32:17 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Researcher releases open-source roguelike game environment designed for training game-playing agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>AI data startup Micro1 reaches $500M gross run rate amid AI training boom</title>
@@ -61,7 +77,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/</guid>
       <pubDate>Fri, 21 Aug 2026 00:13:44 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 72/100<br/><b>Source:</b> TechCrunch AI<br/><br/>AI data startup Micro1 reaches $500M gross run rate during AI training expansion.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 72/100<br/><b>Source:</b> TechCrunch AI<br/><br/>AI data startup Micro1 reaches $500M gross run rate amid growing AI training demand.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>OpenAI says California should strengthen its AI safety bill</title>
@@ -70,14 +86,6 @@
       <pubDate>Sat, 22 Aug 2026 16:30:34 +0000</pubDate>
       <category>Industry News</category>
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders</title>
-      <link>https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders</link>
-      <guid isPermaLink="true">https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders</guid>
-      <pubDate>Fri, 21 Aug 2026 18:48:28 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic expands cybersecurity capabilities of Claude Mythos 5 to broader defender audience.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Digging the grave of my skills: Hollywood creatives training AI to do their jobs</title>
@@ -104,20 +112,28 @@
       <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 65/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Andreessen Horowitz has two partners sitting on the boards of companies that now&amp;#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&amp;#160;Fivetran. Nothing too scandalous on <br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
+      <title>I developed my own quantized LLM from scratch, trained on 30B tokens, deploys in 60 MB [R]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1vv2nkh/i_developed_my_own_quantized_llm_from_scratch/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1vv2nkh/i_developed_my_own_quantized_llm_from_scratch/</guid>
+      <pubDate>Sat, 22 Aug 2026 04:39:18 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Developer creates custom quantized LLM trained on 30B tokens that deploys in 60MB.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
       <title>Nvidia just showed that the harness, not the AI model, is now the real hero</title>
       <link>https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/</link>
       <guid isPermaLink="true">https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/</guid>
       <pubDate>Fri, 21 Aug 2026 19:43:39 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Nvidia research suggests AI model harnesses rather than models themselves are becoming the critical component.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Nvidia demonstrates that AI model harnesses are becoming as critical as the models themselves.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>OpenAI is gaining on Anthropic with business users, new data indicates</title>
-      <link>https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/</guid>
-      <pubDate>Thu, 20 Aug 2026 22:36:37 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Market data shows OpenAI gaining market share against Anthropic among business users.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders</title>
+      <link>https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders</link>
+      <guid isPermaLink="true">https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders</guid>
+      <pubDate>Fri, 21 Aug 2026 18:48:28 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Starcloud raises $250 million for orbital data centers as launch options dry up</title>
