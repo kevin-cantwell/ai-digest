@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Aug 2026 02:59:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 03:55:45 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Anthropic appears to be A/B testing reduced effort levels in Claude Code</title>
@@ -32,20 +32,12 @@
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 85/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>The evaluation resolution has been shown to have a significant impact on the identification of the &quot;learning rule&quot; that exhibits the most brain-like characteristics at V1. [R]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1vvdxwt/the_evaluation_resolution_has_been_shown_to_have/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1vvdxwt/the_evaluation_resolution_has_been_shown_to_have/</guid>
-      <pubDate>Sat, 22 Aug 2026 14:30:28 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 85/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
       <title>From Atari to EVE Online: Building on 15 Years of AI Research in Games</title>
       <link>https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/</link>
       <guid isPermaLink="true">https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/</guid>
       <pubDate>Fri, 21 Aug 2026 11:59:48 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 84/100<br/><b>Source:</b> Google DeepMind<br/><br/>DeepMind publishes retrospective on 15 years of AI research in games from Atari to EVE Online, documenting progression of game-playing AI capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 84/100<br/><b>Source:</b> Google DeepMind<br/><br/>DeepMind publishes retrospective on 15 years of AI research in games from Atari to EVE Online, discussing technical advances in game-playing agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Digging the grave of my skills: Hollywood creatives training AI to do their jobs</title>
@@ -61,7 +53,7 @@
       <guid isPermaLink="true">https://github.com/SnyderConsulting/DelveRL</guid>
       <pubDate>Sat, 22 Aug 2026 17:32:17 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Researcher released open-source roguelike game environment specifically designed for training and evaluating game-playing agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Open-source roguelike environment purpose-built for training game-playing agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Ablating 1 of a chess transformer&apos;s 128 attention heads causes the model to stop finding the queen sacrifice in a famous chess game. [P]</title>
@@ -69,7 +61,15 @@
       <guid isPermaLink="true">https://www.youtube.com/watch?v=W6TtJdHSXIE</guid>
       <pubDate>Sun, 23 Aug 2026 00:22:19 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Mechanistic interpretability study identifies individual attention head in chess transformer critical for recognizing queen sacrifices in famous game.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Mechanistic interpretability study showing single attention head in chess transformer is responsible for finding a queen sacrifice.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>The evaluation resolution has been shown to have a significant impact on the identification of the &quot;learning rule&quot; that exhibits the most brain-like characteristics at V1. [R]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1vvdxwt/the_evaluation_resolution_has_been_shown_to_have/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1vvdxwt/the_evaluation_resolution_has_been_shown_to_have/</guid>
+      <pubDate>Sat, 22 Aug 2026 14:30:28 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research discussion on how evaluation resolution affects identification of brain-like learning rules in V1 neural networks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>OpenAI says California should strengthen its AI safety bill</title>
@@ -80,22 +80,6 @@
       <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>The Evolution of the Agent Harness</title>
-      <link>https://www.latent.space/p/attention-interface</link>
-      <guid isPermaLink="true">https://www.latent.space/p/attention-interface</guid>
-      <pubDate>Sat, 22 Aug 2026 07:30:52 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> Latent Space<br/><br/>Latent Space publishes analysis of the evolution and importance of agent harness architectures in modern AI systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Frontier AI labs still won’t say how they’d contain a rogue model</title>
-      <link>https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/</guid>
-      <pubDate>Sat, 22 Aug 2026 16:00:00 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> TechCrunch AI<br/><br/>A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
       <title>The DOJ is investigating a16z. What does this mean for venture capital?</title>
       <link>https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/</link>
       <guid isPermaLink="true">https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/</guid>
@@ -104,12 +88,28 @@
       <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 65/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Andreessen Horowitz has two partners sitting on the boards of companies that now&amp;#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&amp;#160;Fivetran. Nothing too scandalous on <br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
+      <title>I developed my own quantized LLM from scratch, trained on 30B tokens, deploys in 60 MB [R]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1vv2nkh/i_developed_my_own_quantized_llm_from_scratch/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1vv2nkh/i_developed_my_own_quantized_llm_from_scratch/</guid>
+      <pubDate>Sat, 22 Aug 2026 04:39:18 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Individual shares development of custom quantized LLM trained on 30B tokens that deploys in 60MB.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
       <title>Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research</title>
       <link>https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/</link>
       <guid isPermaLink="true">https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/</guid>
       <pubDate>Sat, 22 Aug 2026 19:00:00 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>DeepMind-founded startup Inherent claims its AI system outperformed Claude and GPT models at replicating research tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 56/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Inherent, a DeepMind alumni startup, claims its AI research teammate outperformed Anthropic and OpenAI models on research replication tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Frontier AI labs still won’t say how they’d contain a rogue model</title>
+      <link>https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/</guid>
+      <pubDate>Sat, 22 Aug 2026 16:00:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> TechCrunch AI<br/><br/>TechCrunch investigation reports frontier AI labs unable or unwilling to articulate containment strategies for rogue models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Starcloud raises $250 million for orbital data centers as launch options dry up</title>
