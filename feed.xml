@@ -5,31 +5,23 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Aug 2026 21:25:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 22:22:21 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>LLMs could control their host machines by exploiting inference engines</title>
+      <link>https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines</link>
+      <guid isPermaLink="true">https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines</guid>
+      <pubDate>Mon, 24 Aug 2026 19:03:06 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> Hacker News<br/><br/>Technical research explores potential security vulnerabilities where LLMs could exploit inference engine weaknesses.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
     <item>
       <title>Your Open Source Model Could Have a Hidden Time-Release Backdoor</title>
       <link>https://morgin.ai/articles/your-open-source-model-could-have-a-hidden-time-release-backdoor.html</link>
       <guid isPermaLink="true">https://morgin.ai/articles/your-open-source-model-could-have-a-hidden-time-release-backdoor.html</guid>
       <pubDate>Mon, 24 Aug 2026 06:25:42 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 84/100<br/><b>Source:</b> Hacker News<br/><br/>Security research reveals potential hidden time-release backdoors in open-source AI models, addressing a significant vulnerability class.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)</title>
-      <link>https://developers.openai.com/api/docs/pricing</link>
-      <guid isPermaLink="true">https://developers.openai.com/api/docs/pricing</guid>
-      <pubDate>Mon, 24 Aug 2026 15:22:43 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 80/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI announces pricing reduction for GPT-5.6 Sol, a notable development for developer accessibility.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Advancing price-performance for developers with GPT‑5.6 in Kiro</title>
-      <link>https://openai.com/index/gpt-5-6-in-kiro</link>
-      <guid isPermaLink="true">https://openai.com/index/gpt-5-6-in-kiro</guid>
-      <pubDate>Mon, 24 Aug 2026 12:00:00 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces GPT-5.6 improvements for price-performance targeting developers, a substantial product update.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 78/100<br/><b>Source:</b> Hacker News<br/><br/>Research on potential backdoor vulnerabilities in open-source AI models raises legitimate security concerns.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>OpenAI is building AI agents for everything. Will everyone use them?</title>
@@ -37,39 +29,15 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/</guid>
       <pubDate>Mon, 24 Aug 2026 15:00:00 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI&apos;s expanding agent strategy and market adoption potential represents significant product direction news.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI&apos;s broad push into AI agents across multiple domains represents significant product strategy news.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>LLMs could control their host machines by exploiting inference engines</title>
-      <link>https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines</link>
-      <guid isPermaLink="true">https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines</guid>
-      <pubDate>Mon, 24 Aug 2026 19:03:06 +0000</pubDate>
+      <title>OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)</title>
+      <link>https://developers.openai.com/api/docs/pricing</link>
+      <guid isPermaLink="true">https://developers.openai.com/api/docs/pricing</guid>
+      <pubDate>Mon, 24 Aug 2026 15:22:43 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> Hacker News<br/><br/>Research on LLM exploitation of inference engines to control host machines identifies a significant security threat.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Agent Is Not the Model</title>
-      <link>https://code.joejag.com/2026/your-agent-is-not-the-model.html</link>
-      <guid isPermaLink="true">https://code.joejag.com/2026/your-agent-is-not-the-model.html</guid>
-      <pubDate>Mon, 24 Aug 2026 11:20:40 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> Hacker News<br/><br/>Opinion piece on the distinction between AI agents and models with conceptual substance but limited news value.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>A Claude Code skill that recovers export-blocked Kindle highlights</title>
-      <link>https://github.com/l3a0/claude-plugins</link>
-      <guid isPermaLink="true">https://github.com/l3a0/claude-plugins</guid>
-      <pubDate>Mon, 24 Aug 2026 19:32:18 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>A Claude skill tool for recovering Kindle highlights demonstrates practical AI tooling but lacks broader technical significance.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics</title>
-      <link>https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/</guid>
-      <pubDate>Mon, 24 Aug 2026 15:24:18 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>General Intuition raises $6B at scale for AI robotics development, representing significant funding and market direction.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI announces temporary price reduction for GPT model, relevant for developers but routine pricing news.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Hugging Face reportedly in talks to be acquired for $13B</title>
@@ -77,15 +45,39 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/</guid>
       <pubDate>Mon, 24 Aug 2026 13:47:26 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Hugging Face acquisition talks at $13B valuation signal major consolidation in the AI infrastructure ecosystem.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Hugging Face acquisition discussions at $13B valuation is major deal news for AI infrastructure.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>OCR It – pull text out of un-copyable documents for your LLM</title>
-      <link>https://github.com/thiagotigaz/ocr-it</link>
-      <guid isPermaLink="true">https://github.com/thiagotigaz/ocr-it</guid>
-      <pubDate>Mon, 24 Aug 2026 06:25:31 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>OCR tool for LLM input demonstrates practical tooling but is a minor open-source project.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Agent Is Not the Model</title>
+      <link>https://code.joejag.com/2026/your-agent-is-not-the-model.html</link>
+      <guid isPermaLink="true">https://code.joejag.com/2026/your-agent-is-not-the-model.html</guid>
+      <pubDate>Mon, 24 Aug 2026 11:20:40 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> Hacker News<br/><br/>Opinion piece distinguishing agents from models, interesting conceptual discussion but not substantive technical development.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Advancing price-performance for developers with GPT‑5.6 in Kiro</title>
+      <link>https://openai.com/index/gpt-5-6-in-kiro</link>
+      <guid isPermaLink="true">https://openai.com/index/gpt-5-6-in-kiro</guid>
+      <pubDate>Mon, 24 Aug 2026 12:00:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI releases improved model with better price-performance metrics for developers, substantive product news.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>A Claude Code skill that recovers export-blocked Kindle highlights</title>
+      <link>https://github.com/l3a0/claude-plugins</link>
+      <guid isPermaLink="true">https://github.com/l3a0/claude-plugins</guid>
+      <pubDate>Mon, 24 Aug 2026 19:32:18 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>A Claude Code skill enables extraction of Kindle highlights, demonstrating practical AI tooling but limited broader significance.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics</title>
+      <link>https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/</guid>
+      <pubDate>Mon, 24 Aug 2026 15:24:18 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Major funding round for robotics-focused AI startup at significant valuation represents important industry development.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Anthropic’s best AI model struggles to attract users as cheaper tools thrive</title>
@@ -93,15 +85,15 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/</guid>
       <pubDate>Sun, 23 Aug 2026 20:24:52 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 62/100<br/><b>Source:</b> Simon Willison<br/><br/>Market observation that Anthropic&apos;s flagship model underperforms cheaper alternatives suggests competitive dynamics.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 62/100<br/><b>Source:</b> Simon Willison<br/><br/>Reporting on Anthropic&apos;s premium model facing market pressure from cheaper alternatives, relevant market dynamics.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Implementation of GPT-2 in pure CMake</title>
-      <link>https://github.com/AlpinDale/gpt2.cmake</link>
-      <guid isPermaLink="true">https://github.com/AlpinDale/gpt2.cmake</guid>
-      <pubDate>Sun, 23 Aug 2026 21:41:17 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 54/100<br/><b>Source:</b> Hacker News<br/><br/>GPT-2 implementation in CMake is a technical novelty with limited practical impact.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>OCR It – pull text out of un-copyable documents for your LLM</title>
+      <link>https://github.com/thiagotigaz/ocr-it</link>
+      <guid isPermaLink="true">https://github.com/thiagotigaz/ocr-it</guid>
+      <pubDate>Mon, 24 Aug 2026 06:25:31 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 58/100<br/><b>Source:</b> Hacker News<br/><br/>OCR tool for feeding documents to LLMs is a minor utility project without significant technical novelty.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Anthropic Claude and API service outages</title>
@@ -109,7 +101,15 @@
       <guid isPermaLink="true">https://status.claude.com/uptime</guid>
       <pubDate>Mon, 24 Aug 2026 06:32:28 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 52/100<br/><b>Source:</b> Hacker News<br/><br/>Status page update about service outages lacks substantive news content.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 52/100<br/><b>Source:</b> Hacker News<br/><br/>Service outage status page is operational reporting, not newsworthy content.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Hyperparameters fine tuning for MARL comparative study [D]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1vxfmms/hyperparameters_fine_tuning_for_marl_comparative/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1vxfmms/hyperparameters_fine_tuning_for_marl_comparative/</guid>
+      <pubDate>Mon, 24 Aug 2026 21:10:10 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 38/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Reddit discussion thread about hyperparameter tuning methodology lacks newsworthy substance.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
