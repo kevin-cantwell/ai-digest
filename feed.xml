@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Aug 2026 03:45:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 04:35:11 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)</title>
@@ -13,7 +13,7 @@
       <guid isPermaLink="true">https://developers.openai.com/api/docs/pricing</guid>
       <pubDate>Mon, 24 Aug 2026 15:22:43 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 80/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI announces temporary price reduction for GPT-5.6 Sol API pricing.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 80/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI announces temporary pricing reduction for GPT 5.6 Sol model to improve developer accessibility.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Your Open Source Model Could Have a Hidden Time-Release Backdoor</title>
@@ -21,7 +21,7 @@
       <guid isPermaLink="true">https://morgin.ai/articles/your-open-source-model-could-have-a-hidden-time-release-backdoor.html</guid>
       <pubDate>Mon, 24 Aug 2026 06:25:42 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 78/100<br/><b>Source:</b> Hacker News<br/><br/>Security research reveals potential vulnerability of time-release backdoors in open-source AI models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 78/100<br/><b>Source:</b> Hacker News<br/><br/>Security research identifies potential hidden time-release backdoor vulnerabilities in open-source AI models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Advancing price-performance for developers with GPT‑5.6 in Kiro</title>
@@ -29,39 +29,7 @@
       <guid isPermaLink="true">https://openai.com/index/gpt-5-6-in-kiro</guid>
       <pubDate>Mon, 24 Aug 2026 12:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces GPT-5.6 model improvements with better price-performance for developers.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>LLMs could control their host machines by exploiting inference engines</title>
-      <link>https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines</link>
-      <guid isPermaLink="true">https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines</guid>
-      <pubDate>Mon, 24 Aug 2026 19:03:06 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Security research explores how LLMs could exploit inference engine vulnerabilities to gain host machine control.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Thomson Reuters Launches Its Own Frontier Model</title>
-      <link>https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model</link>
-      <guid isPermaLink="true">https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model</guid>
-      <pubDate>Tue, 25 Aug 2026 02:11:39 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 74/100<br/><b>Source:</b> Hacker News<br/><br/>Thomson Reuters launches its own frontier-class AI model leveraging proprietary data assets.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Agent Is Not the Model</title>
-      <link>https://code.joejag.com/2026/your-agent-is-not-the-model.html</link>
-      <guid isPermaLink="true">https://code.joejag.com/2026/your-agent-is-not-the-model.html</guid>
-      <pubDate>Mon, 24 Aug 2026 11:20:40 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> Hacker News<br/><br/>Opinion piece discussing the conceptual distinction between AI agents and base models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>A Claude Code skill that recovers export-blocked Kindle highlights</title>
-      <link>https://github.com/l3a0/claude-plugins</link>
-      <guid isPermaLink="true">https://github.com/l3a0/claude-plugins</guid>
-      <pubDate>Mon, 24 Aug 2026 19:32:18 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>A GitHub project demonstrates using Claude to recover Kindle highlights that cannot be exported through official means.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces GPT 5.6 improvements in price-performance efficiency for developers.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>OpenAI is building AI agents for everything. Will everyone use them?</title>
@@ -69,15 +37,47 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/</guid>
       <pubDate>Mon, 24 Aug 2026 15:00:00 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Article examining OpenAI&apos;s strategy of developing AI agents across multiple domains and market adoption questions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI expanding AI agent capabilities across multiple domains with analysis of market adoption prospects.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Who’s behind the new ‘stealth model’ Ox Alpha?</title>
-      <link>https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/</guid>
-      <pubDate>Sun, 23 Aug 2026 20:01:36 +0000</pubDate>
+      <title>Thomson Reuters Launches Its Own Frontier Model</title>
+      <link>https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model</link>
+      <guid isPermaLink="true">https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model</guid>
+      <pubDate>Tue, 25 Aug 2026 02:11:39 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 74/100<br/><b>Source:</b> Hacker News<br/><br/>Thomson Reuters launches its own frontier language model leveraging proprietary data assets.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Agent Is Not the Model</title>
+      <link>https://code.joejag.com/2026/your-agent-is-not-the-model.html</link>
+      <guid isPermaLink="true">https://code.joejag.com/2026/your-agent-is-not-the-model.html</guid>
+      <pubDate>Mon, 24 Aug 2026 11:20:40 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>TechCrunch investigation into the identity and backing of a newly announced stealth AI model called Ox Alpha.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> Hacker News<br/><br/>Opinion piece arguing that AI agent capabilities should not be conflated with the underlying language models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>A Claude Code skill that recovers export-blocked Kindle highlights</title>
+      <link>https://github.com/l3a0/claude-plugins</link>
+      <guid isPermaLink="true">https://github.com/l3a0/claude-plugins</guid>
+      <pubDate>Mon, 24 Aug 2026 19:32:18 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>A Claude skill tool for extracting Kindle highlights demonstrates practical AI application but is a niche technical utility.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>LLMs could control their host machines by exploiting inference engines</title>
+      <link>https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines</link>
+      <guid isPermaLink="true">https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines</guid>
+      <pubDate>Mon, 24 Aug 2026 19:03:06 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Exploration of potential security risks where LLMs could exploit inference engine vulnerabilities to control host machines.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics</title>
+      <link>https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/</guid>
+      <pubDate>Mon, 24 Aug 2026 15:24:18 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>General Intuition raises $6B funding round to advance AI robotics capabilities with major venture backing.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Is it legal to train AI models on copyrighted books? It’s complicated</title>
@@ -85,15 +85,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/</guid>
       <pubDate>Sun, 23 Aug 2026 15:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Article examining the legal complexities of training AI models on copyrighted books.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>OCR It – pull text out of un-copyable documents for your LLM</title>
-      <link>https://github.com/thiagotigaz/ocr-it</link>
-      <guid isPermaLink="true">https://github.com/thiagotigaz/ocr-it</guid>
-      <pubDate>Mon, 24 Aug 2026 06:25:31 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>GitHub project for OCR tool designed to extract text from documents for use with LLMs.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Analysis of legal complexities around training AI models on copyrighted books and ongoing litigation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Agent Lightning v1.0</title>
@@ -101,7 +93,7 @@
       <guid isPermaLink="true">https://github.com/microsoft/agent-lightning/releases/tag/v1.0.1</guid>
       <pubDate>Mon, 24 Aug 2026 17:23:22 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 62/100<br/><b>Source:</b> Hacker News<br/><br/>Microsoft releases Agent Lightning v1.0, an AI agent framework.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 62/100<br/><b>Source:</b> Hacker News<br/><br/>Microsoft releases Agent Lightning v1.0 agent framework for AI development.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Anthropic’s best AI model struggles to attract users as cheaper tools thrive</title>
@@ -109,7 +101,15 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/</guid>
       <pubDate>Sun, 23 Aug 2026 20:24:52 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 62/100<br/><b>Source:</b> Simon Willison<br/><br/>Analysis of Anthropic&apos;s flagship model facing adoption challenges against cheaper competing AI tools.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 62/100<br/><b>Source:</b> Simon Willison<br/><br/>Market analysis suggesting Anthropic&apos;s advanced models face user adoption challenges from cheaper alternatives.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>OCR It – pull text out of un-copyable documents for your LLM</title>
+      <link>https://github.com/thiagotigaz/ocr-it</link>
+      <guid isPermaLink="true">https://github.com/thiagotigaz/ocr-it</guid>
+      <pubDate>Mon, 24 Aug 2026 06:25:31 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 58/100<br/><b>Source:</b> Hacker News<br/><br/>GitHub tool combining OCR with LLM integration for document text extraction is a minor utility release.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Anthropic Claude and API service outages</title>
@@ -117,7 +117,7 @@
       <guid isPermaLink="true">https://status.claude.com/uptime</guid>
       <pubDate>Mon, 24 Aug 2026 06:32:28 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 46/100<br/><b>Source:</b> Hacker News<br/><br/>Status page link to Anthropic Claude service uptime information.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 46/100<br/><b>Source:</b> Hacker News<br/><br/>Status page link for Claude API service uptime with no substantive news content.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Hyperparameters fine tuning for MARL comparative study [D]</title>
@@ -125,7 +125,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1vxfmms/hyperparameters_fine_tuning_for_marl_comparative/</guid>
       <pubDate>Mon, 24 Aug 2026 21:10:10 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 38/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Reddit discussion post seeking feedback on hyperparameter tuning methodology for multi-agent reinforcement learning.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 38/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Reddit discussion post about hyperparameter tuning in multi-agent reinforcement learning lacks substantive research content.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
