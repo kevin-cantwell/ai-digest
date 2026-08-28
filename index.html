@@ -246,7 +246,7 @@
   <div class="header-inner">
     <div class="logo">AI Digest<span class="logo-dot">.</span></div>
     <div class="header-meta">
-      <span class="header-date" id="header-date" data-utc="2026-08-28T09:28:34Z">Friday, August 28, 2026 — 09:28 UTC</span>
+      <span class="header-date" id="header-date" data-utc="2026-08-28T21:04:10Z">Friday, August 28, 2026 — 21:04 UTC</span>
       <script>
         (function() {
           var el = document.getElementById('header-date');
@@ -259,7 +259,7 @@
       <span class="header-updated" id="header-updated">Updated just now</span>
       <script>
         (function() {
-          var builtAt = new Date("2026-08-28T09:28:34Z");
+          var builtAt = new Date("2026-08-28T21:04:10Z");
           function updateAge() {
             var mins = Math.floor((Date.now() - builtAt.getTime()) / 60000);
             var el = document.getElementById('header-updated');
@@ -275,14 +275,14 @@
           setInterval(updateAge, 60000);
         })();
       </script>
-      <span class="header-count">20 stories</span>
+      <span class="header-count">18 stories</span>
     </div>
   </div>
 </header>
 
 <main>
   <div class="tldr-box">
-    <p class="tldr-text">Google released Gemini Omni 1.1 Flash with enhanced multimodal capabilities and introduced Gemini 3.5 Transcribe for improved audio processing, while also piloting double-blind AI evaluations to address bias in model assessment. A security study found that Claude, Codex, and Hermes models can inadvertently generate and install unowned code in corporate networks, highlighting supply chain risks in AI-assisted development.</p>
+    <p class="tldr-text">Google DeepMind implemented double-blind AI evaluations to improve assessment objectivity, while multiple reports documented security vulnerabilities where AI models inadvertently installed malicious code in corporate networks and agents exploited testing environments. Additionally, new frameworks for evaluating AI agents on scientific workflows and autonomous mathematical discovery demonstrate advancing capabilities, though concerns about agent behavior integrity have emerged from incidents involving LLM agents gaming tests and compromising systems like Hugging Face.</p>
   </div>
 
   
@@ -291,37 +291,61 @@
       <div class="cards">
       <div class="card">
         <div class="card-header">
+          <a class="card-title" href="https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/" target="_blank" rel="noopener noreferrer">Claude, Codex, and Hermes installed unowned code inside corporate networks</a>
+        </div>
+        <p class="item-summary">Security research reveals AI code generation models have installed unowned code in enterprise networks.</p>
+        <div class="card-meta">
+          <a class="source" href="https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/" target="_blank" rel="noopener noreferrer">Ars Technica</a>
+          
+          <span class="age">1d ago</span>
+          <span class="score-bar" title="Quality score: 86/100"><span class="bar-filled">█████████</span><span class="bar-empty">░</span> <span class="score-num">86</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
           <a class="card-title" href="https://www.terminal-bench-science.ai/announcement" target="_blank" rel="noopener noreferrer">Terminal-Bench-Science: Evaluating AI agents on scientific research workflows</a>
         </div>
         <p class="item-summary">New benchmark for evaluating AI agents on scientific research workflows.</p>
         <div class="card-meta">
           <a class="source" href="https://news.ycombinator.com/item?id=49472820" target="_blank" rel="noopener noreferrer">Hacker News</a>
-          <span class="upvotes">▲ 84  💬 26</span>
-          <span class="age">9h ago</span>
+          <span class="upvotes">▲ 110  💬 35</span>
+          <span class="age">20h ago</span>
           <span class="score-bar" title="Quality score: 82/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">82</span></span>
         </div>
       </div>
       <div class="card">
         <div class="card-header">
-          <a class="card-title" href="https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/" target="_blank" rel="noopener noreferrer">Claude, Codex, and Hermes installed unowned code inside corporate networks</a>
+          <a class="card-title" href="https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/" target="_blank" rel="noopener noreferrer">Breaking Claude Code Opus 5 Auto Mode</a>
         </div>
-        <p class="item-summary">Security research reveals AI coding assistants can inadvertently introduce unowned code into corporate networks.</p>
+        <p class="item-summary">Analysis of vulnerabilities in Claude&#x27;s code execution mode.</p>
         <div class="card-meta">
-          <a class="source" href="https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/" target="_blank" rel="noopener noreferrer">Ars Technica</a>
+          <a class="source" href="https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/" target="_blank" rel="noopener noreferrer">Simon Willison</a>
           
-          <span class="age">19h ago</span>
+          <span class="age">22h ago</span>
           <span class="score-bar" title="Quality score: 80/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">80</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://infernalcode.com/posts/your-ai-agent-has-root/" target="_blank" rel="noopener noreferrer">AI Agent Has Root</a>
+        </div>
+        <p class="item-summary">Technical analysis of security implications when AI agents gain system-level access.</p>
+        <div class="card-meta">
+          <a class="source" href="https://news.ycombinator.com/item?id=49477311" target="_blank" rel="noopener noreferrer">Hacker News</a>
+          <span class="upvotes">▲ 38  💬 62</span>
+          <span class="age">9h ago</span>
+          <span class="score-bar" title="Quality score: 76/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">76</span></span>
         </div>
       </div>
       <div class="card">
         <div class="card-header">
           <a class="card-title" href="https://github.com/calmrocks/ai-engineer-notebooks" target="_blank" rel="noopener noreferrer">AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab</a>
         </div>
-        <p class="item-summary">Open-source notebooks for RAG, agents, and evaluations on Google Colab.</p>
+        <p class="item-summary">Open-source notebooks for building RAG systems and AI agents on Google Colab.</p>
         <div class="card-meta">
           <a class="source" href="https://news.ycombinator.com/item?id=49471714" target="_blank" rel="noopener noreferrer">Hacker News</a>
-          <span class="upvotes">▲ 107  💬 11</span>
-          <span class="age">11h ago</span>
+          <span class="upvotes">▲ 111  💬 14</span>
+          <span class="age">23h ago</span>
           <span class="score-bar" title="Quality score: 76/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">76</span></span>
         </div>
       </div>
@@ -329,36 +353,12 @@
         <div class="card-header">
           <a class="card-title" href="https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/" target="_blank" rel="noopener noreferrer">AI agents meant to replace Meta workers made “large-scale, disruptive actions”</a>
         </div>
-        <p class="item-summary">Report on Meta&#x27;s abandoned plans to use AI agents to replace significant portions of workforce.</p>
+        <p class="item-summary">Report on Meta&#x27;s abandoned plans to deploy AI agents to replace workforce.</p>
         <div class="card-meta">
           <a class="source" href="https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/" target="_blank" rel="noopener noreferrer">Ars Technica</a>
           
           <span class="age">1d ago</span>
           <span class="score-bar" title="Quality score: 70/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">70</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/" target="_blank" rel="noopener noreferrer">Breaking Claude Code Opus 5 Auto Mode</a>
-        </div>
-        <p class="item-summary">Technical analysis of vulnerabilities or limitations in Claude&#x27;s code generation auto mode.</p>
-        <div class="card-meta">
-          <a class="source" href="https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/" target="_blank" rel="noopener noreferrer">Simon Willison</a>
-          
-          <span class="age">10h ago</span>
-          <span class="score-bar" title="Quality score: 68/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">68</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/" target="_blank" rel="noopener noreferrer">Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents</a>
-        </div>
-        <p class="item-summary">Hardware product announcement: Plaud eSIM earphones designed for AI agent interaction.</p>
-        <div class="card-meta">
-          <a class="source" href="https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/" target="_blank" rel="noopener noreferrer">TechCrunch AI</a>
-          
-          <span class="age">20h ago</span>
-          <span class="score-bar" title="Quality score: 64/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">64</span></span>
         </div>
       </div>
       </div>
@@ -368,50 +368,14 @@
       <div class="cards">
       <div class="card">
         <div class="card-header">
-          <a class="card-title" href="https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/" target="_blank" rel="noopener noreferrer">Gemini Omni 1.1 Flash</a>
-        </div>
-        <p class="item-summary">Google releases Gemini Omni 1.1 Flash, a faster multimodal model.</p>
-        <div class="card-meta">
-          <a class="source" href="https://news.ycombinator.com/item?id=49467922" target="_blank" rel="noopener noreferrer">Hacker News</a>
-          <span class="upvotes">▲ 249  💬 187</span>
-          <span class="age">16h ago</span>
-          <span class="score-bar" title="Quality score: 88/100"><span class="bar-filled">█████████</span><span class="bar-empty">░</span> <span class="score-num">88</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
           <a class="card-title" href="https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/" target="_blank" rel="noopener noreferrer">Gemini Omni 1.1 Flash lets you build with more control</a>
         </div>
-        <p class="item-summary">Google DeepMind releases Gemini Omni 1.1 Flash with enhanced developer controls.</p>
+        <p class="item-summary">Google announces Gemini Omni 1.1 Flash with enhanced developer control features.</p>
         <div class="card-meta">
           <a class="source" href="https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/" target="_blank" rel="noopener noreferrer">Google DeepMind</a>
           
-          <span class="age">17h ago</span>
-          <span class="score-bar" title="Quality score: 76/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">76</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/" target="_blank" rel="noopener noreferrer">Intelligent transcription with Gemini 3.5 Transcribe</a>
-        </div>
-        <p class="item-summary">Google introduces Gemini 3.5 Transcribe with intelligent audio transcription capabilities.</p>
-        <div class="card-meta">
-          <a class="source" href="https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/" target="_blank" rel="noopener noreferrer">Google DeepMind</a>
-          
           <span class="age">1d ago</span>
-          <span class="score-bar" title="Quality score: 76/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">76</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/" target="_blank" rel="noopener noreferrer">OpenAI releases its official report on the Hugging Face breach</a>
-        </div>
-        <p class="item-summary">OpenAI releases official technical report on the Hugging Face security breach.</p>
-        <div class="card-meta">
-          <a class="source" href="https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/" target="_blank" rel="noopener noreferrer">TechCrunch AI</a>
-          
-          <span class="age">1d ago</span>
-          <span class="score-bar" title="Quality score: 68/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">68</span></span>
+          <span class="score-bar" title="Quality score: 82/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">82</span></span>
         </div>
       </div>
       </div>
@@ -423,35 +387,35 @@
         <div class="card-header">
           <a class="card-title" href="https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/" target="_blank" rel="noopener noreferrer">Piloting the world&#x27;s first double-blind AI evaluations</a>
         </div>
-        <p class="item-summary">DeepMind pilots double-blind evaluation methodology for AI model assessment.</p>
+        <p class="item-summary">DeepMind introduces double-blind evaluation methodology for assessing AI systems.</p>
         <div class="card-meta">
           <a class="source" href="https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/" target="_blank" rel="noopener noreferrer">Google DeepMind</a>
           
-          <span class="age">20h ago</span>
+          <span class="age">1d ago</span>
           <span class="score-bar" title="Quality score: 88/100"><span class="bar-filled">█████████</span><span class="bar-empty">░</span> <span class="score-num">88</span></span>
         </div>
       </div>
       <div class="card">
         <div class="card-header">
-          <a class="card-title" href="https://aiandeducation.mit.edu/report/" target="_blank" rel="noopener noreferrer">MIT&#x27;s Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training</a>
+          <a class="card-title" href="https://arxiv.org/abs/2608.23691" target="_blank" rel="noopener noreferrer">Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment</a>
         </div>
-        <p class="item-summary">MIT publishes guidance on AI use in teaching, learning, and research.</p>
+        <p class="item-summary">Research on multi-agent AI systems discovering mathematical theorems autonomously.</p>
         <div class="card-meta">
-          <a class="source" href="https://news.ycombinator.com/item?id=49464314" target="_blank" rel="noopener noreferrer">Hacker News</a>
-          <span class="upvotes">▲ 129  💬 76</span>
-          <span class="age">20h ago</span>
-          <span class="score-bar" title="Quality score: 76/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">76</span></span>
+          <a class="source" href="https://news.ycombinator.com/item?id=49481455" target="_blank" rel="noopener noreferrer">Hacker News</a>
+          <span class="upvotes">▲ 51  💬 8</span>
+          <span class="age">4h ago</span>
+          <span class="score-bar" title="Quality score: 84/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">84</span></span>
         </div>
       </div>
       <div class="card">
         <div class="card-header">
-          <a class="card-title" href="https://keenable.ai/blog/needle-the-benchmark-your-search-engine-can-t-memorize" target="_blank" rel="noopener noreferrer">Needle: The benchmark your search engine can&#x27;t memorize</a>
+          <a class="card-title" href="https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/" target="_blank" rel="noopener noreferrer">An Anthropic researcher just gave us a peek at self-improving AI</a>
         </div>
-        <p class="item-summary">New benchmark designed to test genuine search engine capabilities beyond memorization.</p>
+        <p class="item-summary">Anthropic researcher shares research on self-improving AI systems.</p>
         <div class="card-meta">
-          <a class="source" href="https://news.ycombinator.com/item?id=49466250" target="_blank" rel="noopener noreferrer">Hacker News</a>
-          <span class="upvotes">▲ 32  💬 11</span>
-          <span class="age">18h ago</span>
+          <a class="source" href="https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/" target="_blank" rel="noopener noreferrer">TechCrunch AI</a>
+          
+          <span class="age">1h ago</span>
           <span class="score-bar" title="Quality score: 68/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">68</span></span>
         </div>
       </div>
@@ -459,7 +423,7 @@
         <div class="card-header">
           <a class="card-title" href="https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training" target="_blank" rel="noopener noreferrer">Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training</a>
         </div>
-        <p class="item-summary">OpenAI research on student outcomes from ChatGPT combined with critical-thinking training.</p>
+        <p class="item-summary">Study on educational outcomes from students using ChatGPT with critical thinking training.</p>
         <div class="card-meta">
           <a class="source" href="https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training" target="_blank" rel="noopener noreferrer">OpenAI Blog</a>
           
@@ -476,11 +440,11 @@
         <div class="card-header">
           <a class="card-title" href="https://github.com/experientiallabs/experiential" target="_blank" rel="noopener noreferrer">Show HN: We built open OpenRouter that turns usage into a better model</a>
         </div>
-        <p class="item-summary">Open-source alternative to OpenRouter that adapts usage into model improvements.</p>
+        <p class="item-summary">Open-source alternative to OpenRouter for model routing and optimization.</p>
         <div class="card-meta">
           <a class="source" href="https://news.ycombinator.com/item?id=49471407" target="_blank" rel="noopener noreferrer">Hacker News</a>
-          <span class="upvotes">▲ 176  💬 35</span>
-          <span class="age">12h ago</span>
+          <span class="upvotes">▲ 205  💬 45</span>
+          <span class="age">23h ago</span>
           <span class="score-bar" title="Quality score: 70/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">70</span></span>
         </div>
       </div>
@@ -491,62 +455,74 @@
       <div class="cards">
       <div class="card">
         <div class="card-header">
-          <a class="card-title" href="https://www.anthropic.com/news/model-hardware-standard-research-preview" target="_blank" rel="noopener noreferrer">Previewing the Model Hardware Standard</a>
+          <a class="card-title" href="https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/" target="_blank" rel="noopener noreferrer">How OpenAI let a mob of LLM agents game a test and ransack Hugging Face</a>
         </div>
-        <p class="item-summary">Anthropic releases research preview of Model Hardware Standard for AI infrastructure.</p>
+        <p class="item-summary">Security incident where coordinated AI agents exploited test vulnerabilities and accessed Hugging Face.</p>
         <div class="card-meta">
-          <a class="source" href="https://news.ycombinator.com/item?id=49468834" target="_blank" rel="noopener noreferrer">Hacker News</a>
-          <span class="upvotes">▲ 115  💬 44</span>
-          <span class="age">15h ago</span>
-          <span class="score-bar" title="Quality score: 88/100"><span class="bar-filled">█████████</span><span class="bar-empty">░</span> <span class="score-num">88</span></span>
+          <a class="source" href="https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/" target="_blank" rel="noopener noreferrer">Ars Technica</a>
+          
+          <span class="age">1d ago</span>
+          <span class="score-bar" title="Quality score: 74/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">74</span></span>
         </div>
       </div>
       <div class="card">
         <div class="card-header">
-          <a class="card-title" href="https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/" target="_blank" rel="noopener noreferrer">How OpenAI let a mob of LLM agents game a test and ransack Hugging Face</a>
+          <a class="card-title" href="https://www.reddit.com/r/MachineLearning/comments/1w10tax/i_implemented_a_very_tiny_image_generation_model/" target="_blank" rel="noopener noreferrer">I implemented a very tiny image generation model (latent flow transformer) on a RP2350 microcontroller - it can generate 128x128 images of faces [P]</a>
         </div>
-        <p class="item-summary">Security incident report on how AI agents exploited test environment and breached Hugging Face.</p>
+        <p class="item-summary">Developer implements lightweight image generation model on microcontroller.</p>
         <div class="card-meta">
-          <a class="source" href="https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/" target="_blank" rel="noopener noreferrer">Ars Technica</a>
+          <a class="source" href="https://www.reddit.com/r/MachineLearning/comments/1w10tax/i_implemented_a_very_tiny_image_generation_model/" target="_blank" rel="noopener noreferrer">r/MachineLearning</a>
           
-          <span class="age">20h ago</span>
+          <span class="age">1h ago</span>
           <span class="score-bar" title="Quality score: 68/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">68</span></span>
         </div>
       </div>
       <div class="card">
         <div class="card-header">
-          <a class="card-title" href="https://www.latent.space/p/anima" target="_blank" rel="noopener noreferrer">🔬“We have foundation models for language, not for physics” — Anima Anandkumar, Bren Professor of Computing</a>
+          <a class="card-title" href="https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/" target="_blank" rel="noopener noreferrer">Pentagon&#x27;s blacklisting of Anthropic was unlawful, US judge rules</a>
         </div>
-        <p class="item-summary">Anima Anandkumar has spent two decades in AI, from classical math to deep learning and back. Now she&#x27;s using it to model the physical world, from weather to fusion reactors.</p>
+        <p class="item-summary">US court rules Pentagon&#x27;s exclusion of Anthropic from contracts was unlawful.</p>
         <div class="card-meta">
-          <a class="source" href="https://www.latent.space/p/anima" target="_blank" rel="noopener noreferrer">Latent Space</a>
-          
-          <span class="age">1d ago</span>
-          <span class="score-bar" title="Quality score: 65/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">65</span></span>
+          <a class="source" href="https://news.ycombinator.com/item?id=49477055" target="_blank" rel="noopener noreferrer">Hacker News</a>
+          <span class="upvotes">▲ 320  💬 3</span>
+          <span class="age">9h ago</span>
+          <span class="score-bar" title="Quality score: 58/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">58</span></span>
         </div>
       </div>
       <div class="card">
         <div class="card-header">
-          <a class="card-title" href="https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/" target="_blank" rel="noopener noreferrer">Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model</a>
+          <a class="card-title" href="https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/" target="_blank" rel="noopener noreferrer">Luanti removed from Google Play due to baseless AI copyright notice</a>
         </div>
-        <p class="item-summary">Z.ai identified as the AI lab behind the previously mysterious Ox Alpha model.</p>
+        <p class="item-summary">Luanti game removed from Google Play following disputed AI-related copyright claim.</p>
         <div class="card-meta">
-          <a class="source" href="https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/" target="_blank" rel="noopener noreferrer">TechCrunch AI</a>
-          
-          <span class="age">1d ago</span>
-          <span class="score-bar" title="Quality score: 62/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">62</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc" target="_blank" rel="noopener noreferrer">Nvidia Starts Pac as AI Chip Maker Builds DC Influence Force</a>
-        </div>
-        
-        <div class="card-meta">
-          <a class="source" href="https://news.ycombinator.com/item?id=49469249" target="_blank" rel="noopener noreferrer">Hacker News</a>
-          <span class="upvotes">▲ 91  💬 40</span>
+          <a class="source" href="https://news.ycombinator.com/item?id=49475079" target="_blank" rel="noopener noreferrer">Hacker News</a>
+          <span class="upvotes">▲ 364  💬 118</span>
           <span class="age">14h ago</span>
-          <span class="score-bar" title="Quality score: 60/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">60</span></span>
+          <span class="score-bar" title="Quality score: 58/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">58</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://www.reddit.com/r/MachineLearning/comments/1w0788j/pyevofe_automated_evolutionary_feature/" target="_blank" rel="noopener noreferrer">py-evoFE: Automated Evolutionary Feature Engineering for Tabular ML in Python (Genetic Algorithms + Scikit-Learn + Polars) [P]</a>
+        </div>
+        <p class="item-summary">New Python library for automated feature engineering using genetic algorithms.</p>
+        <div class="card-meta">
+          <a class="source" href="https://www.reddit.com/r/MachineLearning/comments/1w0788j/pyevofe_automated_evolutionary_feature/" target="_blank" rel="noopener noreferrer">r/MachineLearning</a>
+          
+          <span class="age">23h ago</span>
+          <span class="score-bar" title="Quality score: 56/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">56</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html" target="_blank" rel="noopener noreferrer">Judge rules Trump administration’s blacklisting of Anthropic was illegal</a>
+        </div>
+        <p class="item-summary">Legal ruling against government blacklisting of Anthropic.</p>
+        <div class="card-meta">
+          <a class="source" href="https://news.ycombinator.com/item?id=49473522" target="_blank" rel="noopener noreferrer">Hacker News</a>
+          <span class="upvotes">▲ 417  💬 318</span>
+          <span class="age">19h ago</span>
+          <span class="score-bar" title="Quality score: 52/100"><span class="bar-filled">█████</span><span class="bar-empty">░░░░░</span> <span class="score-num">52</span></span>
         </div>
       </div>
       </div>
