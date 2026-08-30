@@ -5,39 +5,15 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Aug 2026 22:19:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 01:01:48 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Breaking Claude Code Opus 5 Auto Mode</title>
-      <link>https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/</guid>
-      <pubDate>Thu, 27 Aug 2026 22:50:25 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 86/100<br/><b>Source:</b> Simon Willison<br/><br/>Claude Opus 5 introduces auto mode capability for code generation and execution.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
     <item>
       <title>Warp builds self-improving agents on Claude</title>
       <link>https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude</link>
       <guid isPermaLink="true">https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude</guid>
       <pubDate>Sat, 29 Aug 2026 19:09:33 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Warp demonstrates implementation of self-improving agents built on Claude API.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>StemDeck, a free, open-source and local AI stem separator</title>
-      <link>https://github.com/stemdeckapp/stemdeck</link>
-      <guid isPermaLink="true">https://github.com/stemdeckapp/stemdeck</guid>
-      <pubDate>Sat, 29 Aug 2026 01:24:13 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>StemDeck releases open-source local AI tool for audio stem separation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>I analyzed 31,352 hourly LLM benchmark scores: within-day variation was 2.8 points, while between-day variation was 8.4 [P]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1w1jp1j/i_analyzed_31352_hourly_llm_benchmark_scores/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1w1jp1j/i_analyzed_31352_hourly_llm_benchmark_scores/</guid>
-      <pubDate>Sat, 29 Aug 2026 11:08:03 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Analysis of 31,000+ LLM benchmark scores reveals significant daily variation in performance metrics.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Warp demonstrates self-improving agent capabilities built on Claude, showcasing practical applications of agentic AI.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Our decision on Cursor following its acquisition by SpaceX</title>
@@ -45,15 +21,23 @@
       <guid isPermaLink="true">https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex</guid>
       <pubDate>Fri, 28 Aug 2026 06:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces policy decision regarding Cursor following its acquisition by SpaceX.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces decision regarding Cursor following acquisition by SpaceX, addressing API access and policy implications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>I accidentally turned LLM memory into program analysis</title>
-      <link>https://pwning.systems/posts/llm-memory-program-analysis/</link>
-      <guid isPermaLink="true">https://pwning.systems/posts/llm-memory-program-analysis/</guid>
-      <pubDate>Fri, 28 Aug 2026 23:27:45 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Researcher demonstrates unexpected application of LLM memory mechanisms for program analysis.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>StemDeck, a free, open-source and local AI stem separator</title>
+      <link>https://github.com/stemdeckapp/stemdeck</link>
+      <guid isPermaLink="true">https://github.com/stemdeckapp/stemdeck</guid>
+      <pubDate>Sat, 29 Aug 2026 01:24:13 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Open-source tool for local AI-based audio stem separation released on GitHub.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>I analyzed 31,352 hourly LLM benchmark scores: within-day variation was 2.8 points, while between-day variation was 8.4 [P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1w1jp1j/i_analyzed_31352_hourly_llm_benchmark_scores/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1w1jp1j/i_analyzed_31352_hourly_llm_benchmark_scores/</guid>
+      <pubDate>Sat, 29 Aug 2026 11:08:03 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Analysis of 31,352 LLM benchmark scores reveals significant variation patterns in hourly vs. daily performance metrics.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft</title>
@@ -61,7 +45,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/</guid>
       <pubDate>Sat, 29 Aug 2026 18:41:59 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Sony Music and Warner Bros sue Anthropic alleging copyright infringement in training data.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Sony Music and Warner Bros. file lawsuit against Anthropic alleging systematic intellectual property theft in training data.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>An Anthropic researcher just gave us a peek at self-improving AI</title>
@@ -69,23 +53,55 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/</guid>
       <pubDate>Fri, 28 Aug 2026 19:30:38 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic researcher presents research on self-improving AI systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic researcher presents research findings on self-improving AI systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>[AINews] OpenAI shuts off Cursor</title>
-      <link>https://www.latent.space/p/ainews-openai-shuts-off-cursor</link>
-      <guid isPermaLink="true">https://www.latent.space/p/ainews-openai-shuts-off-cursor</guid>
-      <pubDate>Sat, 29 Aug 2026 05:11:52 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> Latent Space<br/><br/>OpenAI restricts access to Cursor API following SpaceX acquisition.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Open-source access-control checker for retrieval-based AI applications [P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1w1zm5m/opensource_accesscontrol_checker_for/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1w1zm5m/opensource_accesscontrol_checker_for/</guid>
+      <pubDate>Sat, 29 Aug 2026 22:11:26 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 64/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Open-source access-control checking tool released for retrieval-augmented generation applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Debian votes to allow &quot;responsible use of generative AI&quot;</title>
-      <link>https://lwn.net/Articles/1091231/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1091231/</guid>
-      <pubDate>Sat, 29 Aug 2026 14:02:10 +0000</pubDate>
+      <title>Nvidia’s AI advantage is moving beyond the GPU</title>
+      <link>https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/</guid>
+      <pubDate>Sat, 29 Aug 2026 13:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>Debian project votes to permit responsible use of generative AI in development.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Analysis of Nvidia&apos;s expanding AI advantage beyond GPUs into software, services, and ecosystem dominance.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Open-weight AI companies are the Valley’s hottest acquisition targets</title>
+      <link>https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/</guid>
+      <pubDate>Fri, 28 Aug 2026 18:19:40 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Open-weight AI companies emerge as highly sought acquisition targets in the venture capital market.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Anthropic gets its first court win over the Pentagon’s supply-chain risk label</title>
+      <link>https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/</guid>
+      <pubDate>Fri, 28 Aug 2026 12:46:12 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic wins first court challenge against Pentagon&apos;s supply-chain risk classification.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>How important is having an internship to get a good job for ML PhD in USA? [D]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1w19tav/how_important_is_having_an_internship_to_get_a/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1w19tav/how_important_is_having_an_internship_to_get_a/</guid>
+      <pubDate>Sat, 29 Aug 2026 02:09:05 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 50/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>PhD Internship in smaller lab [D]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1w1itzf/phd_internship_in_smaller_lab_d/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1w1itzf/phd_internship_in_smaller_lab_d/</guid>
+      <pubDate>Sat, 29 Aug 2026 10:20:12 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 50/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
