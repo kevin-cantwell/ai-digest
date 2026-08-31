@@ -5,39 +5,39 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Aug 2026 03:34:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 10:29:55 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver</title>
+      <link>https://github.com/KodeMunkie/sm750hdmifb</link>
+      <guid isPermaLink="true">https://github.com/KodeMunkie/sm750hdmifb</guid>
+      <pubDate>Sun, 30 Aug 2026 18:49:08 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 100/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>How to build a diffusion language model</title>
+      <link>https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/</link>
+      <guid isPermaLink="true">https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/</guid>
+      <pubDate>Sun, 30 Aug 2026 23:41:32 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> Hacker News<br/><br/>Technical guide on building diffusion language models as an alternative to transformer architectures.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>The EU has begun enforcing the AI Act: first RFIs to model providers</title>
+      <link>https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis</link>
+      <guid isPermaLink="true">https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis</guid>
+      <pubDate>Mon, 31 Aug 2026 03:45:57 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> Hacker News<br/><br/>EU begins enforcement of AI Act with first regulatory information requests to AI model providers.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
     <item>
       <title>Claude Session URL appended to commit messages and PR descriptions by default</title>
       <link>https://github.com/anthropics/claude-code/issues/66504</link>
       <guid isPermaLink="true">https://github.com/anthropics/claude-code/issues/66504</guid>
       <pubDate>Sun, 30 Aug 2026 12:50:54 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 74/100<br/><b>Source:</b> Hacker News<br/><br/>Bug report about Claude Code appending session URLs to commits, a technical issue with practical implications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>[R] Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment</title>
-      <link>https://arxiv.org/abs/2608.23691</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.23691</guid>
-      <pubDate>Sun, 30 Aug 2026 11:55:38 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research on autonomous mathematical discovery in multi-agent environments, significant technical contribution.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Reconstructing 3D bone geometry from 2 X-ray silhouettes using a statistical shape model + differentiable rendering [P]</title>
-      <link>https://youtu.be/6whd6Q8pZ1I</link>
-      <guid isPermaLink="true">https://youtu.be/6whd6Q8pZ1I</guid>
-      <pubDate>Sun, 30 Aug 2026 12:47:10 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Novel application of differentiable rendering and statistical shape models for 3D reconstruction from limited data.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Nvidia’s AI advantage is moving beyond the GPU</title>
-      <link>https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/</guid>
-      <pubDate>Sat, 29 Aug 2026 13:00:00 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Analysis of Nvidia&apos;s expanding AI competitive advantages beyond GPUs into software and systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 74/100<br/><b>Source:</b> Hacker News<br/><br/>Claude Code tool automatically appends session URLs to commit messages and PRs, raising potential privacy concerns.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Claude Code for Research Papers [R]</title>
@@ -45,23 +45,15 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1w2wqbm/claude_code_for_research_papers_r/</guid>
       <pubDate>Sun, 30 Aug 2026 23:24:07 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Discussion of Claude&apos;s capabilities for analyzing research papers, likely user experience sharing.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Discussion of Claude&apos;s code generation capabilities for research papers.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Implementing Kimi K3 from scratch in PyTorch [P]</title>
-      <link>https://www.youtube.com/watch?v=U6sobPCsdaY</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=U6sobPCsdaY</guid>
-      <pubDate>Sun, 30 Aug 2026 07:28:13 +0000</pubDate>
+      <title>[R] Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment</title>
+      <link>https://arxiv.org/abs/2608.23691</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.23691</guid>
+      <pubDate>Sun, 30 Aug 2026 11:55:38 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Implementation guide for Kimi K3 model architecture in PyTorch, useful technical reference.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Inside Meta’s push to put robots to work in data centers</title>
-      <link>https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/</link>
-      <guid isPermaLink="true">https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/</guid>
-      <pubDate>Sun, 30 Aug 2026 11:03:47 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> Ars Technica<br/><br/>Meta&apos;s robotics deployment in data centers, significant development in practical AI/robotics systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research on autonomous mathematical discovery using multi-agent systems in open-world environments.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft</title>
@@ -69,7 +61,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/</guid>
       <pubDate>Sat, 29 Aug 2026 18:41:59 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Major lawsuit against Anthropic alleging IP theft in training data, significant news with legal/business implications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Sony Music and Warner Bros sue Anthropic for alleged intellectual property theft in training data.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>NeurIPS accepted papers leaked? [D]</title>
@@ -77,15 +69,23 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1w2r1f3/neurips_accepted_papers_leaked_d/</guid>
       <pubDate>Sun, 30 Aug 2026 19:34:25 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 56/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Discussion of potential NeurIPS paper leak, substantive but unconfirmed.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver</title>
-      <link>https://github.com/KodeMunkie/sm750hdmifb</link>
-      <guid isPermaLink="true">https://github.com/KodeMunkie/sm750hdmifb</guid>
-      <pubDate>Sun, 30 Aug 2026 18:49:08 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 48/100<br/><b>Source:</b> Hacker News<br/><br/>GPU driver development not substantially about AI technology.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Reconstructing 3D bone geometry from 2 X-ray silhouettes using a statistical shape model + differentiable rendering [P]</title>
+      <link>https://youtu.be/6whd6Q8pZ1I</link>
+      <guid isPermaLink="true">https://youtu.be/6whd6Q8pZ1I</guid>
+      <pubDate>Sun, 30 Aug 2026 12:47:10 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Technical paper on 3D bone reconstruction from X-ray images using statistical shape models and differentiable rendering.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Inside Meta’s push to put robots to work in data centers</title>
+      <link>https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/</link>
+      <guid isPermaLink="true">https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/</guid>
+      <pubDate>Sun, 30 Aug 2026 11:03:47 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> Ars Technica<br/><br/>Meta&apos;s efforts to deploy robots in data centers to automate operations and reduce labor costs.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
