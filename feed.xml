@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Sep 2026 17:34:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 20:32:18 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Introducing agentic video understanding with Gemini</title>
@@ -13,15 +13,31 @@
       <guid isPermaLink="true">https://deepmind.google/blog/introducing-agentic-video-in-gemini/</guid>
       <pubDate>Tue, 01 Sep 2026 17:08:51 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 88/100<br/><b>Source:</b> Google DeepMind<br/><br/>Google DeepMind introduces agentic video understanding capabilities in Gemini, enabling AI to interact with and understand video content.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 88/100<br/><b>Source:</b> Google DeepMind<br/><br/>Google DeepMind introduces agentic video understanding capabilities for Gemini.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Healthcare organizations can now connect EHR and additional industry data to ChatGPT</title>
-      <link>https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources</link>
-      <guid isPermaLink="true">https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources</guid>
-      <pubDate>Tue, 01 Sep 2026 12:00:00 +0000</pubDate>
+      <title>Claude Fable 5.1 and Claude Mythos 5.1</title>
+      <link>https://www.anthropic.com/claude-fable-and-mythos-5-1</link>
+      <guid isPermaLink="true">https://www.anthropic.com/claude-fable-and-mythos-5-1</guid>
+      <pubDate>Tue, 01 Sep 2026 18:01:24 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 80/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic releases Claude Fable 5.1 and Claude Mythos 5.1 model updates.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Atlas: A World Model for Spatial Intelligence</title>
+      <link>https://www.worldlabs.ai/blog/atlas</link>
+      <guid isPermaLink="true">https://www.worldlabs.ai/blog/atlas</guid>
+      <pubDate>Tue, 01 Sep 2026 17:36:02 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces ChatGPT integration with electronic health records systems for healthcare organizations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> Hacker News<br/><br/>World Labs releases Atlas, a world model for spatial intelligence.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Path to Astra: critical capabilities and frontier safeguards</title>
+      <link>https://openai.com/index/path-to-astra</link>
+      <guid isPermaLink="true">https://openai.com/index/path-to-astra</guid>
+      <pubDate>Tue, 01 Sep 2026 13:00:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI outlines critical capabilities and frontier safeguards in the path to Astra.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>AIR raises $50M to help companies vet the skills and add-ons AI agents use</title>
@@ -29,15 +45,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/</guid>
       <pubDate>Tue, 01 Sep 2026 15:45:51 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> TechCrunch AI<br/><br/>AIR raises $50M to provide vetting tools for AI agent skills and integrations in enterprise settings.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>I audited 112 real RL post-training environments for reward-hacking vulnerabilities — 54 flagged, 0 false positives [OC, tool] [P]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1w4h6c1/i_audited_112_real_rl_posttraining_environments/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1w4h6c1/i_audited_112_real_rl_posttraining_environments/</guid>
-      <pubDate>Tue, 01 Sep 2026 16:34:58 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Researcher audits 112 reinforcement learning environments for reward-hacking vulnerabilities, flagging 54 issues.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> TechCrunch AI<br/><br/>AIR raises $50M to develop vetting tools for AI agent skills and capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>DoltLite: A SQLite fork with Git-style version control, built with 2k agent PRs</title>
@@ -45,31 +53,15 @@
       <guid isPermaLink="true">https://www.dolthub.com/blog/2026-08-31-doltlite-beta/</guid>
       <pubDate>Tue, 01 Sep 2026 01:25:40 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> Hacker News<br/><br/>DoltLite, a SQLite fork with Git-style version control, is built using 2,000 AI agent pull requests.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> Hacker News<br/><br/>DoltLite, a SQLite fork with Git-style version control built using AI agents, reaches beta.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>How AI-native companies turn workflows into operating capability</title>
-      <link>https://openai.com/index/ai-native-company-workflows</link>
-      <guid isPermaLink="true">https://openai.com/index/ai-native-company-workflows</guid>
-      <pubDate>Tue, 01 Sep 2026 17:00:00 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI publishes analysis on how AI-native companies integrate AI into operational workflows.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>We released TontaubeV1, a character-level TTS model for long-form generation [P]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1w4afjn/we_released_tontaubev1_a_characterlevel_tts_model/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1w4afjn/we_released_tontaubev1_a_characterlevel_tts_model/</guid>
-      <pubDate>Tue, 01 Sep 2026 12:23:32 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>TontaubeV1, a character-level text-to-speech model for long-form generation, is released.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>ChatGPT Health adds Epic integration for clinicians to import patient data</title>
-      <link>https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/</guid>
-      <pubDate>Tue, 01 Sep 2026 17:00:00 +0000</pubDate>
+      <title>Healthcare organizations can now connect EHR and additional industry data to ChatGPT</title>
+      <link>https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources</link>
+      <guid isPermaLink="true">https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources</guid>
+      <pubDate>Tue, 01 Sep 2026 12:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>ChatGPT Health integrates with Epic electronic health records system for clinician data import.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>ChatGPT gains ability to connect to EHR systems and healthcare data sources.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>I trained a small transformer in 1.5hrs and it beats many LLMs</title>
@@ -77,15 +69,31 @@
       <guid isPermaLink="true">https://mvakde.github.io/blog/44-on-arc-1/</guid>
       <pubDate>Tue, 01 Sep 2026 09:52:45 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>Individual researcher reports training a small transformer model that achieves competitive performance on benchmarks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Researcher demonstrates small transformer model trained in 1.5 hours achieving competitive performance.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Polimill builds Japan&apos;s next-generation public AI infrastructure</title>
-      <link>https://openai.com/index/polimill</link>
-      <guid isPermaLink="true">https://openai.com/index/polimill</guid>
-      <pubDate>Mon, 31 Aug 2026 07:00:00 +0000</pubDate>
+      <title>Anthropic’s new Fable release is cheaper, less restrictive</title>
+      <link>https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/</guid>
+      <pubDate>Tue, 01 Sep 2026 19:39:22 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic releases cheaper and less restrictive version of Fable model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Codex bundles LibreOffice</title>
+      <link>https://simonwillison.net/2026/Sep/1/codex-libreoffice/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/1/codex-libreoffice/</guid>
+      <pubDate>Tue, 01 Sep 2026 19:03:01 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Polimill builds Japan&apos;s public AI infrastructure using OpenAI technologies.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 68/100<br/><b>Source:</b> Simon Willison<br/><br/>Codex integrates LibreOffice functionality into its platform.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>How AI-native companies turn workflows into operating capability</title>
+      <link>https://openai.com/index/ai-native-company-workflows</link>
+      <guid isPermaLink="true">https://openai.com/index/ai-native-company-workflows</guid>
+      <pubDate>Tue, 01 Sep 2026 17:00:00 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 66/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI publishes perspective on how AI-native companies develop operational workflows.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Keenable SELECT: an agent that searches the web in SQL</title>
@@ -93,15 +101,15 @@
       <guid isPermaLink="true">https://keenableai.github.io/select-showcase/</guid>
       <pubDate>Tue, 01 Sep 2026 15:41:03 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> Hacker News<br/><br/>Keenable SELECT, an AI agent that performs web searches using SQL, is demonstrated.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> Hacker News<br/><br/>Keenable SELECT demonstrates an agent that performs web searches using SQL.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Sequoia-incubated Empirik launches with $21M to predict outages before they happen</title>
-      <link>https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/</guid>
-      <pubDate>Tue, 01 Sep 2026 16:31:04 +0000</pubDate>
+      <title>We released TontaubeV1, a character-level TTS model for long-form generation [P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1w4afjn/we_released_tontaubev1_a_characterlevel_tts_model/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1w4afjn/we_released_tontaubev1_a_characterlevel_tts_model/</guid>
+      <pubDate>Tue, 01 Sep 2026 12:23:32 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Empirik launches with $21M funding to use AI for predictive outage detection.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>TontaubeV1, a character-level text-to-speech model for long-form generation, is released.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>PRs NOT Welcome: How Top AI Open Source Projects Are Managing Thousands of Contributors</title>
@@ -109,15 +117,31 @@
       <guid isPermaLink="true">https://www.latent.space/p/pr-not-welcome</guid>
       <pubDate>Tue, 01 Sep 2026 16:17:15 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 62/100<br/><b>Source:</b> Latent Space<br/><br/>Analysis of how major AI open source projects manage large contributor bases and pull request workflows.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 62/100<br/><b>Source:</b> Latent Space<br/><br/>Analysis of how major open-source AI projects manage large contributor communities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>A milestone in expanding access to AI</title>
-      <link>https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads</link>
-      <guid isPermaLink="true">https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads</guid>
-      <pubDate>Mon, 31 Aug 2026 04:00:00 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces expansion of ChatGPT access through advertising model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Polimill builds Japan&apos;s next-generation public AI infrastructure</title>
+      <link>https://openai.com/index/polimill</link>
+      <guid isPermaLink="true">https://openai.com/index/polimill</guid>
+      <pubDate>Mon, 31 Aug 2026 07:00:00 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 58/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Polimill builds Japan&apos;s next-generation public AI infrastructure with OpenAI partnership.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Google’s answer to Canva is an AI tool where you prompt instead of design</title>
+      <link>https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/</guid>
+      <pubDate>Tue, 01 Sep 2026 17:35:37 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 50/100<br/><b>Source:</b> TechCrunch AI<br/><br/>With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Sequoia-incubated Empirik launches with $21M to predict outages before they happen</title>
+      <link>https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/</guid>
+      <pubDate>Tue, 01 Sep 2026 16:31:04 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 50/100<br/><b>Source:</b> TechCrunch AI<br/><br/>The startup wants to do for IT infrastructure what Cursor did for software engineering.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
