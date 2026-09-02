@@ -5,15 +5,23 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Sep 2026 10:36:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 14:57:27 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Claude Fable 5.1 and Claude Mythos 5.1</title>
+      <link>https://www.anthropic.com/claude-fable-and-mythos-5-1</link>
+      <guid isPermaLink="true">https://www.anthropic.com/claude-fable-and-mythos-5-1</guid>
+      <pubDate>Tue, 01 Sep 2026 18:01:24 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 92/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic releases Claude Fable 5.1 and Claude Mythos 5.1 models with improved capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
     <item>
       <title>Introducing agentic video understanding with Gemini</title>
       <link>https://deepmind.google/blog/introducing-agentic-video-in-gemini/</link>
       <guid isPermaLink="true">https://deepmind.google/blog/introducing-agentic-video-in-gemini/</guid>
       <pubDate>Tue, 01 Sep 2026 17:08:51 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 88/100<br/><b>Source:</b> Google DeepMind<br/><br/>Google DeepMind introduces agentic video understanding capabilities for Gemini, enabling AI agents to analyze and act on video content.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 88/100<br/><b>Source:</b> Google DeepMind<br/><br/>Google DeepMind introduces agentic video understanding capabilities for Gemini, enabling autonomous video analysis.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>[AINews] Claude Fable/Mythos 5.1: new SOTA model, 75% cache price cut but 70% more output tokens</title>
@@ -21,7 +29,7 @@
       <guid isPermaLink="true">https://www.latent.space/p/ainews-claude-fablemythos-51-new</guid>
       <pubDate>Wed, 02 Sep 2026 07:46:08 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 84/100<br/><b>Source:</b> Latent Space<br/><br/>Latent Space reports on Claude Fable/Mythos 5.1 release with significant pricing reductions and output improvements.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 84/100<br/><b>Source:</b> Latent Space<br/><br/>Claude Fable/Mythos 5.1 announced as new state-of-the-art models with significant pricing and token improvements.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Atlas: A World Model for Spatial Intelligence</title>
@@ -29,7 +37,15 @@
       <guid isPermaLink="true">https://www.worldlabs.ai/blog/atlas</guid>
       <pubDate>Tue, 01 Sep 2026 17:36:02 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>World Labs releases Atlas, a world model for spatial intelligence and environmental understanding.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>World Labs introduces Atlas, a world model designed for spatial intelligence and reasoning.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Mistral now trains on user input by default, except on enterprise tier</title>
+      <link>https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training</link>
+      <guid isPermaLink="true">https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training</guid>
+      <pubDate>Wed, 02 Sep 2026 12:30:39 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 80/100<br/><b>Source:</b> Hacker News<br/><br/>Mistral AI now trains on user inputs by default except for enterprise customers, raising data privacy considerations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Path to Astra: critical capabilities and frontier safeguards</title>
@@ -37,31 +53,7 @@
       <guid isPermaLink="true">https://openai.com/index/path-to-astra</guid>
       <pubDate>Tue, 01 Sep 2026 13:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI outlines path to Astra model with discussion of critical capabilities and safety measures.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>The Emergent Symbolic Structure of Artificial Neural Networks</title>
-      <link>https://arxiv.org/abs/2608.29530</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.29530</guid>
-      <pubDate>Wed, 02 Sep 2026 04:15:56 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Research paper examining emergent symbolic structures in artificial neural networks, published on arXiv.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>The efficient frontier of LLM inference</title>
-      <link>https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/</link>
-      <guid isPermaLink="true">https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/</guid>
-      <pubDate>Tue, 01 Sep 2026 23:48:05 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Analysis of efficiency tradeoffs in LLM inference optimization by Baseten.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>How AI-native companies turn workflows into operating capability</title>
-      <link>https://openai.com/index/ai-native-company-workflows</link>
-      <guid isPermaLink="true">https://openai.com/index/ai-native-company-workflows</guid>
-      <pubDate>Tue, 01 Sep 2026 17:00:00 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI publishes analysis on how AI-native companies operationalize AI into workflow capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI outlines the path to Astra model with discussion of critical capabilities and safety considerations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Healthcare organizations can now connect EHR and additional industry data to ChatGPT</title>
@@ -69,7 +61,15 @@
       <guid isPermaLink="true">https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources</guid>
       <pubDate>Tue, 01 Sep 2026 12:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI enables ChatGPT to connect to healthcare EHR systems and medical data sources.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI enables ChatGPT integration with electronic health records and healthcare data sources.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>The Emergent Symbolic Structure of Artificial Neural Networks</title>
+      <link>https://arxiv.org/abs/2608.29530</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.29530</guid>
+      <pubDate>Wed, 02 Sep 2026 04:15:56 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Research paper investigates how symbolic structures emerge within artificial neural networks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>AIR raises $50M to help companies vet the skills and add-ons AI agents use</title>
@@ -77,23 +77,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/</guid>
       <pubDate>Tue, 01 Sep 2026 15:45:51 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> TechCrunch AI<br/><br/>AIR secures $50M funding to develop AI agent vetting and skill management platform.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>EvoUndo: Recoverability-Constrained Self-Evolution for LLM Agent Harnesses [R]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1w4m0hq/evoundo_recoverabilityconstrained_selfevolution/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1w4m0hq/evoundo_recoverabilityconstrained_selfevolution/</guid>
-      <pubDate>Tue, 01 Sep 2026 19:17:00 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research paper on EvoUndo, a self-evolution framework for LLM agent systems with recoverability constraints.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>OpenAI’s Astra model is on the way — and very good at breaking into computer systems</title>
-      <link>https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/</guid>
-      <pubDate>Tue, 01 Sep 2026 21:06:24 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI&apos;s Astra model demonstrates advanced capabilities in automated computer system analysis and security testing.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> TechCrunch AI<br/><br/>AIR raises $50M funding to build vetting and governance tools for AI agent skills and add-ons.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Anthropic’s new Fable release is cheaper, less restrictive</title>
@@ -101,7 +85,31 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/</guid>
       <pubDate>Tue, 01 Sep 2026 19:39:22 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic releases Fable with reduced pricing and fewer restrictions than previous versions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 74/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic releases cheaper Fable model with reduced usage restrictions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>The efficient frontier of LLM inference</title>
+      <link>https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/</link>
+      <guid isPermaLink="true">https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/</guid>
+      <pubDate>Tue, 01 Sep 2026 23:48:05 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Technical analysis of trade-offs between efficiency and performance in LLM inference optimization.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>OpenAI’s Astra model is on the way — and very good at breaking into computer systems</title>
+      <link>https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/</guid>
+      <pubDate>Tue, 01 Sep 2026 21:06:24 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI&apos;s upcoming Astra model demonstrates capability to identify computer system vulnerabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>How AI-native companies turn workflows into operating capability</title>
+      <link>https://openai.com/index/ai-native-company-workflows</link>
+      <guid isPermaLink="true">https://openai.com/index/ai-native-company-workflows</guid>
+      <pubDate>Tue, 01 Sep 2026 17:00:00 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 66/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI publishes guidance on how companies can integrate AI into workflows as core operating capability.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>datasette-mcp 0.2</title>
@@ -109,23 +117,7 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Sep/1/datasette-mcp/</guid>
       <pubDate>Tue, 01 Sep 2026 15:30:12 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> Simon Willison<br/><br/>Release of datasette-mcp 0.2, a tool for AI model context protocol integration.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>We released TontaubeV1, a character-level TTS model for long-form generation [P]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1w4afjn/we_released_tontaubev1_a_characterlevel_tts_model/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1w4afjn/we_released_tontaubev1_a_characterlevel_tts_model/</guid>
-      <pubDate>Tue, 01 Sep 2026 12:23:32 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>TontaubeV1, a character-level text-to-speech model for long-form generation, is released.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Codex bundles LibreOffice</title>
-      <link>https://simonwillison.net/2026/Sep/1/codex-libreoffice/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/1/codex-libreoffice/</guid>
-      <pubDate>Tue, 01 Sep 2026 19:03:01 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 62/100<br/><b>Source:</b> Simon Willison<br/><br/>Codex integrates LibreOffice functionality for AI-assisted document processing.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> Simon Willison<br/><br/>Release of datasette-mcp 0.2, a tool for integrating datasette with model context protocol.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>PRs NOT Welcome: How Top AI Open Source Projects Are Managing Thousands of Contributors</title>
@@ -133,31 +125,23 @@
       <guid isPermaLink="true">https://www.latent.space/p/pr-not-welcome</guid>
       <pubDate>Tue, 01 Sep 2026 16:17:15 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 62/100<br/><b>Source:</b> Latent Space<br/><br/>Latent Space analyzes how major AI open-source projects manage contributor communities at scale.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 62/100<br/><b>Source:</b> Latent Space<br/><br/>Analysis of how major AI open-source projects manage large volumes of pull requests and contributors.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos</title>
-      <link>https://masteranza.github.io/weedout/</link>
-      <guid isPermaLink="true">https://masteranza.github.io/weedout/</guid>
-      <pubDate>Tue, 01 Sep 2026 22:06:57 +0000</pubDate>
+      <title>AI Coding Agent Skills for Real Engineers</title>
+      <link>https://github.com/mattpocock/skills</link>
+      <guid isPermaLink="true">https://github.com/mattpocock/skills</guid>
+      <pubDate>Tue, 01 Sep 2026 22:48:47 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 52/100<br/><b>Source:</b> Hacker News<br/><br/>Weedout, a Safari extension that filters YouTube videos labeled as AI-generated content.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 56/100<br/><b>Source:</b> Hacker News<br/><br/>GitHub repository of AI coding agent skills for software engineers.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Google’s answer to Canva is an AI tool where you prompt instead of design</title>
-      <link>https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/</guid>
-      <pubDate>Tue, 01 Sep 2026 17:35:37 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 50/100<br/><b>Source:</b> TechCrunch AI<br/><br/>With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Sequoia-incubated Empirik launches with $21M to predict outages before they happen</title>
-      <link>https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/</guid>
-      <pubDate>Tue, 01 Sep 2026 16:31:04 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 50/100<br/><b>Source:</b> TechCrunch AI<br/><br/>The startup wants to do for IT infrastructure what Cursor did for software engineering.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Codex bundles LibreOffice</title>
+      <link>https://simonwillison.net/2026/Sep/1/codex-libreoffice/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/1/codex-libreoffice/</guid>
+      <pubDate>Tue, 01 Sep 2026 19:03:01 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 56/100<br/><b>Source:</b> Simon Willison<br/><br/>Codex bundles LibreOffice for enhanced document editing capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
