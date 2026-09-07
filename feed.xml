@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Sep 2026 05:40:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 11:33:31 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Research acceleration: The view inside OpenAI</title>
@@ -13,15 +13,15 @@
       <guid isPermaLink="true">https://openai.com/index/research-acceleration-view-inside-openai</guid>
       <pubDate>Sun, 06 Sep 2026 15:08:44 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI publishes insights into its internal research acceleration processes and organizational approach.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI publishes insights into its internal research acceleration processes and methodology.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Recreating Minecraft Is Not a Benchmark</title>
-      <link>https://kuber.studio/blog/Reflections/Recreating-Minecraft-is-Not-a-Benchmark</link>
-      <guid isPermaLink="true">https://kuber.studio/blog/Reflections/Recreating-Minecraft-is-Not-a-Benchmark</guid>
-      <pubDate>Sun, 06 Sep 2026 14:52:07 +0000</pubDate>
+      <title>Measuring LLM performance drift: observations and methodology from 31,352 repeated benchmark measurements [D]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1w9llr4/measuring_llm_performance_drift_observations_and/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1w9llr4/measuring_llm_performance_drift_observations_and/</guid>
+      <pubDate>Mon, 07 Sep 2026 07:44:34 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>Critical analysis of whether recreating Minecraft constitutes a valid benchmark for AI capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Large-scale empirical study measuring performance drift in LLMs across 31K+ repeated measurements.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Reproducibility seems to be headed towards irrelevance in ML research. Is it too late? [D]</title>
@@ -29,79 +29,23 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1w92eis/reproducibility_seems_to_be_headed_towards/</guid>
       <pubDate>Sun, 06 Sep 2026 17:29:39 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Discussion of declining reproducibility standards in machine learning research.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Discussion of reproducibility crisis in machine learning research and its implications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>PINNStudio: A free, open-source no-code GUI for setting up, training, and visualizing PINNs [P]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1w9a2i7/pinnstudio_a_free_opensource_nocode_gui_for/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1w9a2i7/pinnstudio_a_free_opensource_nocode_gui_for/</guid>
-      <pubDate>Sun, 06 Sep 2026 22:19:27 +0000</pubDate>
+      <title>Recreating Minecraft Is Not a Benchmark</title>
+      <link>https://kuber.studio/blog/Reflections/Recreating-Minecraft-is-Not-a-Benchmark</link>
+      <guid isPermaLink="true">https://kuber.studio/blog/Reflections/Recreating-Minecraft-is-Not-a-Benchmark</guid>
+      <pubDate>Sun, 06 Sep 2026 14:52:07 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Release of PINNStudio, an open-source GUI tool for physics-informed neural networks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>Discussion of whether recreating Minecraft constitutes a valid AI benchmark for evaluating model capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Proposed architecture for inferencing sparse MOE models increasing Active parameters using layered + linear decay. Succinct reasoning without any model training or fine tune. [p]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1w94dtn/proposed_architecture_for_inferencing_sparse_moe/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1w94dtn/proposed_architecture_for_inferencing_sparse_moe/</guid>
-      <pubDate>Sun, 06 Sep 2026 18:41:34 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Reddit discussion of a proposed sparse MoE architecture for inference optimization without model training.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Applying Sliding Window Attention to pretrained LLMs at inference time [P]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1w8repz/applying_sliding_window_attention_to_pretrained/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1w8repz/applying_sliding_window_attention_to_pretrained/</guid>
-      <pubDate>Sun, 06 Sep 2026 09:23:59 +0000</pubDate>
+      <title>KV cache as an agent runtime [R]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1w9myqc/kv_cache_as_an_agent_runtime_r/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1w9myqc/kv_cache_as_an_agent_runtime_r/</guid>
+      <pubDate>Mon, 07 Sep 2026 09:03:48 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Technical discussion of applying sliding window attention to pretrained LLMs at inference time.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure</title>
-      <link>https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/</guid>
-      <pubDate>Sat, 05 Sep 2026 18:05:27 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 56/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI acknowledges a &apos;wiki incident&apos; and commits to developing disclosure frameworks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Using Blender with coding agents on macOS</title>
-      <link>https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/</guid>
-      <pubDate>Sat, 05 Sep 2026 15:51:09 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> Simon Willison<br/><br/>Practical guide on using Blender with AI coding agents on macOS.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Authors push back as publishers and agents make claims on Anthropic settlement</title>
-      <link>https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/</guid>
-      <pubDate>Sun, 06 Sep 2026 20:47:37 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 50/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Legal dispute over settlement distribution involving AI companies and content creators.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft</title>
-      <link>https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/</guid>
-      <pubDate>Sat, 05 Sep 2026 22:49:55 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 50/100<br/><b>Source:</b> TechCrunch AI<br/><br/>News of legal action by major publications against OpenAI and Microsoft over training data.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>OpenClaw Power, MacBook Simplicity: Five Days With Grok Bot</title>
-      <link>https://www.latent.space/p/grok-bot</link>
-      <guid isPermaLink="true">https://www.latent.space/p/grok-bot</guid>
-      <pubDate>Sat, 05 Sep 2026 15:01:02 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 48/100<br/><b>Source:</b> Latent Space<br/><br/>Product review of Grok Bot comparing its capabilities and usability.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Cassi Field Intelligence: Persistent Learning, Exact Evidence, and Transparent Nonverbal Deliberation. A new kind of ML architecture built on physics [R]</title>
-      <link>http://zenodo.org/records/22338014</link>
-      <guid isPermaLink="true">http://zenodo.org/records/22338014</guid>
-      <pubDate>Mon, 07 Sep 2026 03:49:11 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 44/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Vaguely described architecture proposal claiming to build ML on physics principles.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Technical exploration of using KV cache mechanisms as a foundation for agent runtimes.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Introducing GPT-6 Astra for developers</title>
@@ -109,15 +53,87 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/</guid>
       <pubDate>Sat, 05 Sep 2026 23:27:48 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 44/100<br/><b>Source:</b> Simon Willison<br/><br/>Brief announcement or summary of a new developer-focused GPT model release.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 62/100<br/><b>Source:</b> Simon Willison<br/><br/>Announcement of GPT-6 Astra developer release with new capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>The pencil case model of creativity</title>
-      <link>https://dub.uu.nl/en/column/pencil-case-model-creativity</link>
-      <guid isPermaLink="true">https://dub.uu.nl/en/column/pencil-case-model-creativity</guid>
-      <pubDate>Sun, 06 Sep 2026 12:05:34 +0000</pubDate>
+      <title>Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs</title>
+      <link>https://github.com/timgordontg/engrim</link>
+      <guid isPermaLink="true">https://github.com/timgordontg/engrim</guid>
+      <pubDate>Mon, 07 Sep 2026 04:49:36 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 56/100<br/><b>Source:</b> Hacker News<br/><br/>Open-source project for local SQLite memory management in AI CLIs.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>PINNStudio: A free, open-source no-code GUI for setting up, training, and visualizing PINNs [P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1w9a2i7/pinnstudio_a_free_opensource_nocode_gui_for/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1w9a2i7/pinnstudio_a_free_opensource_nocode_gui_for/</guid>
+      <pubDate>Sun, 06 Sep 2026 22:19:27 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 56/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Open-source GUI tool for training and visualizing Physics-Informed Neural Networks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Using Blender with coding agents on macOS</title>
+      <link>https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/</guid>
+      <pubDate>Sat, 05 Sep 2026 15:51:09 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 42/100<br/><b>Source:</b> Hacker News<br/><br/>Opinion piece using a metaphor to discuss creativity in general terms with unclear AI relevance.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> Simon Willison<br/><br/>Tutorial on integrating Blender with AI coding agents on macOS.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Rustuna: A High-Performance Rust Implementation of Optuna [P]</title>
+      <link>https://i.redd.it/m77osqk6l2oh1.png</link>
+      <guid isPermaLink="true">https://i.redd.it/m77osqk6l2oh1.png</guid>
+      <pubDate>Mon, 07 Sep 2026 10:01:24 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 50/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Rust implementation of the Optuna hyperparameter optimization library.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure</title>
+      <link>https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/</guid>
+      <pubDate>Sat, 05 Sep 2026 18:05:27 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 50/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI addresses incident disclosure and announces framework for improved transparency.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>OpenClaw Power, MacBook Simplicity: Five Days With Grok Bot</title>
+      <link>https://www.latent.space/p/grok-bot</link>
+      <guid isPermaLink="true">https://www.latent.space/p/grok-bot</guid>
+      <pubDate>Sat, 05 Sep 2026 15:01:02 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 48/100<br/><b>Source:</b> Latent Space<br/><br/>Product review of Grok Bot comparing it to other AI assistants.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Automotive Radar Object Classification [P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1w9m26u/automotive_radar_object_classification_p/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1w9m26u/automotive_radar_object_classification_p/</guid>
+      <pubDate>Mon, 07 Sep 2026 08:10:55 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 44/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research on applying machine learning to automotive radar object classification.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft</title>
+      <link>https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/</guid>
+      <pubDate>Sat, 05 Sep 2026 22:49:55 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 44/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Legal proceedings against OpenAI and Microsoft for alleged copyright infringement in training data.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>[D] IJCNLP-AACL 2026: Paper Commitment Results (ARR May 2026 Cycle) [D]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1w8zzja/d_ijcnlpaacl_2026_paper_commitment_results_arr/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1w8zzja/d_ijcnlpaacl_2026_paper_commitment_results_arr/</guid>
+      <pubDate>Sun, 06 Sep 2026 15:59:50 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 38/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Administrative announcement about conference paper commitment results.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Roboticists working in Learning-from-Demonstrations and Behavioral Cloning : What is going on in your field these days? [D]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1w9lt31/roboticists_working_in_learningfromdemonstrations/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1w9lt31/roboticists_working_in_learningfromdemonstrations/</guid>
+      <pubDate>Mon, 07 Sep 2026 07:56:38 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 38/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Open-ended discussion thread asking about current trends in robotics and behavioral cloning.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
