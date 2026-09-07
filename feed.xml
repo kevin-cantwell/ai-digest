@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Sep 2026 21:06:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 23:58:30 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Research acceleration: The view inside OpenAI</title>
@@ -13,7 +13,7 @@
       <guid isPermaLink="true">https://openai.com/index/research-acceleration-view-inside-openai</guid>
       <pubDate>Sun, 06 Sep 2026 08:00:00 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 84/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI publishes insights into its research acceleration methodology and internal research practices.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 84/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI publishes insights into its research acceleration methodology and internal processes.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Coop – Isolated VM Environments for Running Claude Code and Codex</title>
@@ -21,7 +21,7 @@
       <guid isPermaLink="true">https://github.com/trailofbits/coop</guid>
       <pubDate>Mon, 07 Sep 2026 04:18:28 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Trail of Bits releases Coop, an open-source tool for running Claude and Codex in isolated VM environments for safer code execution.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Trail of Bits releases Coop, an open-source tool for safely isolating VM environments when running code from Claude and Codex.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Measuring LLM performance drift: observations and methodology from 31,352 repeated benchmark measurements [D]</title>
@@ -29,23 +29,15 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1w9llr4/measuring_llm_performance_drift_observations_and/</guid>
       <pubDate>Mon, 07 Sep 2026 07:44:34 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Study analyzes performance drift in LLMs across 31,352 repeated benchmark measurements with novel methodology.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research paper analyzing performance drift in LLMs across 31,352 repeated benchmark measurements.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>PINNStudio: A free, open-source no-code GUI for setting up, training, and visualizing PINNs [P]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1w9a2i7/pinnstudio_a_free_opensource_nocode_gui_for/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1w9a2i7/pinnstudio_a_free_opensource_nocode_gui_for/</guid>
-      <pubDate>Sun, 06 Sep 2026 22:19:27 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>PINNStudio, an open-source no-code GUI for Physics-Informed Neural Networks, enables accessible PINN training and visualization.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Introducing GPT-6 Astra for developers</title>
-      <link>https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/</guid>
-      <pubDate>Sat, 05 Sep 2026 23:27:48 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> Simon Willison<br/><br/>OpenAI announces GPT-6 Astra, a new model release for developers.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>The Frontier AEO Tracker: What Astra Chooses (and every other frontier model, and what you can do about it)</title>
+      <link>https://www.latent.space/p/aeo</link>
+      <guid isPermaLink="true">https://www.latent.space/p/aeo</guid>
+      <pubDate>Mon, 07 Sep 2026 21:32:37 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> Latent Space<br/><br/>Analysis of frontier AI model capabilities and selection patterns, including Astra model evaluations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs</title>
@@ -53,7 +45,7 @@
       <guid isPermaLink="true">https://github.com/timgordontg/engrim</guid>
       <pubDate>Mon, 07 Sep 2026 04:49:36 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>Engrim, a local-first SQLite memory engine for AI CLIs, is presented as a developer tool for AI applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>Developer releases Engrim, a local-first SQLite memory engine designed for AI CLI applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>KV cache as an agent runtime [R]</title>
@@ -61,7 +53,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1w9myqc/kv_cache_as_an_agent_runtime_r/</guid>
       <pubDate>Mon, 07 Sep 2026 09:03:48 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research discusses using KV cache as a novel runtime architecture for AI agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Discussion of using KV cache as a runtime for AI agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>LLM-guided program evolution improves 10 best-known circle-packing solutions (Packomania csqv, N=101-114) [R]</title>
@@ -69,23 +61,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1w9xlyi/llmguided_program_evolution_improves_10_bestknown/</guid>
       <pubDate>Mon, 07 Sep 2026 16:54:55 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>LLM-guided program evolution achieves improvements on 10 best-known circle-packing optimization problems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Tell HN: OpenAI brings back 5 hour limit for plus and business standard users</title>
-      <link>https://news.ycombinator.com/item?id=49600233</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49600233</guid>
-      <pubDate>Mon, 07 Sep 2026 16:40:32 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 58/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI implements a 5-hour usage limit for Plus and Business Standard users, a product policy change.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Rustuna: A High-Performance Rust Implementation of Optuna [P]</title>
-      <link>https://i.redd.it/m77osqk6l2oh1.png</link>
-      <guid isPermaLink="true">https://i.redd.it/m77osqk6l2oh1.png</guid>
-      <pubDate>Mon, 07 Sep 2026 10:01:24 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Rustuna is a high-performance Rust reimplementation of the Optuna hyperparameter optimization framework.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research demonstrates LLM-guided program evolution achieving improved solutions for circle-packing problems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Authors push back as publishers and agents make claims on Anthropic settlement</title>
@@ -93,23 +69,23 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/</guid>
       <pubDate>Sun, 06 Sep 2026 20:47:37 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Authors dispute publisher and agent claims on Anthropic settlement distribution.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Authors dispute publishers&apos; and agents&apos; claims on the Anthropic settlement payout.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft</title>
-      <link>https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/</guid>
-      <pubDate>Sat, 05 Sep 2026 22:49:55 +0000</pubDate>
+      <title>Tell HN: OpenAI brings back 5 hour limit for plus and business standard users</title>
+      <link>https://news.ycombinator.com/item?id=49600233</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49600233</guid>
+      <pubDate>Mon, 07 Sep 2026 16:40:32 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Seattle Times and Newsday join ongoing lawsuits against OpenAI and Microsoft over copyright infringement.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 58/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI reintroduces usage limits for Plus and Business Standard users.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Roboticists working in Learning-from-Demonstrations and Behavioral Cloning : What is going on in your field these days? [D]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1w9lt31/roboticists_working_in_learningfromdemonstrations/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1w9lt31/roboticists_working_in_learningfromdemonstrations/</guid>
-      <pubDate>Mon, 07 Sep 2026 07:56:38 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 38/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Discussion thread soliciting field perspectives on learning-from-demonstrations and behavioral cloning research.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Rustuna: A High-Performance Rust Implementation of Optuna [P]</title>
+      <link>https://i.redd.it/m77osqk6l2oh1.png</link>
+      <guid isPermaLink="true">https://i.redd.it/m77osqk6l2oh1.png</guid>
+      <pubDate>Mon, 07 Sep 2026 10:01:24 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Rustuna, a Rust reimplementation of the Optuna hyperparameter optimization framework.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
