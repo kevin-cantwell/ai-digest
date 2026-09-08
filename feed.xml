@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Sep 2026 09:20:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 14:07:11 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Mistral raises €3B</title>
@@ -13,7 +13,23 @@
       <guid isPermaLink="true">https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/</guid>
       <pubDate>Tue, 08 Sep 2026 05:06:23 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 84/100<br/><b>Source:</b> Hacker News<br/><br/>Mistral raises €3 billion in funding to develop sovereign open-weight AI models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 84/100<br/><b>Source:</b> Hacker News<br/><br/>Mistral raises €3 billion in funding to advance open-weight sovereign AI models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome</title>
+      <link>https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/</link>
+      <guid isPermaLink="true">https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/</guid>
+      <pubDate>Tue, 08 Sep 2026 14:00:15 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 84/100<br/><b>Source:</b> Google DeepMind<br/><br/>DeepMind releases AlphaGenome Atlas, an AI-predicted map of all possible DNA variations in the human genome.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>The VMs Powering Mobile Agents (Instinct, Claude Code)</title>
+      <link>https://rohanadwankar.github.io/posts/platforms.html</link>
+      <guid isPermaLink="true">https://rohanadwankar.github.io/posts/platforms.html</guid>
+      <pubDate>Tue, 08 Sep 2026 04:36:26 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Technical analysis of virtual machine architectures underlying mobile AI agents like Claude Code and Instinct.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>My lab found a way to migrate between embedding models with zero downtime. [R]</title>
@@ -21,31 +37,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1wabmm7/my_lab_found_a_way_to_migrate_between_embedding/</guid>
       <pubDate>Tue, 08 Sep 2026 02:16:23 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research on zero-downtime migration between embedding models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Research acceleration: The view inside OpenAI</title>
-      <link>https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/</guid>
-      <pubDate>Sun, 06 Sep 2026 23:57:40 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> Simon Willison<br/><br/>Analysis of research acceleration practices and methodology inside OpenAI.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Multi-Agents LLM Financial Trading Framework</title>
-      <link>https://github.com/TauricResearch/TradingAgents</link>
-      <guid isPermaLink="true">https://github.com/TauricResearch/TradingAgents</guid>
-      <pubDate>Tue, 08 Sep 2026 05:20:23 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 62/100<br/><b>Source:</b> Hacker News<br/><br/>Open-source GitHub project implementing a multi-agent LLM framework for financial trading.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Authors push back as publishers and agents make claims on Anthropic settlement</title>
-      <link>https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/</guid>
-      <pubDate>Sun, 06 Sep 2026 20:47:37 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Legal dispute over Anthropic settlement funds between authors, publishers, and agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research on zero-downtime migration techniques between different embedding models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>I tested 10 model/harness combinations on the same Three.js task</title>
@@ -53,23 +45,31 @@
       <guid isPermaLink="true">https://alvins82.github.io/hangar-harness-model-tests/</guid>
       <pubDate>Tue, 08 Sep 2026 03:42:25 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> Hacker News<br/><br/>Personal benchmark comparing model and harness combinations on a specific task.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Comparative benchmark testing of multiple LLM and harness combinations on a Three.js task.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics</title>
-      <link>https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics</link>
-      <guid isPermaLink="true">https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics</guid>
-      <pubDate>Tue, 08 Sep 2026 04:06:20 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> Hacker News<br/><br/>Arm announces Mali G2-Ultra NX GPU with AI-native graphics for mobile devices.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Multi-Agents LLM Financial Trading Framework</title>
+      <link>https://github.com/TauricResearch/TradingAgents</link>
+      <guid isPermaLink="true">https://github.com/TauricResearch/TradingAgents</guid>
+      <pubDate>Tue, 08 Sep 2026 05:20:23 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>Open-source framework for multi-agent LLM-based financial trading system.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>LLM-guided program evolution improves 10 best-known circle-packing solutions (Packomania csqv, N=101-114) [R]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1w9xlyi/llmguided_program_evolution_improves_10_bestknown/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1w9xlyi/llmguided_program_evolution_improves_10_bestknown/</guid>
-      <pubDate>Mon, 07 Sep 2026 16:54:55 +0000</pubDate>
+      <title>The Work Now Within Reach</title>
+      <link>https://openai.com/index/the-work-now-within-reach</link>
+      <guid isPermaLink="true">https://openai.com/index/the-work-now-within-reach</guid>
+      <pubDate>Tue, 08 Sep 2026 13:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research showing LLM-guided program evolution improves solutions to circle-packing problems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI blog post on expanding capabilities and work applications of AI models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Authors push back as publishers and agents make claims on Anthropic settlement</title>
+      <link>https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/</guid>
+      <pubDate>Sun, 06 Sep 2026 20:47:37 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Authors dispute publishers&apos; claims on proceeds from Anthropic legal settlement.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>I reduced image-processing token usage by ~95% compared with GPT-4o direct vision, while maintaining roughly the same accuracy.How significant is that?[P]</title>
@@ -77,7 +77,15 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1wab7ui/i_reduced_imageprocessing_token_usage_by_95/</guid>
       <pubDate>Tue, 08 Sep 2026 01:57:19 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 54/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Personal optimization achieving 95% token reduction in image processing compared to GPT-4o.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Optimization technique reducing image processing token usage by 95% compared to GPT-4o vision.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Research acceleration: The view inside OpenAI</title>
+      <link>https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/</guid>
+      <pubDate>Sun, 06 Sep 2026 23:57:40 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 56/100<br/><b>Source:</b> Simon Willison<br/><br/>Commentary on OpenAI&apos;s internal research acceleration practices.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>El Yayster – a resident LLM that inhabits Emacs</title>
@@ -85,7 +93,7 @@
       <guid isPermaLink="true">https://github.com/yayster/yayster.el</guid>
       <pubDate>Mon, 07 Sep 2026 19:50:21 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 50/100<br/><b>Source:</b> Hacker News<br/><br/>Open-source Emacs package integrating a resident LLM into the editor.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 50/100<br/><b>Source:</b> Hacker News<br/><br/>Emacs package implementing a resident LLM within the text editor.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
