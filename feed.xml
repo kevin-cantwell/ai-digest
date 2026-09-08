@@ -5,23 +5,15 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Sep 2026 04:06:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 09:20:36 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Research acceleration: The view inside OpenAI</title>
-      <link>https://openai.com/index/research-acceleration-view-inside-openai</link>
-      <guid isPermaLink="true">https://openai.com/index/research-acceleration-view-inside-openai</guid>
-      <pubDate>Sun, 06 Sep 2026 08:00:00 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI blog post discussing internal research acceleration methods and organizational approaches.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Coop – Isolated VM Environments for Running Claude Code and Codex</title>
-      <link>https://github.com/trailofbits/coop</link>
-      <guid isPermaLink="true">https://github.com/trailofbits/coop</guid>
-      <pubDate>Mon, 07 Sep 2026 04:18:28 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Open-source tool for running Claude and Codex in isolated VM environments for safer code execution.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Mistral raises €3B</title>
+      <link>https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/</link>
+      <guid isPermaLink="true">https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/</guid>
+      <pubDate>Tue, 08 Sep 2026 05:06:23 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 84/100<br/><b>Source:</b> Hacker News<br/><br/>Mistral raises €3 billion in funding to develop sovereign open-weight AI models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>My lab found a way to migrate between embedding models with zero downtime. [R]</title>
@@ -29,31 +21,23 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1wabmm7/my_lab_found_a_way_to_migrate_between_embedding/</guid>
       <pubDate>Tue, 08 Sep 2026 02:16:23 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research on zero-downtime migration between embedding models for production systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research on zero-downtime migration between embedding models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Measuring LLM performance drift: observations and methodology from 31,352 repeated benchmark measurements [D]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1w9llr4/measuring_llm_performance_drift_observations_and/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1w9llr4/measuring_llm_performance_drift_observations_and/</guid>
-      <pubDate>Mon, 07 Sep 2026 07:44:34 +0000</pubDate>
+      <title>Research acceleration: The view inside OpenAI</title>
+      <link>https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/</guid>
+      <pubDate>Sun, 06 Sep 2026 23:57:40 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Large-scale empirical study measuring performance drift in LLMs across 31,352 benchmark measurements.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> Simon Willison<br/><br/>Analysis of research acceleration practices and methodology inside OpenAI.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>KV cache as an agent runtime [R]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1w9myqc/kv_cache_as_an_agent_runtime_r/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1w9myqc/kv_cache_as_an_agent_runtime_r/</guid>
-      <pubDate>Mon, 07 Sep 2026 09:03:48 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research on using KV cache mechanisms as infrastructure for agent runtimes.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>LLM-guided program evolution improves 10 best-known circle-packing solutions (Packomania csqv, N=101-114) [R]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1w9xlyi/llmguided_program_evolution_improves_10_bestknown/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1w9xlyi/llmguided_program_evolution_improves_10_bestknown/</guid>
-      <pubDate>Mon, 07 Sep 2026 16:54:55 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research demonstrating LLM-guided program evolution solving circle-packing optimization problems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Multi-Agents LLM Financial Trading Framework</title>
+      <link>https://github.com/TauricResearch/TradingAgents</link>
+      <guid isPermaLink="true">https://github.com/TauricResearch/TradingAgents</guid>
+      <pubDate>Tue, 08 Sep 2026 05:20:23 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 62/100<br/><b>Source:</b> Hacker News<br/><br/>Open-source GitHub project implementing a multi-agent LLM framework for financial trading.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Authors push back as publishers and agents make claims on Anthropic settlement</title>
@@ -61,31 +45,39 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/</guid>
       <pubDate>Sun, 06 Sep 2026 20:47:37 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Dispute over settlement distribution involving publishers, agents, and Anthropic in copyright litigation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Legal dispute over Anthropic settlement funds between authors, publishers, and agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>The Frontier AEO Tracker: What Astra Chooses (and every other frontier model, and what you can do about it)</title>
-      <link>https://www.latent.space/p/aeo</link>
-      <guid isPermaLink="true">https://www.latent.space/p/aeo</guid>
-      <pubDate>Mon, 07 Sep 2026 21:32:37 +0000</pubDate>
+      <title>I tested 10 model/harness combinations on the same Three.js task</title>
+      <link>https://alvins82.github.io/hangar-harness-model-tests/</link>
+      <guid isPermaLink="true">https://alvins82.github.io/hangar-harness-model-tests/</guid>
+      <pubDate>Tue, 08 Sep 2026 03:42:25 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> Latent Space<br/><br/>Analysis and tracking of frontier model behavior and decision patterns across AI systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> Hacker News<br/><br/>Personal benchmark comparing model and harness combinations on a specific task.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs</title>
-      <link>https://github.com/timgordontg/engrim</link>
-      <guid isPermaLink="true">https://github.com/timgordontg/engrim</guid>
-      <pubDate>Mon, 07 Sep 2026 04:49:36 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 60/100<br/><b>Source:</b> Hacker News<br/><br/>Local-first SQLite memory engine designed for AI CLI applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Tell HN: OpenAI brings back 5 hour limit for plus and business standard users</title>
-      <link>https://news.ycombinator.com/item?id=49600233</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49600233</guid>
-      <pubDate>Mon, 07 Sep 2026 16:40:32 +0000</pubDate>
+      <title>Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics</title>
+      <link>https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics</link>
+      <guid isPermaLink="true">https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics</guid>
+      <pubDate>Tue, 08 Sep 2026 04:06:20 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 58/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI introduces usage limits for Plus and Business Standard users.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> Hacker News<br/><br/>Arm announces Mali G2-Ultra NX GPU with AI-native graphics for mobile devices.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>LLM-guided program evolution improves 10 best-known circle-packing solutions (Packomania csqv, N=101-114) [R]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1w9xlyi/llmguided_program_evolution_improves_10_bestknown/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1w9xlyi/llmguided_program_evolution_improves_10_bestknown/</guid>
+      <pubDate>Mon, 07 Sep 2026 16:54:55 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research showing LLM-guided program evolution improves solutions to circle-packing problems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>I reduced image-processing token usage by ~95% compared with GPT-4o direct vision, while maintaining roughly the same accuracy.How significant is that?[P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1wab7ui/i_reduced_imageprocessing_token_usage_by_95/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1wab7ui/i_reduced_imageprocessing_token_usage_by_95/</guid>
+      <pubDate>Tue, 08 Sep 2026 01:57:19 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 54/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Personal optimization achieving 95% token reduction in image processing compared to GPT-4o.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>El Yayster – a resident LLM that inhabits Emacs</title>
@@ -93,7 +85,7 @@
       <guid isPermaLink="true">https://github.com/yayster/yayster.el</guid>
       <pubDate>Mon, 07 Sep 2026 19:50:21 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 50/100<br/><b>Source:</b> Hacker News<br/><br/>Emacs integration tool for running local LLMs.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 50/100<br/><b>Source:</b> Hacker News<br/><br/>Open-source Emacs package integrating a resident LLM into the editor.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
