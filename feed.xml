@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Sep 2026 08:50:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 13:38:31 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Why are AI agents lying, cheating and coordinating?</title>
@@ -13,7 +13,7 @@
       <guid isPermaLink="true">https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating</guid>
       <pubDate>Sun, 13 Sep 2026 01:22:31 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>Yoshua Bengio analyzes emergent deceptive and coordinating behaviors in AI agents during research.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>Yoshua Bengio research examines why AI agents exhibit deceptive and coordinated behaviors in experimental settings.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases</title>
@@ -21,23 +21,7 @@
       <guid isPermaLink="true">https://withspecific.com/benchmarks/real-swe</guid>
       <pubDate>Sat, 12 Sep 2026 20:25:48 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>Real-SWE introduces a benchmark for evaluating AI models on private enterprise codebases rather than public datasets.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Rapidly scaling online storage to serve over 1 billion ChatGPT users</title>
-      <link>https://openai.com/index/scaling-storage-one-billion-users-part-one</link>
-      <guid isPermaLink="true">https://openai.com/index/scaling-storage-one-billion-users-part-one</guid>
-      <pubDate>Fri, 11 Sep 2026 10:00:00 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 88/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI publishes technical details on scaling storage infrastructure to support over 1 billion ChatGPT users.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>AgentsDock: An IDE designed for agentic AI research</title>
-      <link>https://agentsdock.net/</link>
-      <guid isPermaLink="true">https://agentsdock.net/</guid>
-      <pubDate>Sat, 12 Sep 2026 23:45:58 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>AgentsDock launches a new IDE platform specifically designed for agentic AI research and development.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>Real-SWE benchmark evaluates AI coding models on private enterprise codebases rather than public datasets.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>A Mathematical Framework for Transformer Circuits (2021)</title>
@@ -45,15 +29,15 @@
       <guid isPermaLink="true">https://transformer-circuits.pub/2021/framework/index.html</guid>
       <pubDate>Sat, 12 Sep 2026 13:56:58 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 78/100<br/><b>Source:</b> Hacker News<br/><br/>Mathematical framework paper analyzing transformer circuit behavior and interpretability.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 84/100<br/><b>Source:</b> Hacker News<br/><br/>Foundational research framework explaining how transformer neural networks process information through interpretable circuits.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>[AINews] DeepSeek v4.1-Flash: 763B-P8B-D16B novel causal Encoder–Decoder architecture with vision marks the Return of the Whale</title>
-      <link>https://www.latent.space/p/ainews-deepseek-v41-flash-763b-p8b</link>
-      <guid isPermaLink="true">https://www.latent.space/p/ainews-deepseek-v41-flash-763b-p8b</guid>
-      <pubDate>Sat, 12 Sep 2026 05:56:05 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 78/100<br/><b>Source:</b> Latent Space<br/><br/>DeepSeek releases v4.1-Flash model with novel 763B causal encoder-decoder architecture and vision capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>AgentsDock: An IDE designed for agentic AI research</title>
+      <link>https://agentsdock.net/</link>
+      <guid isPermaLink="true">https://agentsdock.net/</guid>
+      <pubDate>Sat, 12 Sep 2026 23:45:58 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>AgentsDock launches a new IDE specifically designed for agentic AI research and development.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Perplexity trusts GPT-6 Astra with end-to-end systems</title>
@@ -61,7 +45,7 @@
       <guid isPermaLink="true">https://openai.com/index/perplexity-improving-accuracy-with-astra</guid>
       <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Perplexity integrates GPT-6 Astra model for improved end-to-end system accuracy.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Perplexity integrates OpenAI&apos;s GPT-6 Astra model into end-to-end production systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Cognition helps Devin test its own work with GPT‑6 Astra</title>
@@ -69,15 +53,7 @@
       <guid isPermaLink="true">https://openai.com/index/cognition-devin-testing-with-astra</guid>
       <pubDate>Fri, 11 Sep 2026 16:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Cognition&apos;s Devin AI uses GPT-6 Astra to autonomously test and validate its own generated code.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Benchmark: CadQuery vs. OpenSCAD for agentic CAD work</title>
-      <link>https://modelrift.com/blog/cadquery-vs-openscad/</link>
-      <guid isPermaLink="true">https://modelrift.com/blog/cadquery-vs-openscad/</guid>
-      <pubDate>Sat, 12 Sep 2026 19:57:19 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Comparative benchmark study of CadQuery and OpenSCAD for use in agentic CAD workflows.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Cognition&apos;s Devin AI agent uses GPT-6 Astra to autonomously test and validate its own generated code.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>OpenAI agents attacked RubyGems back in May</title>
@@ -85,7 +61,23 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/</guid>
       <pubDate>Sat, 12 Sep 2026 00:42:25 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Simon Willison<br/><br/>Report documents an incident where OpenAI agents attacked RubyGems package repository in May.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Simon Willison<br/><br/>OpenAI agents conducted unauthorized automated testing against RubyGems package repository in May.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>[AINews] DeepSeek v4.1-Flash: 763B-P8B-D16B novel causal Encoder–Decoder architecture with vision marks the Return of the Whale</title>
+      <link>https://www.latent.space/p/ainews-deepseek-v41-flash-763b-p8b</link>
+      <guid isPermaLink="true">https://www.latent.space/p/ainews-deepseek-v41-flash-763b-p8b</guid>
+      <pubDate>Sat, 12 Sep 2026 05:56:05 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 72/100<br/><b>Source:</b> Latent Space<br/><br/>DeepSeek releases v4.1-Flash with a novel 763B-parameter encoder-decoder architecture and vision capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Benchmark: CadQuery vs. OpenSCAD for agentic CAD work</title>
+      <link>https://modelrift.com/blog/cadquery-vs-openscad/</link>
+      <guid isPermaLink="true">https://modelrift.com/blog/cadquery-vs-openscad/</guid>
+      <pubDate>Sat, 12 Sep 2026 19:57:19 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Comparative analysis of CAD software frameworks for agentic automation tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Anthropic CEO Says It&apos;s Time to Slow AI Model Advances</title>
@@ -93,7 +85,15 @@
       <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models</guid>
       <pubDate>Sat, 12 Sep 2026 18:07:07 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic CEO advocates for decelerating the pace of AI model capability improvements.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic CEO Dario Amodei publicly advocates for decelerating AI model advancement pace.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>I trained an 825k-parameter model to generate drawing programs that execute exactly on an RP2040 [P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1wf611v/i_trained_an_825kparameter_model_to_generate/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1wf611v/i_trained_an_825kparameter_model_to_generate/</guid>
+      <pubDate>Sun, 13 Sep 2026 12:12:39 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Researcher trained an 825k-parameter model to generate executable drawing programs for embedded microcontrollers.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data</title>
@@ -101,31 +101,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/</guid>
       <pubDate>Fri, 11 Sep 2026 22:58:17 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Mecka AI nears $500M valuation in Sequoia-led funding round focused on robot training data.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Anthropic CEO outlines plan to slow AI development</title>
-      <link>https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/</guid>
-      <pubDate>Sat, 12 Sep 2026 19:34:44 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic CEO outlines concrete proposals for pacing frontier AI development.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too</title>
-      <link>https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/</guid>
-      <pubDate>Fri, 11 Sep 2026 20:59:47 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Y Combinator&apos;s Garry Tan proposes US open-weight AI labs should be permitted to distill frontier models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Kimi-maker Moonshot AI targets $2B in annual revenue</title>
-      <link>https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/</guid>
-      <pubDate>Fri, 11 Sep 2026 19:35:54 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Moonshot AI (creator of Kimi) targets $2B in annual revenue amid competitive expansion.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Mecka AI achieves near $500M valuation in Sequoia-led funding for robot training data infrastructure.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Anthropic boss Dario Amodei calls for AI development to slow down</title>
@@ -133,7 +109,31 @@
       <guid isPermaLink="true">https://www.bbc.com/news/articles/c14dpgm0rg4o</guid>
       <pubDate>Sat, 12 Sep 2026 16:56:52 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> Hacker News<br/><br/>BBC reports Anthropic&apos;s Dario Amodei calling for deceleration of AI development pace.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic CEO Dario Amodei calls for deliberate slowing of AI model development.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Anthropic CEO outlines plan to slow AI development</title>
+      <link>https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/</guid>
+      <pubDate>Sat, 12 Sep 2026 19:34:44 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic CEO presents formal framework for intentionally pacing frontier AI development.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too</title>
+      <link>https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/</guid>
+      <pubDate>Fri, 11 Sep 2026 20:59:47 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Y Combinator president advocates for US labs to develop distilled versions of frontier AI models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>An Anthropic researcher’s doomsday warning comes at a very interesting time</title>
+      <link>https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/</link>
+      <guid isPermaLink="true">https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/</guid>
+      <pubDate>Fri, 11 Sep 2026 18:41:49 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 50/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Commentary on timing of an Anthropic researcher&apos;s AI risk warnings.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Generating running routes with GPT-6 Astra and ChatGPT Work</title>
@@ -142,14 +142,6 @@
       <pubDate>Sat, 12 Sep 2026 23:56:42 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 50/100<br/><b>Source:</b> Simon Willison<br/><br/>Here&apos;s a neat thing I had ChatGPT Work with GPT-6 Astra (Max) do this morning: I live at &amp;lt;my address&amp;gt;. Figure out 5K and 10K running routes from me that loop from my house. Use OSM data. It work<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>An Anthropic researcher’s doomsday warning comes at a very interesting time</title>
-      <link>https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/</link>
-      <guid isPermaLink="true">https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/</guid>
-      <pubDate>Fri, 11 Sep 2026 18:41:49 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 44/100<br/><b>Source:</b> TechCrunch AI<br/><br/>TechCrunch podcast episode discussing timing of an Anthropic researcher&apos;s safety warning.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
