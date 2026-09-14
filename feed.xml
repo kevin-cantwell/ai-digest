@@ -5,15 +5,23 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Sep 2026 05:46:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 11:46:15 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>[AINews] DeepSeek v4.1-Flash: 763B-P8B-D16B novel causal Encoder–Decoder architecture with vision marks the Return of the Whale</title>
-      <link>https://www.latent.space/p/ainews-deepseek-v41-flash-763b-p8b</link>
-      <guid isPermaLink="true">https://www.latent.space/p/ainews-deepseek-v41-flash-763b-p8b</guid>
-      <pubDate>Sat, 12 Sep 2026 05:56:05 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 78/100<br/><b>Source:</b> Latent Space<br/><br/>DeepSeek releases v4.1-Flash with novel 763B parameter causal encoder-decoder architecture and vision capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>David Sacks: OpenAI and Anthropic Don&apos;t Need Regulations to Pace Frontier Models</title>
+      <link>https://twitter.com/DavidSacks/status/2098973625252708460</link>
+      <guid isPermaLink="true">https://twitter.com/DavidSacks/status/2098973625252708460</guid>
+      <pubDate>Sun, 13 Sep 2026 16:52:33 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 85/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Who gets to define the rules for AI?</title>
+      <link>https://cohere.com/blog/who-gets-to-define-the-rules-for-ai</link>
+      <guid isPermaLink="true">https://cohere.com/blog/who-gets-to-define-the-rules-for-ai</guid>
+      <pubDate>Mon, 14 Sep 2026 04:49:51 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 75/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Perplexity trusts GPT-6 Astra with end-to-end systems</title>
@@ -21,7 +29,15 @@
       <guid isPermaLink="true">https://openai.com/index/perplexity-improving-accuracy-with-astra</guid>
       <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Perplexity integrates GPT-6 Astra for improved accuracy in search systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 75/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>OpenArch – PyTorch implementations of modern LLM architectures</title>
+      <link>https://github.com/anuj0456/OpenArch</link>
+      <guid isPermaLink="true">https://github.com/anuj0456/OpenArch</guid>
+      <pubDate>Mon, 14 Sep 2026 07:55:19 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> Hacker News<br/><br/>OpenArch provides PyTorch implementations of modern LLM architectures as open-source reference implementations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>I trained an 825k-parameter model to generate drawing programs that execute exactly on an RP2040 [P]</title>
@@ -29,7 +45,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1wf611v/i_trained_an_825kparameter_model_to_generate/</guid>
       <pubDate>Sun, 13 Sep 2026 12:12:39 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Individual trained a small model to generate executable drawing programs for embedded systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Researcher trained an 825k-parameter model to generate executable drawing programs for embedded microcontrollers.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Anthropic CEO outlines plan to slow AI development</title>
@@ -37,47 +53,15 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/</guid>
       <pubDate>Sat, 12 Sep 2026 19:34:44 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic CEO announces plan to pace frontier AI development.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic CEO announces plan to deliberately pace frontier AI model development.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026</title>
-      <link>https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/</guid>
-      <pubDate>Sat, 12 Sep 2026 20:19:16 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI CEO discusses company IPO plans.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>David Sacks: OpenAI and Anthropic Don&apos;t Need Regulations to Pace Frontier Models</title>
-      <link>https://twitter.com/DavidSacks/status/2098973625252708460</link>
-      <guid isPermaLink="true">https://twitter.com/DavidSacks/status/2098973625252708460</guid>
-      <pubDate>Sun, 13 Sep 2026 16:52:33 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 52/100<br/><b>Source:</b> Hacker News<br/><br/>Opinion piece on AI regulation from a venture capitalist.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>GCC AI Policy Announcement</title>
-      <link>https://gcc.gnu.org/pipermail/gcc/2026-July/248628.html</link>
-      <guid isPermaLink="true">https://gcc.gnu.org/pipermail/gcc/2026-July/248628.html</guid>
-      <pubDate>Sun, 13 Sep 2026 10:50:51 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 50/100<br/><b>Source:</b> Hacker News<br/><br/>GNU Compiler Collection announces AI-related policy.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Horse racing as an ML ranking problem: 1.18M runners, walk-forward validation and a very strong market baseline [D]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1wfivb2/horse_racing_as_an_ml_ranking_problem_118m/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1wfivb2/horse_racing_as_an_ml_ranking_problem_118m/</guid>
-      <pubDate>Sun, 13 Sep 2026 20:32:22 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 50/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Application of machine learning ranking methods to horse racing prediction.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Obama urges Democrats to have a ‘clear plan’ for AI safeguards</title>
-      <link>https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/</guid>
-      <pubDate>Sun, 13 Sep 2026 16:30:00 +0000</pubDate>
+      <title>[P] Built a 100% Client-Side Vision Pipeline for Real-Time Chessboard &amp; Multi-Board Detection (Chrome/Firefox Extension) [P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1wfzzml/p_built_a_100_clientside_vision_pipeline_for/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1wfzzml/p_built_a_100_clientside_vision_pipeline_for/</guid>
+      <pubDate>Mon, 14 Sep 2026 10:47:39 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 50/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Political figure comments on AI regulation policy.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 56/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Developer built a client-side vision pipeline for real-time chessboard detection as a browser extension.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>The Rise of the Forward Deployed Engineer — and How To Do the Job Right</title>
@@ -85,7 +69,23 @@
       <guid isPermaLink="true">https://www.latent.space/p/forward-deployed-engineer-best-practices</guid>
       <pubDate>Sat, 12 Sep 2026 15:01:19 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 50/100<br/><b>Source:</b> Latent Space<br/><br/>Career guidance article on forward-deployed engineering roles in AI.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> Latent Space<br/><br/>Career guidance on the emerging role of forward-deployed engineers in AI companies and best practices.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>AI is not a normal technology</title>
+      <link>https://12gramsofcarbon.com/p/ai-is-not-a-normal-technology</link>
+      <guid isPermaLink="true">https://12gramsofcarbon.com/p/ai-is-not-a-normal-technology</guid>
+      <pubDate>Mon, 14 Sep 2026 01:00:09 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 50/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Obama urges Democrats to have a ‘clear plan’ for AI safeguards</title>
+      <link>https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/</guid>
+      <pubDate>Sun, 13 Sep 2026 16:30:00 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 50/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safe<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Generating running routes with GPT-6 Astra and ChatGPT Work</title>
@@ -93,7 +93,7 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Sep/12/astra-running-routes/</guid>
       <pubDate>Sat, 12 Sep 2026 23:56:42 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 38/100<br/><b>Source:</b> Simon Willison<br/><br/>Tutorial on using GPT-6 Astra for a specific application.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 50/100<br/><b>Source:</b> Simon Willison<br/><br/>Tutorial demonstrating practical application of GPT-6 Astra for generating running route recommendations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
