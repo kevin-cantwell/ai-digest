@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Sep 2026 05:42:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 10:56:31 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Training a 4B model to produce 81% faster query plans than Postgres</title>
@@ -13,7 +13,7 @@
       <guid isPermaLink="true">https://rohanbansal.com/qorl</guid>
       <pubDate>Wed, 16 Sep 2026 18:50:00 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>A 4B model trained to generate database query plans 81% faster than Postgres, demonstrating practical AI application to database optimization.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>A 4B parameter model achieves 81% faster query plan generation than PostgreSQL.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking</title>
@@ -21,15 +21,15 @@
       <guid isPermaLink="true">https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/</guid>
       <pubDate>Tue, 15 Sep 2026 17:05:57 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 88/100<br/><b>Source:</b> Google DeepMind<br/><br/>Google DeepMind announces Gemini 3.8 Live and Extended Thinking capabilities, a major model release.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 88/100<br/><b>Source:</b> Google DeepMind<br/><br/>Google releases Gemini 3.8 Live and Extended Thinking versions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Mistral X Mozilla: Private, Multilingual AI Browsing</title>
-      <link>https://mistral.ai/news/mistral-x-mozilla/</link>
-      <guid isPermaLink="true">https://mistral.ai/news/mistral-x-mozilla/</guid>
-      <pubDate>Wed, 16 Sep 2026 08:08:57 +0000</pubDate>
+      <title>OpenAI Model Misalignment Report</title>
+      <link>https://openai.com/index/model-misalignment-reporting-framework/</link>
+      <guid isPermaLink="true">https://openai.com/index/model-misalignment-reporting-framework/</guid>
+      <pubDate>Thu, 17 Sep 2026 07:21:19 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Mistral and Mozilla collaborate on private, multilingual AI browsing capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI releases a framework for reporting and addressing model misalignment issues.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Our framework for reporting model misalignment</title>
@@ -37,7 +37,23 @@
       <guid isPermaLink="true">https://openai.com/index/model-misalignment-reporting-framework</guid>
       <pubDate>Wed, 16 Sep 2026 17:00:00 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 82/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI publishes a framework for reporting and addressing model misalignment issues.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 82/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI publishes framework for reporting model misalignment.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Jev Ultrafast: A browser agent with a dynamic, indexed action space</title>
+      <link>https://github.com/browser-use/jev-ultrafast</link>
+      <guid isPermaLink="true">https://github.com/browser-use/jev-ultrafast</guid>
+      <pubDate>Thu, 17 Sep 2026 03:12:05 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 78/100<br/><b>Source:</b> Hacker News<br/><br/>Jev Ultrafast introduces a browser agent with dynamic, indexed action space architecture.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>OpenAI discloses six new AI safety incidents</title>
+      <link>https://www.axios.com/2026/09/16/openai-testing-safety-incidents-disclosure</link>
+      <guid isPermaLink="true">https://www.axios.com/2026/09/16/openai-testing-safety-incidents-disclosure</guid>
+      <pubDate>Thu, 17 Sep 2026 00:33:03 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI discloses six new AI safety incidents in testing.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>OpenAI expands ChatGPT ads with Sponsored Agents</title>
@@ -45,47 +61,7 @@
       <guid isPermaLink="true">https://openai.com/index/reimagining-advertising-with-ai/</guid>
       <pubDate>Wed, 16 Sep 2026 13:51:15 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI launches sponsored agents feature for ChatGPT ads, a product expansion with business implications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Claude Cowork and chat are now one Claude</title>
-      <link>https://claude.com/blog/cowork-is-now-claude</link>
-      <guid isPermaLink="true">https://claude.com/blog/cowork-is-now-claude</guid>
-      <pubDate>Wed, 16 Sep 2026 16:26:25 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 74/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic merges Claude Cowork and chat interfaces into a unified product.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>DeepSeek v4.1 Flash Is Now Our Best Hacking Model</title>
-      <link>https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model</link>
-      <guid isPermaLink="true">https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model</guid>
-      <pubDate>Wed, 16 Sep 2026 12:19:55 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> Hacker News<br/><br/>DeepSeek v4.1 Flash model optimized for code-related tasks and security applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>[AINews] Jev: a “System One Model” that only decides/classifies/routes/scores — &gt;100x faster, &gt;200x cheaper than small frontier LLMs</title>
-      <link>https://www.latent.space/p/ainews-jev-a-system-one-model-that</link>
-      <guid isPermaLink="true">https://www.latent.space/p/ainews-jev-a-system-one-model-that</guid>
-      <pubDate>Wed, 16 Sep 2026 11:09:53 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> Latent Space<br/><br/>Jev system-one model achieving 100x speedup and 200x cost reduction compared to frontier LLMs.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior</title>
-      <link>https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html</guid>
-      <pubDate>Thu, 17 Sep 2026 01:02:13 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI discloses six new incidents of concerning AI model behavior to regulators.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>GoBench: Evaluating LLMs on the game of Go [R]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1wi68jg/gobench_evaluating_llms_on_the_game_of_go_r/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1wi68jg/gobench_evaluating_llms_on_the_game_of_go_r/</guid>
-      <pubDate>Wed, 16 Sep 2026 18:54:35 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/MachineLearning<br/><br/>GoBench research benchmark evaluating LLM performance on the game of Go.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI launches Sponsored Agents feature for advertising within ChatGPT.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Your AI agents can now control your Google Home devices</title>
@@ -93,7 +69,31 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/</guid>
       <pubDate>Wed, 16 Sep 2026 17:00:00 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Google releases API integration allowing AI agents to control Google Home devices.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Google enables AI agents to control Google Home devices.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Claude Cowork and chat are now one Claude</title>
+      <link>https://claude.com/blog/cowork-is-now-claude</link>
+      <guid isPermaLink="true">https://claude.com/blog/cowork-is-now-claude</guid>
+      <pubDate>Wed, 16 Sep 2026 16:26:25 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 74/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic merges Claude Cowork and chat into a unified interface.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>[AINews] Jev: a “System One Model” that only decides/classifies/routes/scores — &gt;100x faster, &gt;200x cheaper than small frontier LLMs</title>
+      <link>https://www.latent.space/p/ainews-jev-a-system-one-model-that</link>
+      <guid isPermaLink="true">https://www.latent.space/p/ainews-jev-a-system-one-model-that</guid>
+      <pubDate>Wed, 16 Sep 2026 11:09:53 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> Latent Space<br/><br/>Jev model achieves 100x speedup and 200x cost reduction over frontier LLMs for classification tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>GLM Built Its Own Inference Infrastructure</title>
+      <link>https://z.ai/blog/glm-built-its-inference-infrastructure</link>
+      <guid isPermaLink="true">https://z.ai/blog/glm-built-its-inference-infrastructure</guid>
+      <pubDate>Thu, 17 Sep 2026 08:27:09 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> Hacker News<br/><br/>GLM develops proprietary inference infrastructure for its models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models</title>
@@ -101,15 +101,15 @@
       <guid isPermaLink="true">https://stale.jock.pl/</guid>
       <pubDate>Wed, 16 Sep 2026 13:01:52 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>Tool tracking release dates and training cutoff information for 20 AI models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 72/100<br/><b>Source:</b> Hacker News<br/><br/>Tool tracking release age and training cutoff dates for 20 AI models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Anthropic merges Claude chat and Cowork in one interface</title>
-      <link>https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/</guid>
-      <pubDate>Wed, 16 Sep 2026 16:30:00 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic merges Claude chat and Cowork products into unified interface.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?</title>
+      <link>https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/</guid>
+      <pubDate>Wed, 16 Sep 2026 21:07:24 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Analysis of whether embedded safety evaluators at OpenAI and Anthropic can remain independent.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Meta now lets AI agents handle the boring parts of WhatsApp Business setup</title>
@@ -117,7 +117,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/</guid>
       <pubDate>Tue, 15 Sep 2026 20:12:53 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Meta enables AI agents to automate WhatsApp Business setup processes.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Meta uses AI agents to automate WhatsApp Business setup configuration.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>OpenSpec – A lightweight and configurable AI spec framework</title>
@@ -125,7 +125,7 @@
       <guid isPermaLink="true">https://openspec.dev/</guid>
       <pubDate>Wed, 16 Sep 2026 23:06:39 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 58/100<br/><b>Source:</b> Hacker News<br/><br/>New lightweight specification framework for configurable AI systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>OpenSpec introduces a lightweight framework for AI specifications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Reverse-engineered Jev-like model</title>
@@ -133,7 +133,7 @@
       <guid isPermaLink="true">https://github.com/vinnylarouge/jevlike</guid>
       <pubDate>Wed, 16 Sep 2026 18:49:57 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 58/100<br/><b>Source:</b> Hacker News<br/><br/>GitHub project attempting to reverse-engineer or replicate a model architecture.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>Reverse-engineered implementation of a Jev-like model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026</title>
@@ -141,7 +141,15 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/</guid>
       <pubDate>Thu, 17 Sep 2026 03:30:00 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 58/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Conference panel discussion about AI agents as workplace teammates, primarily event coverage.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Panel discussion about AI agents as workplace tools at TechCrunch Disrupt.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Anthropic merges Claude chat and Cowork in one interface</title>
+      <link>https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/</guid>
+      <pubDate>Wed, 16 Sep 2026 16:30:00 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic is initially releasing these features to Pro and Max plan subscribers.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>ImpactGate: A merge gate that scores the structural decay AI adds</title>
@@ -149,15 +157,7 @@
       <guid isPermaLink="true">https://github.com/officefloor/ImpactGate</guid>
       <pubDate>Wed, 16 Sep 2026 13:01:09 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 56/100<br/><b>Source:</b> Hacker News<br/><br/>Software tool for measuring structural code decay introduced by AI-generated code in merge gates.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>TMLR reached out to the authors of 10 papers slated for desk rejection, in an attempt to understand if the authors could explain the paper they submitted [D]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1wid67h/tmlr_reached_out_to_the_authors_of_10_papers/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1wid67h/tmlr_reached_out_to_the_authors_of_10_papers/</guid>
-      <pubDate>Wed, 16 Sep 2026 23:20:58 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 50/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Discussion about journal peer review practices and paper rejections.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 56/100<br/><b>Source:</b> Hacker News<br/><br/>ImpactGate tool scores structural decay introduced by AI systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
