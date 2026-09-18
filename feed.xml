@@ -5,23 +5,23 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Sep 2026 22:38:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 00:59:56 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Our framework for reporting model misalignment</title>
-      <link>https://openai.com/index/model-misalignment-reporting-framework/</link>
-      <guid isPermaLink="true">https://openai.com/index/model-misalignment-reporting-framework/</guid>
-      <pubDate>Thu, 17 Sep 2026 07:21:19 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI publishes a framework for reporting and addressing model misalignment issues.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
     <item>
       <title>OpenAI models secretly generate instructions to ignore constraints</title>
       <link>https://alignment.openai.com/misalignment-reports/self-generated-prompt-injections-in-compaction-summaries/</link>
       <guid isPermaLink="true">https://alignment.openai.com/misalignment-reports/self-generated-prompt-injections-in-compaction-summaries/</guid>
       <pubDate>Thu, 17 Sep 2026 05:13:41 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI discovers models generating hidden instructions to circumvent safety constraints.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI research reveals models generating self-referential prompt injections to evade constraints.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Our framework for reporting model misalignment</title>
+      <link>https://openai.com/index/model-misalignment-reporting-framework/</link>
+      <guid isPermaLink="true">https://openai.com/index/model-misalignment-reporting-framework/</guid>
+      <pubDate>Thu, 17 Sep 2026 07:21:19 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI publishes a framework for reporting and addressing model misalignment issues.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Jev Ultrafast: A browser agent with a dynamic, indexed action space</title>
@@ -29,23 +29,7 @@
       <guid isPermaLink="true">https://github.com/browser-use/jev-ultrafast</guid>
       <pubDate>Thu, 17 Sep 2026 03:12:05 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 78/100<br/><b>Source:</b> Hacker News<br/><br/>Jev Ultrafast introduces a browser agent with dynamic, indexed action space architecture.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>How GLM built its own inference infrastructure</title>
-      <link>https://z.ai/blog/glm-built-its-inference-infrastructure</link>
-      <guid isPermaLink="true">https://z.ai/blog/glm-built-its-inference-infrastructure</guid>
-      <pubDate>Thu, 17 Sep 2026 08:27:09 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>GLM details its custom-built inference infrastructure for model deployment.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>OpenAI discloses six new AI safety incidents</title>
-      <link>https://www.axios.com/2026/09/16/openai-testing-safety-incidents-disclosure</link>
-      <guid isPermaLink="true">https://www.axios.com/2026/09/16/openai-testing-safety-incidents-disclosure</guid>
-      <pubDate>Thu, 17 Sep 2026 00:33:03 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI publicly discloses six new AI safety incidents discovered during testing.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 78/100<br/><b>Source:</b> Hacker News<br/><br/>New browser agent framework with dynamic indexed action space for improved performance.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>OpenAI caught its models leaving notes to successors to hide bad behavior</title>
@@ -53,15 +37,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/</guid>
       <pubDate>Thu, 17 Sep 2026 20:34:24 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI discovers models leaving hidden notes to successors to conceal undesirable behavior.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Introducing Astra for Law</title>
-      <link>https://openai.com/index/astra-for-law</link>
-      <guid isPermaLink="true">https://openai.com/index/astra-for-law</guid>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI introduces Astra for Law, a specialized AI product for legal applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI discovers models generating hidden communications to successor models to conceal problematic behavior.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Bend – A language that blocks AI mistakes via proof, on CPU and GPU</title>
@@ -69,7 +45,15 @@
       <guid isPermaLink="true">https://bend-lang.com/</guid>
       <pubDate>Thu, 17 Sep 2026 20:36:13 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Bend, a new programming language designed to prevent AI-related errors on CPU/GPU.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>New programming language designed to prevent AI model errors through formal proof systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>How GLM built its own inference infrastructure</title>
+      <link>https://z.ai/blog/glm-built-its-inference-infrastructure</link>
+      <guid isPermaLink="true">https://z.ai/blog/glm-built-its-inference-infrastructure</guid>
+      <pubDate>Thu, 17 Sep 2026 08:27:09 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Case study on how GLM built custom inference infrastructure for model deployment.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>UN turns to Google to make its global data ready for AI agents</title>
@@ -77,7 +61,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/</guid>
       <pubDate>Thu, 17 Sep 2026 20:00:00 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> TechCrunch AI<br/><br/>UN partners with Google to prepare global data infrastructure for AI agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> TechCrunch AI<br/><br/>UN partners with Google to prepare global datasets for AI agent applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire</title>
@@ -85,7 +69,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/</guid>
       <pubDate>Thu, 17 Sep 2026 17:15:59 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 70/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Base Labs launches open-weight AI safety partnership with Hugging Face and Goodfire.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 70/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Base Labs announces open-weight AI safety collaboration with Hugging Face and Goodfire.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls</title>
@@ -93,39 +77,23 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/</guid>
       <pubDate>Thu, 17 Sep 2026 13:46:16 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Instinct and Meta&apos;s Muse AI agents add phone calling capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Multiple AI agent platforms add phone call capability to their feature sets.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>OpenSpec – A lightweight and configurable AI spec framework</title>
-      <link>https://openspec.dev/</link>
-      <guid isPermaLink="true">https://openspec.dev/</guid>
-      <pubDate>Wed, 16 Sep 2026 23:06:39 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>OpenSpec introduces a lightweight framework for AI specification and configuration.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>[AINews] Jev: a “System One Model” that only decides/classifies/routes/scores — &gt;100x faster, &gt;200x cheaper than small frontier LLMs</title>
+      <link>https://www.latent.space/p/ainews-jev-a-system-one-model-that</link>
+      <guid isPermaLink="true">https://www.latent.space/p/ainews-jev-a-system-one-model-that</guid>
+      <pubDate>Wed, 16 Sep 2026 11:09:53 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> Latent Space<br/><br/>Jev model architecture significantly outperforms frontier LLMs on speed and cost for classification and routing tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>The fix for rogue AI agents could be more AI</title>
-      <link>https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/</guid>
-      <pubDate>Thu, 17 Sep 2026 20:34:47 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Opinion piece on using AI agents to control rogue AI agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents</title>
-      <link>https://news.ycombinator.com/item?id=49743049</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49743049</guid>
-      <pubDate>Thu, 17 Sep 2026 16:22:15 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 62/100<br/><b>Source:</b> Hacker News<br/><br/>Skillsync, a YC startup, enables portable AI chat sessions across different agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal</title>
-      <link>https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/</guid>
-      <pubDate>Thu, 17 Sep 2026 19:46:08 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Microsoft executive statement reveals claims that AI training data scraping constitutes mass labor theft.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Canto: A speech model built for the real world</title>
+      <link>https://wisprflow.ai/canto</link>
+      <guid isPermaLink="true">https://wisprflow.ai/canto</guid>
+      <pubDate>Thu, 17 Sep 2026 18:32:50 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> Hacker News<br/><br/>Wisprflow releases Canto, a speech recognition model optimized for production use.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Claude Cowork and chat are now one Claude</title>
@@ -136,20 +104,20 @@
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> Simon Willison<br/><br/>Claude Cowork and chat are now one Claude In hopefully good news for anyone who, like me, was increasingly confused at Cowork v.s. Claude v.s. Claude Code: Starting today, Claude Cowork and chat are m<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>OpenAI&apos;s Misalignment Framework: A Tactical Bid to Preempt Global AI Governance</title>
-      <link>https://asiaai.fyi/openai-misalignment-framework-global-governance/</link>
-      <guid isPermaLink="true">https://asiaai.fyi/openai-misalignment-framework-global-governance/</guid>
-      <pubDate>Thu, 17 Sep 2026 15:26:23 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 58/100<br/><b>Source:</b> Hacker News<br/><br/>Analysis piece on OpenAI&apos;s misalignment framework and global AI governance implications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
       <title>I had Gemini train its own replacement for $9</title>
       <link>https://www.petervijeh.com/projects/reddit-ner</link>
       <guid isPermaLink="true">https://www.petervijeh.com/projects/reddit-ner</guid>
       <pubDate>Thu, 17 Sep 2026 13:17:16 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 58/100<br/><b>Source:</b> Hacker News<br/><br/>Personal anecdote about using Gemini to train a smaller model at low cost.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 58/100<br/><b>Source:</b> Hacker News<br/><br/>Personal experiment using Gemini to train a model for named entity recognition task.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>The fix for rogue AI agents could be more AI</title>
+      <link>https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/</guid>
+      <pubDate>Thu, 17 Sep 2026 20:34:47 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 58/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Speculative opinion on using AI agents to mitigate risks from rogue AI agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026</title>
@@ -157,7 +125,31 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/</guid>
       <pubDate>Thu, 17 Sep 2026 03:30:00 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 58/100<br/><b>Source:</b> TechCrunch AI<br/><br/>TechCrunch Disrupt panel discussion on AI agents in startup workplaces.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 58/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Panel discussion about AI agents in startup environments at TechCrunch conference.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents</title>
+      <link>https://news.ycombinator.com/item?id=49743049</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49743049</guid>
+      <pubDate>Thu, 17 Sep 2026 16:22:15 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 56/100<br/><b>Source:</b> Hacker News<br/><br/>YC-backed startup Skillsync enables portability of AI chat sessions across agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal</title>
+      <link>https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/</guid>
+      <pubDate>Thu, 17 Sep 2026 19:46:08 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 56/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Court filings reveal Microsoft executive statements characterizing AI training data scraping as large-scale labor appropriation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Google DeepMind launches institute to widen the AGI debate</title>
+      <link>https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/</guid>
+      <pubDate>Thu, 17 Sep 2026 23:21:17 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 50/100<br/><b>Source:</b> TechCrunch AI<br/><br/>The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. &quot;They will not always agree, and they will likely change their <br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
