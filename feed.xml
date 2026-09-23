@@ -5,23 +5,31 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Sep 2026 09:03:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 14:39:31 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>GPT-6 Sol and Luna</title>
-      <link>https://openai.com/index/introducing-gpt-6-sol-and-luna/</link>
-      <guid isPermaLink="true">https://openai.com/index/introducing-gpt-6-sol-and-luna/</guid>
-      <pubDate>Tue, 22 Sep 2026 18:00:34 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 92/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI announces GPT-6 Sol and Luna models with significant capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
     <item>
       <title>Claude Opus 5.5</title>
       <link>https://www.anthropic.com/claude-opus-5-5</link>
       <guid isPermaLink="true">https://www.anthropic.com/claude-opus-5-5</guid>
       <pubDate>Tue, 22 Sep 2026 16:29:05 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 90/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic releases Claude Opus 5.5, a major model update.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 90/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic releases Claude Opus 5.5 with improved performance and pricing.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>GPT-6 Sol and Luna</title>
+      <link>https://openai.com/index/introducing-gpt-6-sol-and-luna/</link>
+      <guid isPermaLink="true">https://openai.com/index/introducing-gpt-6-sol-and-luna/</guid>
+      <pubDate>Tue, 22 Sep 2026 18:00:34 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 86/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI announces GPT-6 Sol and Luna models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Anthropic releases Opus 5.5 with lower prices and Fable-level performance</title>
+      <link>https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/</guid>
+      <pubDate>Tue, 22 Sep 2026 16:30:07 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 80/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic releases Claude Opus 5.5 with improved performance and reduced pricing.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Introducing GPT-6 Sol and Luna</title>
@@ -29,7 +37,7 @@
       <guid isPermaLink="true">https://openai.com/index/introducing-gpt-6-sol-and-luna</guid>
       <pubDate>Tue, 22 Sep 2026 18:00:00 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 84/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces GPT-6 Sol and Luna models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces GPT-6 Sol and Luna models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Parallel cut research time and cost in half with GPT‑6 Astra</title>
@@ -37,7 +45,15 @@
       <guid isPermaLink="true">https://openai.com/index/parallel-cuts-time-and-cost-with-astra</guid>
       <pubDate>Tue, 22 Sep 2026 12:00:00 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 84/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI reports GPT-6 Astra reduces parallel processing time and cost by half.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI&apos;s GPT-6 Astra claims to reduce parallel computing time and costs.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Claude Code reads AGENTS.md only when telemetry is on</title>
+      <link>https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/</link>
+      <guid isPermaLink="true">https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/</guid>
+      <pubDate>Wed, 23 Sep 2026 12:15:33 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Analysis of Claude Code&apos;s behavior regarding telemetry and file reading patterns.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>[AINews] Xiaomi MiMo-V2.6-Pro 1T-A42B: the new top Open Weights model, trained for $3M</title>
@@ -45,7 +61,7 @@
       <guid isPermaLink="true">https://www.latent.space/p/ainews-xiaomi-mimo-v26-pro-1t-a42b</guid>
       <pubDate>Tue, 22 Sep 2026 06:30:56 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 80/100<br/><b>Source:</b> Latent Space<br/><br/>Xiaomi releases MiMo-V2.6-Pro 1T-A42B open weights model trained for $3M.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> Latent Space<br/><br/>Xiaomi releases MiMo-V2.6-Pro, a top-performing open weights model trained for $3M.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Better prompt caching for GPT-6</title>
@@ -53,23 +69,7 @@
       <guid isPermaLink="true">https://openai.com/index/better-prompt-caching-for-gpt-6</guid>
       <pubDate>Tue, 22 Sep 2026 21:00:00 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI introduces improvements to prompt caching for GPT-6.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Show HN: Training a model to identify AI web content from structure alone</title>
-      <link>https://arxiv.org/abs/2609.15369</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.15369</guid>
-      <pubDate>Tue, 22 Sep 2026 13:00:49 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Research on training models to identify AI-generated web content from structural features alone.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Higgsfield AI ships new video features in a day with GPT-6 Astra</title>
-      <link>https://openai.com/index/higgsfield-from-prompt-to-production-with-astra</link>
-      <guid isPermaLink="true">https://openai.com/index/higgsfield-from-prompt-to-production-with-astra</guid>
-      <pubDate>Mon, 21 Sep 2026 12:00:00 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Higgsfield AI reports rapid video feature development using GPT-6 Astra.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI improves prompt caching capabilities for GPT-6.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>[AINews] Claude Opus 5.5, the new default model for AINews — and everybody cuts prices 40-50%</title>
@@ -77,39 +77,7 @@
       <guid isPermaLink="true">https://www.latent.space/p/ainews-claude-opus-55-the-new-default</guid>
       <pubDate>Wed, 23 Sep 2026 06:41:41 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 72/100<br/><b>Source:</b> Latent Space<br/><br/>Latent Space reports Claude Opus 5.5 adoption and widespread price cuts of 40-50%.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005</title>
-      <link>https://www.cryptocellar.org/bgac/the-mvueh-break.html</link>
-      <guid isPermaLink="true">https://www.cryptocellar.org/bgac/the-mvueh-break.html</guid>
-      <pubDate>Tue, 22 Sep 2026 13:52:15 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI&apos;s GPT-6 Astra solves a long-standing cryptography challenge from 2005.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Show HN: JevBench, a reproducible benchmark for typed decision models</title>
-      <link>https://benchmarkheaven.com/jev-models</link>
-      <guid isPermaLink="true">https://benchmarkheaven.com/jev-models</guid>
-      <pubDate>Tue, 22 Sep 2026 13:01:03 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>JevBench introduces a reproducible benchmark for typed decision models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Snorkel AI triples valuation to $3.5B as demand for AI training data booms</title>
-      <link>https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/</guid>
-      <pubDate>Tue, 22 Sep 2026 21:56:43 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> TechCrunch AI<br/><br/>The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Jev introduces a new shape of LLM - System One, aka Decision Models</title>
-      <link>https://simonwillison.net/2026/Sep/21/jev/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/21/jev/</guid>
-      <pubDate>Mon, 21 Sep 2026 23:09:20 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> Simon Willison<br/><br/>Last week TypeSafe AI unveiled Jev, their first example of a new category of model that they are calling &quot;System One models&quot; (I&apos;m with Maggie Appleton, I think &quot;decision models&quot; is a better name for t<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 72/100<br/><b>Source:</b> Latent Space<br/><br/>Summary of Claude Opus 5.5 release and industry-wide price cuts of 40-50%.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Unreal Agent</title>
@@ -117,15 +85,15 @@
       <guid isPermaLink="true">https://unreallabs.ai/blog/unreal-agent/</guid>
       <pubDate>Tue, 22 Sep 2026 18:15:53 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>Unreal Labs announces Unreal Agent for game development.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Unreal Engine releases Unreal Agent for game development.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>QontoFAQ: A better Information Retrieval Benchmark [R]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1wn9xqk/qontofaq_a_better_information_retrieval_benchmark/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1wn9xqk/qontofaq_a_better_information_retrieval_benchmark/</guid>
-      <pubDate>Tue, 22 Sep 2026 13:45:18 +0000</pubDate>
+      <title>Snorkel AI triples valuation to $3.5B as demand for AI training data booms</title>
+      <link>https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/</guid>
+      <pubDate>Tue, 22 Sep 2026 21:56:43 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 64/100<br/><b>Source:</b> r/MachineLearning<br/><br/>QontoFAQ proposes a new information retrieval benchmark.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Snorkel AI reaches $3.5B valuation amid strong demand for AI training data.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>SF October 14th: A Birds of a Feather Session on Agentic Engineering</title>
@@ -133,7 +101,7 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/</guid>
       <pubDate>Wed, 23 Sep 2026 02:53:19 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> Simon Willison<br/><br/>Announcement of a Birds of a Feather session on agentic engineering at an upcoming conference.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> Simon Willison<br/><br/>Announcement of a birds of a feather session on agentic engineering at an upcoming conference.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Jev: System One models for Prod, not God — with Diogo Almeida, CEO, TypeSafe AI</title>
@@ -141,23 +109,47 @@
       <guid isPermaLink="true">https://www.latent.space/p/jev</guid>
       <pubDate>Mon, 21 Sep 2026 22:13:49 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 64/100<br/><b>Source:</b> Latent Space<br/><br/>Latent Space podcast episode discussing Jev system with TypeSafe AI CEO.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 64/100<br/><b>Source:</b> Latent Space<br/><br/>Interview with TypeSafe AI CEO discussing System One models for production use.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Stanford R&amp;DE Uses AI to Race Swap Students for Advertising</title>
-      <link>https://stanfordreview.org/stanford-r-de-uses-ai-to-race-swap-students-for-advertising/</link>
-      <guid isPermaLink="true">https://stanfordreview.org/stanford-r-de-uses-ai-to-race-swap-students-for-advertising/</guid>
-      <pubDate>Tue, 22 Sep 2026 13:52:56 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>People Training OpenAI&apos;s AI Fired for Using AI to Train the AI</title>
-      <link>https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/</link>
-      <guid isPermaLink="true">https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/</guid>
-      <pubDate>Tue, 22 Sep 2026 13:27:29 +0000</pubDate>
+      <title>Simulating fault tolerance with stage skipping in pipeline-parallel training [R]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1wnd5ys/simulating_fault_tolerance_with_stage_skipping_in/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1wnd5ys/simulating_fault_tolerance_with_stage_skipping_in/</guid>
+      <pubDate>Tue, 22 Sep 2026 15:47:47 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 60/100<br/><b>Source:</b> Hacker News<br/><br/>Report on OpenAI RLHF trainers fired for using AI to assist in training process.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research on fault tolerance optimization in distributed model training.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Jev introduces a new shape of LLM - System One, aka Decision Models</title>
+      <link>https://simonwillison.net/2026/Sep/21/jev/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/21/jev/</guid>
+      <pubDate>Mon, 21 Sep 2026 23:09:20 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> Simon Willison<br/><br/>Jev introduces System One, a new category of decision-focused language models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why</title>
+      <link>https://ai-rete-rag.com/</link>
+      <guid isPermaLink="true">https://ai-rete-rag.com/</guid>
+      <pubDate>Tue, 22 Sep 2026 16:15:06 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> Hacker News<br/><br/>Project combining Rete rule engine with RAG for explainability.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>LinearSolveBench: new benchmark for linear solvers [P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1wnctam/linearsolvebench_new_benchmark_for_linear_solvers/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1wnctam/linearsolvebench_new_benchmark_for_linear_solvers/</guid>
+      <pubDate>Tue, 22 Sep 2026 15:34:58 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 56/100<br/><b>Source:</b> r/MachineLearning<br/><br/>New benchmark for evaluating linear solvers in ML systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>LLM Ass Bench</title>
+      <link>https://www.assbench.com/</link>
+      <guid isPermaLink="true">https://www.assbench.com/</guid>
+      <pubDate>Tue, 22 Sep 2026 20:34:19 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 55/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
