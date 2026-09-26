@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Sep 2026 09:05:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 14:04:49 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Revealing the details of how OpenAI agents hacked Hugging Face</title>
@@ -16,12 +16,20 @@
       <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 100/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
+      <title>Introducing Gemini 3.8 Live with Live Avatar</title>
+      <link>https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/</link>
+      <guid isPermaLink="true">https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/</guid>
+      <pubDate>Thu, 24 Sep 2026 16:20:39 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 88/100<br/><b>Source:</b> Google DeepMind<br/><br/>Google DeepMind announces Gemini 3.8 Live with new live avatar capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
       <title>Microsoft abandons personal AI chatbot race with Copilot reboot</title>
       <link>https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot</link>
       <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot</guid>
       <pubDate>Fri, 25 Sep 2026 14:07:08 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 86/100<br/><b>Source:</b> Hacker News<br/><br/>Microsoft significantly restructures its AI chatbot strategy with a Copilot reboot.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 86/100<br/><b>Source:</b> Hacker News<br/><br/>Microsoft restructures Copilot strategy and exits personal AI chatbot market.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Meta&apos;s Muse appears to use an OpenAI model labeled muse-special</title>
@@ -53,31 +61,15 @@
       <guid isPermaLink="true">https://www.anthropic.com/research/yes-claude-can-do-nine-loops</guid>
       <pubDate>Fri, 25 Sep 2026 18:11:48 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic publishes research demonstrating Claude&apos;s ability to perform nested loop reasoning tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic publishes research on Claude&apos;s capability to execute nested loop constructs.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Introducing Gemini 3.8 Live with Live Avatar</title>
-      <link>https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/</link>
-      <guid isPermaLink="true">https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/</guid>
-      <pubDate>Thu, 24 Sep 2026 16:20:39 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 82/100<br/><b>Source:</b> Google DeepMind<br/><br/>Google DeepMind releases Gemini 3.8 Live with new avatar capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Proaction boosts sales 60% and saves 75+ hours with Codex</title>
-      <link>https://openai.com/index/proaction</link>
-      <guid isPermaLink="true">https://openai.com/index/proaction</guid>
-      <pubDate>Fri, 25 Sep 2026 19:00:00 +0000</pubDate>
+      <title>Understanding the Impact of LLM Watermarking on AI Agent Behavior</title>
+      <link>https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior</link>
+      <guid isPermaLink="true">https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior</guid>
+      <pubDate>Sat, 26 Sep 2026 13:05:36 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI publishes case study of a company using Codex for business process automation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Jevmem – automatic project memory for Claude Code, built on Jev</title>
-      <link>https://github.com/Avinash-jetwani/jevmem</link>
-      <guid isPermaLink="true">https://github.com/Avinash-jetwani/jevmem</guid>
-      <pubDate>Fri, 25 Sep 2026 16:04:04 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Open-source tool adds automatic project memory capabilities to Claude Code.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Research examines how LLM watermarking affects autonomous agent behavior and performance.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>U.S. appeals court upholds designation of Anthropic as supply chain risk</title>
@@ -85,7 +77,15 @@
       <guid isPermaLink="true">https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html</guid>
       <pubDate>Fri, 25 Sep 2026 15:29:25 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>U.S. appeals court upholds designation of Anthropic as a supply chain risk.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Proaction boosts sales 60% and saves 75+ hours with Codex</title>
+      <link>https://openai.com/index/proaction</link>
+      <guid isPermaLink="true">https://openai.com/index/proaction</guid>
+      <pubDate>Fri, 25 Sep 2026 19:00:00 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI case study reports customer achieved sales increase and time savings using Codex.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>FTC chair suggests AI developers should be liable for conduct of agents</title>
@@ -93,7 +93,31 @@
       <guid isPermaLink="true">https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25/</guid>
       <pubDate>Fri, 25 Sep 2026 22:49:41 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> Hacker News<br/><br/>FTC chair proposes regulatory framework holding AI developers liable for agent conduct.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> Hacker News<br/><br/>FTC chair proposes regulatory framework holding AI developers liable for agent misconduct.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>One Month Without AI</title>
+      <link>https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html</link>
+      <guid isPermaLink="true">https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html</guid>
+      <pubDate>Sat, 26 Sep 2026 10:08:21 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Too AI; Didn&apos;t Read</title>
+      <link>https://www.tai-dr.com/</link>
+      <guid isPermaLink="true">https://www.tai-dr.com/</guid>
+      <pubDate>Fri, 25 Sep 2026 20:37:56 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Jevmem – automatic project memory for Claude Code, built on Jev</title>
+      <link>https://github.com/Avinash-jetwani/jevmem</link>
+      <guid isPermaLink="true">https://github.com/Avinash-jetwani/jevmem</guid>
+      <pubDate>Fri, 25 Sep 2026 16:04:04 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Open-source tool adds automatic project memory feature for Claude Code integration.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>A Little Guide to Learning Distributed Algorithms for LLMS Training and Inference [D]</title>
@@ -101,15 +125,7 @@
       <guid isPermaLink="true">https://i.redd.it/shimrxewdtrh1.jpeg</guid>
       <pubDate>Sat, 26 Sep 2026 07:10:45 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Educational guide on distributed algorithms for LLM training and inference.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Anthropic to pay Akamai $11.6 billion over seven years in cloud deal</title>
-      <link>https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/</guid>
-      <pubDate>Fri, 25 Sep 2026 19:13:38 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic signs major cloud services deal with Akamai worth $11.6 billion over seven years.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Educational guide on distributed algorithms for LLM training and inference shared on r/MachineLearning.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Medical student asked if they can match into Neurosurgery without an A* first author paper [D]</title>
@@ -120,12 +136,12 @@
       <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts</title>
-      <link>https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/</guid>
-      <pubDate>Fri, 25 Sep 2026 15:48:14 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> TechCrunch AI<br/><br/>The latest unauthorized agent swarms were discovered by researchers.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Pope: AI must serve humans not become tool of domination</title>
+      <link>https://www.euronews.com/2026/09/25/ai-must-serve-humans-rather-than-become-an-instrument-of-domination-and-injustice-pope-war</link>
+      <guid isPermaLink="true">https://www.euronews.com/2026/09/25/ai-must-serve-humans-rather-than-become-an-instrument-of-domination-and-injustice-pope-war</guid>
+      <pubDate>Fri, 25 Sep 2026 19:18:05 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 50/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
