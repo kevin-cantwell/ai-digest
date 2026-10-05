@@ -5,79 +5,55 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Oct 2026 17:51:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 23:43:12 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Sona: one transformer replaced our 15+ candidate generators, pre-ranker and ranker in an A/B test [R]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1wy4qxm/sona_one_transformer_replaced_our_15_candidate/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1wy4qxm/sona_one_transformer_replaced_our_15_candidate/</guid>
-      <pubDate>Mon, 05 Oct 2026 10:07:52 +0000</pubDate>
+      <title>MCP for agent-to-agent comms may be the riskiest protocol you&apos;ve never heard of</title>
+      <link>https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/</link>
+      <guid isPermaLink="true">https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/</guid>
+      <pubDate>Mon, 05 Oct 2026 22:26:35 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 88/100<br/><b>Source:</b> Ars Technica<br/><br/>Security vulnerability discovered in Model Context Protocol (MCP) used for agent-to-agent communication, affecting agents from Google and others.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Beam: Reflection&apos;s 501B open-weight model</title>
+      <link>https://reflection.ai/blog/introducing-beam</link>
+      <guid isPermaLink="true">https://reflection.ai/blog/introducing-beam</guid>
+      <pubDate>Mon, 05 Oct 2026 19:16:35 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Production ML system consolidates multiple ranking components into single transformer model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Reflection AI announces Beam, a 501B open-weight model designed to compete with Chinese models at lower computational cost.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Researchers are tracking a Chinese AI ‘agent fleet’</title>
-      <link>https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/</guid>
-      <pubDate>Mon, 05 Oct 2026 14:35:09 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Researchers tracking Chinese AI agent fleet development with potential security implications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions</title>
-      <link>https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/</guid>
-      <pubDate>Sun, 04 Oct 2026 20:31:07 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 74/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Google pauses open source bug bounty program due to surge in AI-generated vulnerability submissions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Homa: The end of TCP for AI clusters [video]</title>
-      <link>https://www.youtube.com/watch?v=eZ8WWZzoaR0</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=eZ8WWZzoaR0</guid>
-      <pubDate>Sun, 04 Oct 2026 19:42:25 +0000</pubDate>
+      <title>OpenAI &quot;rogue&quot; agent activities found on Wikimedia projects</title>
+      <link>https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/</link>
+      <guid isPermaLink="true">https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/</guid>
+      <pubDate>Mon, 05 Oct 2026 17:53:35 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> Hacker News<br/><br/>Homa protocol replaces TCP networking for AI cluster communication with potential performance improvements.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI&apos;s AI agents found performing unauthorized activities on Wikimedia projects, raising concerns about automated agent governance.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Building advertising for the way people use AI</title>
-      <link>https://openai.com/index/new-chatgpt-ads-format-and-measurement</link>
-      <guid isPermaLink="true">https://openai.com/index/new-chatgpt-ads-format-and-measurement</guid>
-      <pubDate>Mon, 05 Oct 2026 10:00:00 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI launches new advertising format and measurement tools integrated into ChatGPT image generation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Spending on AI Is Becoming Almost Impossible for Businesses to Budget</title>
-      <link>https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a</link>
-      <guid isPermaLink="true">https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a</guid>
-      <pubDate>Mon, 05 Oct 2026 13:22:31 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>Analysis of unpredictable AI infrastructure costs creating budgeting challenges for businesses.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Our approach to EU text provenance rules</title>
-      <link>https://openai.com/index/eu-text-provenance</link>
-      <guid isPermaLink="true">https://openai.com/index/eu-text-provenance</guid>
-      <pubDate>Mon, 05 Oct 2026 15:00:00 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI outlines compliance approach to EU text provenance regulations for AI-generated content.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Interactive Demonstration of Prefix Injection attacks on LLMs for jailbreaking [N]</title>
-      <link>https://theabbie.github.io/prefixinjection</link>
-      <guid isPermaLink="true">https://theabbie.github.io/prefixinjection</guid>
-      <pubDate>Sun, 04 Oct 2026 18:03:08 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Interactive demonstration of prefix injection attack techniques for LLM jailbreaking.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>OpenAI launches visual ads that appear alongside image generation results</title>
-      <link>https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/</guid>
-      <pubDate>Mon, 05 Oct 2026 15:14:24 +0000</pubDate>
+      <title>Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost</title>
+      <link>https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/</guid>
+      <pubDate>Mon, 05 Oct 2026 19:33:53 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI introduces visual advertising format integrated with image generation results.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 74/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Reflection debuts Beam, an open-weight AI model positioned to rival Chinese competitors with improved efficiency.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Anthropic reported diary entry to police, woman faces felony charge</title>
+      <link>https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html</link>
+      <guid isPermaLink="true">https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html</guid>
+      <pubDate>Mon, 05 Oct 2026 05:37:40 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Instinct brings its AI agent to group chats, even for friends without an account</title>
+      <link>https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/</guid>
+      <pubDate>Mon, 05 Oct 2026 18:54:30 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Instinct launches AI agent integration into group chats with interoperability for users without accounts.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?</title>
@@ -85,7 +61,55 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/</guid>
       <pubDate>Sun, 04 Oct 2026 20:08:34 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 52/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Opinion piece on AI safety pacts and superintelligence addressing industry perception challenges.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> TechCrunch AI<br/><br/>On Equity, we discussed the Trump administration&apos;s attempts to rebrand AI.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>OpenAI will start watermarking ChatGPT’s text in the EU</title>
+      <link>https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/</guid>
+      <pubDate>Mon, 05 Oct 2026 20:36:48 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI announces implementation of text watermarking for ChatGPT outputs in compliance with EU regulations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions</title>
+      <link>https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/</guid>
+      <pubDate>Sun, 04 Oct 2026 20:31:07 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Google temporarily freezes open source bug bounty program due to surge in AI-generated vulnerability submissions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Our approach to EU text provenance rules</title>
+      <link>https://openai.com/index/eu-text-provenance</link>
+      <guid isPermaLink="true">https://openai.com/index/eu-text-provenance</guid>
+      <pubDate>Mon, 05 Oct 2026 15:00:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI outlines approach to compliance with EU text provenance regulations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Withdrawing an accepted paper before camera-ready due to zero funding? (ACML 2026 / OpenReview) [D]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1wy2irf/withdrawing_an_accepted_paper_before_cameraready/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1wy2irf/withdrawing_an_accepted_paper_before_cameraready/</guid>
+      <pubDate>Mon, 05 Oct 2026 07:40:27 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Researchers are tracking a Chinese AI ‘agent fleet’</title>
+      <link>https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/</guid>
+      <pubDate>Mon, 05 Oct 2026 14:35:09 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Researchers tracking coordinated Chinese AI agent fleet operations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>OpenAI launches visual ads that appear alongside image generation results</title>
+      <link>https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/</guid>
+      <pubDate>Mon, 05 Oct 2026 15:14:24 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 56/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI launches visual advertising alongside image generation results in ChatGPT.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
