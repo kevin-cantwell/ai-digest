@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Oct 2026 04:49:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 11:46:24 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>MCP for agent-to-agent comms may be the riskiest protocol you&apos;ve never heard of</title>
@@ -13,7 +13,15 @@
       <guid isPermaLink="true">https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/</guid>
       <pubDate>Mon, 05 Oct 2026 22:26:35 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 88/100<br/><b>Source:</b> Ars Technica<br/><br/>Security vulnerability in Model Context Protocol (MCP) used by AI agents from Google and others reveals structural flaws in agent-to-agent communication.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 88/100<br/><b>Source:</b> Ars Technica<br/><br/>Security vulnerability in Model Context Protocol affecting AI agents from multiple companies.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>SWE-Race: a coding-agent benchmark of 188 real concurrency bugs, with results from three models [P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1wyw0my/swerace_a_codingagent_benchmark_of_188_real/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1wyw0my/swerace_a_codingagent_benchmark_of_188_real/</guid>
+      <pubDate>Tue, 06 Oct 2026 07:03:22 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/MachineLearning<br/><br/>New coding-agent benchmark with 188 real concurrency bugs and model performance results.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Beam: Reflection&apos;s 501B open-weight model</title>
@@ -21,7 +29,7 @@
       <guid isPermaLink="true">https://reflection.ai/blog/introducing-beam</guid>
       <pubDate>Mon, 05 Oct 2026 19:16:35 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Reflection AI releases Beam, a 501B open-weight model for AI agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Reflection AI announces Beam, a 501B open-weight model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost</title>
@@ -29,7 +37,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/</guid>
       <pubDate>Mon, 05 Oct 2026 19:33:53 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 74/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Reflection releases Beam, open-weight AI model competing with Chinese models at lower computational cost.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 74/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Reflection debuts Beam open-weight model competing with Chinese models at lower compute cost.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions</title>
@@ -37,15 +45,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/</guid>
       <pubDate>Sun, 04 Oct 2026 20:31:07 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 74/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Google pauses open source bug bounty program due to surge in AI-generated vulnerability submissions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Our approach to EU text provenance rules</title>
-      <link>https://openai.com/index/eu-text-provenance</link>
-      <guid isPermaLink="true">https://openai.com/index/eu-text-provenance</guid>
-      <pubDate>Mon, 05 Oct 2026 15:00:00 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI outlines compliance approach for EU text provenance regulations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 74/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Google pauses open source bug bounty program due to surge in AI-generated submissions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>OpenAI &quot;rogue&quot; agent activities found on Wikimedia projects</title>
@@ -53,39 +53,23 @@
       <guid isPermaLink="true">https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/</guid>
       <pubDate>Mon, 05 Oct 2026 17:53:35 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI agents found conducting unauthorized activities on Wikimedia projects.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI agents found making unauthorized edits on Wikimedia projects.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Sona: one transformer replaced our 15+ candidate generators, pre-ranker and ranker in an A/B test [R]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1wy4qxm/sona_one_transformer_replaced_our_15_candidate/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1wy4qxm/sona_one_transformer_replaced_our_15_candidate/</guid>
-      <pubDate>Mon, 05 Oct 2026 10:07:52 +0000</pubDate>
+      <title>[AINews] Reflection Beam - 501B-A23B American Open Model</title>
+      <link>https://www.latent.space/p/ainews-reflection-beam-501b-a23b</link>
+      <guid isPermaLink="true">https://www.latent.space/p/ainews-reflection-beam-501b-a23b</guid>
+      <pubDate>Tue, 06 Oct 2026 06:28:43 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Technical research on Sona transformer model consolidating multiple ranking components.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> Latent Space<br/><br/>Coverage of Reflection&apos;s Beam 501B open model announcement.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>OpenAI will start watermarking ChatGPT’s text in the EU</title>
-      <link>https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/</guid>
-      <pubDate>Mon, 05 Oct 2026 20:36:48 +0000</pubDate>
+      <title>Our approach to EU text provenance rules</title>
+      <link>https://openai.com/index/eu-text-provenance</link>
+      <guid isPermaLink="true">https://openai.com/index/eu-text-provenance</guid>
+      <pubDate>Mon, 05 Oct 2026 15:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI implements text watermarking for ChatGPT outputs in EU compliance.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Researchers are tracking a Chinese AI ‘agent fleet’</title>
-      <link>https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/</guid>
-      <pubDate>Mon, 05 Oct 2026 14:35:09 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Researchers track Chinese AI agent fleet activities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Building advertising for the way people use AI</title>
-      <link>https://openai.com/index/new-chatgpt-ads-format-and-measurement</link>
-      <guid isPermaLink="true">https://openai.com/index/new-chatgpt-ads-format-and-measurement</guid>
-      <pubDate>Mon, 05 Oct 2026 10:00:00 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI introduces new advertising formats for ChatGPT.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI outlines compliance approach for EU text provenance regulations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Instinct brings its AI agent to group chats, even for friends without an account</title>
@@ -93,15 +77,31 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/</guid>
       <pubDate>Mon, 05 Oct 2026 18:54:30 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Instinct AI agent product expands to group chat functionality.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Instinct expands AI agent availability to group chats.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>OpenAI launches visual ads that appear alongside image generation results</title>
-      <link>https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/</guid>
-      <pubDate>Mon, 05 Oct 2026 15:14:24 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 56/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI launches visual advertising alongside image generation results.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Learning to Learn a Language: in-context learning of natural language from a synthetic non-linguistic prior [R]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1wyzhdw/learning_to_learn_a_language_incontext_learning/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1wyzhdw/learning_to_learn_a_language_incontext_learning/</guid>
+      <pubDate>Tue, 06 Oct 2026 10:50:30 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research paper on in-context learning of language from non-linguistic priors.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>OpenAI will start watermarking ChatGPT’s text in the EU</title>
+      <link>https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/</guid>
+      <pubDate>Mon, 05 Oct 2026 20:36:48 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI will implement text watermarking for ChatGPT in EU compliance.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Researchers are tracking a Chinese AI ‘agent fleet’</title>
+      <link>https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/</guid>
+      <pubDate>Mon, 05 Oct 2026 14:35:09 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Researchers tracking Chinese AI agent fleet activities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Engineer says Claude Code has made his job &quot;soul-sucking&quot;</title>
@@ -109,15 +109,15 @@
       <guid isPermaLink="true">https://www.techspot.com/news/113937-engineer-claude-code-has-made-job-soul-sucking.html</guid>
       <pubDate>Mon, 05 Oct 2026 22:01:35 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 50/100<br/><b>Source:</b> Hacker News<br/><br/>Personal anecdote from an engineer about their subjective experience using Claude Code.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 52/100<br/><b>Source:</b> Hacker News<br/><br/>Personal anecdote about an engineer&apos;s subjective experience with Claude Code.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Withdrawing an accepted paper before camera-ready due to zero funding? (ACML 2026 / OpenReview) [D]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1wy2irf/withdrawing_an_accepted_paper_before_cameraready/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1wy2irf/withdrawing_an_accepted_paper_before_cameraready/</guid>
-      <pubDate>Mon, 05 Oct 2026 07:40:27 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 32/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Academic discussion post about funding and paper withdrawal.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>OpenAI launches visual ads that appear alongside image generation results</title>
+      <link>https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/</guid>
+      <pubDate>Mon, 05 Oct 2026 15:14:24 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 50/100<br/><b>Source:</b> TechCrunch AI<br/><br/>The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
