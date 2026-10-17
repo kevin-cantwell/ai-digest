@@ -5,95 +5,15 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Oct 2026 17:45:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 20:05:48 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console</title>
-      <link>https://github.com/cobanov/PS5LM</link>
-      <guid isPermaLink="true">https://github.com/cobanov/PS5LM</guid>
-      <pubDate>Fri, 16 Oct 2026 18:32:35 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Llama.cpp successfully ported to jailbroken PS5, enabling native GGUF model inference on gaming hardware.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Designing more efficient quantum circuits with Claude</title>
-      <link>https://www.anthropic.com/research/designing-efficient-quantum-circuits</link>
-      <guid isPermaLink="true">https://www.anthropic.com/research/designing-efficient-quantum-circuits</guid>
-      <pubDate>Fri, 16 Oct 2026 18:00:18 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic demonstrates Claude&apos;s capability to design more efficient quantum circuits.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>[Research] 2,788 tokens/s on a single RTX 5090 with a diffusion LLM — Introducing ORL (fully open source) [R]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1x7qgr0/research_2788_tokenss_on_a_single_rtx_5090_with_a/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1x7qgr0/research_2788_tokenss_on_a_single_rtx_5090_with_a/</guid>
-      <pubDate>Fri, 16 Oct 2026 20:03:32 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Open-source diffusion LLM achieves 2,788 tokens/s on RTX 5090; notable performance milestone with reproducible code.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>OpenAI models hacked a crypto wallet and breached more websites</title>
-      <link>https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/</link>
-      <guid isPermaLink="true">https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/</guid>
-      <pubDate>Fri, 16 Oct 2026 20:59:01 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> Ars Technica<br/><br/>OpenAI models demonstrated breaking into crypto wallet and breaching websites; significant security research findings.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Meta launches an open-weight AI model that runs on Macs</title>
-      <link>https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/</guid>
-      <pubDate>Thu, 15 Oct 2026 20:04:53 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 74/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Meta launches open-weight AI model optimized to run on Mac hardware; significant product release with broad accessibility.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Claude reveals ECDSA curve origins</title>
-      <link>https://www.anthropic.com/research/ecdsa-curve-origins</link>
-      <guid isPermaLink="true">https://www.anthropic.com/research/ecdsa-curve-origins</guid>
-      <pubDate>Fri, 16 Oct 2026 18:55:59 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic publishes research on ECDSA curve origins, a cryptographic topic with unclear direct AI relevance.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>OpenAI discloses four more rogue incidents</title>
-      <link>https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/</link>
-      <guid isPermaLink="true">https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/</guid>
-      <pubDate>Sat, 17 Oct 2026 16:31:12 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI discloses four rogue AI incidents involving financial, medical, and government data; significant security and safety disclosure.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Elorian’s first AI model wants to reason with images, not just about them</title>
-      <link>https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/</guid>
-      <pubDate>Fri, 16 Oct 2026 16:01:37 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Elorian releases AI model capable of reasoning with images, not just about them; notable technical capability.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Anthropic is letting METR researchers look under the hood with employee-level access</title>
-      <link>https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/</guid>
-      <pubDate>Thu, 15 Oct 2026 19:14:26 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic grants METR researchers employee-level access for AI safety evaluation; important development in AI transparency.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware</title>
-      <link>https://llmspeed.dev/</link>
-      <guid isPermaLink="true">https://llmspeed.dev/</guid>
-      <pubDate>Sat, 17 Oct 2026 04:36:53 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>Llmspeed tool allows benchmarking local LLM performance before hardware purchase; useful utility with modest novelty.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
     <item>
       <title>Benefit Street Partners answers questions faster with Codex</title>
       <link>https://openai.com/index/benefit-street-partners</link>
       <guid isPermaLink="true">https://openai.com/index/benefit-street-partners</guid>
       <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Benefit Street Partners uses OpenAI Codex for faster question answering; primarily a customer case study.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI case study on Benefit Street Partners using Codex for faster question answering.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>[AINews] Agents disprove Polysemanticity; greatly improve Interpretability &amp; Alignment</title>
@@ -101,23 +21,15 @@
       <guid isPermaLink="true">https://www.latent.space/p/ainews-agents-disprove-polysemanticity</guid>
       <pubDate>Fri, 16 Oct 2026 04:16:45 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 64/100<br/><b>Source:</b> Latent Space<br/><br/>Headline claims agents disprove polysemanticity and improve interpretability; likely overstated without peer review.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Latent Space<br/><br/>Claims about agents improving interpretability and alignment through polysemanticity research.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>A simulated fruit fly brain learns to drive. I turned the training into a 24/7 racing league with Elo, seasons and family dynasties [P]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1x7tj60/a_simulated_fruit_fly_brain_learns_to_drive_i/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1x7tj60/a_simulated_fruit_fly_brain_learns_to_drive_i/</guid>
-      <pubDate>Fri, 16 Oct 2026 22:09:10 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Simulated fruit fly brain trained to drive with gamified Elo ranking system; creative project but primarily personal experiment.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>EpochGo: Local-first multi-agent AutoML engine using offline Ollama LLMs and deterministic Scikit-Learn pipelines [P]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1x8c2sq/epochgo_localfirst_multiagent_automl_engine_using/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1x8c2sq/epochgo_localfirst_multiagent_automl_engine_using/</guid>
-      <pubDate>Sat, 17 Oct 2026 14:48:25 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Local-first multi-agent AutoML engine combining Ollama and Scikit-Learn; interesting project but early-stage self-promotion.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Elorian’s first AI model wants to reason with images, not just about them</title>
+      <link>https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/</guid>
+      <pubDate>Fri, 16 Oct 2026 16:01:37 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Elorian releases new AI model focused on visual reasoning capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Stack Overflow for Agents triples signups with ChatGPT plugin</title>
@@ -125,15 +37,47 @@
       <guid isPermaLink="true">https://openai.com/index/stack-overflow-chatgpt-plugin</guid>
       <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 60/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Stack Overflow adoption of ChatGPT plugin increased signups; mainly business/adoption news.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 66/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Stack Overflow plugin for ChatGPT reports tripled signups in usage.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Bringing GPT-Rosalind to academic research labs</title>
-      <link>https://openai.com/index/introducing-the-rosalind-academic-plan</link>
-      <guid isPermaLink="true">https://openai.com/index/introducing-the-rosalind-academic-plan</guid>
-      <pubDate>Thu, 15 Oct 2026 19:00:00 +0000</pubDate>
+      <title>Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware</title>
+      <link>https://llmspeed.dev/</link>
+      <guid isPermaLink="true">https://llmspeed.dev/</guid>
+      <pubDate>Sat, 17 Oct 2026 04:36:53 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>Tool for benchmarking local LLM performance across different hardware configurations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Replit is no longer working with Anthropic, CEO says</title>
+      <link>https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/</guid>
+      <pubDate>Sat, 17 Oct 2026 18:48:08 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Replit CEO announces end of partnership with Anthropic.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Jev is Vercel’s fastest-adopted AI model ever</title>
+      <link>https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/</guid>
+      <pubDate>Fri, 16 Oct 2026 15:33:49 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Vercel&apos;s Jev model achieves rapid adoption as fastest-adopted model release.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>EpochGo: Local-first multi-agent AutoML engine using offline Ollama LLMs and deterministic Scikit-Learn pipelines [P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1x8c2sq/epochgo_localfirst_multiagent_automl_engine_using/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1x8c2sq/epochgo_localfirst_multiagent_automl_engine_using/</guid>
+      <pubDate>Sat, 17 Oct 2026 14:48:25 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI launches GPT-Rosalind academic plan; primarily a product offering announcement.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Open-source local-first multi-agent AutoML engine combining Ollama and Scikit-Learn.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>How Itaú is building generative AI for its entire customer base</title>
+      <link>https://openai.com/index/itau-generative-ai</link>
+      <guid isPermaLink="true">https://openai.com/index/itau-generative-ai</guid>
+      <pubDate>Fri, 16 Oct 2026 19:00:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI case study on Itaú bank implementing generative AI for customers.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Learn what&apos;s inside AI Agent Interactively in 3D [P]</title>
@@ -141,7 +85,15 @@
       <guid isPermaLink="true">https://i.redd.it/x05dam7ee1wh1.gif</guid>
       <pubDate>Sat, 17 Oct 2026 14:22:57 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 52/100<br/><b>Source:</b> r/MachineLearning<br/><br/>3D interactive visualization tool for understanding AI agents; self-promotion with limited technical depth.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 58/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Interactive 3D visualization tool for understanding AI agent internals.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>India becomes the latest country to report rogue AI agent activity</title>
+      <link>https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/</guid>
+      <pubDate>Fri, 16 Oct 2026 17:52:24 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 52/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Geopolitical reporting on AI agent incidents without substantive technical details.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
