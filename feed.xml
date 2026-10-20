@@ -5,31 +5,23 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Oct 2026 18:19:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 22:04:48 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Claude designed protein binders against scorpion neurotoxins</title>
+      <link>https://www.anthropic.com/research/claude-scorpion-toxin-binder-design</link>
+      <guid isPermaLink="true">https://www.anthropic.com/research/claude-scorpion-toxin-binder-design</guid>
+      <pubDate>Tue, 20 Oct 2026 17:48:29 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 92/100<br/><b>Source:</b> Hacker News<br/><br/>Claude successfully designed protein binders against scorpion neurotoxins in a practical biotech application.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
     <item>
       <title>Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’</title>
       <link>https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/</link>
       <guid isPermaLink="true">https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/</guid>
       <pubDate>Mon, 19 Oct 2026 22:04:28 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 88/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Microsoft raises concerns about AI agents as security risks comparable to insider threats.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>DeepInfer: High-performance inference framework for DeepSeek models</title>
-      <link>https://github.com/deepseek-ai/DeepInfer</link>
-      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepInfer</guid>
-      <pubDate>Tue, 20 Oct 2026 09:08:54 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>DeepSeek releases DeepInfer, a high-performance inference framework for their models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Nvidia launches new open models to run agents in the enterprise and on PCs</title>
-      <link>https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/</guid>
-      <pubDate>Mon, 19 Oct 2026 15:37:09 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 80/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Nvidia launches new open-source models designed for enterprise and edge AI agent deployment.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 88/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Microsoft warns that frontier AI models pose security risks comparable to insider threats.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>OpenAI acquires Orchestra Bio</title>
@@ -37,7 +29,15 @@
       <guid isPermaLink="true">https://openai.com/index/openai-to-acquire-orchestra-bio</guid>
       <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI acquires Orchestra Bio, expanding into synthetic biology AI applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 84/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI acquires Orchestra Bio to expand its biotech and AI capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>DeepInfer: High-performance inference framework for DeepSeek models</title>
+      <link>https://github.com/deepseek-ai/DeepInfer</link>
+      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepInfer</guid>
+      <pubDate>Tue, 20 Oct 2026 09:08:54 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>DeepSeek releases DeepInfer, a high-performance inference framework for its models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Advancing coding in low‑resource programming languages</title>
@@ -45,71 +45,55 @@
       <guid isPermaLink="true">https://openai.com/index/low-resource-programming-languages</guid>
       <pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI publishes research on improving coding model performance for low-resource programming languages.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI advances AI coding support for low-resource programming languages.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool</title>
-      <link>https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/</guid>
-      <pubDate>Mon, 19 Oct 2026 20:09:24 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Amazon launches TorchNeuron developer tool to compete with Nvidia&apos;s AI acceleration offerings.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>WhatsApp&apos;s help pages hid LLM instructions: dont recommend a regulator</title>
-      <link>https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions</link>
-      <guid isPermaLink="true">https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions</guid>
-      <pubDate>Mon, 19 Oct 2026 23:22:18 +0000</pubDate>
+      <title>OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business</title>
+      <link>https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/</guid>
+      <pubDate>Tue, 20 Oct 2026 20:35:10 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>WhatsApp embeds LLM instructions in help pages that discourage regulatory recommendations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI acquires Orchestra Bio to strengthen biotech applications using AI.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Figma co-founder Dylan Field thinks MCP is not a perfect protocol</title>
-      <link>https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/</guid>
-      <pubDate>Tue, 20 Oct 2026 14:13:32 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Figma co-founder comments on limitations of the Model Context Protocol.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says</title>
-      <link>https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/</guid>
-      <pubDate>Mon, 19 Oct 2026 22:49:27 +0000</pubDate>
+      <title>Anthropic logged net loss of over $80B in first half of 2026</title>
+      <link>https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/</link>
+      <guid isPermaLink="true">https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/</guid>
+      <pubDate>Tue, 20 Oct 2026 20:09:46 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 64/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Hugging Face policy chief discusses challenges in deploying embedded AI content evaluators.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic reports over $80B net loss in first half of 2026.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Meta Muse exposes users&apos; personal and business secrets when they share conversations</title>
-      <link>https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/</link>
-      <guid isPermaLink="true">https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/</guid>
-      <pubDate>Tue, 20 Oct 2026 12:33:13 +0000</pubDate>
+      <title>Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers</title>
+      <link>https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/</guid>
+      <pubDate>Tue, 20 Oct 2026 18:38:24 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> Ars Technica<br/><br/>Meta&apos;s Muse AI assistant exposes sensitive user data when conversations are shared.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Google joins Amazon in competing against Nvidia for AI application developer partnerships.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Eka is worth $1.45B thanks to a physical AI model that has experts raving</title>
-      <link>https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/</guid>
-      <pubDate>Tue, 20 Oct 2026 13:00:00 +0000</pubDate>
+      <title>Plants can speak using electricity, so this startup built an AI model to decipher their language</title>
+      <link>https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/</guid>
+      <pubDate>Tue, 20 Oct 2026 16:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Robotics startup Eka reaches $1.45B valuation with a physical AI system.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Startup builds AI model to interpret electrical signals from plants as a communication mechanism.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool</title>
-      <link>https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/</guid>
-      <pubDate>Tue, 20 Oct 2026 11:00:00 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Otter.ai raises $320 million for its AI-powered meeting transcription and analysis platform.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins</title>
+      <link>https://news.ycombinator.com/item?id=50167583</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50167583</guid>
+      <pubDate>Tue, 20 Oct 2026 15:09:29 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 62/100<br/><b>Source:</b> Hacker News<br/><br/>Respan, a YC-backed open-source Rust AI gateway with plugin architecture, launches.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts</title>
-      <link>https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/</guid>
-      <pubDate>Mon, 19 Oct 2026 19:28:34 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Hackers compromise OpenCode AI platform and exploit compromised accounts to generate fraudulent API charges.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Anthropic’s cloud partnerships are getting messy</title>
+      <link>https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/</guid>
+      <pubDate>Tue, 20 Oct 2026 21:25:22 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic&apos;s cloud provider partnerships face complications and tensions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Show HN: Penmentor – Claude marks up your handwritten math like a teacher</title>
@@ -117,15 +101,39 @@
       <guid isPermaLink="true">https://github.com/AbdullahAlhariri/penmentor</guid>
       <pubDate>Tue, 20 Oct 2026 15:10:54 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 54/100<br/><b>Source:</b> Hacker News<br/><br/>A new tool uses Claude to provide feedback on handwritten math problems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> Hacker News<br/><br/>Claude-based tool that provides feedback on handwritten math problems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>llm-tools-datasette 0.1.1</title>
-      <link>https://simonwillison.net/2026/Oct/18/llm-tools-datasette/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/18/llm-tools-datasette/</guid>
-      <pubDate>Sun, 18 Oct 2026 23:43:09 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 50/100<br/><b>Source:</b> Simon Willison<br/><br/>Release: llm-tools-datasette 0.1.1 When I switched LLM over to httpx2 in LLM 0.33 I forget that this would break any plugins which used httpx without directly depending on it. llm-tools-datasette was <br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Figma co-founder Dylan Field thinks MCP is not a perfect protocol</title>
+      <link>https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/</guid>
+      <pubDate>Tue, 20 Oct 2026 14:13:32 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 52/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Figma co-founder offers opinion that MCP protocol has limitations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool</title>
+      <link>https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/</guid>
+      <pubDate>Tue, 20 Oct 2026 11:00:00 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 50/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst&amp;#8217;s Customer Value Fund (CVF), which provides capital to startups without diluting equi<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool</title>
+      <link>https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/</guid>
+      <pubDate>Mon, 19 Oct 2026 20:09:24 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 50/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts</title>
+      <link>https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/</guid>
+      <pubDate>Mon, 19 Oct 2026 19:28:34 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 50/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenCode is an open source AI coding agent that&apos;s become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI to<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
