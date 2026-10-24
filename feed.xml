@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Oct 2026 17:11:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 20:11:46 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)</title>
@@ -13,55 +13,15 @@
       <guid isPermaLink="true">https://openai.com/index/scaling-storage-one-billion-users-part-two</guid>
       <pubDate>Fri, 23 Oct 2026 17:00:00 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 88/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI describes infrastructure scaling solutions for serving over 1 billion ChatGPT users.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 82/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI details infrastructure scaling techniques for handling over 1 billion ChatGPT users&apos; storage needs.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Securing our frontier model training environment</title>
-      <link>https://openai.com/index/securing-our-frontier-model-training-environment/</link>
-      <guid isPermaLink="true">https://openai.com/index/securing-our-frontier-model-training-environment/</guid>
-      <pubDate>Fri, 23 Oct 2026 19:50:56 +0000</pubDate>
+      <link>https://openai.com/index/securing-our-frontier-model-training-environment</link>
+      <guid isPermaLink="true">https://openai.com/index/securing-our-frontier-model-training-environment</guid>
+      <pubDate>Fri, 23 Oct 2026 10:00:00 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI publishes technical details on securing frontier model training infrastructure.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Canva releases its first image generation model</title>
-      <link>https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/</guid>
-      <pubDate>Thu, 22 Oct 2026 19:00:00 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 80/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Canva releases proprietary image generation model as first major product offering.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Build more responsive apps with the Decisions API</title>
-      <link>https://openai.com/index/decisions-api</link>
-      <guid isPermaLink="true">https://openai.com/index/decisions-api</guid>
-      <pubDate>Thu, 22 Oct 2026 19:00:00 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI releases Decisions API for building more responsive applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Dessa: Conversation Model trained only on speech</title>
-      <link>https://block.xyz/dessa</link>
-      <guid isPermaLink="true">https://block.xyz/dessa</guid>
-      <pubDate>Fri, 23 Oct 2026 19:09:54 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Dessa conversation model trained exclusively on speech data released.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>1Password launches a way for AI agents to log in on your behalf without seeing your password</title>
-      <link>https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/</guid>
-      <pubDate>Thu, 22 Oct 2026 19:07:09 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> TechCrunch AI<br/><br/>1Password launches secure agent authentication method that prevents credential exposure.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Donating Agent Skills to the Agentic AI Foundation</title>
-      <link>https://simonwillison.net/2026/Oct/22/donating-agent-skills/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/22/donating-agent-skills/</guid>
-      <pubDate>Thu, 22 Oct 2026 18:09:56 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Simon Willison<br/><br/>Agent skills being donated to an open foundation for agentic AI development.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 82/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI publishes technical approach to securing frontier model training environments.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>OpenAI and Poland’s NASK partner to advance AI safety and security</title>
@@ -69,7 +29,7 @@
       <guid isPermaLink="true">https://openai.com/index/openai-nask-ai-safety-security-partnership</guid>
       <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI partners with Poland&apos;s NASK on AI safety and security initiatives.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI and Poland&apos;s NASK announce partnership focused on AI safety and security research.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”</title>
@@ -77,71 +37,15 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/</guid>
       <pubDate>Fri, 23 Oct 2026 23:05:49 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI announces policy change to stop training models on live internet data due to security risks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI announces policy change to stop training models on live internet data due to safety risks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Block’s new voice model sounds eerily human</title>
-      <link>https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/</guid>
-      <pubDate>Sat, 24 Oct 2026 16:00:00 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Block releases voice model demonstrating highly realistic human-like speech synthesis.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed</title>
-      <link>https://latent.space/p/ainews-kimi-31/</link>
-      <guid isPermaLink="true">https://latent.space/p/ainews-kimi-31/</guid>
-      <pubDate>Sat, 24 Oct 2026 07:18:29 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 68/100<br/><b>Source:</b> Latent Space<br/><br/>Kimi 3.1 Pro open-weights model narrows performance gap to closed-source competitors.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Show HN: Corgi, a helpful {agent, terminal} multiplexer</title>
-      <link>https://corgi.computer/</link>
-      <guid isPermaLink="true">https://corgi.computer/</guid>
-      <pubDate>Fri, 23 Oct 2026 19:46:38 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>Corgi tool provides agent and terminal multiplexing capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Here are the top AI agents that can live in your text messages</title>
-      <link>https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/</guid>
-      <pubDate>Sat, 24 Oct 2026 14:00:00 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Overview of AI agents designed to operate within text messaging platforms.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Got a pretrained music transformer to jam with me live, no fine-tuning, just steering the sampling [P]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1xe4pex/got_a_pretrained_music_transformer_to_jam_with_me/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1xe4pex/got_a_pretrained_music_transformer_to_jam_with_me/</guid>
-      <pubDate>Sat, 24 Oct 2026 09:58:29 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Personal project demonstrating real-time music generation with pretrained transformer model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>OpenAI makes its Jev competitor widely available as decision model competition heats up</title>
-      <link>https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/</guid>
-      <pubDate>Thu, 22 Oct 2026 19:00:00 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI expands availability of decision model as competitive pressure increases.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Left alone with nothing to do, AI agents started playing</title>
-      <link>https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/</guid>
-      <pubDate>Fri, 23 Oct 2026 00:45:37 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 58/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Research explores emergent behaviors when AI agents engage in play without assigned tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn&apos;t Exist</title>
-      <link>https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/</link>
-      <guid isPermaLink="true">https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/</guid>
-      <pubDate>Sat, 24 Oct 2026 11:18:54 +0000</pubDate>
+      <title>Why is AI generated language so hard to understand?</title>
+      <link>https://arxiv.org/abs/2610.29162</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.29162</guid>
+      <pubDate>Sat, 24 Oct 2026 18:04:57 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 54/100<br/><b>Source:</b> Hacker News<br/><br/>AI-assisted paper contains fabricated citations, highlighting hallucination risks in academic work.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 72/100<br/><b>Source:</b> Hacker News<br/><br/>Academic research examines linguistic characteristics that make AI-generated language difficult to comprehend.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000&apos;s cards</title>
@@ -149,7 +53,71 @@
       <guid isPermaLink="true">https://github.com/Zagitta/gpu-unlock</guid>
       <pubDate>Sat, 24 Oct 2026 09:58:27 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 54/100<br/><b>Source:</b> Hacker News<br/><br/>GPU optimization tool addresses FP/BF16 instruction utilization on Nvidia 3000-series cards.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>GitHub project documents GPU instruction rate issues and unlocking techniques for Nvidia 3000-series cards.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Block’s new voice model sounds eerily human</title>
+      <link>https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/</guid>
+      <pubDate>Sat, 24 Oct 2026 16:00:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Block releases voice synthesis model with high human-like quality.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed</title>
+      <link>https://latent.space/p/ainews-kimi-31/</link>
+      <guid isPermaLink="true">https://latent.space/p/ainews-kimi-31/</guid>
+      <pubDate>Sat, 24 Oct 2026 07:18:29 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 68/100<br/><b>Source:</b> Latent Space<br/><br/>Kimi releases 3.1 Pro model with claimed performance improvements and faster API speeds.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Here are the top AI agents that can live in your text messages</title>
+      <link>https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/</guid>
+      <pubDate>Sat, 24 Oct 2026 14:00:00 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> TechCrunch AI<br/><br/>TechCrunch survey of AI agent products designed to operate within text messaging platforms.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>AI Is Getting Good at Math. Here’s Why.</title>
+      <link>https://latent.space/p/ai-is-getting-good-at-math/</link>
+      <guid isPermaLink="true">https://latent.space/p/ai-is-getting-good-at-math/</guid>
+      <pubDate>Fri, 23 Oct 2026 15:19:48 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> Latent Space<br/><br/>Analysis of recent advances in AI mathematical reasoning capabilities and underlying techniques.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn&apos;t Exist</title>
+      <link>https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/</link>
+      <guid isPermaLink="true">https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/</guid>
+      <pubDate>Sat, 24 Oct 2026 11:18:54 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 60/100<br/><b>Source:</b> Hacker News<br/><br/>Analysis of hallucinated citations in an AI-assisted academic paper about Z-Library.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Left alone with nothing to do, AI agents started playing</title>
+      <link>https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/</guid>
+      <pubDate>Fri, 23 Oct 2026 00:45:37 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 58/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Research observation of emergent play behavior in AI agents left without explicit tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia</title>
+      <link>https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/</guid>
+      <pubDate>Fri, 23 Oct 2026 04:00:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> TechCrunch AI<br/><br/>InDrive plans autonomous vehicle testing in Central Asia with Pony AI and Nvidia partnership.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>OpenAI working on new $30B raise at $1.25T valuation ahead of IPO</title>
+      <link>https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/</guid>
+      <pubDate>Thu, 22 Oct 2026 22:08:24 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI reportedly seeks $30B funding at $1.25T valuation ahead of IPO.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
