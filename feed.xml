@@ -5,31 +5,23 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Oct 2026 05:39:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 10:41:52 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)</title>
-      <link>https://openai.com/index/scaling-storage-one-billion-users-part-two</link>
-      <guid isPermaLink="true">https://openai.com/index/scaling-storage-one-billion-users-part-two</guid>
-      <pubDate>Fri, 23 Oct 2026 17:00:00 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 82/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI discusses infrastructure scaling techniques for serving over 1 billion ChatGPT users.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Securing our frontier model training environment</title>
-      <link>https://openai.com/index/securing-our-frontier-model-training-environment</link>
-      <guid isPermaLink="true">https://openai.com/index/securing-our-frontier-model-training-environment</guid>
-      <pubDate>Fri, 23 Oct 2026 10:00:00 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 82/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI outlines security measures and practices for protecting frontier model training environments.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
     <item>
       <title>Cerebras Deploys Trillion-Parameter AI Models</title>
       <link>https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras</link>
       <guid isPermaLink="true">https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras</guid>
       <pubDate>Sun, 25 Oct 2026 01:33:49 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> Hacker News<br/><br/>Cerebras announces deployment of trillion-parameter AI models on its infrastructure.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Cerebras demonstrates deployment of trillion-parameter AI models on its hardware platform.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)</title>
+      <link>https://openai.com/index/scaling-storage-one-billion-users-part-two</link>
+      <guid isPermaLink="true">https://openai.com/index/scaling-storage-one-billion-users-part-two</guid>
+      <pubDate>Fri, 23 Oct 2026 17:00:00 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 82/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI publishes technical deep-dive on scaling infrastructure to support over 1 billion ChatGPT users.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”</title>
@@ -37,7 +29,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/</guid>
       <pubDate>Fri, 23 Oct 2026 23:05:49 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI announces policy change to stop training models on live internet data due to safety concerns.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI announces policy change to cease training on live internet data due to safety concerns.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Why is AI generated language so hard to understand?</title>
@@ -45,55 +37,7 @@
       <guid isPermaLink="true">https://arxiv.org/abs/2610.29162</guid>
       <pubDate>Sat, 24 Oct 2026 18:04:57 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Research paper explores why AI-generated language poses comprehension challenges.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed</title>
-      <link>https://latent.space/p/ainews-kimi-31/</link>
-      <guid isPermaLink="true">https://latent.space/p/ainews-kimi-31/</guid>
-      <pubDate>Sat, 24 Oct 2026 07:18:29 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 68/100<br/><b>Source:</b> Latent Space<br/><br/>Announcement of Kimi 3.1 Pro model with performance improvements and API speed enhancements.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000&apos;s cards</title>
-      <link>https://github.com/Zagitta/gpu-unlock</link>
-      <guid isPermaLink="true">https://github.com/Zagitta/gpu-unlock</guid>
-      <pubDate>Sat, 24 Oct 2026 09:58:27 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>Technical project documenting GPU instruction rate issues and workarounds for Nvidia 3000-series cards.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Here are the top AI agents that can live in your text messages</title>
-      <link>https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/</guid>
-      <pubDate>Sat, 24 Oct 2026 14:00:00 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Survey of AI agent products designed for text messaging platforms.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>ASRN: Linear-memory long-range copying with learned proper-time clock [p]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1xer72h/asrn_linearmemory_longrange_copying_with_learned/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1xer72h/asrn_linearmemory_longrange_copying_with_learned/</guid>
-      <pubDate>Sun, 25 Oct 2026 02:57:16 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research paper on ASRN architecture achieving linear-memory long-range copying with learned timing mechanisms.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Block’s new voice model sounds eerily human</title>
-      <link>https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/</guid>
-      <pubDate>Sat, 24 Oct 2026 16:00:00 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Block releases new voice AI model with human-like speech synthesis.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>AI Is Getting Good at Math. Here’s Why.</title>
-      <link>https://latent.space/p/ai-is-getting-good-at-math/</link>
-      <guid isPermaLink="true">https://latent.space/p/ai-is-getting-good-at-math/</guid>
-      <pubDate>Fri, 23 Oct 2026 15:19:48 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> Latent Space<br/><br/>Analysis of recent progress in AI mathematical reasoning capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Research paper investigates why AI-generated language can be difficult to understand.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn&apos;t Exist</title>
@@ -101,15 +45,63 @@
       <guid isPermaLink="true">https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/</guid>
       <pubDate>Sat, 24 Oct 2026 11:18:54 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 60/100<br/><b>Source:</b> Hacker News<br/><br/>Case study of AI hallucinations in academic papers citing non-existent sources.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>Case study of AI-generated academic paper containing fabricated citations, highlighting hallucination risks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Introducing Kimi K3.1 Pro</title>
-      <link>https://simonwillison.net/2026/Oct/23/kimi-k31-pro/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/23/kimi-k31-pro/</guid>
-      <pubDate>Fri, 23 Oct 2026 19:40:54 +0000</pubDate>
+      <title>Here are the top AI agents that can live in your text messages</title>
+      <link>https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/</guid>
+      <pubDate>Sat, 24 Oct 2026 14:00:00 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Overview of AI agent products designed to integrate with text messaging platforms.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Block’s new voice model sounds eerily human</title>
+      <link>https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/</guid>
+      <pubDate>Sat, 24 Oct 2026 16:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> Simon Willison<br/><br/>Announcement of Kimi K3.1 Pro model release.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Block releases a voice AI model with high naturalness in speech synthesis.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed</title>
+      <link>https://latent.space/p/ainews-kimi-31/</link>
+      <guid isPermaLink="true">https://latent.space/p/ainews-kimi-31/</guid>
+      <pubDate>Sat, 24 Oct 2026 07:18:29 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 62/100<br/><b>Source:</b> Latent Space<br/><br/>Announcement of Kimi 3.1 Pro open weights model and API performance improvements.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>AI Is Getting Good at Math. Here’s Why.</title>
+      <link>https://latent.space/p/ai-is-getting-good-at-math/</link>
+      <guid isPermaLink="true">https://latent.space/p/ai-is-getting-good-at-math/</guid>
+      <pubDate>Fri, 23 Oct 2026 15:19:48 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> Latent Space<br/><br/>Analysis of recent advances in AI mathematical reasoning capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>memt-1.0 architecture breakdown gated deltanet-2, mixture-of-storage, and 66x smaller storage footprint for agent memory [D]</title>
+      <link>https://i.redd.it/yo2dl9avujxh1.jpeg</link>
+      <guid isPermaLink="true">https://i.redd.it/yo2dl9avujxh1.jpeg</guid>
+      <pubDate>Sun, 25 Oct 2026 05:31:19 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 56/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Technical discussion of memt-1.0 architecture claiming significant improvements in agent memory storage efficiency.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>No signs of AI payoff outside the tech sector</title>
+      <link>https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector</link>
+      <guid isPermaLink="true">https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector</guid>
+      <pubDate>Sat, 24 Oct 2026 19:47:19 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 52/100<br/><b>Source:</b> Hacker News<br/><br/>Economic opinion piece on limited AI productivity gains outside the technology sector.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Oai-math-revised: a community hub for revising OpenAI&apos;s math write-ups</title>
+      <link>https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/</link>
+      <guid isPermaLink="true">https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/</guid>
+      <pubDate>Sat, 24 Oct 2026 15:35:17 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 50/100<br/><b>Source:</b> Hacker News<br/><br/>Community initiative to review and improve OpenAI&apos;s mathematical reasoning documentation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
