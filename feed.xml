@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Oct 2026 23:28:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 03:56:47 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Early progress on accelerating drug development with Claude</title>
@@ -13,7 +13,23 @@
       <guid isPermaLink="true">https://www.anthropic.com/research/early-progress-drug-development</guid>
       <pubDate>Tue, 27 Oct 2026 20:50:42 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 86/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic reports early progress using Claude to accelerate drug development research and workflows.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic reports progress using Claude to accelerate drug development research.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees</title>
+      <link>https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/</link>
+      <guid isPermaLink="true">https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/</guid>
+      <pubDate>Tue, 27 Oct 2026 20:48:49 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 85/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Genie 4: A new generation of world simulation</title>
+      <link>https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/</link>
+      <guid isPermaLink="true">https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/</guid>
+      <pubDate>Tue, 27 Oct 2026 16:01:38 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 84/100<br/><b>Source:</b> Google DeepMind<br/><br/>Google DeepMind releases Genie 4, advancing world simulation and generative modeling capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Anthropic trained Claude on illegally obtained Stanford professors&apos; books</title>
@@ -45,23 +61,7 @@
       <guid isPermaLink="true">https://openai.com/index/check-point-daybreak</guid>
       <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Check Point uses OpenAI&apos;s Daybreak model to accelerate vulnerability research capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Genie 4: A new generation of world simulation</title>
-      <link>https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/</link>
-      <guid isPermaLink="true">https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/</guid>
-      <pubDate>Tue, 27 Oct 2026 16:01:38 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> Google DeepMind<br/><br/>Google DeepMind releases Genie 4, advancing world simulation capabilities for AI agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees</title>
-      <link>https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/</link>
-      <guid isPermaLink="true">https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/</guid>
-      <pubDate>Tue, 27 Oct 2026 20:48:49 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 75/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Check Point uses OpenAI&apos;s Daybreak model to accelerate cybersecurity vulnerability research.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Greptile takes bug detection beyond code review with GPT-6 Astra</title>
@@ -80,36 +80,12 @@
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 75/100<br/><b>Source:</b> OpenAI Blog<br/><br/>CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>OpenAI expands partnership with Oracle to bring its apps to ChatGPT</title>
-      <link>https://openai.com/index/oracle-apps-in-chatgpt</link>
-      <guid isPermaLink="true">https://openai.com/index/oracle-apps-in-chatgpt</guid>
-      <pubDate>Tue, 27 Oct 2026 07:00:00 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI expands partnership with Oracle to integrate enterprise applications into ChatGPT.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Working with academic communities to build scientific understanding</title>
-      <link>https://openai.com/index/building-scientific-understanding-with-academic-communities</link>
-      <guid isPermaLink="true">https://openai.com/index/building-scientific-understanding-with-academic-communities</guid>
-      <pubDate>Mon, 26 Oct 2026 14:30:00 +0000</pubDate>
+      <title>How Fanatics and OpenAI streamline the fan experience</title>
+      <link>https://openai.com/index/fanatics-streamline-fan-experience</link>
+      <guid isPermaLink="true">https://openai.com/index/fanatics-streamline-fan-experience</guid>
+      <pubDate>Mon, 26 Oct 2026 07:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces collaboration with academic communities to advance scientific research and understanding.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>webframe: evaluated as a scraper and a sandbox</title>
-      <link>https://simonwillison.net/2026/Oct/26/webframe-evaluation/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/26/webframe-evaluation/</guid>
-      <pubDate>Mon, 26 Oct 2026 16:15:00 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Simon Willison<br/><br/>Webframe tool evaluated for web scraping and sandbox capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Coding From the Himalayas With an Offline AI Agent</title>
-      <link>https://latent.space/p/offline-coding/</link>
-      <guid isPermaLink="true">https://latent.space/p/offline-coding/</guid>
-      <pubDate>Tue, 27 Oct 2026 14:41:25 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Latent Space<br/><br/>Offline AI agent for coding demonstrated working in remote location without internet connectivity.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 75/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Papers with Code is now open-source [P]</title>
@@ -117,21 +93,37 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1xgoadu/papers_with_code_is_now_opensource_p/</guid>
       <pubDate>Tue, 27 Oct 2026 09:54:44 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Papers with Code platform is released as open-source software.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Papers with Code releases its platform and dataset as open-source.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>OpenAI expands partnership with Oracle to bring its apps to ChatGPT</title>
+      <link>https://openai.com/index/oracle-apps-in-chatgpt</link>
+      <guid isPermaLink="true">https://openai.com/index/oracle-apps-in-chatgpt</guid>
+      <pubDate>Tue, 27 Oct 2026 07:00:00 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI partners with Oracle to integrate enterprise applications into ChatGPT.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Expanding our partnership with GSA to bring Claude to all levels of government</title>
+      <link>https://www.anthropic.com/news/expanding-partnership-gsa</link>
+      <guid isPermaLink="true">https://www.anthropic.com/news/expanding-partnership-gsa</guid>
+      <pubDate>Tue, 27 Oct 2026 22:23:37 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic expands Claude availability to U.S. government agencies through GSA partnership.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>webframe: evaluated as a scraper and a sandbox</title>
+      <link>https://simonwillison.net/2026/Oct/26/webframe-evaluation/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/26/webframe-evaluation/</guid>
+      <pubDate>Mon, 26 Oct 2026 16:15:00 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Simon Willison<br/><br/>Webframe tool evaluated for web scraping and sandboxing capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>The Paper Reviewing Process is Now in Critical Condition [D]</title>
       <link>https://www.reddit.com/r/MachineLearning/comments/1xh2wzt/the_paper_reviewing_process_is_now_in_critical/</link>
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1xh2wzt/the_paper_reviewing_process_is_now_in_critical/</guid>
       <pubDate>Tue, 27 Oct 2026 19:55:31 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>How to do method research when I feel I have no guidance on doing it? [D]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1xgdl42/how_to_do_method_research_when_i_feel_i_have_no/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1xgdl42/how_to_do_method_research_when_i_feel_i_have_no/</guid>
-      <pubDate>Tue, 27 Oct 2026 00:06:43 +0000</pubDate>
       <category>Research &amp; Papers</category>
       <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
