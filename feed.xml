@@ -5,23 +5,23 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Oct 2026 06:46:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 13:49:20 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Gemini 4 Carbon: Our next frontier model</title>
-      <link>https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/</link>
-      <guid isPermaLink="true">https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/</guid>
-      <pubDate>Wed, 28 Oct 2026 17:00:58 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 94/100<br/><b>Source:</b> Google DeepMind<br/><br/>Google DeepMind announced Gemini 4 Carbon as their next frontier model release.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
     <item>
       <title>We&apos;re releasing the weights of Mistral Large 4</title>
       <link>https://mistral.ai/news/mistral-large-4-oss/</link>
       <guid isPermaLink="true">https://mistral.ai/news/mistral-large-4-oss/</guid>
       <pubDate>Thu, 29 Oct 2026 14:13:21 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>Mistral released open-source weights for Mistral Large 4, a major language model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 94/100<br/><b>Source:</b> Hacker News<br/><br/>Mistral releases open-source weights for Large 4 language model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Gemini 4 Carbon: Our next frontier model</title>
+      <link>https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/</link>
+      <guid isPermaLink="true">https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/</guid>
+      <pubDate>Wed, 28 Oct 2026 17:00:58 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 94/100<br/><b>Source:</b> Google DeepMind<br/><br/>Google DeepMind announces Gemini 4 Carbon as next frontier model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>How we detect frontier model misalignment</title>
@@ -29,23 +29,15 @@
       <guid isPermaLink="true">https://openai.com/index/how-we-detect-frontier-model-misalignment</guid>
       <pubDate>Thu, 29 Oct 2026 09:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 88/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI published research on methods for detecting misalignment in frontier AI models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 88/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI publishes methodology for detecting misalignment in frontier AI models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity</title>
-      <link>https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/</guid>
-      <pubDate>Thu, 29 Oct 2026 17:00:00 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 84/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Mistral released weights for a trillion-parameter model targeting cybersecurity applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>A tiny world model running games on a Raspberry Pi Pico 2 W</title>
-      <link>https://github.com/SheepSeb/tinyworldformer</link>
-      <guid isPermaLink="true">https://github.com/SheepSeb/tinyworldformer</guid>
-      <pubDate>Thu, 29 Oct 2026 20:32:28 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>A lightweight world model was successfully deployed on a Raspberry Pi Pico 2 W for running game simulations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Official Claude Code extension compromise</title>
+      <link>https://phorion.io/blog/offical-claude-code-vsx-compromise/</link>
+      <guid isPermaLink="true">https://phorion.io/blog/offical-claude-code-vsx-compromise/</guid>
+      <pubDate>Fri, 30 Oct 2026 07:09:12 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 86/100<br/><b>Source:</b> Hacker News<br/><br/>Official Claude Code VSX extension compromised with security implications for developers.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>An updated Model Spec for more capable and beneficial AI</title>
@@ -53,7 +45,23 @@
       <guid isPermaLink="true">https://openai.com/index/updated-model-spec</guid>
       <pubDate>Thu, 29 Oct 2026 17:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI released an updated Model Spec outlining guidelines for more capable and beneficial AI systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 84/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI releases updated Model Spec guidelines for developing more capable and beneficial AI systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity</title>
+      <link>https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/</guid>
+      <pubDate>Thu, 29 Oct 2026 17:00:00 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 84/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Mistral releases trillion-parameter model weights with focus on cybersecurity applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Backdoors in official Claude Code extensions</title>
+      <link>https://cyberplace.social/@GossiTheDog/117528831681803563</link>
+      <guid isPermaLink="true">https://cyberplace.social/@GossiTheDog/117528831681803563</guid>
+      <pubDate>Fri, 30 Oct 2026 11:05:53 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Security vulnerability reported in official Claude Code extensions indicating potential backdoor access.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>We ran AI agent swarms in Minecraft and Mindustry</title>
@@ -61,15 +69,15 @@
       <guid isPermaLink="true">https://labs.ycombinator.com/projects/games/index.html</guid>
       <pubDate>Thu, 29 Oct 2026 21:40:28 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>YC labs demonstrated AI agent swarms operating in game environments like Minecraft and Mindustry.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Research demonstrating AI agent swarms operating in complex game environments.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Legora is building the agentic operating system for legal work</title>
-      <link>https://openai.com/index/legora</link>
-      <guid isPermaLink="true">https://openai.com/index/legora</guid>
-      <pubDate>Wed, 28 Oct 2026 09:30:00 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Legora is building an agentic operating system for legal workflow automation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>A tiny world model running games on a Raspberry Pi Pico 2 W</title>
+      <link>https://github.com/SheepSeb/tinyworldformer</link>
+      <guid isPermaLink="true">https://github.com/SheepSeb/tinyworldformer</guid>
+      <pubDate>Thu, 29 Oct 2026 20:32:28 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Lightweight world model implementation achieving game-playing capability on resource-constrained hardware.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents</title>
@@ -77,31 +85,15 @@
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50291116</guid>
       <pubDate>Thu, 29 Oct 2026 15:56:32 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 74/100<br/><b>Source:</b> Hacker News<br/><br/>YC-backed Simantic launched firmware simulation tools for AI agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 74/100<br/><b>Source:</b> Hacker News<br/><br/>YC-backed startup Simantic launches firmware simulation platform for AI agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>OpenAI and ServiceNow expand partnership across enterprise workflows</title>
-      <link>https://openai.com/index/openai-servicenow-partnership-expansion</link>
-      <guid isPermaLink="true">https://openai.com/index/openai-servicenow-partnership-expansion</guid>
-      <pubDate>Wed, 28 Oct 2026 13:15:00 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI and ServiceNow expanded their partnership for enterprise AI workflow integration.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>[AINews] Gemini 4 Carbon tops leaderboards, launches for cyber defenders</title>
-      <link>https://latent.space/p/ainews-gemini-4-carbon/</link>
-      <guid isPermaLink="true">https://latent.space/p/ainews-gemini-4-carbon/</guid>
-      <pubDate>Thu, 29 Oct 2026 05:55:19 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 72/100<br/><b>Source:</b> Latent Space<br/><br/>Gemini 4 Carbon achieved top leaderboard rankings and launched for cybersecurity applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction</title>
-      <link>https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/</guid>
-      <pubDate>Thu, 29 Oct 2026 16:21:00 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Ex-Palantir executives launched Dream with $17M funding to build AI world models for construction.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Anthropic hacked to deliver remote access trojan</title>
+      <link>https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2</link>
+      <guid isPermaLink="true">https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2</guid>
+      <pubDate>Fri, 30 Oct 2026 10:22:51 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Security report claims Anthropic experienced breach resulting in malware deployment to developer systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Show HN: I Turned DOOM into a Transformer</title>
@@ -109,23 +101,7 @@
       <guid isPermaLink="true">https://github.com/mottopanikeiku/doomformer</guid>
       <pubDate>Thu, 29 Oct 2026 23:25:46 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>A developer converted the DOOM game into a Transformer-based model.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>IgE disruptor for food allergy with Claude-enabled antibody design [pdf]</title>
-      <link>https://divergencelabs.com/publications/ige-preprint.pdf</link>
-      <guid isPermaLink="true">https://divergencelabs.com/publications/ige-preprint.pdf</guid>
-      <pubDate>Thu, 29 Oct 2026 19:25:48 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>Claude AI was used to design antibodies for food allergy treatment (IgE disruptor).<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Zombie stats: Where the numbers AI quotes come from</title>
-      <link>https://trakkr.ai/trakkr-research/zombie-stats</link>
-      <guid isPermaLink="true">https://trakkr.ai/trakkr-research/zombie-stats</guid>
-      <pubDate>Thu, 29 Oct 2026 15:06:17 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>Analysis of how AI systems propagate unreliable statistics and unverified claims.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Community project converting DOOM game into a Transformer model architecture.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round</title>
@@ -133,7 +109,15 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/</guid>
       <pubDate>Thu, 29 Oct 2026 14:35:26 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> TechCrunch AI<br/><br/>AI app-building agent Wabi reached a $1.25B valuation in recent funding.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> TechCrunch AI<br/><br/>AI startup Wabi reaches $1.25B valuation after funding round for mini-app building agent.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction</title>
+      <link>https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/</guid>
+      <pubDate>Thu, 29 Oct 2026 16:21:00 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Ex-Palantir executives raise $17M to build world models for construction industry.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Claude Duet is the first personal-assistant-type harness that feels useful</title>
@@ -141,23 +125,31 @@
       <guid isPermaLink="true">https://fig.blue/posts/duet-is-the-future/</guid>
       <pubDate>Thu, 29 Oct 2026 17:24:25 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 62/100<br/><b>Source:</b> Hacker News<br/><br/>Claude Duet personal assistant tool was highlighted as a practical AI application.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 62/100<br/><b>Source:</b> Hacker News<br/><br/>Claude Duet personal assistant tool receives positive reception from early users.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Arc: a ~70 MB streaming speech model that transcribes links names and metadata to your own list as they&apos;re spoken, with no second model [p]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1xiyuoj/arc_a_70_mb_streaming_speech_model_that/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1xiyuoj/arc_a_70_mb_streaming_speech_model_that/</guid>
-      <pubDate>Thu, 29 Oct 2026 22:51:57 +0000</pubDate>
+      <title>Building a multiplayer game world with autonomous Fable-class models</title>
+      <link>https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/</guid>
+      <pubDate>Thu, 29 Oct 2026 17:00:26 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Arc, a lightweight 70MB streaming speech model for real-time transcription and metadata extraction.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> Simon Willison<br/><br/>Case study on building multiplayer game world using autonomous Fable-class AI models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>I Used AI to Fake a Scientific Paper. Here&apos;s What Happened</title>
-      <link>https://spectrum.ieee.org/ai-generated-scientific-papers</link>
-      <guid isPermaLink="true">https://spectrum.ieee.org/ai-generated-scientific-papers</guid>
-      <pubDate>Thu, 29 Oct 2026 10:08:04 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 56/100<br/><b>Source:</b> Hacker News<br/><br/>Personal account of using AI to generate a fake scientific paper.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Show HN: Arsaze – Cursor for video editing (Tab-complete and agent edits)</title>
+      <link>https://www.arsaze.com</link>
+      <guid isPermaLink="true">https://www.arsaze.com</guid>
+      <pubDate>Fri, 30 Oct 2026 06:55:33 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> Hacker News<br/><br/>Arsaze launches AI-powered video editing tool with tab-completion and agent capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>[AINews] Gemini 4 Carbon tops leaderboards, launches for cyber defenders</title>
+      <link>https://latent.space/p/ainews-gemini-4-carbon/</link>
+      <guid isPermaLink="true">https://latent.space/p/ainews-gemini-4-carbon/</guid>
+      <pubDate>Thu, 29 Oct 2026 05:55:19 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> Latent Space<br/><br/>Google’s new frontier model leads independent evals, with access initially limited to trusted defenders.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>API credits benefit for eligible ChatGPT subscriptions</title>
@@ -165,7 +157,7 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Oct/29/api-credits/</guid>
       <pubDate>Thu, 29 Oct 2026 22:48:29 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 56/100<br/><b>Source:</b> Simon Willison<br/><br/>OpenAI announced API credits benefit for eligible ChatGPT subscribers.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 56/100<br/><b>Source:</b> Simon Willison<br/><br/>OpenAI announces API credit benefits for ChatGPT subscribers.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
