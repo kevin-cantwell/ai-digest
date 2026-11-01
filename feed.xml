@@ -5,23 +5,23 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Nov 2026 11:39:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 17:37:42 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Show HN: A language model that lives in a boot sector</title>
-      <link>https://github.com/kerlenton/bootgpt</link>
-      <guid isPermaLink="true">https://github.com/kerlenton/bootgpt</guid>
-      <pubDate>Sat, 31 Oct 2026 12:58:29 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 78/100<br/><b>Source:</b> Hacker News<br/><br/>A novel implementation demonstrates a language model compressed into a boot sector.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
     <item>
       <title>Anthropic blocks users for anything touching training larger models</title>
       <link>https://twitter.com/jiahaoshao1/status/2116475922190922088</link>
       <guid isPermaLink="true">https://twitter.com/jiahaoshao1/status/2116475922190922088</guid>
       <pubDate>Sat, 31 Oct 2026 19:39:19 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic reportedly blocks users attempting to use Claude for training larger models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 100/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Is it okay to share my experiments implementing research papers on my own LLM here? [P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1xkgtly/is_it_okay_to_share_my_experiments_implementing/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1xkgtly/is_it_okay_to_share_my_experiments_implementing/</guid>
+      <pubDate>Sat, 31 Oct 2026 17:57:22 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Zest’s new AI agent finds restaurants and books reservations over text</title>
@@ -29,15 +29,23 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/</guid>
       <pubDate>Fri, 30 Oct 2026 17:47:12 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Zest releases an AI agent that autonomously finds restaurants and books reservations via text.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Zest releases a new AI agent capable of understanding user requests and autonomously booking restaurant reservations via text interface.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>DoorDash said it’s only received ‘several hundred’ orders from AI agents</title>
-      <link>https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/</guid>
-      <pubDate>Fri, 30 Oct 2026 13:54:25 +0000</pubDate>
+      <title>Alleged Mythos Class Anthropic Checkpoint Leak</title>
+      <link>https://huggingface.co/burner22/numbat</link>
+      <guid isPermaLink="true">https://huggingface.co/burner22/numbat</guid>
+      <pubDate>Sun, 01 Nov 2026 16:43:36 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 75/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy</title>
+      <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy</link>
+      <guid isPermaLink="true">https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy</guid>
+      <pubDate>Sun, 01 Nov 2026 13:47:24 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> TechCrunch AI<br/><br/>DoorDash reports receiving only several hundred orders from AI agents since enabling them.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 74/100<br/><b>Source:</b> Hacker News<br/><br/>Research study on multi-agent AI systems explores how swarms of agents coordinate and fail when given complex collaborative tasks in simulated environments.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Anthropic takes steps to block Claude from reverse-engineering video games</title>
@@ -45,7 +53,7 @@
       <guid isPermaLink="true">https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering</guid>
       <pubDate>Sat, 31 Oct 2026 21:07:58 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic implements safeguards to prevent Claude from being used to reverse-engineer video games.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 74/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic implements safeguards to prevent Claude from being used to reverse-engineer and clone video games.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Anthropic VS code extension on Cursor backdoored for nearly 12 hours</title>
@@ -53,7 +61,15 @@
       <guid isPermaLink="true">https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/</guid>
       <pubDate>Fri, 30 Oct 2026 21:09:54 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 68/100<br/><b>Source:</b> Ars Technica<br/><br/>Anthropic&apos;s VS Code extension on Cursor was backdoored for nearly 12 hours.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 68/100<br/><b>Source:</b> Ars Technica<br/><br/>Security incident: Anthropic&apos;s VS Code extension on Cursor was compromised with malicious code for approximately 12 hours.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>How We Took Over ChatGPT Accounts</title>
+      <link>https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/</guid>
+      <pubDate>Sat, 31 Oct 2026 23:15:22 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> Simon Willison<br/><br/>Security research reveals vulnerability allowing unauthorized takeover of ChatGPT user accounts.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Agents Prompt People: Using Agents for Long-Horizon Financial Work</title>
@@ -61,7 +77,7 @@
       <guid isPermaLink="true">https://latent.space/p/arca/</guid>
       <pubDate>Sat, 31 Oct 2026 16:05:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> Latent Space<br/><br/>Research on using AI agents for long-horizon financial work automation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> Latent Space<br/><br/>Analysis of how AI agents can handle complex, long-horizon financial tasks by prompting human users for guidance and decisions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>The Impact of Generative AI on Critical Thinking: Self-Reported (2025)</title>
@@ -69,15 +85,31 @@
       <guid isPermaLink="true">https://dl.acm.org/doi/full/10.1145/3706598.3713778</guid>
       <pubDate>Sat, 31 Oct 2026 18:02:29 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>Academic study examines the impact of generative AI on critical thinking skills.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>Academic study examines the impact of generative AI on critical thinking skills based on self-reported user data from 2025.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Anthropic&apos;s Claude AI blocks video game cloning and reverse-engineering</title>
-      <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked</link>
-      <guid isPermaLink="true">https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked</guid>
-      <pubDate>Sat, 31 Oct 2026 13:25:00 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic&apos;s Claude blocks video game reverse-engineering with reports of collateral blocking of benign tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Anthropic&apos;s Mythos-class model allegedly leaked on Hugging Face</title>
+      <link>https://news.ycombinator.com/item?id=50326727</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50326727</guid>
+      <pubDate>Sun, 01 Nov 2026 15:45:10 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Data augmentation question. How do I characterise an original and augmented datasets where the augmentation parameters were zoom and crop? [P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1xl1uba/data_augmentation_question_how_do_i_characterise/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1xl1uba/data_augmentation_question_how_do_i_characterise/</guid>
+      <pubDate>Sun, 01 Nov 2026 12:28:22 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 65/100<br/><b>Source:</b> r/MachineLearning<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>LSREP: A Longitudinal State-Replay Protocol for Evaluating Conversational Memory [R]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1xkzwz9/lsrep_a_longitudinal_statereplay_protocol_for/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1xkzwz9/lsrep_a_longitudinal_statereplay_protocol_for/</guid>
+      <pubDate>Sun, 01 Nov 2026 10:38:34 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 64/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research paper proposes LSREP protocol for evaluating how well conversational AI systems maintain memory over long interactions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>GPT-5.6 Sol can beat Factorio on peaceful mode</title>
@@ -85,31 +117,7 @@
       <guid isPermaLink="true">https://ryanmadden.net/gpt-56-beats-factorio/</guid>
       <pubDate>Sat, 31 Oct 2026 18:50:34 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 62/100<br/><b>Source:</b> Hacker News<br/><br/>GPT-5.6 Sol reportedly achieves autonomous gameplay completion in Factorio on peaceful mode.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Hierarchical detection of neonatal brain pathologies using a two-stage deep learning framework from magnetic resonance imaging [R]</title>
-      <link>https://www.frontiersin.org/journals/neuroimaging/articles/10.3389/fnimg.2026.1981436</link>
-      <guid isPermaLink="true">https://www.frontiersin.org/journals/neuroimaging/articles/10.3389/fnimg.2026.1981436</guid>
-      <pubDate>Sat, 31 Oct 2026 15:21:39 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research on deep learning framework for detecting neonatal brain pathologies from MRI.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Cracks are emerging in the AI spending boom</title>
-      <link>https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/</guid>
-      <pubDate>Fri, 30 Oct 2026 21:17:40 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Analysis of emerging financial pressures and pullback in AI infrastructure spending.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Google’s first data center satellite is online and writing poetry</title>
-      <link>https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/</guid>
-      <pubDate>Fri, 30 Oct 2026 17:00:00 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Google&apos;s first satellite data center becomes operational and demonstrates AI capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 62/100<br/><b>Source:</b> Hacker News<br/><br/>Post claims GPT-5.6 Sol model can complete Minecraft&apos;s Factorio game on peaceful difficulty setting.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>I post trained a model on Demoscenes</title>
@@ -117,15 +125,7 @@
       <guid isPermaLink="true">https://datavorous.com/writing/demoscener/</guid>
       <pubDate>Sat, 31 Oct 2026 18:08:24 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 60/100<br/><b>Source:</b> Hacker News<br/><br/>A researcher post-trained a model on demoscene content.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>OpenAI reportedly lowers funding target for new round</title>
-      <link>https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/</guid>
-      <pubDate>Sat, 31 Oct 2026 16:12:55 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI reportedly reduces its funding target for an ongoing funding round.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 60/100<br/><b>Source:</b> Hacker News<br/><br/>Developer describes post-training a model specialized on demoscene programming and creative coding techniques.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’</title>
@@ -133,15 +133,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/</guid>
       <pubDate>Sat, 31 Oct 2026 21:41:00 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 50/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Apple CEO states the company avoids shipping AI features purely for novelty.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Ollie, a privacy-focused AI assistant, is shutting down</title>
-      <link>https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/</guid>
-      <pubDate>Fri, 30 Oct 2026 22:56:13 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 50/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Privacy-focused AI assistant Ollie announces shutdown.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 50/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Apple CEO discusses company&apos;s philosophy of avoiding AI deployments purely for marketing without genuine user benefit.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>datasette-llm 0.1a9</title>
@@ -149,7 +141,7 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Oct/31/datasette-llm/</guid>
       <pubDate>Sat, 31 Oct 2026 22:10:01 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 50/100<br/><b>Source:</b> Simon Willison<br/><br/>Release: datasette-llm 0.1a9 I have some big upgrades to Datasette Agent in the pipeline, but in the meantime here&apos;s a tiny user experience improvement to the underlying datasette-llm plugin. It now p<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 50/100<br/><b>Source:</b> Simon Willison<br/><br/>Release announcement for datasette-llm version 0.1a9, a tool for querying databases with natural language via LLMs.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
