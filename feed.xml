@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Nov 2026 02:53:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 10:27:27 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Postman silently auto-installs AI plugins and attempts to share all API data</title>
@@ -13,7 +13,7 @@
       <guid isPermaLink="true">https://github.com/postmanlabs/postman-app-support/issues/14370</guid>
       <pubDate>Tue, 03 Nov 2026 17:22:37 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>Postman auto-installs AI plugins and attempts to share API data without explicit user consent.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>Report that Postman auto-installs AI plugins and attempts to share API data without user consent.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Agentic cheminformatics with Google Antigravity</title>
@@ -21,7 +21,7 @@
       <guid isPermaLink="true">https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/</guid>
       <pubDate>Tue, 03 Nov 2026 17:01:49 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 88/100<br/><b>Source:</b> Google DeepMind<br/><br/>Google DeepMind releases agentic cheminformatics tool for automated drug discovery workflows.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 88/100<br/><b>Source:</b> Google DeepMind<br/><br/>Google DeepMind announces agentic AI system for cheminformatics research applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Qwen 3.8 27B on my laptop can interpret model weights, too</title>
@@ -29,7 +29,7 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/</guid>
       <pubDate>Tue, 03 Nov 2026 17:40:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Qwen 3.8 27B model demonstrates ability to interpret neural network weights on consumer hardware.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>A blog post documenting that Qwen 3.8 27B can interpret and manipulate model weights on consumer hardware.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>OpenAI seems to be silently re-enabling model training on Codex chats</title>
@@ -37,7 +37,7 @@
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50352757</guid>
       <pubDate>Tue, 03 Nov 2026 14:53:41 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI appears to be silently re-enabling model training on Codex chat interactions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Investigation suggesting OpenAI may be silently re-enabling training on Codex chat data.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>[AINews] LLMs can read &amp; write neural network weights: &quot;Weight Space Programming&quot; cuts Autoresearch out of the RSI loop</title>
@@ -45,23 +45,7 @@
       <guid isPermaLink="true">https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/</guid>
       <pubDate>Tue, 03 Nov 2026 05:35:00 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 80/100<br/><b>Source:</b> Latent Space<br/><br/>Research demonstrates LLMs can read and write neural network weights enabling weight space programming.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Accelerating engineering for the physical world</title>
-      <link>https://openai.com/index/accelerating-engineering-for-the-physical-world</link>
-      <guid isPermaLink="true">https://openai.com/index/accelerating-engineering-for-the-physical-world</guid>
-      <pubDate>Tue, 03 Nov 2026 12:00:00 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI releases tools and research for accelerating AI applications in physical engineering domains.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Nvidia – open-source auto-ontology</title>
-      <link>https://github.com/NVIDIA/auto-ontology</link>
-      <guid isPermaLink="true">https://github.com/NVIDIA/auto-ontology</guid>
-      <pubDate>Tue, 03 Nov 2026 07:04:50 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Nvidia releases open-source auto-ontology tool for automated knowledge structure generation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 80/100<br/><b>Source:</b> Latent Space<br/><br/>Technical analysis of weight space programming capability enabling LLMs to manipulate neural network parameters.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>A new, open-weights 278M PII detection model and reference benchmark [R]</title>
@@ -69,31 +53,15 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1xn2lro/a_new_openweights_278m_pii_detection_model_and/</guid>
       <pubDate>Tue, 03 Nov 2026 19:29:54 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>New open-weights 278M parameter PII detection model released with reference benchmark.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Release of open-weights 278M parameter model for PII detection with reference benchmark.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Trajectory raises $45M to make AI model training accessible to nontechnical experts</title>
-      <link>https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/</guid>
-      <pubDate>Mon, 02 Nov 2026 23:13:53 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Trajectory raises $45M seed funding to democratize AI model training for non-technical users.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer</title>
-      <link>https://arxiv.org/abs/2605.29713</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2605.29713</guid>
-      <pubDate>Tue, 03 Nov 2026 21:40:53 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Educational primer on mathematical foundations of generative AI published on arXiv.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>LifeVal</title>
-      <link>https://openai.com/index/lifeval</link>
-      <guid isPermaLink="true">https://openai.com/index/lifeval</guid>
-      <pubDate>Mon, 02 Nov 2026 09:00:00 +0000</pubDate>
+      <title>Accelerating engineering for the physical world</title>
+      <link>https://openai.com/index/accelerating-engineering-for-the-physical-world</link>
+      <guid isPermaLink="true">https://openai.com/index/accelerating-engineering-for-the-physical-world</guid>
+      <pubDate>Tue, 03 Nov 2026 12:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI releases LifeVal, a tool for evaluating life outcomes and decision-making with AI.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces AI system for accelerating engineering design for physical world applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>How Cisco defends at machine speed with OpenAI</title>
@@ -101,7 +69,23 @@
       <guid isPermaLink="true">https://openai.com/index/cisco-cyber</guid>
       <pubDate>Tue, 03 Nov 2026 08:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Case study of Cisco deploying OpenAI technology for real-time cybersecurity defense operations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Case study of Cisco deploying OpenAI technology for autonomous cybersecurity defense.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer</title>
+      <link>https://arxiv.org/abs/2605.29713</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2605.29713</guid>
+      <pubDate>Tue, 03 Nov 2026 21:40:53 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Academic paper providing mathematical foundations and intuitive explanations of generative AI concepts.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Hydrogen-1.0: open-weight scientific model beats GPT-6 Astra on FSR with 72% lower estimated output cost [P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1xnjhdd/hydrogen10_openweight_scientific_model_beats_gpt6/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1xnjhdd/hydrogen10_openweight_scientific_model_beats_gpt6/</guid>
+      <pubDate>Wed, 04 Nov 2026 09:00:29 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Open-weight scientific model Hydrogen-1.0 reportedly outperforms GPT-6 Astra on benchmarks with lower costs.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Anthropic is working on a system to prove AI models’ identity</title>
@@ -109,15 +93,23 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/</guid>
       <pubDate>Tue, 03 Nov 2026 22:41:03 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 65/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic developing system to cryptographically verify AI model identity and provenance.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>New York Times and other outlets sue web browser Brave over alleged content scraping</title>
-      <link>https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/</guid>
-      <pubDate>Mon, 02 Nov 2026 19:19:17 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 65/100<br/><b>Source:</b> TechCrunch AI<br/><br/>The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Pe<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Trajectory raises $45M to make AI model training accessible to nontechnical experts</title>
+      <link>https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/</guid>
+      <pubDate>Mon, 02 Nov 2026 23:13:53 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Trajectory raises $45M funding round for democratizing AI model training for non-technical users.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Heimstaden is changing residential real estate management with AI</title>
+      <link>https://openai.com/index/heimstaden</link>
+      <guid isPermaLink="true">https://openai.com/index/heimstaden</guid>
+      <pubDate>Tue, 03 Nov 2026 08:00:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Case study of real estate company Heimstaden implementing AI for residential management operations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’</title>
@@ -136,12 +128,12 @@
       <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>Interactive educational resource covering RLHF, attention mechanisms, LoRA, and LLM evaluation techniques.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>We turned 10 years of ML papers into one page per topic: benchmark records, what got tried, what reviewers expect [P]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1xmk8rx/we_turned_10_years_of_ml_papers_into_one_page_per/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1xmk8rx/we_turned_10_years_of_ml_papers_into_one_page_per/</guid>
-      <pubDate>Tue, 03 Nov 2026 05:09:18 +0000</pubDate>
+      <title>Google researchers demand freedom to tell the world what they know about AI</title>
+      <link>https://www.washingtonpost.com/technology/2026/11/03/google-deepmind-staff-protest-lifetime-ban-criticizing-company/</link>
+      <guid isPermaLink="true">https://www.washingtonpost.com/technology/2026/11/03/google-deepmind-staff-protest-lifetime-ban-criticizing-company/</guid>
+      <pubDate>Tue, 03 Nov 2026 17:55:26 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>ML paper index summarizing 10 years of research benchmarks and methodologies into single-page references.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 60/100<br/><b>Source:</b> Hacker News<br/><br/>Report on Google researchers protesting restrictions on public commentary about AI safety and policy.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Octomind – open-source AI harness that saves your tokens, static rust</title>
@@ -149,15 +141,15 @@
       <guid isPermaLink="true">https://github.com/Muvon/octomind</guid>
       <pubDate>Tue, 03 Nov 2026 15:02:58 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 60/100<br/><b>Source:</b> Hacker News<br/><br/>Octomind open-source project provides token optimization harness for AI inference.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 60/100<br/><b>Source:</b> Hacker News<br/><br/>Open-source tool for optimizing token usage in AI applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Google researchers demand freedom to tell the world what they know about AI</title>
-      <link>https://www.washingtonpost.com/technology/2026/11/03/google-deepmind-staff-protest-lifetime-ban-criticizing-company/</link>
-      <guid isPermaLink="true">https://www.washingtonpost.com/technology/2026/11/03/google-deepmind-staff-protest-lifetime-ban-criticizing-company/</guid>
-      <pubDate>Tue, 03 Nov 2026 17:55:26 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 54/100<br/><b>Source:</b> Hacker News<br/><br/>Google researchers protest lifetime restrictions on public criticism of company AI practices.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens</title>
+      <link>https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/</guid>
+      <pubDate>Tue, 03 Nov 2026 00:35:52 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 52/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Personal anecdote about Y Combinator&apos;s leader&apos;s spending on AI token usage.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
