@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Nov 2026 01:52:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 09:13:57 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Claude Fable 5.2 and Mythos 5.2</title>
@@ -24,7 +24,15 @@
       <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 88/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI introduces Control Room, a system for tracking and managing model workloads across research infrastructure.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Our Smallest, Most Efficient Model: Muse Ember</title>
+      <title>DeepX claims inference up to 100B parameters at less than 5 W</title>
+      <link>https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/</link>
+      <guid isPermaLink="true">https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/</guid>
+      <pubDate>Mon, 09 Nov 2026 18:33:58 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>DeepX releases second-generation chip targeting efficient inference up to 100B parameters.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Muse Ember: Our smallest, most efficient model</title>
       <link>https://research.meta.ai/blog/muse-ember</link>
       <guid isPermaLink="true">https://research.meta.ai/blog/muse-ember</guid>
       <pubDate>Mon, 09 Nov 2026 17:58:46 +0000</pubDate>
@@ -37,31 +45,7 @@
       <guid isPermaLink="true">https://openai.com/index/coderabbit-codex-daybreak</guid>
       <pubDate>Mon, 09 Nov 2026 08:00:00 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> OpenAI Blog<br/><br/>CodeRabbit demonstrates agentic software development capabilities with significant productivity improvements.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>DeepX claims inference up to 100B parameters at less than 5 W</title>
-      <link>https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/</link>
-      <guid isPermaLink="true">https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/</guid>
-      <pubDate>Mon, 09 Nov 2026 18:33:58 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>DeepX announces efficient inference chip capable of running models up to 100B parameters at ultra-low power.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Can coding agents build interactive 3D worlds? Frontier3DBench evaluates 11 configurations across objects, scenes, and worlds [R]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1xrhg3a/can_coding_agents_build_interactive_3d_worlds/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1xrhg3a/can_coding_agents_build_interactive_3d_worlds/</guid>
-      <pubDate>Mon, 09 Nov 2026 03:41:21 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Frontier3DBench evaluates coding agents&apos; ability to build interactive 3D worlds across multiple configurations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Anthropic releases new Mythos and Fable models amid RSI concerns</title>
-      <link>https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/</guid>
-      <pubDate>Mon, 09 Nov 2026 19:24:51 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 74/100<br/><b>Source:</b> TechCrunch AI<br/><br/>TechCrunch reports on Anthropic&apos;s new model releases.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> OpenAI Blog<br/><br/>CodeRabbit scales agentic software development capabilities with significant productivity improvements.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Meta releases Muse Ember, a new lightweight model for agent execution</title>
@@ -69,7 +53,15 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/</guid>
       <pubDate>Mon, 09 Nov 2026 18:00:00 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 74/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Meta&apos;s lightweight Muse Ember model release for agent execution.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 80/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Meta releases Muse Ember lightweight model for agent execution tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Anthropic releases new Mythos and Fable models amid RSI concerns</title>
+      <link>https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/</guid>
+      <pubDate>Mon, 09 Nov 2026 19:24:51 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 74/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic releases Mythos and Fable models with discussion of RSI concerns.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>ChatGPT Enterprise now available in AWS Marketplace</title>
@@ -77,7 +69,15 @@
       <guid isPermaLink="true">https://openai.com/index/chatgpt-enterprise-aws-marketplace</guid>
       <pubDate>Mon, 09 Nov 2026 19:00:00 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI makes ChatGPT Enterprise available through AWS Marketplace.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>ChatGPT Enterprise becomes available through AWS Marketplace for enterprise customers.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far</title>
+      <link>https://artificialanalysis.ai/models/claude-fable-5-2</link>
+      <guid isPermaLink="true">https://artificialanalysis.ai/models/claude-fable-5-2</guid>
+      <pubDate>Mon, 09 Nov 2026 20:04:55 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> Hacker News<br/><br/>Claude Fable 5.2 achieves high benchmark score on Artificial Analysis evaluation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Ginux: A New Kernel Runs Linux Userspace, Made via Human-Directed AI Engineering</title>
@@ -85,7 +85,7 @@
       <guid isPermaLink="true">https://zenodo.org/records/23682548</guid>
       <pubDate>Mon, 09 Nov 2026 11:30:27 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> Hacker News<br/><br/>Ginux kernel project demonstrates human-directed AI engineering creating Linux-compatible kernel.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> Hacker News<br/><br/>Ginux kernel demonstrates human-directed AI engineering to run Linux userspace.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Latent prediction beats reconstruction for tactile pretraining on dexterous manipulation tasks[R]</title>
@@ -93,7 +93,7 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1xs05uo/latent_prediction_beats_reconstruction_for/</guid>
       <pubDate>Mon, 09 Nov 2026 18:52:05 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Paper on tactile pretraining methods showing latent prediction outperforms reconstruction for dexterous manipulation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research paper on tactile pretraining showing latent prediction outperforms reconstruction for manipulation tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Using latent-agent swarms for math discovery and optimization [R]</title>
@@ -101,15 +101,15 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1xrunu7/using_latentagent_swarms_for_math_discovery_and/</guid>
       <pubDate>Mon, 09 Nov 2026 15:30:50 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research on using latent-agent swarms for mathematical discovery and optimization tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research on using latent-agent swarms for mathematical discovery and optimization problems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Forecasting new power outages per county, hourly, 2 h ahead: 2.4× the PR-AUC of NWS warnings + SPC outlook on a held-out year [P]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1xs4hq8/forecasting_new_power_outages_per_county_hourly_2/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1xs4hq8/forecasting_new_power_outages_per_county_hourly_2/</guid>
-      <pubDate>Mon, 09 Nov 2026 21:34:38 +0000</pubDate>
+      <title>Introducing Our Smallest, Most Efficient Model: Muse Ember</title>
+      <link>https://simonwillison.net/2026/Nov/10/muse-ember/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/10/muse-ember/</guid>
+      <pubDate>Tue, 10 Nov 2026 07:28:21 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research paper on ML-based power outage forecasting achieving significant improvement over existing methods.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> Simon Willison<br/><br/>Summary of Meta&apos;s Muse Ember lightweight and efficient model release.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here</title>
@@ -117,31 +117,23 @@
       <guid isPermaLink="true">https://github.com/samir-sarwar/samir-vllm</guid>
       <pubDate>Mon, 09 Nov 2026 11:36:55 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>Educational resource on LLM inference techniques and optimization.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>Educational resource compiling video tutorials and notes on LLM inference techniques.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far</title>
-      <link>https://artificialanalysis.ai/models/claude-fable-5-2</link>
-      <guid isPermaLink="true">https://artificialanalysis.ai/models/claude-fable-5-2</guid>
-      <pubDate>Mon, 09 Nov 2026 20:04:55 +0000</pubDate>
+      <title>Closing the AI guidance gap in education</title>
+      <link>https://openai.com/index/closing-ai-guidance-gap-education</link>
+      <guid isPermaLink="true">https://openai.com/index/closing-ai-guidance-gap-education</guid>
+      <pubDate>Tue, 10 Nov 2026 09:00:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI publishes guidance on integrating AI tools into educational settings.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Automattic debuts a platform to deploy vibe-coding apps amid a changing internet</title>
+      <link>https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/</guid>
+      <pubDate>Mon, 09 Nov 2026 14:00:00 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 62/100<br/><b>Source:</b> Hacker News<br/><br/>Claude Fable 5.2 achieves high score on Artificial Analysis benchmark.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Asahi Linux Drops MIT, Goes Full GPL After AI Used to Steal Unreleased Code</title>
-      <link>https://itsfoss.com/news/asahi-linux-drops-mit-for-gpl/</link>
-      <guid isPermaLink="true">https://itsfoss.com/news/asahi-linux-drops-mit-for-gpl/</guid>
-      <pubDate>Mon, 09 Nov 2026 03:06:55 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> Hacker News<br/><br/>Asahi Linux project changes license from MIT to GPL citing AI-based code theft concerns.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Follow-up: 2026 papers are finally in the topic pages, and we made ICML / CVPR / ICLR 2026 &quot;newspapers&quot;[P]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1xs6494/followup_2026_papers_are_finally_in_the_topic/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1xs6494/followup_2026_papers_are_finally_in_the_topic/</guid>
-      <pubDate>Mon, 09 Nov 2026 22:39:13 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 50/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Informational post about conference paper organization and topic pages.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 50/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Automattic aims to compete with the likes of Lovable with Spacefast.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
