@@ -5,23 +5,47 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Nov 2026 07:38:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 01:52:36 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU</title>
-      <link>https://github.com/synchopate/llama-modchip</link>
-      <guid isPermaLink="true">https://github.com/synchopate/llama-modchip</guid>
-      <pubDate>Sun, 08 Nov 2026 10:22:04 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 80/100<br/><b>Source:</b> Hacker News<br/><br/>Technical project enabling 284B parameter DeepSeek model to run on 64GB RAM without GPU.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Claude Fable 5.2 and Mythos 5.2</title>
+      <link>https://www.anthropic.com/claude-fable-and-mythos-5-2</link>
+      <guid isPermaLink="true">https://www.anthropic.com/claude-fable-and-mythos-5-2</guid>
+      <pubDate>Mon, 09 Nov 2026 18:56:29 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic releases Claude Fable 5.2 and Mythos 5.2 models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Goldman Sachs is pulling Claude Code from its bankers and traders</title>
-      <link>https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers</link>
-      <guid isPermaLink="true">https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers</guid>
-      <pubDate>Sun, 08 Nov 2026 18:16:07 +0000</pubDate>
+      <title>Control Room: A central system to track and stop model workloads across our research infrastructure</title>
+      <link>https://openai.com/index/control-room</link>
+      <guid isPermaLink="true">https://openai.com/index/control-room</guid>
+      <pubDate>Mon, 09 Nov 2026 13:00:00 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 88/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI introduces Control Room, a system for tracking and managing model workloads across research infrastructure.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Our Smallest, Most Efficient Model: Muse Ember</title>
+      <link>https://research.meta.ai/blog/muse-ember</link>
+      <guid isPermaLink="true">https://research.meta.ai/blog/muse-ember</guid>
+      <pubDate>Mon, 09 Nov 2026 17:58:46 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Meta releases Muse Ember, a lightweight and efficient model for agent execution.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>CodeRabbit scales agentic software development and ships 20x more</title>
+      <link>https://openai.com/index/coderabbit-codex-daybreak</link>
+      <guid isPermaLink="true">https://openai.com/index/coderabbit-codex-daybreak</guid>
+      <pubDate>Mon, 09 Nov 2026 08:00:00 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Goldman Sachs is discontinuing use of Claude Code for its banking and trading operations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> OpenAI Blog<br/><br/>CodeRabbit demonstrates agentic software development capabilities with significant productivity improvements.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>DeepX claims inference up to 100B parameters at less than 5 W</title>
+      <link>https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/</link>
+      <guid isPermaLink="true">https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/</guid>
+      <pubDate>Mon, 09 Nov 2026 18:33:58 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>DeepX announces efficient inference chip capable of running models up to 100B parameters at ultra-low power.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Can coding agents build interactive 3D worlds? Frontier3DBench evaluates 11 configurations across objects, scenes, and worlds [R]</title>
@@ -29,47 +53,95 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1xrhg3a/can_coding_agents_build_interactive_3d_worlds/</guid>
       <pubDate>Mon, 09 Nov 2026 03:41:21 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Frontier3DBench research evaluates coding agents&apos; ability to build interactive 3D worlds across multiple configurations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Frontier3DBench evaluates coding agents&apos; ability to build interactive 3D worlds across multiple configurations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Anthropic strikes $3.4B deal to generate gas-fired power for data centres</title>
-      <link>https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0</link>
-      <guid isPermaLink="true">https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0</guid>
-      <pubDate>Sun, 08 Nov 2026 12:41:25 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic secures $3.4B deal for gas-fired power generation to support data center operations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Anthropic releases new Mythos and Fable models amid RSI concerns</title>
+      <link>https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/</guid>
+      <pubDate>Mon, 09 Nov 2026 19:24:51 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 74/100<br/><b>Source:</b> TechCrunch AI<br/><br/>TechCrunch reports on Anthropic&apos;s new model releases.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Artificial Analysis: multimodal decision model Drex Max ranks #1. Both achieving SOTA and Pareto frontier [N]</title>
-      <link>https://i.redd.it/rj9m6rutff0i1.png</link>
-      <guid isPermaLink="true">https://i.redd.it/rj9m6rutff0i1.png</guid>
-      <pubDate>Sun, 08 Nov 2026 17:54:43 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Drex Max multimodal decision model achieves state-of-the-art ranking on Artificial Analysis benchmarks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Meta releases Muse Ember, a new lightweight model for agent execution</title>
+      <link>https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/</guid>
+      <pubDate>Mon, 09 Nov 2026 18:00:00 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 74/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Meta&apos;s lightweight Muse Ember model release for agent execution.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco</title>
-      <link>https://latent.space/p/cs146s/</link>
-      <guid isPermaLink="true">https://latent.space/p/cs146s/</guid>
-      <pubDate>Sun, 08 Nov 2026 21:41:44 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> Latent Space<br/><br/>Interview on Stanford&apos;s AI-native engineering curriculum and educational approach.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>ChatGPT Enterprise now available in AWS Marketplace</title>
+      <link>https://openai.com/index/chatgpt-enterprise-aws-marketplace</link>
+      <guid isPermaLink="true">https://openai.com/index/chatgpt-enterprise-aws-marketplace</guid>
+      <pubDate>Mon, 09 Nov 2026 19:00:00 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI makes ChatGPT Enterprise available through AWS Marketplace.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco</title>
-      <link>https://latent.space/p/one_million_ai_engineer_special_how_stanford_teaches_ai-native_engineering_mihail_eric_monaco/</link>
-      <guid isPermaLink="true">https://latent.space/p/one_million_ai_engineer_special_how_stanford_teaches_ai-native_engineering_mihail_eric_monaco/</guid>
-      <pubDate>Sun, 08 Nov 2026 21:23:29 +0000</pubDate>
+      <title>Ginux: A New Kernel Runs Linux Userspace, Made via Human-Directed AI Engineering</title>
+      <link>https://zenodo.org/records/23682548</link>
+      <guid isPermaLink="true">https://zenodo.org/records/23682548</guid>
+      <pubDate>Mon, 09 Nov 2026 11:30:27 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> Latent Space<br/><br/>Interview on Stanford&apos;s AI-native engineering curriculum and educational approach.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> Hacker News<br/><br/>Ginux kernel project demonstrates human-directed AI engineering creating Linux-compatible kernel.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Apple capped engineers at a $200 daily AI budget</title>
-      <link>https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget#story-1</link>
-      <guid isPermaLink="true">https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget#story-1</guid>
-      <pubDate>Mon, 09 Nov 2026 05:30:11 +0000</pubDate>
+      <title>Latent prediction beats reconstruction for tactile pretraining on dexterous manipulation tasks[R]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1xs05uo/latent_prediction_beats_reconstruction_for/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1xs05uo/latent_prediction_beats_reconstruction_for/</guid>
+      <pubDate>Mon, 09 Nov 2026 18:52:05 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Paper on tactile pretraining methods showing latent prediction outperforms reconstruction for dexterous manipulation.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Using latent-agent swarms for math discovery and optimization [R]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1xrunu7/using_latentagent_swarms_for_math_discovery_and/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1xrunu7/using_latentagent_swarms_for_math_discovery_and/</guid>
+      <pubDate>Mon, 09 Nov 2026 15:30:50 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 60/100<br/><b>Source:</b> Hacker News<br/><br/>Apple imposed a $200 daily budget cap on AI usage for its engineers.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research on using latent-agent swarms for mathematical discovery and optimization tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Forecasting new power outages per county, hourly, 2 h ahead: 2.4× the PR-AUC of NWS warnings + SPC outlook on a held-out year [P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1xs4hq8/forecasting_new_power_outages_per_county_hourly_2/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1xs4hq8/forecasting_new_power_outages_per_county_hourly_2/</guid>
+      <pubDate>Mon, 09 Nov 2026 21:34:38 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research paper on ML-based power outage forecasting achieving significant improvement over existing methods.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here</title>
+      <link>https://github.com/samir-sarwar/samir-vllm</link>
+      <guid isPermaLink="true">https://github.com/samir-sarwar/samir-vllm</guid>
+      <pubDate>Mon, 09 Nov 2026 11:36:55 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>Educational resource on LLM inference techniques and optimization.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far</title>
+      <link>https://artificialanalysis.ai/models/claude-fable-5-2</link>
+      <guid isPermaLink="true">https://artificialanalysis.ai/models/claude-fable-5-2</guid>
+      <pubDate>Mon, 09 Nov 2026 20:04:55 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 62/100<br/><b>Source:</b> Hacker News<br/><br/>Claude Fable 5.2 achieves high score on Artificial Analysis benchmark.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Asahi Linux Drops MIT, Goes Full GPL After AI Used to Steal Unreleased Code</title>
+      <link>https://itsfoss.com/news/asahi-linux-drops-mit-for-gpl/</link>
+      <guid isPermaLink="true">https://itsfoss.com/news/asahi-linux-drops-mit-for-gpl/</guid>
+      <pubDate>Mon, 09 Nov 2026 03:06:55 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> Hacker News<br/><br/>Asahi Linux project changes license from MIT to GPL citing AI-based code theft concerns.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Follow-up: 2026 papers are finally in the topic pages, and we made ICML / CVPR / ICLR 2026 &quot;newspapers&quot;[P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1xs6494/followup_2026_papers_are_finally_in_the_topic/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1xs6494/followup_2026_papers_are_finally_in_the_topic/</guid>
+      <pubDate>Mon, 09 Nov 2026 22:39:13 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 50/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Informational post about conference paper organization and topic pages.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
