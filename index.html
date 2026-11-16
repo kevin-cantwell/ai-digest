@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="refresh" content="300">
-  <title>AI Digest — 2026-11-15</title>
+  <title>AI Digest — 2026-11-16</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
@@ -246,7 +246,7 @@
   <div class="header-inner">
     <div class="logo">AI Digest<span class="logo-dot">.</span></div>
     <div class="header-meta">
-      <span class="header-date" id="header-date" data-utc="2026-11-15T20:48:15Z">Sunday, November 15, 2026 — 20:48 UTC</span>
+      <span class="header-date" id="header-date" data-utc="2026-11-16T00:43:47Z">Monday, November 16, 2026 — 00:43 UTC</span>
       <script>
         (function() {
           var el = document.getElementById('header-date');
@@ -259,7 +259,7 @@
       <span class="header-updated" id="header-updated">Updated just now</span>
       <script>
         (function() {
-          var builtAt = new Date("2026-11-15T20:48:15Z");
+          var builtAt = new Date("2026-11-16T00:43:47Z");
           function updateAge() {
             var mins = Math.floor((Date.now() - builtAt.getTime()) / 60000);
             var el = document.getElementById('header-updated');
@@ -282,7 +282,7 @@
 
 <main>
   <div class="tldr-box">
-    <p class="tldr-text">Meta FAIR and NYU researchers found that while encoder pretraining is optional for multimodal language models, the vision-specific parameters remain essential for performance across 200+ tested models. Nvidia has faced allegations of maintaining artificially high GPU prices through circular financing arrangements, raising questions about competitive pricing in the AI hardware market.</p>
+    <p class="tldr-text">Meta FAIR and NYU&#x27;s research on 200+ multimodal language models found that vision encoder pretraining is unnecessary, but vision-specific parameters remain essential for model performance. OpenAI published work on implementing the Standard Model on a lattice and launched a new science-focused blog, while researchers demonstrated training-free early exit mechanisms for reasoning models using linear probes in the output layer.</p>
   </div>
 
   
@@ -291,14 +291,38 @@
       <div class="cards">
       <div class="card">
         <div class="card-header">
+          <a class="card-title" href="https://github.com/db-branch/db-branch" target="_blank" rel="noopener noreferrer">Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS</a>
+        </div>
+        <p class="item-summary">A tool for creating database branches using ZFS for AI agents and CI pipelines, addressing infrastructure needs.</p>
+        <div class="card-meta">
+          <a class="source" href="https://news.ycombinator.com/item?id=50506940" target="_blank" rel="noopener noreferrer">Hacker News</a>
+          <span class="upvotes">▲ 30  💬 9</span>
+          <span class="age">10h ago</span>
+          <span class="score-bar" title="Quality score: 70/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">70</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
           <a class="card-title" href="https://www.reddit.com/r/MachineLearning/comments/1xx2n25/making_cudamemcpy_5x_faster_on_a_b300_p/" target="_blank" rel="noopener noreferrer">Making cudaMemcpy 5x faster on a B300 [P]</a>
         </div>
-        <p class="item-summary">Technical optimization achieving 5x speedup in cudaMemcpy operations on B300 hardware.</p>
+        <p class="item-summary">Technical optimization achieving 5x speedup in CUDA memory operations on Blackwell hardware.</p>
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/MachineLearning/comments/1xx2n25/making_cudamemcpy_5x_faster_on_a_b300_p/" target="_blank" rel="noopener noreferrer">r/MachineLearning</a>
           
-          <span class="age">2h ago</span>
-          <span class="score-bar" title="Quality score: 76/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">76</span></span>
+          <span class="age">6h ago</span>
+          <span class="score-bar" title="Quality score: 70/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">70</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://www.reddit.com/r/MachineLearning/comments/1xxa13x/handson_ml_orchestration_tutorial_with_airflow3_p/" target="_blank" rel="noopener noreferrer">Hands-on ML Orchestration Tutorial with Airflow3 [P]</a>
+        </div>
+        <p class="item-summary">Tutorial on ML orchestration with Airflow, general DevOps content.</p>
+        <div class="card-meta">
+          <a class="source" href="https://www.reddit.com/r/MachineLearning/comments/1xxa13x/handson_ml_orchestration_tutorial_with_airflow3_p/" target="_blank" rel="noopener noreferrer">r/MachineLearning</a>
+          
+          <span class="age">1h ago</span>
+          <span class="score-bar" title="Quality score: 38/100"><span class="bar-filled">████</span><span class="bar-empty">░░░░░░</span> <span class="score-num">38</span></span>
         </div>
       </div>
       </div>
@@ -310,11 +334,11 @@
         <div class="card-header">
           <a class="card-title" href="https://i.redd.it/rcfmbufjbt1i1.png" target="_blank" rel="noopener noreferrer">[Meta FAIR + NYU] Unbundling Multimodal Vision Encoding: training 200+ MLLMs to find encoder pretraining is optional but vision-only parameters are not [R]</a>
         </div>
-        <p class="item-summary">Meta FAIR and NYU research on multimodal vision encoding showing vision-only parameters are critical while encoder pretraining is optional.</p>
+        <p class="item-summary">Meta FAIR and NYU research systematically studying vision encoder pretraining across 200+ multimodal models.</p>
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/MachineLearning/comments/1xx1k2o/meta_fair_nyu_unbundling_multimodal_vision/" target="_blank" rel="noopener noreferrer">r/MachineLearning</a>
           
-          <span class="age">3h ago</span>
+          <span class="age">7h ago</span>
           <span class="score-bar" title="Quality score: 80/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">80</span></span>
         </div>
       </div>
@@ -322,23 +346,35 @@
         <div class="card-header">
           <a class="card-title" href="https://www.reddit.com/r/MachineLearning/comments/1xx1xdm/trainingfree_early_exit_for_reasoning_models_a/" target="_blank" rel="noopener noreferrer">Training-free early exit for reasoning models: a linear probe folded into the &lt;/think&gt; row of the output layer [p]</a>
         </div>
-        <p class="item-summary">Novel training-free early exit technique for reasoning models using linear probes in output layer.</p>
+        <p class="item-summary">Novel technique for training-free early exit in reasoning models using linear probes on output layers.</p>
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/MachineLearning/comments/1xx1xdm/trainingfree_early_exit_for_reasoning_models_a/" target="_blank" rel="noopener noreferrer">r/MachineLearning</a>
           
-          <span class="age">2h ago</span>
+          <span class="age">6h ago</span>
           <span class="score-bar" title="Quality score: 74/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">74</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <a class="card-title" href="https://simonwillison.net/2026/Nov/15/datasette-2/" target="_blank" rel="noopener noreferrer">datasette 0.65.6</a>
+        </div>
+        <p class="item-summary">Minor software version release update.</p>
+        <div class="card-meta">
+          <a class="source" href="https://simonwillison.net/2026/Nov/15/datasette-2/" target="_blank" rel="noopener noreferrer">Simon Willison</a>
+          
+          <span class="age">1h ago</span>
+          <span class="score-bar" title="Quality score: 38/100"><span class="bar-filled">████</span><span class="bar-empty">░░░░░░</span> <span class="score-num">38</span></span>
         </div>
       </div>
       <div class="card">
         <div class="card-header">
           <a class="card-title" href="https://simonwillison.net/2026/Nov/14/datasette-llm/" target="_blank" rel="noopener noreferrer">datasette-llm 0.1a11</a>
         </div>
-        <p class="item-summary">Minor version release of datasette-llm tool.</p>
+        <p class="item-summary">Minor software version release update.</p>
         <div class="card-meta">
           <a class="source" href="https://simonwillison.net/2026/Nov/14/datasette-llm/" target="_blank" rel="noopener noreferrer">Simon Willison</a>
           
-          <span class="age">20h ago</span>
+          <span class="age">1d ago</span>
           <span class="score-bar" title="Quality score: 38/100"><span class="bar-filled">████</span><span class="bar-empty">░░░░░░</span> <span class="score-num">38</span></span>
         </div>
       </div>
@@ -346,36 +382,12 @@
         <div class="card-header">
           <a class="card-title" href="https://simonwillison.net/2026/Nov/14/datasette-vega/" target="_blank" rel="noopener noreferrer">datasette-vega 0.7</a>
         </div>
-        <p class="item-summary">Minor version release of datasette-vega visualization tool.</p>
+        <p class="item-summary">Minor software version release update.</p>
         <div class="card-meta">
           <a class="source" href="https://simonwillison.net/2026/Nov/14/datasette-vega/" target="_blank" rel="noopener noreferrer">Simon Willison</a>
           
           <span class="age">1d ago</span>
-          <span class="score-bar" title="Quality score: 32/100"><span class="bar-filled">███</span><span class="bar-empty">░░░░░░░</span> <span class="score-num">32</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://simonwillison.net/2026/Nov/13/datasette-cluster-map/" target="_blank" rel="noopener noreferrer">datasette-cluster-map 0.19</a>
-        </div>
-        <p class="item-summary">Minor version release of datasette-cluster-map tool.</p>
-        <div class="card-meta">
-          <a class="source" href="https://simonwillison.net/2026/Nov/13/datasette-cluster-map/" target="_blank" rel="noopener noreferrer">Simon Willison</a>
-          
-          <span class="age">1d ago</span>
-          <span class="score-bar" title="Quality score: 32/100"><span class="bar-filled">███</span><span class="bar-empty">░░░░░░░</span> <span class="score-num">32</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://simonwillison.net/2026/Nov/13/datasette-leaflet/" target="_blank" rel="noopener noreferrer">datasette-leaflet 0.3</a>
-        </div>
-        <p class="item-summary">Minor version release of datasette-leaflet mapping tool.</p>
-        <div class="card-meta">
-          <a class="source" href="https://simonwillison.net/2026/Nov/13/datasette-leaflet/" target="_blank" rel="noopener noreferrer">Simon Willison</a>
-          
-          <span class="age">1d ago</span>
-          <span class="score-bar" title="Quality score: 32/100"><span class="bar-filled">███</span><span class="bar-empty">░░░░░░░</span> <span class="score-num">32</span></span>
+          <span class="score-bar" title="Quality score: 38/100"><span class="bar-filled">████</span><span class="bar-empty">░░░░░░</span> <span class="score-num">38</span></span>
         </div>
       </div>
       </div>
@@ -390,21 +402,9 @@
         <p class="item-summary">Opinion piece arguing AI-generated code should be open source.</p>
         <div class="card-meta">
           <a class="source" href="https://news.ycombinator.com/item?id=50507303" target="_blank" rel="noopener noreferrer">Hacker News</a>
-          <span class="upvotes">▲ 916  💬 500</span>
-          <span class="age">6h ago</span>
-          <span class="score-bar" title="Quality score: 52/100"><span class="bar-filled">█████</span><span class="bar-empty">░░░░░</span> <span class="score-num">52</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://i.redd.it/wa1w1q097n1i1.gif" target="_blank" rel="noopener noreferrer">ACM Multimedia 2026: TimeCues Studio - a free, open-source tool for annotating music structure [R]</a>
-        </div>
-        <p class="item-summary">Open-source tool for music structure annotation presented at ACM Multimedia.</p>
-        <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/MachineLearning/comments/1xwh3mw/acm_multimedia_2026_timecues_studio_a_free/" target="_blank" rel="noopener noreferrer">r/MachineLearning</a>
-          
-          <span class="age">20h ago</span>
-          <span class="score-bar" title="Quality score: 50/100"><span class="bar-filled">█████</span><span class="bar-empty">░░░░░</span> <span class="score-num">50</span></span>
+          <span class="upvotes">▲ 1067  💬 579</span>
+          <span class="age">9h ago</span>
+          <span class="score-bar" title="Quality score: 46/100"><span class="bar-filled">█████</span><span class="bar-empty">░░░░░</span> <span class="score-num">46</span></span>
         </div>
       </div>
       </div>
@@ -414,13 +414,25 @@
       <div class="cards">
       <div class="card">
         <div class="card-header">
+          <a class="card-title" href="https://openai.com/index/step-toward-defining-the-standard-model" target="_blank" rel="noopener noreferrer">A step toward defining the Standard Model on a lattice</a>
+        </div>
+        <p class="item-summary">OpenAI research progress on applying lattice methods to theoretical physics calculations using AI.</p>
+        <div class="card-meta">
+          <a class="source" href="https://openai.com/index/step-toward-defining-the-standard-model" target="_blank" rel="noopener noreferrer">OpenAI Blog</a>
+          
+          <span class="age">2h ago</span>
+          <span class="score-bar" title="Quality score: 78/100"><span class="bar-filled">████████</span><span class="bar-empty">░░</span> <span class="score-num">78</span></span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
           <a class="card-title" href="https://vor.tech/x/reddit-ml" target="_blank" rel="noopener noreferrer">We made a multiplayer game where each player&#x27;s view is generated by a world model running on their GPU [P]</a>
         </div>
-        <p class="item-summary">Multiplayer game system where each player&#x27;s view is generated by a world model running locally on their GPU.</p>
+        <p class="item-summary">Multiplayer game prototype where each player&#x27;s view is generated by world models on local GPUs.</p>
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/MachineLearning/comments/1xx4ta3/we_made_a_multiplayer_game_where_each_players/" target="_blank" rel="noopener noreferrer">r/MachineLearning</a>
           
-          <span class="age">1h ago</span>
+          <span class="age">4h ago</span>
           <span class="score-bar" title="Quality score: 74/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">74</span></span>
         </div>
       </div>
@@ -428,60 +440,48 @@
         <div class="card-header">
           <a class="card-title" href="https://huggingface.co/charcot-ai/marimba/resolve/main/assets/marimba-demo-60s.mp4" target="_blank" rel="noopener noreferrer">Marimba: a System One model for speech [R]</a>
         </div>
-        <p class="item-summary">Marimba, a System One model architecture for speech processing.</p>
+        <p class="item-summary">Research on Marimba, a System One model architecture for speech processing.</p>
         <div class="card-meta">
           <a class="source" href="https://www.reddit.com/r/MachineLearning/comments/1xwzsm4/marimba_a_system_one_model_for_speech_r/" target="_blank" rel="noopener noreferrer">r/MachineLearning</a>
           
-          <span class="age">4h ago</span>
+          <span class="age">8h ago</span>
           <span class="score-bar" title="Quality score: 68/100"><span class="bar-filled">███████</span><span class="bar-empty">░░░</span> <span class="score-num">68</span></span>
         </div>
       </div>
       <div class="card">
         <div class="card-header">
-          <a class="card-title" href="https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html" target="_blank" rel="noopener noreferrer">Nvidia deliberately kept GPU prices high through circular financing deals</a>
+          <a class="card-title" href="https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/" target="_blank" rel="noopener noreferrer">Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market</a>
         </div>
-        <p class="item-summary">Report alleging Nvidia used circular financing to maintain high GPU prices.</p>
+        <p class="item-summary">Funding announcement for Indian AI chip startup.</p>
         <div class="card-meta">
-          <a class="source" href="https://news.ycombinator.com/item?id=50501631" target="_blank" rel="noopener noreferrer">Hacker News</a>
-          <span class="upvotes">▲ 440  💬 231</span>
-          <span class="age">22h ago</span>
-          <span class="score-bar" title="Quality score: 64/100"><span class="bar-filled">██████</span><span class="bar-empty">░░░░</span> <span class="score-num">64</span></span>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-header">
-          <a class="card-title" href="https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/" target="_blank" rel="noopener noreferrer">Parents pay $75k for Alpha&#x27;s AI school. Half of its students missed math target</a>
-        </div>
-        <p class="item-summary">Report on Alpha AI school&#x27;s mixed academic outcomes despite high tuition costs.</p>
-        <div class="card-meta">
-          <a class="source" href="https://news.ycombinator.com/item?id=50509953" target="_blank" rel="noopener noreferrer">Hacker News</a>
-          <span class="upvotes">▲ 35  💬 19</span>
+          <a class="source" href="https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/" target="_blank" rel="noopener noreferrer">TechCrunch AI</a>
+          
           <span class="age">1h ago</span>
           <span class="score-bar" title="Quality score: 50/100"><span class="bar-filled">█████</span><span class="bar-empty">░░░░░</span> <span class="score-num">50</span></span>
         </div>
       </div>
       <div class="card">
         <div class="card-header">
-          <a class="card-title" href="https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/" target="_blank" rel="noopener noreferrer">The AI graveyard: a running list of projects and startups that didn’t make it</a>
+          <a class="card-title" href="https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/" target="_blank" rel="noopener noreferrer">Your Agent Will Pick the Hackable One</a>
         </div>
-        <p class="item-summary">Compilation of AI projects and startups that ceased operations.</p>
+        <p class="item-summary">Opinion piece about security vulnerabilities in agent systems.</p>
         <div class="card-meta">
-          <a class="source" href="https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/" target="_blank" rel="noopener noreferrer">TechCrunch AI</a>
-          
-          <span class="age">1d ago</span>
-          <span class="score-bar" title="Quality score: 50/100"><span class="bar-filled">█████</span><span class="bar-empty">░░░░░</span> <span class="score-num">50</span></span>
+          <a class="source" href="https://news.ycombinator.com/item?id=50510799" target="_blank" rel="noopener noreferrer">Hacker News</a>
+          <span class="upvotes">▲ 70  💬 50</span>
+          <span class="age">3h ago</span>
+          <span class="score-bar" title="Quality score: 48/100"><span class="bar-filled">█████</span><span class="bar-empty">░░░░░</span> <span class="score-num">48</span></span>
         </div>
       </div>
       <div class="card">
         <div class="card-header">
-          <a class="card-title" href="https://www.reddit.com/r/MachineLearning/comments/1xwttxo/hackathon_project_for_mariadbs_wikipedia_through/" target="_blank" rel="noopener noreferrer">Hackathon project for MariaDB&#x27;s Wikipedia Through Time challenge: matching sentences across seven Wikipedia editions at any past date [P]</a>
+          <a class="card-title" href="https://openai.com/index/our-new-blog-for-science" target="_blank" rel="noopener noreferrer">Our new blog for science</a>
         </div>
-        <p class="item-summary">Hackathon project for matching text across Wikipedia editions at different timestamps.</p>
+        <p class="item-summary">Announcement of OpenAI&#x27;s new science blog with no substantive technical details.</p>
         <div class="card-meta">
-          <a class="source" href="https://www.reddit.com/r/MachineLearning/comments/1xwttxo/hackathon_project_for_mariadbs_wikipedia_through/" target="_blank" rel="noopener noreferrer">r/MachineLearning</a>
+          <a class="source" href="https://openai.com/index/our-new-blog-for-science" target="_blank" rel="noopener noreferrer">OpenAI Blog</a>
           
-          <span class="age">8h ago</span>
-          <span class="score-bar" title="Quality score: 44/100"><span class="bar-filled">████</span><span class="bar-empty">░░░░░░</span> <span class="score-num">44</span></span>
+          <span class="age">2h ago</span>
+          <span class="score-bar" title="Quality score: 48/100"><span class="bar-filled">█████</span><span class="bar-empty">░░░░░</span> <span class="score-num">48</span></span>
         </div>
       </div>
       </div>
