@@ -5,39 +5,15 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Nov 2026 07:38:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 17:55:06 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>[Meta FAIR + NYU] Unbundling Multimodal Vision Encoding: training 200+ MLLMs to find encoder pretraining is optional but vision-only parameters are not [R]</title>
-      <link>https://i.redd.it/rcfmbufjbt1i1.png</link>
-      <guid isPermaLink="true">https://i.redd.it/rcfmbufjbt1i1.png</guid>
-      <pubDate>Sun, 15 Nov 2026 17:38:16 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 80/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Meta FAIR and NYU study analyzing vision encoder requirements across 200+ multimodal models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>A step toward defining the Standard Model on a lattice</title>
-      <link>https://openai.com/index/step-toward-defining-the-standard-model</link>
-      <guid isPermaLink="true">https://openai.com/index/step-toward-defining-the-standard-model</guid>
-      <pubDate>Sun, 15 Nov 2026 22:00:01 +0000</pubDate>
+      <title>Advancing computer-use agents for healthcare teams</title>
+      <link>https://openai.com/index/advancing-computer-use-for-healthcare-teams</link>
+      <guid isPermaLink="true">https://openai.com/index/advancing-computer-use-for-healthcare-teams</guid>
+      <pubDate>Mon, 16 Nov 2026 06:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 78/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI research on lattice formulations of the Standard Model physics framework.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Training-free early exit for reasoning models: a linear probe folded into the &lt;/think&gt; row of the output layer [p]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1xx1xdm/trainingfree_early_exit_for_reasoning_models_a/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1xx1xdm/trainingfree_early_exit_for_reasoning_models_a/</guid>
-      <pubDate>Sun, 15 Nov 2026 17:52:41 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Novel training-free early exit technique for reasoning models using output layer probes.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS</title>
-      <link>https://github.com/db-branch/db-branch</link>
-      <guid isPermaLink="true">https://github.com/db-branch/db-branch</guid>
-      <pubDate>Sun, 15 Nov 2026 13:50:51 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>GitHub project for database branching using ZFS for AI agents and CI pipelines.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 84/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI advances computer-use agents specifically designed for healthcare team workflows.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Making cudaMemcpy 5x faster on a B300 [P]</title>
@@ -45,15 +21,15 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1xx2n25/making_cudamemcpy_5x_faster_on_a_b300_p/</guid>
       <pubDate>Sun, 15 Nov 2026 18:20:27 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Technical optimization for CUDA memory operations on B300 hardware.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Technical optimization achieving 5x performance improvement in GPU memory operations on NVIDIA B300.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Marimba: a System One model for speech [R]</title>
-      <link>https://huggingface.co/charcot-ai/marimba/resolve/main/assets/marimba-demo-60s.mp4</link>
-      <guid isPermaLink="true">https://huggingface.co/charcot-ai/marimba/resolve/main/assets/marimba-demo-60s.mp4</guid>
-      <pubDate>Sun, 15 Nov 2026 16:30:09 +0000</pubDate>
+      <title>Steering a pretrained music transformer at sampling time into a real-time jazz partner (no fine-tuning) [P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1xxkyh3/steering_a_pretrained_music_transformer_at/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1xxkyh3/steering_a_pretrained_music_transformer_at/</guid>
+      <pubDate>Mon, 16 Nov 2026 09:19:43 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Research paper on Marimba, a System One model for speech processing.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Novel steering technique enables real-time musical collaboration with pretrained transformers without fine-tuning.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>We made a multiplayer game where each player&apos;s view is generated by a world model running on their GPU [P]</title>
@@ -61,15 +37,79 @@
       <guid isPermaLink="true">https://vor.tech/x/reddit-ml</guid>
       <pubDate>Sun, 15 Nov 2026 19:46:49 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 62/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Project demonstrating multiplayer game rendering using per-player GPU-based world models.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 74/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Novel system demonstrates multiplayer gaming with GPU-based world model generation per player.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market</title>
-      <link>https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/</guid>
-      <pubDate>Sun, 15 Nov 2026 23:30:00 +0000</pubDate>
+      <title>FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’</title>
+      <link>https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/</guid>
+      <pubDate>Mon, 16 Nov 2026 17:36:43 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 74/100<br/><b>Source:</b> TechCrunch AI<br/><br/>FBI reports open-source AI hacking tool used to compromise networks in under three hours.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Broadening access to AI for scientists</title>
+      <link>https://openai.com/index/expanding-chatgpt-for-academic-researchers</link>
+      <guid isPermaLink="true">https://openai.com/index/expanding-chatgpt-for-academic-researchers</guid>
+      <pubDate>Mon, 16 Nov 2026 17:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 56/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Indian semiconductor startup Bharat Semi raises $24M seed funding for AI sensors.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI expands ChatGPT access program for academic researchers.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Strengthening the fight against online child sexual abuse with new tools and support</title>
+      <link>https://openai.com/index/strengthening-online-child-safety</link>
+      <guid isPermaLink="true">https://openai.com/index/strengthening-online-child-safety</guid>
+      <pubDate>Mon, 16 Nov 2026 17:00:00 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI releases technical tools and safety measures to combat child sexual abuse material.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>More ways to move care forward with ChatGPT for Healthcare</title>
+      <link>https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare</link>
+      <guid isPermaLink="true">https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare</guid>
+      <pubDate>Mon, 16 Nov 2026 06:00:00 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI extends ChatGPT for Healthcare platform with new capabilities and use cases.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Marimba: A System One Model for Speech. [R]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1xxsqro/marimba_a_system_one_model_for_speech_r/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1xxsqro/marimba_a_system_one_model_for_speech_r/</guid>
+      <pubDate>Mon, 16 Nov 2026 15:47:18 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Marimba presents a new speech model architecture inspired by System One cognitive principles.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>OpenAI will embed Apollo researchers to investigate AI subversion</title>
+      <link>https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/</guid>
+      <pubDate>Mon, 16 Nov 2026 17:02:43 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI partners with researchers to investigate AI subversion and adversarial threats.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM</title>
+      <link>https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/</guid>
+      <pubDate>Mon, 16 Nov 2026 17:00:00 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>OpenAI releases new image classifier and safety warnings to prevent child exploitation material.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>LVMH’s Media Division announces strategic partnership with OpenAI</title>
+      <link>https://openai.com/index/lvmh-media-division-partnership</link>
+      <guid isPermaLink="true">https://openai.com/index/lvmh-media-division-partnership</guid>
+      <pubDate>Mon, 16 Nov 2026 09:00:00 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> OpenAI Blog<br/><br/>LVMH media division announces strategic partnership with OpenAI for content applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>The King’s Trust and OpenAI launch £1m partnership</title>
+      <link>https://openai.com/index/the-kings-trust-and-openai</link>
+      <guid isPermaLink="true">https://openai.com/index/the-kings-trust-and-openai</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI and UK charity The King&apos;s Trust announce £1m partnership program.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>datasette-agent 0.6a0</title>
@@ -77,63 +117,15 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Nov/15/datasette-agent/</guid>
       <pubDate>Sun, 15 Nov 2026 03:49:47 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 56/100<br/><b>Source:</b> Simon Willison<br/><br/>Release announcement for datasette-agent version 0.6a0.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 56/100<br/><b>Source:</b> Simon Willison<br/><br/>Release announcement of datasette-agent 0.6a0 open-source tool.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Our new blog for science</title>
-      <link>https://openai.com/index/our-new-blog-for-science</link>
-      <guid isPermaLink="true">https://openai.com/index/our-new-blog-for-science</guid>
-      <pubDate>Sun, 15 Nov 2026 22:00:00 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 54/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Announcement of OpenAI&apos;s new science-focused blog.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Apple launches new app to study how people use AI for health</title>
-      <link>https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/</guid>
-      <pubDate>Mon, 16 Nov 2026 01:30:00 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 50/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Apple launches research app studying user behaviors with AI health tools.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>datasette-maplibre 0.1a0</title>
-      <link>https://simonwillison.net/2026/Nov/15/datasette-maplibre/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/15/datasette-maplibre/</guid>
-      <pubDate>Sun, 15 Nov 2026 23:58:36 +0000</pubDate>
+      <title>AISTATS 2027 paper discussion [D]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1xxqa3i/aistats_2027_paper_discussion_d/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1xxqa3i/aistats_2027_paper_discussion_d/</guid>
+      <pubDate>Mon, 16 Nov 2026 14:09:31 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 50/100<br/><b>Source:</b> Simon Willison<br/><br/>Release: datasette-maplibre 0.1a0 The first new Datasette geospatial plugin in quite a while! This one combines the excellent MapLibre GL library with OpenFreeMap, the free vector map server operated <br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>datasette 1.0a43</title>
-      <link>https://simonwillison.net/2026/Nov/15/datasette/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/15/datasette/</guid>
-      <pubDate>Sun, 15 Nov 2026 23:20:27 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 50/100<br/><b>Source:</b> Simon Willison<br/><br/>Release: datasette 1.0a43 I&apos;ve been leaning hard into Claude Fable 5.2 to help knock things off the 1.0 milestone, which is now 53% complete. The biggest 1.0 item in this release is streaming support <br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>datasette 0.65.6</title>
-      <link>https://simonwillison.net/2026/Nov/15/datasette-2/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/15/datasette-2/</guid>
-      <pubDate>Sun, 15 Nov 2026 23:18:17 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 50/100<br/><b>Source:</b> Simon Willison<br/><br/>Release: datasette 0.65.6 I backported a minor security fix from 1.0a43: Fixed a security issue where a database registered using add_database(db, name=..., route=...) with a route that differs from i<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>[AINews] The No AI Slop Manifesto</title>
-      <link>https://latent.space/p/ainews-the-no-ai-slop-manifesto/</link>
-      <guid isPermaLink="true">https://latent.space/p/ainews-the-no-ai-slop-manifesto/</guid>
-      <pubDate>Sat, 14 Nov 2026 08:31:02 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 50/100<br/><b>Source:</b> Latent Space<br/><br/>November 13, 2026 — AIE speakers unite to lay out how to fight slop.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>All AI-generated code should be Open Source</title>
-      <link>https://jakub.jankiewicz.org/blog/ai-code-open-source/</link>
-      <guid isPermaLink="true">https://jakub.jankiewicz.org/blog/ai-code-open-source/</guid>
-      <pubDate>Sun, 15 Nov 2026 14:46:58 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 46/100<br/><b>Source:</b> Hacker News<br/><br/>Opinion piece arguing AI-generated code should be open source.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 50/100<br/><b>Source:</b> r/MachineLearning<br/><br/>General discussion thread about machine learning conference papers.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Hands-on ML Orchestration Tutorial with Airflow3 [P]</title>
@@ -141,7 +133,15 @@
       <guid isPermaLink="true">https://www.reddit.com/r/MachineLearning/comments/1xxa13x/handson_ml_orchestration_tutorial_with_airflow3_p/</guid>
       <pubDate>Sun, 15 Nov 2026 23:28:01 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 44/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Tutorial on ML orchestration with Airflow3.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 50/100<br/><b>Source:</b> r/MachineLearning<br/><br/>Tutorial on ML workflow orchestration tools, educational content rather than news.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Apple launches new app to study how people use AI for health</title>
+      <link>https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/</guid>
+      <pubDate>Mon, 16 Nov 2026 01:30:00 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 50/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Apple&apos;s new app for a study will answer everyday medical questions<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
