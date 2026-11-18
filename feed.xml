@@ -5,15 +5,23 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Nov 2026 11:06:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 19:57:21 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>GPT‑6.2 Astra and Sol</title>
-      <link>https://openai.com/index/introducing-gpt-6-2-astra-sol/</link>
-      <guid isPermaLink="true">https://openai.com/index/introducing-gpt-6-2-astra-sol/</guid>
-      <pubDate>Tue, 17 Nov 2026 17:46:43 +0000</pubDate>
+      <title>Advancing chip design with OpenAI models</title>
+      <link>https://openai.com/index/advancing-chip-design-with-our-models/</link>
+      <guid isPermaLink="true">https://openai.com/index/advancing-chip-design-with-our-models/</guid>
+      <pubDate>Wed, 18 Nov 2026 17:45:47 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 92/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI releases GPT-6.2 Astra and Sol, new frontier models with improved capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 88/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI demonstrates application of its models to accelerate chip design workflows.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>A 4.5M-parameter TTS model runs 70x real-time on CPU and cost just $10 to train</title>
+      <link>https://huggingface.co/n4ze3m/tiny-voca</link>
+      <guid isPermaLink="true">https://huggingface.co/n4ze3m/tiny-voca</guid>
+      <pubDate>Wed, 18 Nov 2026 15:01:14 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 84/100<br/><b>Source:</b> Hacker News<br/><br/>Efficient 4.5M-parameter text-to-speech model achieves 70x real-time CPU inference at minimal training cost.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Introducing GPT-6.2 Astra and Sol</title>
@@ -21,7 +29,47 @@
       <guid isPermaLink="true">https://openai.com/index/introducing-gpt-6-2-astra-sol</guid>
       <pubDate>Tue, 17 Nov 2026 17:45:00 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 84/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces GPT-6.2 Astra and Sol frontier models with significant improvements.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 84/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces GPT-6.2 Astra and Sol, new frontier models with improved capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>AI agents ask better questions than KPMG accountants in audit trial</title>
+      <link>https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/</link>
+      <guid isPermaLink="true">https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/</guid>
+      <pubDate>Wed, 18 Nov 2026 15:49:34 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Study shows AI agents outperform KPMG accountants in audit question quality.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Energy-Based Reasoners: 385x more efficient inference</title>
+      <link>https://energy-based-reasoners.github.io/</link>
+      <guid isPermaLink="true">https://energy-based-reasoners.github.io/</guid>
+      <pubDate>Wed, 18 Nov 2026 09:29:32 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Energy-Based Reasoners framework achieves 385x more efficient inference than standard approaches.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Inside the Codex sandbox</title>
+      <link>https://openai.com/index/inside-the-codex-sandbox</link>
+      <guid isPermaLink="true">https://openai.com/index/inside-the-codex-sandbox</guid>
+      <pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI publishes technical details on Codex sandbox implementation for code execution.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor</title>
+      <link>https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/</guid>
+      <pubDate>Wed, 18 Nov 2026 19:56:39 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 80/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Snapchat enables developers to build AR Lenses using AI coding assistants.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Genie 4 is now available</title>
+      <link>https://deepmind.google/blog/genie-4-is-now-available/</link>
+      <guid isPermaLink="true">https://deepmind.google/blog/genie-4-is-now-available/</guid>
+      <pubDate>Wed, 18 Nov 2026 18:13:42 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 78/100<br/><b>Source:</b> Google DeepMind<br/><br/>Google DeepMind releases Genie 4, advancing generative world modeling capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>External sandboxes for coding agents</title>
@@ -29,31 +77,7 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/</guid>
       <pubDate>Tue, 17 Nov 2026 22:52:29 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Simon Willison<br/><br/>Analysis of external sandbox architectures for securing coding agent execution.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Claude was trained on protein sequences at scale</title>
-      <link>http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/</link>
-      <guid isPermaLink="true">http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/</guid>
-      <pubDate>Wed, 18 Nov 2026 03:47:43 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic&apos;s Claude trained on protein sequences at scale for biological research.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium</title>
-      <link>https://github.com/RunanywhereAI/trnrt</link>
-      <guid isPermaLink="true">https://github.com/RunanywhereAI/trnrt</guid>
-      <pubDate>Tue, 17 Nov 2026 16:01:04 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 74/100<br/><b>Source:</b> Hacker News<br/><br/>Open-source LLM inference engine released for AWS Trainium hardware.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>[AINews] GPT-6.2 Astra, the #2 Frontier Model is better and 20%-600% cheaper, but has mixed reviews; 6.2 Sol likely main workhorse</title>
-      <link>https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol/</link>
-      <guid isPermaLink="true">https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol/</guid>
-      <pubDate>Wed, 18 Nov 2026 10:19:04 +0000</pubDate>
-      <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 74/100<br/><b>Source:</b> Latent Space<br/><br/>Analysis of GPT-6.2 Astra and Sol release with performance comparisons and cost reductions.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Simon Willison<br/><br/>Analysis of external sandbox approaches for AI coding agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Cerebras Disaggregated Inference</title>
@@ -61,71 +85,55 @@
       <guid isPermaLink="true">https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference</guid>
       <pubDate>Wed, 18 Nov 2026 00:56:23 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> Hacker News<br/><br/>Cerebras announces disaggregated inference architecture for large-scale model deployment.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Cerebras introduces disaggregated inference approach for distributed model deployment.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT</title>
-      <link>https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership</link>
-      <guid isPermaLink="true">https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership</guid>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <title>Google&apos;s AI answers reducing search traffic by 40%</title>
+      <link>https://revscope.co/blog/search-seo-geo-2026/</link>
+      <guid isPermaLink="true">https://revscope.co/blog/search-seo-geo-2026/</guid>
+      <pubDate>Wed, 18 Nov 2026 00:17:58 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Le Groupe Figaro partners with OpenAI to integrate journalism content into ChatGPT.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 70/100<br/><b>Source:</b> Hacker News<br/><br/>Analysis indicates Google&apos;s AI-generated search answers reducing organic search traffic by 40%.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Broadening access to AI for scientists</title>
-      <link>https://openai.com/index/expanding-chatgpt-for-academic-researchers</link>
-      <guid isPermaLink="true">https://openai.com/index/expanding-chatgpt-for-academic-researchers</guid>
-      <pubDate>Mon, 16 Nov 2026 17:00:00 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI broadens ChatGPT access for academic researchers and scientific work.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Daydream’s new AI agent acts as your personal stylist — and can shop for you, too</title>
-      <link>https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/</guid>
-      <pubDate>Tue, 17 Nov 2026 16:32:55 +0000</pubDate>
+      <title>More banks say customers using AI agents are on their own — even if they get hacked</title>
+      <link>https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/</guid>
+      <pubDate>Wed, 18 Nov 2026 17:32:10 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Daydream launches AI agent for personal styling and shopping recommendations.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 70/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Banks limit liability for customers using AI agents, disclaiming responsibility for security breaches.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>AI models can be tricked into identifying civilians as military targets by telling them it’s a game</title>
-      <link>https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/</guid>
-      <pubDate>Tue, 17 Nov 2026 17:20:41 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Security research shows AI models can be jailbroken into misidentifying civilians as military targets.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos</title>
-      <link>https://news.ycombinator.com/item?id=50536468</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50536468</guid>
-      <pubDate>Tue, 17 Nov 2026 19:01:43 +0000</pubDate>
+      <title>Claude was trained on protein sequences at scale</title>
+      <link>http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/</link>
+      <guid isPermaLink="true">http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/</guid>
+      <pubDate>Wed, 18 Nov 2026 03:47:43 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>YC-backed startup introduces self-improving CI system for agent-based repositories.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> Hacker News<br/><br/>Report claims Claude was trained at scale on protein sequences for biological applications.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Introducing ChatGPT for Sales</title>
-      <link>https://openai.com/index/introducing-chatgpt-for-sales</link>
-      <guid isPermaLink="true">https://openai.com/index/introducing-chatgpt-for-sales</guid>
-      <pubDate>Tue, 17 Nov 2026 08:00:00 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI launches ChatGPT for Sales, enterprise sales-focused product variant.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Why is Gemini 4 Carbon taking so long?</title>
-      <link>https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/</link>
-      <guid isPermaLink="true">https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/</guid>
-      <pubDate>Wed, 18 Nov 2026 04:14:04 +0000</pubDate>
+      <title>[AINews] GPT-6.2 Astra, the #2 Frontier Model is better and 20%-600% cheaper, but has mixed reviews; 6.2 Sol likely main workhorse</title>
+      <link>https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol/</link>
+      <guid isPermaLink="true">https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol/</guid>
+      <pubDate>Wed, 18 Nov 2026 10:19:04 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 62/100<br/><b>Source:</b> Hacker News<br/><br/>Discussion of delays in Google&apos;s Gemini 4 Carbon model development.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 68/100<br/><b>Source:</b> Latent Space<br/><br/>Analysis of GPT-6.2 Astra capabilities, pricing, and market positioning relative to competitors.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Strengthening the fight against online child sexual abuse with new tools and support</title>
-      <link>https://openai.com/index/strengthening-online-child-safety</link>
-      <guid isPermaLink="true">https://openai.com/index/strengthening-online-child-safety</guid>
-      <pubDate>Mon, 16 Nov 2026 17:00:00 +0000</pubDate>
-      <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 60/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI announces tools and partnerships for combating online child sexual abuse material.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Can Peer Review Survive AI-Generated Text? [pdf]</title>
+      <link>https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf</link>
+      <guid isPermaLink="true">https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf</guid>
+      <pubDate>Wed, 18 Nov 2026 13:51:03 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> Hacker News<br/><br/>Academic paper examining impacts of AI-generated text on peer review systems.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents</title>
+      <link>https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/</guid>
+      <pubDate>Wed, 18 Nov 2026 12:00:00 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Felicis leads $7.5M funding round for Unsiloed AI to enable enterprise document processing by AI agents.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Google expands access to Gemini Tasks, which can help with calls, purchases</title>
@@ -134,6 +142,14 @@
       <pubDate>Tue, 17 Nov 2026 19:02:20 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
       <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Gemini&apos;s Task mode can help users coordinate calls, log into websites, and even make purchases on the user&apos;s behalf.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Google to keep Gemini chats for 2 months, up from 72 hours, even with history off</title>
+      <link>https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/</guid>
+      <pubDate>Tue, 17 Nov 2026 18:48:23 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Google&apos;s Gemini update extending chat retention will roll out globally over the coming weeks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
