@@ -5,7 +5,7 @@
     <link>https://kevin-cantwell.github.io/ai-digest/</link>
     <description>Curated AI news, updated hourly</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Nov 2026 23:44:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 06:57:44 +0000</lastBuildDate>
     <atom:link href="https://kevin-cantwell.github.io/ai-digest/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>GPT-6 models demonstrate intrinsic protein-design capabilities</title>
@@ -13,7 +13,7 @@
       <guid isPermaLink="true">https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/</guid>
       <pubDate>Tue, 24 Nov 2026 21:02:22 +0000</pubDate>
       <category>Major Releases &amp; Announcements</category>
-      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 94/100<br/><b>Source:</b> Hacker News<br/><br/>GPT-6 models demonstrate new protein-design capabilities, representing a significant advance in AI applications to biological research.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 94/100<br/><b>Source:</b> Hacker News<br/><br/>GPT-6 models demonstrate new capabilities in protein design, expanding applications in computational biology.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes</title>
@@ -21,7 +21,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/</guid>
       <pubDate>Mon, 23 Nov 2026 22:05:50 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 86/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic launches Claude Ship, an AI agent product for automated code review and approval in development workflows.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 86/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Anthropic releases Claude Ship, an AI agent system for automated code review and modification.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>OpenAI reveals they solved VP ≠ VNP before Anthropic</title>
@@ -29,7 +29,7 @@
       <guid isPermaLink="true">https://github.com/openai/math/tree/main/preprints/VP-and-VNP-are-different-November-23-2026</guid>
       <pubDate>Tue, 24 Nov 2026 18:55:12 +0000</pubDate>
       <category>Tools &amp; Open Source</category>
-      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 84/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI reports solving the VP ≠ VNP complexity theory problem, a major theoretical computer science breakthrough.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 84/100<br/><b>Source:</b> Hacker News<br/><br/>OpenAI reports solving a major open problem in computational complexity theory (VP ≠ VNP).<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Finding faster quantum algorithms with agents and formal verification</title>
@@ -37,15 +37,15 @@
       <guid isPermaLink="true">https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/</guid>
       <pubDate>Mon, 23 Nov 2026 16:59:40 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 84/100<br/><b>Source:</b> Google DeepMind<br/><br/>DeepMind demonstrates AI agents discovering faster quantum algorithms using formal verification techniques.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 84/100<br/><b>Source:</b> Google DeepMind<br/><br/>DeepMind demonstrates using AI agents with formal verification to discover faster quantum algorithms.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>A training engine for your local model, using your idle compute</title>
-      <link>https://github.com/sous-labs/songe</link>
-      <guid isPermaLink="true">https://github.com/sous-labs/songe</guid>
-      <pubDate>Tue, 24 Nov 2026 15:03:40 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Open-source training engine enables distributed model fine-tuning using idle compute resources.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <title>Models Can Communicate via Inference Servers Despite Being Sandboxed</title>
+      <link>https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being</link>
+      <guid isPermaLink="true">https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being</guid>
+      <pubDate>Wed, 25 Nov 2026 02:34:21 +0000</pubDate>
+      <category>Developer Tools &amp; Agentic AI</category>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Hacker News<br/><br/>Research on sandboxed model communication via inference servers reveals a potential security vulnerability in AI deployment.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Amazon says hackers&apos; AI agents found and exploited 0-day with little human input</title>
@@ -53,7 +53,7 @@
       <guid isPermaLink="true">https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/</guid>
       <pubDate>Tue, 24 Nov 2026 12:30:05 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Ars Technica<br/><br/>Amazon reports discovery of AI agents being used by hackers to find and exploit zero-day vulnerabilities with minimal human intervention.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 82/100<br/><b>Source:</b> Ars Technica<br/><br/>Amazon reports AI agents successfully identified and exploited a zero-day vulnerability with minimal human involvement.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Compiling web applications into verified operations for AI agents</title>
@@ -64,12 +64,20 @@
       <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>Research on compiling web applications into verified operations for AI agent execution.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
+      <title>A training engine for your local model, using your idle compute</title>
+      <link>https://github.com/sous-labs/songe</link>
+      <guid isPermaLink="true">https://github.com/sous-labs/songe</guid>
+      <pubDate>Tue, 24 Nov 2026 15:03:40 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 76/100<br/><b>Source:</b> Hacker News<br/><br/>New tool enables distributed training of local models using idle compute resources.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
       <title>OpenAI and Cisco introduce Shirudo</title>
       <link>https://openai.com/index/introducing-shirudo</link>
       <guid isPermaLink="true">https://openai.com/index/introducing-shirudo</guid>
       <pubDate>Mon, 23 Nov 2026 21:20:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI and Cisco introduce Shirudo, a new AI security or infrastructure product.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 72/100<br/><b>Source:</b> OpenAI Blog<br/><br/>OpenAI and Cisco introduce Shirudo, a new AI system (product details unclear from title).<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>GLM-5.4: Toward Generalized Coding with Our First Loop Transformer</title>
@@ -77,15 +85,7 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Nov/23/glm-54/</guid>
       <pubDate>Mon, 23 Nov 2026 23:40:49 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> Simon Willison<br/><br/>GLM-5.4 model introduction featuring loop transformer architecture for coding tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>[AINews] Jensen Is Back! and OpenAI Shows Its Pretraining Curve, joined by Microsoft</title>
-      <link>https://latent.space/p/ainews-jensen-is-back-and-openai-shows-its-pretraining-curve-joined-by-microsoft/</link>
-      <guid isPermaLink="true">https://latent.space/p/ainews-jensen-is-back-and-openai-shows-its-pretraining-curve-joined-by-microsoft/</guid>
-      <pubDate>Tue, 24 Nov 2026 04:14:16 +0000</pubDate>
-      <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 68/100<br/><b>Source:</b> Latent Space<br/><br/>Latent Space newsletter covering OpenAI&apos;s pretraining insights and industry developments with Microsoft involvement.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 68/100<br/><b>Source:</b> Simon Willison<br/><br/>GLM-5.4 model introduces loop transformer architecture for improved coding capabilities.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Searching for distant planets with Astra</title>
@@ -93,31 +93,7 @@
       <guid isPermaLink="true">https://openai.com/index/searching-for-distant-planets-with-astra</guid>
       <pubDate>Tue, 24 Nov 2026 11:00:00 +0000</pubDate>
       <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Application of OpenAI&apos;s Astra model to distant planet discovery; limited technical detail provided.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>How iFood scales coding agents across 15,000 repositories</title>
-      <link>https://openai.com/business/customer-stories/ifood</link>
-      <guid isPermaLink="true">https://openai.com/business/customer-stories/ifood</guid>
-      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Customer story about iFood scaling coding agents; primarily promotional content.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Working with AI</title>
-      <link>https://www.anthropic.com/research/working-with-ai</link>
-      <guid isPermaLink="true">https://www.anthropic.com/research/working-with-ai</guid>
-      <pubDate>Tue, 24 Nov 2026 21:07:38 +0000</pubDate>
-      <category>Industry News</category>
-      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 64/100<br/><b>Source:</b> Hacker News<br/><br/>Anthropic research paper on best practices and techniques for human-AI collaboration and interaction.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
-    </item>
-    <item>
-      <title>Clay helps sales teams win with Codex and ChatGPT</title>
-      <link>https://openai.com/business/customer-stories/clay-plugins-openai</link>
-      <guid isPermaLink="true">https://openai.com/business/customer-stories/clay-plugins-openai</guid>
-      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-      <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Sales platform Clay integrates OpenAI models as a customer use-case; primarily self-promotional.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 66/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Application of OpenAI&apos;s Astra system to astronomical discovery of distant planets.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>Even the best AI agents struggle with everyday life</title>
@@ -125,7 +101,7 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/</guid>
       <pubDate>Tue, 24 Nov 2026 21:33:29 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Analysis of limitations in current AI agents&apos; ability to handle real-world everyday tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 64/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Analysis of limitations in current AI agents when handling complex real-world tasks.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
       <title>datasette-agent 0.7a1</title>
@@ -133,15 +109,55 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Nov/24/datasette-agent/</guid>
       <pubDate>Tue, 24 Nov 2026 03:45:57 +0000</pubDate>
       <category>Research &amp; Papers</category>
-      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> Simon Willison<br/><br/>Release of datasette-agent tool enabling AI agents to query and analyze datasets.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> Simon Willison<br/><br/>Release of datasette-agent tool for AI-powered database interaction.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
     <item>
-      <title>Walmart teams up with Meta to bring Black Friday deals to AI agent Muse</title>
-      <link>https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/</guid>
-      <pubDate>Tue, 24 Nov 2026 21:32:38 +0000</pubDate>
+      <title>[AINews] Jensen Is Back! and OpenAI Shows Its Pretraining Curve, joined by Microsoft</title>
+      <link>https://latent.space/p/ainews-jensen-is-back-and-openai-shows-its-pretraining-curve-joined-by-microsoft/</link>
+      <guid isPermaLink="true">https://latent.space/p/ainews-jensen-is-back-and-openai-shows-its-pretraining-curve-joined-by-microsoft/</guid>
+      <pubDate>Tue, 24 Nov 2026 04:14:16 +0000</pubDate>
+      <category>Research &amp; Papers</category>
+      <description><![CDATA[<b>Category:</b> Research &amp; Papers<br/><b>Score:</b> 62/100<br/><b>Source:</b> Latent Space<br/><br/>News digest covering OpenAI pretraining curve revelations and industry updates.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>[AINews] Gemini 4 Neon marks GDM&apos;s full return as a Frontier Lab</title>
+      <link>https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab/</link>
+      <guid isPermaLink="true">https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab/</guid>
+      <pubDate>Wed, 25 Nov 2026 04:29:07 +0000</pubDate>
+      <category>Major Releases &amp; Announcements</category>
+      <description><![CDATA[<b>Category:</b> Major Releases &amp; Announcements<br/><b>Score:</b> 60/100<br/><b>Source:</b> Latent Space<br/><br/>November 24, 2026 — Neon beats Astra and Fable on LiveBench and cuts Theo’s TS Rust benchmark runtime by 48.6%.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Tidal bans AI-generated music</title>
+      <link>https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/</link>
+      <guid isPermaLink="true">https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/</guid>
+      <pubDate>Tue, 24 Nov 2026 16:12:38 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 52/100<br/><b>Source:</b> Hacker News<br/><br/>Music streaming service policy banning AI-generated music.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Clay helps sales teams win with Codex and ChatGPT</title>
+      <link>https://openai.com/business/customer-stories/clay-plugins-openai</link>
+      <guid isPermaLink="true">https://openai.com/business/customer-stories/clay-plugins-openai</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
       <category>Developer Tools &amp; Agentic AI</category>
-      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 58/100<br/><b>Source:</b> TechCrunch AI<br/><br/>Retail partnership between Walmart and Meta to integrate AI agent Muse with Black Friday promotions; primarily business news.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+      <description><![CDATA[<b>Category:</b> Developer Tools &amp; Agentic AI<br/><b>Score:</b> 52/100<br/><b>Source:</b> OpenAI Blog<br/><br/>Customer story about sales team using AI tools, primarily marketing content.<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Show HN: Old Nvidia and ATI tech demos, running again in the browser</title>
+      <link>https://gpu-demo-gallery.pages.dev/</link>
+      <guid isPermaLink="true">https://gpu-demo-gallery.pages.dev/</guid>
+      <pubDate>Wed, 25 Nov 2026 04:31:48 +0000</pubDate>
+      <category>Tools &amp; Open Source</category>
+      <description><![CDATA[<b>Category:</b> Tools &amp; Open Source<br/><b>Score:</b> 50/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
+    </item>
+    <item>
+      <title>Anthropic CEO Dario Amodei and Sister Daniela Sold $561M in Stock During IPO</title>
+      <link>https://www.forbes.com/sites/siladityaray/2026/11/24/anthropic-ceo-dario-amodei-sold-280-million-in-shares-as-part-of-record-ipo/</link>
+      <guid isPermaLink="true">https://www.forbes.com/sites/siladityaray/2026/11/24/anthropic-ceo-dario-amodei-sold-280-million-in-shares-as-part-of-record-ipo/</guid>
+      <pubDate>Tue, 24 Nov 2026 22:27:19 +0000</pubDate>
+      <category>Industry News</category>
+      <description><![CDATA[<b>Category:</b> Industry News<br/><b>Score:</b> 50/100<br/><b>Source:</b> Hacker News<br/><br/>View full digest → https://kevin-cantwell.github.io/ai-digest/]]></description>
     </item>
   </channel>
 </rss>
